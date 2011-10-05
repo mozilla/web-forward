@@ -4,7 +4,7 @@
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <title>WebFWD — Projects</title>
 
-          <link rel="stylesheet" media="screen,projection,tv" href="css/apply_css-min.css" />
+          <link rel="stylesheet" media="screen,projection,tv" href="css/apply.css" />
       
       <!--[if IE]>
           <style type="text/css">
@@ -131,7 +131,7 @@
           document.createElement("nav");  
       </script>
 
-      <script src="js/apply_js-min.js"></script>
+      <script src="js/apply.js"></script>
       
       <a title="Real Time Web Analytics" href="http://getclicky.com/66455093"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
       <script type="text/javascript">

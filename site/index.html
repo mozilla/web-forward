@@ -4,7 +4,7 @@
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <title>WebFWD by Mozilla</title>
 
-    <link rel="stylesheet" media="screen,projection,tv" href="css/apply_css-min.css" />
+    <link rel="stylesheet" media="screen,projection,tv" href="css/apply.css" />
     
     <!--[if IE]>
         <style type="text/css">
@@ -269,7 +269,7 @@
             <p class="serif"><span class="yellow">WebFWD</span> is open to anyone with the building blocks of a great product: hackers, builders and entrepreneurs with bold ideas for a better Web.</p>
           </div>
           <div class="c2">
-            <p class="serif">If you and your buddies think you have what it takes to build an amazing Web app, Mobile or Social product, <a href="en-US/apply">apply now</a>!</p>
+            <p class="serif">If you and your buddies think you have what it takes to build an amazing Web app, Mobile or Social product, <a href="apply">apply now</a>!</p>
           </div>
         </div>
       </section>
@@ -383,8 +383,14 @@
       document.createElement("nav");  
     </script>
 
-    <script src="js/apply_js-min.js"></script>
-    
+    <!-- We need to minify and combine this for production -->
+    <script src="js/libs/jquery-1.6.1.min.js"></script>
+    <script src="js/libs/jquery.scrollTo-1.4.2.min.js"></script>
+    <script src="js/libs/jquery.easing.min.js"></script>
+    <script src="js/libs/jquery.fancybox.min.js"></script>
+    <script src="js/libs/webtrends.js"></script>
+    <script src="js/main.js"></script>
+
     <a title="Real Time Web Analytics" href="http://getclicky.com/66455093"><img alt="Real Time Web Analytics" src="//static.getclicky.com/links/badge.gif" border="0" /></a>
     <script type="text/javascript">
       var clicky_site_ids = clicky_site_ids || [];
