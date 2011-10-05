@@ -35,7 +35,7 @@ function updateBuzz() {
         return msg;
     }
 
-    $.get('/media/latest.json', function(feed) {
+    $.get('latest.json', function(feed) {
         function createEntry(obj) {
             var n = $("<li>"), c = n;
             if (obj.who) {
