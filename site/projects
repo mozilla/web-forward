@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html LANG="en-US" dir="ltr">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <title>WebFWD — Projects</title>
+
+          <link rel="stylesheet" media="screen,projection,tv" href="css/apply_css-min.css" />
+      
+      <!--[if IE]>
+          <style type="text/css">
+              body #what #essentials {
+                  top: 0px;
+              }
+          </style>
+      <![endif]-->
+    
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+  </head>
+  <body id="page-projects" class="no-js white">
+    <div id="grid"></div>
+
+    <div id="wrapper">
+      <div id="essentials" class="row">
+          <div class="c5"></div>
+          <div class="c1"><a href="http://mozilla.com"><img class="tab" src="img/tab.png"></a></div>
+      </div>
+
+      <nav id="primaryNav" class="cf">
+    <div class="c2">
+        <a href="/"><img src="img/fwd_logo.png" title="WebFWD" alt="WebFWD"></a>
+    </div>
+    <ul class="c4">
+        <li><a href="/#what" class="what">What</a></li>
+        <li><a href="/#how" class="how">How</a></li>
+        <li><a href="/#who" class="who">Who</a></li>
+        <li><a href="/#when" class="when">When</a></li>
+        <li><a href="/#why" class="why">Why</a></li>
+        <li><a href="/#buzz" class="buzz">Buzz</a></li>
+        <li>|</li>
+        <li><a class="Blog" href="http://blog.webfwd.org/">Blog</a></li>
+        <li><a class="FAQ" href="faq">FAQ</a></li>
+        <li><a class="mentors" href="mentorship">Mentors</a></li>
+        <li class="selected">Projects</li>
+        <li><a class="apply" href="apply">Apply</a></li>
+    </ul>
+</nav>  
+
+<section id="aboutMentorship" class="cf">
+    <div class="c1"></div>
+    <div class="c4">
+        <h1 class="light">WebFWD Projects</h1>
+        <p class="serif">The projects below are all part of WebFWD. Some of them are part of our Fellow program, some are Bootcampers and some are Friends of WebFWD. Together they are the reason why we created WebFWD. Each of them represents a great idea, amazing execution and an awesome team. Check the out. And <a href="apply">apply</a> if you want to be part of WebFWD.</p>
+    </div>
+</section>
+
+<hr>
+
+<section id="family" class="cf">
+    <div class="c6">
+        <h2>Fellows</h2>
+    </div>
+    <div class="c3">
+        <img src="img/project_cashmusic.png" alt="CASH Music">
+        <p class="serif"><strong class="sans">The Project:</strong> CASH Music</p>
+        <p class="serif"><strong class="sans">The Idea:</strong> CASH Music is a nonprofit organization focussed on artist sustainability through education and open technology. We’ve worked directly with artists and independent labels to build a free and open platform that can be downloaded and used to promote, distribute, and sell music.</p> 
+        <p class="serif"><strong class="sans">The Team:</strong> <a href="http://twitter.com/jessevondoom" target="_blank">Jesse von Doom</a>, <a href="http://twitter.com/magicbeans" target="_blank">Maggie Vail</a> and <a href="http://twitter.com/dukeleto" target="_blank">Jonathan “Duke” Leto</a></p> 
+        <p class="serif"><a href="http://cashmusic.org/" target="_blank">Learn more at CASHMusic.org</a></p> 
+    </div>
+    <div class="c3">
+        <img src="img/project_openphoto.png" alt="OpenPhoto">
+        <p class="serif"><strong class="sans">The Project:</strong> OpenPhoto</p>
+        <p class="serif"><strong class="sans">The Idea:</strong> OpenPhoto is an Open Source photo sharing platform which gives users complete ownership and portability of their photos. Users’ photos, tags and comments are seamlessly stored into personally owned cloud services owned by themselves. Whatever they want to do or wherever they want to go their photos are free to go with them.</p> 
+        <p class="serif"><strong class="sans">The Team:</strong> <a href="http://www.jaisenmathai.com" target="_blank">Jaisen Mathai</a>, Patrick Santana, Patrick Boos, Florian Menevis, Preet Jassi, Klaus Komenda, Kitt Hodsden, Peter Sankauskas, John Fabrizio and Gareth Greenaway</p> 
+        <p class="serif"><a href="http://theopenphotoproject.org/" target="_blank">Learn more at TheOpenPhotoProject.com</a></p> 
+    </div>
+</section>
+
+<hr>
+
+<section id="family" class="cf">
+    <div class="c6">
+        <h2>Friends of WebFWD</h2>
+    </div>
+    <div class="c3">
+        <img src="img/project_bubbls.png" alt="Bubbls">
+        <p class="serif"><strong class="sans">The Project:</strong> Bubbls</p>
+        <p class="serif"><strong class="sans">The Idea:</strong> Bubbls is a social platform that helps young adults plan events and hangouts. We’re a website and mobile app.</p> 
+        <p class="serif"><strong class="sans">The Team:</strong> <a href="https://twitter.com/#!/james_maa" target="_blank">James Maa</a>, Matthew Miller and Matt Plant</p>
+        <p class="serif"><a href="http://www.bubblapp.com/" target="_blank">Learn more at Bubbls.com</a></p> 
+    </div>
+    <div class="c3">
+        <img src="img/project_codulous.png" alt="Codulous">
+        <p class="serif"><strong class="sans">The Project:</strong> Codulous</p>
+        <p class="serif"><strong class="sans">The Idea:</strong> Codulous is an online code editor that makes it really easy to code on the go.</p> 
+        <p class="serif"><strong class="sans">The Team:</strong> Raphie Palefsky-Smith, Andrew Amis, Kai Tamkun and Marc Laugharn</p> 
+        <p class="serif"><a href="http://codulo.us/" target="_blank">Learn more at Codulo.us</a></p> 
+    </div>
+    
+    <div style="clear:both;"></div>
+
+    <div class="c3">
+        <img src="img/project_myschoolhelp.png" alt="MySchoolHelp">
+        <p class="serif"><strong class="sans">The Project:</strong> MySchoolHelp</p>
+        <p class="serif"><strong class="sans">The Idea:</strong> MySchoolHelp is a place where high school students can find and share notes from their school.</p> 
+        <p class="serif"><strong class="sans">The Team:</strong> <a href="http://benjaminlang.com/" target="_blank">Ben Lang</a>, <a href="http://rantingoutloud.com/" target="_blank">Jake Essman</a>, <a href="http://www.youtube.com/italkapple" target="_blank">Amanda Aizuss</a> and <a href="https://twitter.com/#!/donnelnl" target="_blank">Nick Donelly</a></p> 
+        <p class="serif"><a href="http://www.myschoolhelp.com/" target="_blank">Learn more at MySchoolHelp.com</a></p> 
+    </div>
+</section>
+
+      <footer class="cf">
+          <div class="c2">
+              &copy; Mozilla 2011 | <a href="http://www.mozilla.com/en-US/privacy-policy.html">Privacy Policy</a> | <a href="http://www.mozilla.com/en-US/about/legal.html">Legal Notices</a>
+          </div>
+          <div class="c4">
+              <ul>
+                  <li><a href="mailto:webfwd@mozilla.com">Contact Us</a></li>
+                  <li><a href="http://twitter.com/mozlabs">Twitter</a></li>
+                  <li><a href="http://www.facebook.com/mozlabs">Facebook</a></li>
+                  <li><a href="http://blog.webfwd.org/">Blog</a></li>
+              </ul>
+          </div>
+      </footer>
+    </div>
+
+          <script>
+          document.createElement("section");
+          document.createElement("article");  
+          document.createElement("footer");  
+          document.createElement("header");  
+          document.createElement("hgroup");  
+          document.createElement("nav");  
+      </script>
+
+      <script src="js/apply_js-min.js"></script>
+      
+      <a title="Real Time Web Analytics" href="http://getclicky.com/66455093"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+      <script type="text/javascript">
+      var clicky_site_ids = clicky_site_ids || [];
+      clicky_site_ids.push(66455590);
+      (function() {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//static.getclicky.com/js';
+        ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+      })();
+      </script>
+      <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66455590ns.gif" /></p></noscript>
+            
+      </body>
+</html>
