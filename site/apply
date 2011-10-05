@@ -14,7 +14,7 @@
           </style>
       <![endif]-->
     
-    <link rel="icon" type="image/x-icon" href="/media/favicon.png">
+    <link rel="icon" type="image/x-icon" href="favicon.png">
   </head>
   <body id="page-apply" class="no-js white">
     <div id="grid"></div>
@@ -22,7 +22,7 @@
     <div id="wrapper">
       <div id="essentials" class="row">
           <div class="c5"></div>
-          <div class="c1"><a href="http://mozilla.com"><img class="tab" src="/media/img/tab.png"></a></div>
+          <div class="c1"><a href="http://mozilla.com"><img class="tab" src="img/tab.png"></a></div>
       </div>
 
       <section id="spacer" class="cf">
@@ -31,20 +31,20 @@
 
 <nav id="primaryNav" class="cf">
     <div class="c2">
-        <a href="/en-US/"><img src="/media/img/fwd_logo.png" title="WebFWD" alt="WebFWD"></a>
+        <a href="/"><img src="img/fwd_logo.png" title="WebFWD" alt="WebFWD"></a>
     </div>
     <ul class="c4">
-        <li><a href="/en-US/#what" class="what">What</a></li>
-        <li><a href="/en-US/#how" class="how">How</a></li>
-        <li><a href="/en-US/#who" class="who">Who</a></li>
-        <li><a href="/en-US/#when" class="when">When</a></li>
-        <li><a href="/en-US/#why" class="why">Why</a></li>
-        <li><a href="/en-US/#buzz" class="buzz">Buzz</a></li>
+        <li><a href="/#what" class="what">What</a></li>
+        <li><a href="/#how" class="how">How</a></li>
+        <li><a href="/#who" class="who">Who</a></li>
+        <li><a href="/#when" class="when">When</a></li>
+        <li><a href="/#why" class="why">Why</a></li>
+        <li><a href="/#buzz" class="buzz">Buzz</a></li>
         <li>|</li>
         <li><a class="Blog" href="http://blog.webfwd.org/">Blog</a></li>
-        <li><a class="FAQ" href="/en-US/faq">FAQ</a></li>
-        <li><a class="mentors" href="/en-US/mentorship">Mentors</a></li>
-        <li><a class="Projects" href="/en-US/projects">Projects</a></li>
+        <li><a class="FAQ" href="/faq">FAQ</a></li>
+        <li><a class="mentors" href="/mentorship">Mentors</a></li>
+        <li><a class="Projects" href="/projects">Projects</a></li>
         <li><a class="apply selected">Apply</a></li>
     </ul>
 </nav>  
