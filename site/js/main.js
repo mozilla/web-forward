@@ -159,5 +159,4 @@ $(document).ready(function($) {
     // to give you that realtime feel, hence stored in a separate dynamically
     // updated json file.
     updateBuzz();
-
 });
