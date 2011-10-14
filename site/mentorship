@@ -58,7 +58,7 @@
       <ul class="cf">
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_eallen.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_eallen.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Enrique Allen</span>
             <span class="title serif">Founder, The Designer Fund</span>
@@ -67,7 +67,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_dalmaer.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_dalmaer.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Dion Almaer</span>
             <span class="title serif">VP Mobile Architecture, Walmart.com</span>
@@ -76,7 +76,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_mbaker.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_mbaker.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Mitchell Baker</span>
             <span class="title serif">Chairwoman, Mozilla Foundation</span>
@@ -85,7 +85,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_cbrodigan.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_cbrodigan.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Chrissie Brodigan</span>
             <span class="title serif">Website Lead, Mozilla</span>
@@ -94,7 +94,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_gcamp.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_gcamp.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Garrett Camp</span>
             <span class="title serif">Founder &amp; CEO, StumbleUpon</span>
@@ -103,7 +103,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_tcelik.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_tcelik.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Tantek &Ccedil;elik</span>
             <span class="title serif">Open Web standards advocate &amp; innovator</span>
@@ -112,7 +112,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_scharania.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_scharania.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Shaherose Charania</span>
             <span class="title serif">CEO/Co-Founder, Women 2.0 &amp; Founder Labs</span>
@@ -121,7 +121,7 @@
         </li>
         
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_mcolvig.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_mcolvig.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Mary J. Colvig</span>
             <span class="title serif">Director of Contributor Engagement, Mozilla</span>
@@ -130,7 +130,7 @@
         </li>      
         
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_mdemiroz.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_mdemiroz.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Marco DeMiroz</span>
             <span class="title serif">Venture Investor</span>
@@ -139,7 +139,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_kdoherty.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_kdoherty.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Kyle Doherty</span>
             <span class="title serif">Senior Associate, Morgenthaler Ventures</span>
@@ -148,7 +148,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_jengel.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_jengel.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Jerome S. Engel</span>
             <span class="title serif">Adjunct Professor, UC Berkeley Haas School of Business<br>General Partner, Monitor Venture Partners</span>
@@ -157,7 +157,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_beich.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_beich.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Brendan Eich</span>
             <span class="title serif">CTO, Mozilla</span>
@@ -166,7 +166,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_jfinette.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_jfinette.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Jane Finette</span>
             <span class="title serif">Director of User Engagement, Mozilla Firefox</span>
@@ -175,7 +175,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_pfinette.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_pfinette.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Pascal Finette</span>
             <span class="title serif">Director Mozilla WebFWD</span>
@@ -184,7 +184,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_afowler.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_afowler.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Alex Fowler</span>
             <span class="title serif">Global Privacy & Policy Leader, Mozilla</span>
@@ -193,7 +193,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_kfox.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_kfox.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Kevin Fox</span>
             <span class="title serif">Protagonist, Fury.com</span>
@@ -202,7 +202,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_bgalbraith.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_bgalbraith.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Ben Galbraith</span>
             <span class="title serif">VP Mobile Engineering, Walmart.com</span>
@@ -211,7 +211,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_mgoines.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_mgoines.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Mark Goines</span>
             <span class="title serif">Partner, Morgenthaler Ventures</span>
@@ -220,7 +220,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_mhanson.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_mhanson.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Mike Hanson</span>
             <span class="title serif">Principal Engineer, Mozilla Labs</span>
@@ -229,7 +229,7 @@
         </li>
         
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_cheilmann.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_cheilmann.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Chris Heilmann</span>
             <span class="title serif">Principal Developer Evangelist, Mozilla</span>
@@ -238,7 +238,7 @@
         </li>
         
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_ehorowitz.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_ehorowitz.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Eliot Horowitz</span>
             <span class="title serif">Chief Technology Officer, 10gen</span>
@@ -247,7 +247,7 @@
         </li>
         
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_aisaacs.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_aisaacs.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Andrew M. Isaacs</span>
             <span class="title serif">Director of New Management of Technology Programs, UC Berkeley</span>
@@ -256,7 +256,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_ejohnson.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_ejohnson.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Eric Johnson</span>
             <span class="title serif">VP Sales &amp; Business Development, Braintree Payments</span>
@@ -265,7 +265,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_bkeighran.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_bkeighran.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Ben Keighran</span>
             <span class="title serif">Internet Entrepreneur, CEO &amp; Co-Founder of Chomp</span>
@@ -274,7 +274,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_gkovacs.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_gkovacs.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Gary Kovacs</span>
             <span class="title serif">CEO, Mozilla Corporation</span>
@@ -283,7 +283,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_bleroux.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_bleroux.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Brian LeRoux</span>
             <span class="title serif">SPACELORD!!!1!, Nitobi Software</span>
@@ -292,7 +292,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_jlilly.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_jlilly.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">John Lilly</span>
             <span class="title serif">Partner, Greylock Partners</span>
@@ -301,7 +301,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_dloviglio.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_dloviglio.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Diane Loviglio</span>
             <span class="title serif">User Experience Researcher, Mozilla</span>
@@ -310,7 +310,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_amaurya.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_amaurya.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Ash Maurya</span>
             <span class="title serif">Founder, USERcycle</span>
@@ -319,7 +319,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_mmatsuno.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_mmatsuno.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Mayumi Matsuno</span>
             <span class="title serif">Director of Product Marketing, Mozilla Firefox</span>
@@ -328,7 +328,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_zmilewski.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_zmilewski.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Zandr Milewski</span>
             <span class="title serif">Special Ops, Mozilla Corporation</span>
@@ -337,7 +337,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_pmorle.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_pmorle.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Phil Morle</span>
             <span class="title serif">Founder &amp; Lean Startup CTO, Pollenizer</span>
@@ -346,7 +346,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_nnguyen.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_nnguyen.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Nick Nguyen</span>
             <span class="title serif">Co-founder &amp; VP Product, Tasty Labs</span>
@@ -355,7 +355,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_inovick.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_inovick.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Itamar Novick</span>
             <span class="title serif">Associate, Morgenthaler Ventures</span>
@@ -364,7 +364,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_bpettis.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_bpettis.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Bre Pettis</span>
             <span class="title serif">Founder, MakerBot</span>
@@ -373,7 +373,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_araskin.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_araskin.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Aza Raskin</span>
             <span class="title serif">Founder, Massive Health</span>
@@ -382,7 +382,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_jresig.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_jresig.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">John Resig</span>
             <span class="title serif">Dean of Open Source, Khan Academy</span>
@@ -391,7 +391,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_osalazar.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_osalazar.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Oscar Salazar</span>
             <span class="title serif">Product design, Peel Inc</span>
@@ -400,7 +400,7 @@
         </li>      
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_mschireson.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_mschireson.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Max Schireson</span>
             <span class="title serif">President, 10gen</span>
@@ -409,7 +409,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_mshapiro.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_mshapiro.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Melissa Shapiro</span>
             <span class="title serif">Director of Public Relations, Mozilla</span>
@@ -417,7 +417,7 @@
           </div>
         </li>
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_rsrinivasan.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_rsrinivasan.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Ragavan Srinivasan</span>
             <span class="title serif">Product Manager - Apps, Mozilla</span>
@@ -426,7 +426,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_jzhang.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_jzhang.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Jinghua Zhang</span>
             <span class="title serif">Lead of User Experience Research, Mozilla</span>
@@ -435,7 +435,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="/media/img/headshot_azurek.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_azurek.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Andrea Zurek</span>
             <span class="title serif">Founding Partner, XG Ventures</span>
@@ -540,7 +540,7 @@
     document.createElement("nav");  
   </script>
 
-  <a title="Real Time Web Analytics" href="http://getclicky.com/66455093"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+  <a title="Real Time Web Analytics" href="http://getclicky.com/66455093"><img alt="Real Time Web Analytics" src="//static.getclicky.comlinks/badge.gif" border="0" /></a>
   <script type="text/javascript">
   var clicky_site_ids = clicky_site_ids || [];
   clicky_site_ids.push(66455590);
