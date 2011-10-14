@@ -1,35 +1,31 @@
 <!DOCTYPE html>
 <html LANG="en-US" dir="ltr">
-  <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-    <title>WebFWD — Mentors</title>
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  <title>WebFWD — Mentors</title>
+  <link rel="stylesheet" media="screen,projection,tv" href="css/apply.css" />
+  <link rel="icon" type="image/x-icon" href="favicon.png">
+  <!--[if IE]>
+  <style type="text/css">
+  body #what #essentials {top: 0px;}
+  </style>
+  <![endif]-->
+</head>
 
-          <link rel="stylesheet" media="screen,projection,tv" href="css/apply.css" />
-      
-      <!--[if IE]>
-          <style type="text/css">
-              body #what #essentials {
-                  top: 0px;
-              }
-          </style>
-      <![endif]-->
-    
-    <link rel="icon" type="image/x-icon" href="favicon.png">
-  </head>
-  <body id="page-mentorship" class="no-js white">
-    <div id="grid"></div>
+<body id="page-mentorship" class="no-js white">
+  <div id="grid"></div>
 
-    <div id="wrapper">
-      <div id="essentials" class="row">
-          <div class="c5"></div>
-          <div class="c1"><a href="http://mozilla.com"><img class="tab" src="img/tab.png"></a></div>
-      </div>
-
-      <nav id="primaryNav" class="cf">
-    <div class="c2">
-        <a href="/"><img src="img/fwd_logo.png" title="WebFWD" alt="WebFWD"></a>
+  <div id="wrapper">
+    <div id="essentials" class="row">
+      <div class="c5"></div>
+      <div class="c1"><a href="http://mozilla.com"><img class="tab" src="img/tab.png"></a></div>
     </div>
-    <ul class="c4">
+
+    <nav id="primaryNav" class="cf">
+      <div class="c2">
+        <a href="/"><img src="img/fwd_logo.png" title="WebFWD" alt="WebFWD"></a>
+      </div>
+      <ul class="c4">
         <li><a href="/#what" class="what">What</a></li>
         <li><a href="/#how" class="how">How</a></li>
         <li><a href="/#who" class="who">Who</a></li>
@@ -42,472 +38,521 @@
         <li class="selected">Mentors</li>
         <li><a class="Projects" href="projects">Projects</a></li>
         <li><a class="apply" href="apply">Apply</a></li>
-    </ul>
-</nav>  
+      </ul>
+    </nav>  
 
-<section id="aboutMentorship" class="cf">
-    <div class="c1"></div>
-    <div class="c4">
+    <section id="aboutMentorship" class="cf">
+      <div class="c1"></div>
+      <div class="c4">
         <h1 class="light">WebFWD Mentors</h1>
         <p class="serif">We've carefully chosen an <em>awesome</em> and <em>diverse</em> panel of mentors to provide practical advice as you turn your ideas into products that will push the Web forward. These are some of the most brilliant minds on the Web today, and they're here for you. Teams will spend time with mentors each week during WebFWD. We will continue to add mentors throughout the program, so check back often for new additions.</p>
-    </div>
-</section>
+      </div>
+    </section>
 
-<hr>
+    <hr>
 
-<section id="mentors" class="cf">
-    <div class="c6">
+    <section id="mentors" class="cf">
+      <div class="c6">
         <h2>Mentors</h2>
-    </div>
-    <ul class="cf">
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_eallen.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Enrique Allen</span>
-              <span class="title serif">Founder, The Designer Fund</span>
-              <p class="aboutMentor">Enrique’s mission is to inspire startups to empathize & solve latent needs. Before being the founding designer at 500 Startups, he did UX design for Facebook's fbFund & Venrock. He continues to teach with the Stanford d.school & Persuasive Tech Lab.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_dalmaer.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Dion Almaer</span>
-              <span class="title serif">VP Mobile Architecture, Walmart.com</span>
-              <p class="aboutMentor">Dion is a technologist that loves to code, and enjoys wearing multiple hats. He loves community (FunctionSource.com, Ajaxian.com, TheServerSide.com), and building products (at Set Direction, Palm, Mozilla, Google, and beyond).</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_mbaker.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Mitchell Baker</span>
-              <span class="title serif">Chairwoman, Mozilla Foundation</span>
-              <p class="aboutMentor">Mitchell is responsible for setting the direction and scope of the Mozilla Foundation and its activities. She leads a worldwide organization of employees and volunteers committed to an open, innovative Web and the infinite possibilities it presents.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_cbrodigan.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Chrissie Brodigan</span>
-              <span class="title serif">Website Lead, Mozilla</span>
-              <p class="aboutMentor">Chrissie is a user advocate and catalyst for testing ideas out on websites. She has helped several startup projects seal up experience leaks and abandonment by designing unique onboarding flows.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_gcamp.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Garrett Camp</span>
-              <span class="title serif">Founder &amp; CEO, StumbleUpon</span>
-              <p class="aboutMentor">Garrett has guided StumbleUpon's development since 2001, from inception to more than 15 million registered users. StumbleUpon is now the largest personalized content discovery engine on the web.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_tcelik.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Tantek &Ccedil;elik</span>
-              <span class="title serif">Open Web standards advocate &amp; innovator</span>
-              <p class="aboutMentor">Dedicated to advancing open standards and simpler data formats for the Web, Tantek Çelik is a computer scientist for Microformats.org and works with numerous clients, such as Mozilla and Revision3, on web standards leadership and HTML5 upgrades.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_scharania.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Shaherose Charania</span>
-              <span class="title serif">CEO/Co-Founder, Women 2.0 &amp; Founder Labs</span>
-              <p class="aboutMentor">Mobile startup junkie, love building things from scratch.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_mcolvig.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Mary J. Colvig</span>
-              <span class="title serif">Director of Contributor Engagement, Mozilla</span>
-              <p class="aboutMentor">Mary specializes in community instigation and setting the odd world record. She thrives on fostering and converting users and supporters into champions for the Mozilla project.</p>
-          </div>
-      </li>      
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_mdemiroz.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Marco DeMiroz</span>
-              <span class="title serif">Venture Investor</span>
-              <p class="aboutMentor">Marco loves working with those unique entrepreneurs who want to change the world!</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_kdoherty.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Kyle Doherty</span>
-              <span class="title serif">Senior Associate, Morgenthaler Ventures</span>
-              <p class="aboutMentor">Kyle primarily focuses on investments in the consumer internet sector on the Information Technology team. Previously he was a Research Associate at Morgan Stanley.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_jengel.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Jerome S. Engel</span>
-              <span class="title serif">Adjunct Professor, UC Berkeley Haas School of Business<br>General Partner, Monitor Venture Partners</span>
-              <p class="aboutMentor">UC Berkeley Professor, venture capitalist and successful entrepreneur Jerry is an internationally recognized expert in innovation and entrepreneurship.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_beich.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Brendan Eich</span>
-              <span class="title serif">CTO, Mozilla</span>
-              <p class="aboutMentor">Created JavaScript, co-founded the mozilla.org project, helped launch the award winning Firefox Web browser and Thunderbird e-mail client. He is dedicated to driving innovation in Internet technology.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_jfinette.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Jane Finette</span>
-              <span class="title serif">Director of User Engagement, Mozilla Firefox</span>
-              <p class="aboutMentor">Jane leads global user engagement and acquisition for Mozilla Firefox. Jane held various positions at eBay, Sotheby's and Channel Advisor, crafting her art of marketing over the past 15 years.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_pfinette.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Pascal Finette</span>
-              <span class="title serif">Director Mozilla WebFWD</span>
-              <p class="aboutMentor">Entrepreneur (couple of times), big company dude, consultant to startups, venture capitalist and finally seen the light: Director @Mozilla.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_afowler.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Alex Fowler</span>
-              <span class="title serif">Global Privacy & Policy Leader, Mozilla</span>
-              <p class="aboutMentor">Alex leads strategic and operational initiatives on privacy and information management. He is a dedicated professional focused on consumer rights, privacy by design and data governance.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_kfox.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Kevin Fox</span>
-              <span class="title serif">Protagonist, Fury.com</span>
-              <p class="aboutMentor">Product design activist. Former design lead for Google's Gmail, Calendar, and Reader, FriendFeed, Facebook Games and Yahoo! Messenger.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_bgalbraith.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Ben Galbraith</span>
-              <span class="title serif">VP Mobile Engineering, Walmart.com</span>
-              <p class="aboutMentor">Ben, co-founder of Ajaxian.com, headed Developer Tools at Mozilla. He wrote his first code at the age of six, started his first business at ten, sold three companies, and has held CEO, CIO, and CTO positions in various industries. </p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_mgoines.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Mark Goines</span>
-              <span class="title serif">Partner, Morgenthaler Ventures</span>
-              <p class="aboutMentor">Mark has an extensive track record of working with high growth companies as an entrepreneur, executive and angel investor. Exits from his angel investments include Mint, Baby Center, PayCycle and Nolo.com.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_mhanson.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Mike Hanson</span>
-              <span class="title serif">Principal Engineer, Mozilla Labs</span>
-              <p class="aboutMentor">Mike has been a Silicon Valley entrepreneur and inventor for nearly 20 years, with career stops at Apple, Stanford, Reactivity (as co-founder, acquired by Cisco), and Mozilla Labs.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_cheilmann.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Chris Heilmann</span>
-              <span class="title serif">Principal Developer Evangelist, Mozilla</span>
-              <p class="aboutMentor">As a seasoned web developer with companies like Yahoo, author of several books and a truckload of presentations at conferences he knows not only how to build things but also how to explain them in a simple and interesting manner.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_ehorowitz.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Eliot Horowitz</span>
-              <span class="title serif">Chief Technology Officer, 10gen</span>
-              <p class="aboutMentor">Eliot is CTO of 10gen, the company that sponsors the open source MongoDB project. Eliot is one of the core MongoDB kernel committers. Eliot is also the co-founder and chief scientist of ShopWiki.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_aisaacs.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Andrew M. Isaacs</span>
-              <span class="title serif">Director of New Management of Technology Programs, UC Berkeley</span>
-              <p class="aboutMentor">Andrew is a successful scientist, business executive, entrepreneur, and educator. He is passionate about mentoring the next generation of technology business leaders.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_ejohnson.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Eric Johnson</span>
-              <span class="title serif">VP Sales &amp; Business Development, Braintree Payments</span>
-              <p class="aboutMentor">Eric was one of the first employees of Braintree.  His business development and sales skills formed the basis for the sales process that has helped transform Braintree into one of the top 50 fastest growing businesses in America.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_bkeighran.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Ben Keighran</span>
-              <span class="title serif">Internet Entrepreneur, CEO &amp; Co-Founder of Chomp</span>
-              <p class="aboutMentor">Previously lead advisor for mobile products at Aardvark until acquired by Google. Nominated by BusinessWeek as one of America's Top Entrepreneurs under the age of 25 for his success with Bluepulse.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_gkovacs.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Gary Kovacs</span>
-              <span class="title serif">CEO, Mozilla Corporation</span>
-              <p class="aboutMentor">Gary is leading the overall direction of the organization and the Firefox Web browser. Prior to joining Mozilla, Gary held senior leadership roles at Sybase, Adobe and Macromedia.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_bleroux.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Brian LeRoux</span>
-              <span class="title serif">SPACELORD!!!1!, Nitobi Software</span>
-              <p class="aboutMentor">Brian LeRoux is responsible for the development team at Nitobi Software that now focuses primarily on the PhoneGap project. A web worker most of his life, he has a non-breaking space tattoo and is the creator of wtfjs.com.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_jlilly.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">John Lilly</span>
-              <span class="title serif">Partner, Greylock Partners</span>
-              <p class="aboutMentor">Currently a partner at Greylock Partners that invested in Facebook, LinkedIn and Pandora. Previously CEO of Mozilla, and involved in numerous for-profit and non-profit technology startups.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_dloviglio.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Diane Loviglio</span>
-              <span class="title serif">User Experience Researcher, Mozilla</span>
-              <p class="aboutMentor">Prior to joining Mozilla, she co-created the first conference to focus on tech failures (FailCon) and co-founded a clean tech startup (Wattbot). She has also worked as a freelance researcher for technology and healthcare startups.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_amaurya.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Ash Maurya</span>
-              <span class="title serif">Founder, USERcycle</span>
-              <p class="aboutMentor">Ash is the founder of USERcycle. Since bootstrapping his last company seven years ago, he has launched five products and one peer-to-web application framework. He recently turned his lean startup experience into a book: Running Lean.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_mmatsuno.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Mayumi Matsuno</span>
-              <span class="title serif">Director of Product Marketing, Mozilla Firefox</span>
-              <p class="aboutMentor">Mayumi loves bringing new products to the market. Previously, Mayumi worked at Google for over 5 years on mobile, consumer and advertising products.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_zmilewski.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Zandr Milewski</span>
-              <span class="title serif">Special Ops, Mozilla Corporation</span>
-              <p class="aboutMentor">Raised in a startup environment, specializes in bridging the gap between Innovation and Operations, making sure the Next Thing can scale to be the Next Big Thing.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_pmorle.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Phil Morle</span>
-              <span class="title serif">Founder &amp; Lean Startup CTO, Pollenizer</span>
-              <p class="aboutMentor">I am a practitioner of a lean startup way of working and passionate (addicted?) to starting web businesses. I learned my trade as the CTO of Kazaa for 5 years and I am a founder member of the Data Portability initiative.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_nnguyen.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Nick Nguyen</span>
-              <span class="title serif">Co-founder &amp; VP Product, Tasty Labs</span>
-              <p class="aboutMentor">Nick is currently a co-founder at Tasty Labs. In previous lives, he was a product manager on Yahoo! Answers and del.icio.us, as well as the Director of Add-ons at Mozilla.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_inovick.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Itamar Novick</span>
-              <span class="title serif">Associate, Morgenthaler Ventures</span>
-              <p class="aboutMentor">Itamar focuses on early-stage investments in the mobile and consumer-facing Web space. Previously, Sr. Director of Product Management at Gigya, product development lead in Enelita and co-founder of two start-ups.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_araskin.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Aza Raskin</span>
-              <span class="title serif">Founder, Massive Health</span>
-              <p class="aboutMentor">Called an interface guru by publications like Wired and Fast Company, Aza is the co-founder of Massive Health, and was until recently Creative Lead for Firefox.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_jresig.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">John Resig</span>
-              <span class="title serif">Dean of Open Source, Khan Academy</span>
-              <p class="aboutMentor">Dean of Open Source and the Head of JavaScript Development, Khan Academy. Also the author of the book Pro JavaScript Techniques, the creator and lead developer of the jQuery JavaScript library.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_osalazar.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Oscar Salazar</span>
-              <span class="title serif">Product design, Peel Inc</span>
-              <p class="aboutMentor">Passionate about helping teams turn ideas into products that people love. Previously worked at IDEO and eBay as a lead designer. Besides working at a startup called Peel, Oscar is also a mentor and matchmaker at The Designer Fund.</p>
-          </div>
-      </li>      
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_mschireson.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Max Schireson</span>
-              <span class="title serif">President, 10gen</span>
-              <p class="aboutMentor">As President of 10gen, Max is responsible for building and extending 10gen/MongoDB's market leadership. Prior to joining 10gen, Max spent 7 years at MarkLogic, where he played a variety of executive roles including Chief Operating Officer.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_mshapiro.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Melissa Shapiro</span>
-              <span class="title serif">Director of Public Relations, Mozilla</span>
-              <p class="aboutMentor">Melissa leads a global team of communicators who help Mozilla's stories reach the world. A seasoned PR vet, she cut her teeth during the dot-com boom and went on to build public profiles for a wide range of technology companies.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_rsrinivasan.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Ragavan Srinivasan</span>
-              <span class="title serif">Product Manager - Apps, Mozilla</span>
-              <p class="aboutMentor">Ragavan loves working on early stage products. Previously, he worked at VMware and HP. Ragavan also co-founded Kids on Computers, a non-profit that sets up computer labs in developing countries.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_jzhang.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Jinghua Zhang</span>
-              <span class="title serif">Lead of User Experience Research, Mozilla</span>
-              <p class="aboutMentor">Jinghua is an advocate and catalyst for understanding your users. She has guided several startup projects to align product strategy with user needs. She loves to help solve real (un-articulated) problems for people.</p>
-          </div>
-      </li>
-      <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_azurek.jpg" alt="Headshot"></div>
-          <div class="mentorInfo">
-              <span class="name">Andrea Zurek</span>
-              <span class="title serif">Founding Partner, XG Ventures</span>
-              <p class="aboutMentor">Andrea’s been an active angel investor since 2006. XG Ventures has invested in over 25 companies with over 5 exits, including Tapulous and Aardvark. Andrea worked at Google for over 7 years as one of the first ad sales executives.</p>
-          </div>
-      </li>
-    </ul>
-</section>
+      </div>
+      <ul class="cf">
 
-<hr>
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_eallen.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Enrique Allen</span>
+            <span class="title serif">Founder, The Designer Fund</span>
+            <p class="aboutMentor">Enrique’s mission is to inspire startups to empathize & solve latent needs. Before being the founding designer at 500 Startups, he did UX design for Facebook's fbFund & Venrock. He continues to teach with the Stanford d.school & Persuasive Tech Lab.</p>
+          </div>
+        </li>
 
-<section id="family" class="cf">
-    <div class="c6">
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_dalmaer.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Dion Almaer</span>
+            <span class="title serif">VP Mobile Architecture, Walmart.com</span>
+            <p class="aboutMentor">Dion is a technologist that loves to code, and enjoys wearing multiple hats. He loves community (FunctionSource.com, Ajaxian.com, TheServerSide.com), and building products (at Set Direction, Palm, Mozilla, Google, and beyond).</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_mbaker.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Mitchell Baker</span>
+            <span class="title serif">Chairwoman, Mozilla Foundation</span>
+            <p class="aboutMentor">Mitchell is responsible for setting the direction and scope of the Mozilla Foundation and its activities. She leads a worldwide organization of employees and volunteers committed to an open, innovative Web and the infinite possibilities it presents.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_cbrodigan.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Chrissie Brodigan</span>
+            <span class="title serif">Website Lead, Mozilla</span>
+            <p class="aboutMentor">Chrissie is a user advocate and catalyst for testing ideas out on websites. She has helped several startup projects seal up experience leaks and abandonment by designing unique onboarding flows.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_gcamp.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Garrett Camp</span>
+            <span class="title serif">Founder &amp; CEO, StumbleUpon</span>
+            <p class="aboutMentor">Garrett has guided StumbleUpon's development since 2001, from inception to more than 15 million registered users. StumbleUpon is now the largest personalized content discovery engine on the web.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_tcelik.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Tantek &Ccedil;elik</span>
+            <span class="title serif">Open Web standards advocate &amp; innovator</span>
+            <p class="aboutMentor">Dedicated to advancing open standards and simpler data formats for the Web, Tantek Çelik is a computer scientist for Microformats.org and works with numerous clients, such as Mozilla and Revision3, on web standards leadership and HTML5 upgrades.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_scharania.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Shaherose Charania</span>
+            <span class="title serif">CEO/Co-Founder, Women 2.0 &amp; Founder Labs</span>
+            <p class="aboutMentor">Mobile startup junkie, love building things from scratch.</p>
+          </div>
+        </li>
+        
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_mcolvig.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Mary J. Colvig</span>
+            <span class="title serif">Director of Contributor Engagement, Mozilla</span>
+            <p class="aboutMentor">Mary specializes in community instigation and setting the odd world record. She thrives on fostering and converting users and supporters into champions for the Mozilla project.</p>
+          </div>
+        </li>      
+        
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_mdemiroz.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Marco DeMiroz</span>
+            <span class="title serif">Venture Investor</span>
+            <p class="aboutMentor">Marco loves working with those unique entrepreneurs who want to change the world!</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_kdoherty.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Kyle Doherty</span>
+            <span class="title serif">Senior Associate, Morgenthaler Ventures</span>
+            <p class="aboutMentor">Kyle primarily focuses on investments in the consumer internet sector on the Information Technology team. Previously he was a Research Associate at Morgan Stanley.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_jengel.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Jerome S. Engel</span>
+            <span class="title serif">Adjunct Professor, UC Berkeley Haas School of Business<br>General Partner, Monitor Venture Partners</span>
+            <p class="aboutMentor">UC Berkeley Professor, venture capitalist and successful entrepreneur Jerry is an internationally recognized expert in innovation and entrepreneurship.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_beich.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Brendan Eich</span>
+            <span class="title serif">CTO, Mozilla</span>
+            <p class="aboutMentor">Created JavaScript, co-founded the mozilla.org project, helped launch the award winning Firefox Web browser and Thunderbird e-mail client. He is dedicated to driving innovation in Internet technology.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_jfinette.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Jane Finette</span>
+            <span class="title serif">Director of User Engagement, Mozilla Firefox</span>
+            <p class="aboutMentor">Jane leads global user engagement and acquisition for Mozilla Firefox. Jane held various positions at eBay, Sotheby's and Channel Advisor, crafting her art of marketing over the past 15 years.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_pfinette.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Pascal Finette</span>
+            <span class="title serif">Director Mozilla WebFWD</span>
+            <p class="aboutMentor">Entrepreneur (couple of times), big company dude, consultant to startups, venture capitalist and finally seen the light: Director @Mozilla.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_afowler.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Alex Fowler</span>
+            <span class="title serif">Global Privacy & Policy Leader, Mozilla</span>
+            <p class="aboutMentor">Alex leads strategic and operational initiatives on privacy and information management. He is a dedicated professional focused on consumer rights, privacy by design and data governance.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_kfox.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Kevin Fox</span>
+            <span class="title serif">Protagonist, Fury.com</span>
+            <p class="aboutMentor">Product design activist. Former design lead for Google's Gmail, Calendar, and Reader, FriendFeed, Facebook Games and Yahoo! Messenger.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_bgalbraith.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Ben Galbraith</span>
+            <span class="title serif">VP Mobile Engineering, Walmart.com</span>
+            <p class="aboutMentor">Ben, co-founder of Ajaxian.com, headed Developer Tools at Mozilla. He wrote his first code at the age of six, started his first business at ten, sold three companies, and has held CEO, CIO, and CTO positions in various industries. </p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_mgoines.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Mark Goines</span>
+            <span class="title serif">Partner, Morgenthaler Ventures</span>
+            <p class="aboutMentor">Mark has an extensive track record of working with high growth companies as an entrepreneur, executive and angel investor. Exits from his angel investments include Mint, Baby Center, PayCycle and Nolo.com.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_mhanson.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Mike Hanson</span>
+            <span class="title serif">Principal Engineer, Mozilla Labs</span>
+            <p class="aboutMentor">Mike has been a Silicon Valley entrepreneur and inventor for nearly 20 years, with career stops at Apple, Stanford, Reactivity (as co-founder, acquired by Cisco), and Mozilla Labs.</p>
+          </div>
+        </li>
+        
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_cheilmann.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Chris Heilmann</span>
+            <span class="title serif">Principal Developer Evangelist, Mozilla</span>
+            <p class="aboutMentor">As a seasoned web developer with companies like Yahoo, author of several books and a truckload of presentations at conferences he knows not only how to build things but also how to explain them in a simple and interesting manner.</p>
+          </div>
+        </li>
+        
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_ehorowitz.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Eliot Horowitz</span>
+            <span class="title serif">Chief Technology Officer, 10gen</span>
+            <p class="aboutMentor">Eliot is CTO of 10gen, the company that sponsors the open source MongoDB project. Eliot is one of the core MongoDB kernel committers. Eliot is also the co-founder and chief scientist of ShopWiki.</p>
+          </div>
+        </li>
+        
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_aisaacs.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Andrew M. Isaacs</span>
+            <span class="title serif">Director of New Management of Technology Programs, UC Berkeley</span>
+            <p class="aboutMentor">Andrew is a successful scientist, business executive, entrepreneur, and educator. He is passionate about mentoring the next generation of technology business leaders.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_ejohnson.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Eric Johnson</span>
+            <span class="title serif">VP Sales &amp; Business Development, Braintree Payments</span>
+            <p class="aboutMentor">Eric was one of the first employees of Braintree.  His business development and sales skills formed the basis for the sales process that has helped transform Braintree into one of the top 50 fastest growing businesses in America.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_bkeighran.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Ben Keighran</span>
+            <span class="title serif">Internet Entrepreneur, CEO &amp; Co-Founder of Chomp</span>
+            <p class="aboutMentor">Previously lead advisor for mobile products at Aardvark until acquired by Google. Nominated by BusinessWeek as one of America's Top Entrepreneurs under the age of 25 for his success with Bluepulse.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_gkovacs.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Gary Kovacs</span>
+            <span class="title serif">CEO, Mozilla Corporation</span>
+            <p class="aboutMentor">Gary is leading the overall direction of the organization and the Firefox Web browser. Prior to joining Mozilla, Gary held senior leadership roles at Sybase, Adobe and Macromedia.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_bleroux.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Brian LeRoux</span>
+            <span class="title serif">SPACELORD!!!1!, Nitobi Software</span>
+            <p class="aboutMentor">Brian LeRoux is responsible for the development team at Nitobi Software that now focuses primarily on the PhoneGap project. A web worker most of his life, he has a non-breaking space tattoo and is the creator of wtfjs.com.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_jlilly.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">John Lilly</span>
+            <span class="title serif">Partner, Greylock Partners</span>
+            <p class="aboutMentor">Currently a partner at Greylock Partners that invested in Facebook, LinkedIn and Pandora. Previously CEO of Mozilla, and involved in numerous for-profit and non-profit technology startups.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_dloviglio.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Diane Loviglio</span>
+            <span class="title serif">User Experience Researcher, Mozilla</span>
+            <p class="aboutMentor">Prior to joining Mozilla, she co-created the first conference to focus on tech failures (FailCon) and co-founded a clean tech startup (Wattbot). She has also worked as a freelance researcher for technology and healthcare startups.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_amaurya.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Ash Maurya</span>
+            <span class="title serif">Founder, USERcycle</span>
+            <p class="aboutMentor">Ash is the founder of USERcycle. Since bootstrapping his last company seven years ago, he has launched five products and one peer-to-web application framework. He recently turned his lean startup experience into a book: Running Lean.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_mmatsuno.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Mayumi Matsuno</span>
+            <span class="title serif">Director of Product Marketing, Mozilla Firefox</span>
+            <p class="aboutMentor">Mayumi loves bringing new products to the market. Previously, Mayumi worked at Google for over 5 years on mobile, consumer and advertising products.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_zmilewski.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Zandr Milewski</span>
+            <span class="title serif">Special Ops, Mozilla Corporation</span>
+            <p class="aboutMentor">Raised in a startup environment, specializes in bridging the gap between Innovation and Operations, making sure the Next Thing can scale to be the Next Big Thing.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_pmorle.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Phil Morle</span>
+            <span class="title serif">Founder &amp; Lean Startup CTO, Pollenizer</span>
+            <p class="aboutMentor">I am a practitioner of a lean startup way of working and passionate (addicted?) to starting web businesses. I learned my trade as the CTO of Kazaa for 5 years and I am a founder member of the Data Portability initiative.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_nnguyen.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Nick Nguyen</span>
+            <span class="title serif">Co-founder &amp; VP Product, Tasty Labs</span>
+            <p class="aboutMentor">Nick is currently a co-founder at Tasty Labs. In previous lives, he was a product manager on Yahoo! Answers and del.icio.us, as well as the Director of Add-ons at Mozilla.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_inovick.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Itamar Novick</span>
+            <span class="title serif">Associate, Morgenthaler Ventures</span>
+            <p class="aboutMentor">Itamar focuses on early-stage investments in the mobile and consumer-facing Web space. Previously, Sr. Director of Product Management at Gigya, product development lead in Enelita and co-founder of two start-ups.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_bpettis.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Bre Pettis</span>
+            <span class="title serif">Founder, MakerBot</span>
+            <p class="aboutMentor">Bre Pettis makes things that make things.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_araskin.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Aza Raskin</span>
+            <span class="title serif">Founder, Massive Health</span>
+            <p class="aboutMentor">Called an interface guru by publications like Wired and Fast Company, Aza is the co-founder of Massive Health, and was until recently Creative Lead for Firefox.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_jresig.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">John Resig</span>
+            <span class="title serif">Dean of Open Source, Khan Academy</span>
+            <p class="aboutMentor">Dean of Open Source and the Head of JavaScript Development, Khan Academy. Also the author of the book Pro JavaScript Techniques, the creator and lead developer of the jQuery JavaScript library.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_osalazar.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Oscar Salazar</span>
+            <span class="title serif">Product design, Peel Inc</span>
+            <p class="aboutMentor">Passionate about helping teams turn ideas into products that people love. Previously worked at IDEO and eBay as a lead designer. Besides working at a startup called Peel, Oscar is also a mentor and matchmaker at The Designer Fund.</p>
+          </div>
+        </li>      
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_mschireson.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Max Schireson</span>
+            <span class="title serif">President, 10gen</span>
+            <p class="aboutMentor">As President of 10gen, Max is responsible for building and extending 10gen/MongoDB's market leadership. Prior to joining 10gen, Max spent 7 years at MarkLogic, where he played a variety of executive roles including Chief Operating Officer.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_mshapiro.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Melissa Shapiro</span>
+            <span class="title serif">Director of Public Relations, Mozilla</span>
+            <p class="aboutMentor">Melissa leads a global team of communicators who help Mozilla's stories reach the world. A seasoned PR vet, she cut her teeth during the dot-com boom and went on to build public profiles for a wide range of technology companies.</p>
+          </div>
+        </li>
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_rsrinivasan.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Ragavan Srinivasan</span>
+            <span class="title serif">Product Manager - Apps, Mozilla</span>
+            <p class="aboutMentor">Ragavan loves working on early stage products. Previously, he worked at VMware and HP. Ragavan also co-founded Kids on Computers, a non-profit that sets up computer labs in developing countries.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_jzhang.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Jinghua Zhang</span>
+            <span class="title serif">Lead of User Experience Research, Mozilla</span>
+            <p class="aboutMentor">Jinghua is an advocate and catalyst for understanding your users. She has guided several startup projects to align product strategy with user needs. She loves to help solve real (un-articulated) problems for people.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
+          <div class="headshot"><img src="/media/img/headshot_azurek.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Andrea Zurek</span>
+            <span class="title serif">Founding Partner, XG Ventures</span>
+            <p class="aboutMentor">Andrea’s been an active angel investor since 2006. XG Ventures has invested in over 25 companies with over 5 exits, including Tapulous and Aardvark. Andrea worked at Google for over 7 years as one of the first ad sales executives.</p>
+          </div>
+        </li>
+
+      </ul>
+    </section>
+
+    <hr>
+
+    <section id="family" class="cf">
+      <div class="c6">
         <h2>Partners</h2>
-    </div>
-    <div class="c3">
+      </div>
+      <div class="c3">
         <a href="http://agilezen.com/" target="_blank"><img src="img/logo_agilezen.jpg" alt="AgileZen"></a>
         <p class="serif">AgileZen is an easy-to-use project management tool that helps people organize their work visually and collaborate with a team. More than a simple to-do list, AgileZen shows all the steps work has to go through to be complete and where everything is in the process. This means that a user can quickly see what's important to their team and what needs to be worked on next.</p>
         <p class="serif"><a href="http://agilezen.com/" target="_blank">Visit AgileZen</a></p>
-    </div>
-    <div class="c3">
+      </div>
+      <div class="c3">
         <a href="http://awesomefoundation.org/" target="_blank"><img src="img/logo_awesomefoundation.png" alt="Awesome Foundation"></a>
         <p class="serif">The Awesome Foundation for the Arts and Sciences is a global alliance of micro-trustees dedicated to forwarding the interest of awesomeness in the universe. It provides monthly, no-strings-attached grants of $1,000 to support innovative projects and efforts that surprise and delight worldwide.</p>
         <p class="serif"><a href="http://awesomefoundation.org/" target="_blank">Visit The Awesome Foundation</a></p>
-    </div>
+      </div>
 
-    <div style="clear:both; height:30px;"></div>
+      <div style="clear:both; height:30px;"></div>
 
-    <div class="c3">
+      <div class="c3">
         <a href="http://braintreepayments.com/" target="_blank"><img src="img/logo_braintree.png" alt="Braintree"></a>
         <p class="serif">Braintree helps businesses process credit card payments by providing a merchant account, payment gateway, recurring billing and credit card storage. They're unlike others in the industry: they think and do things differently and are frequently told by their customers that they are the best payments company they've ever worked with.</p>
         <p class="serif"><a href="http://braintreepayments.com/" target="_blank">Visit Braintree</a></p>
-    </div>
-    <div class="c3">
+      </div>
+      <div class="c3">
         <a href="http://thedesignerfund.com/" target="_blank"><img src="img/logo_designerfund.jpg" alt="Designer Fund"></a>
         <p class="serif">The Designer Fund is a community of designers who invest in designer founders through mentorship and angel funding, like AngelList for designers. Industry leading designers representing major platforms (YouTube, Facebook, Google, Twitter, LinkedIn), consultancies (IDEO, Cooper, Jump Associates, Frog, Method), and startups (Path, Flipboard, Peel) select applying candidates for angel investments and referrals to partners including accelerators like WebFWD.</p>
         <p class="serif"><a href="http://thedesignerfund.com/" target="_blank">Visit The Designer Fund</a></p>
-    </div>
+      </div>
 
-    <div style="clear:both; height:30px;"></div>
+      <div style="clear:both; height:30px;"></div>
 
-    <div class="c3">
+      <div class="c3">
         <a href="http://founderlabs.org/" target="_blank"><img src="img/logo_founderslab.jpg" alt="Founder Labs"></a>
         <p class="serif">Founder Labs is a 5-week pre-incubator focused on the first phase of launching a mobile startup - finding a team and validating the business idea. Through Founder Labs, aspiring founders build a founding team, learn technical, lean startup skills, validate ideas to find the right product-market fit and rapidly prototype and test.What does this look like? The breakdown: 50% male, 50% female. 50% technical, 50% non-technical.</p>
         <p class="serif"><a href="http://founderlabs.org/" target="_blank">Visit Founder Labs</a></p>
-    </div>
-    <div class="c3">
+      </div>
+      <div class="c3">
         <a href="http://mediatemple.net/" target="_blank"><img src="img/logo_mediatemple.png" alt="Media Temple"></a>
         <p class="serif">(mt) Media Temple is a web hosting and cloud services provider headquartered in Los Angeles, California. Since 1998, we have provided businesses and consumers around the world with professional-class service to host websites, applications, virtual servers, email, and other rich Internet content. Our infrastructure serves approximately 100,000 customers and over 1 million websites in top-tier datacenters on the east and west coasts of the United States.</p>
         <p class="serif"><a href="http://mediatemple.net/" target="_blank">Visit Media Temple</a></p>
-    </div>
+      </div>
 
-    <div style="clear:both; height:30px;"></div>
+      <div style="clear:both; height:30px;"></div>
 
-    <div class="c3">
+      <div class="c3">
         <a href="http://pivotallabs.com/" target="_blank"><img src="img/logo_pivotallabs.gif" alt="Pivotal Labs"></a>
         <p class="serif">Pivotal Labs is a software development consultancy working with early stage startups, growth stage startups, and small innovative groups within larger enterprises. Pivotal works with teams to co-develop products rapidly and iteratively, building a solid technical foundation and a culture that supports rapid product development over the long term.</p>
         <p class="serif"><a href="http://pivotallabs.com/" target="_blank">Visit Pivotal Labs</a></p>
-    </div>
-    <div class="c3">
+      </div>
+      <div class="c3">
         <a href="http://www.pollenizer.com/" target="_blank"><img src="img/logo_pollenizer.jpg" alt="Pollenizer"></a>
         <p class="serif">Pollenizer creates web businesses. We take innovative ideas and turn them into investable businesses. Some would say we are an incubator but we think we're something altogether different. Since inception, we have created a process that gets out portfolio companies in front of customer quickly and measures performance for maximum impact and investor confidence.</p>
         <p class="serif"><a href="http://www.pollenizer.com/" target="_blank">Visit Pollenizer</a></p>
-    </div>
+      </div>
 
-    <div style="clear:both; height:30px;"></div>
+      <div style="clear:both; height:30px;"></div>
 
-    <div class="c3">
+      <div class="c3">
         <a href="http://seedcamp.com/" target="_blank"><img src="img/logo_seedcamp.jpg" alt="Seedcamp"></a>
         <p class="serif">Seedcamp is an early-stage micro seed investment fund and mentoring programme that was was created to jumpstart the entrepreneurial community in Europe by connecting next generation developers and entrepreneurs with over 1200 mentors. Across 10 global Mini Seedcamps spread throughout the year and our annual week-long forum (Seedcamp Week), we bring together EMEA’s top young founders with a world-class network of mentors in one place.</p>
         <p class="serif"><a href="http://seedcamp.com/" target="_blank">Visit Seedcamp</a></p>
-    </div>
-    <div class="c3">
+      </div>
+      <div class="c3">
         <a href="http://teensintech.com/" target="_blank"><img src="img/logo_teensintech.jpg" alt="Teens in Tech"></a>
         <p class="serif">Teens in Tech Labs provides tools and resources to young entrepreneurs globally to help foster entrepreneurship at a young age. Founded on the premise that entrepreneurship doesn’t happen at a certain age or a certain location, Teens in Tech Labs provides a support community and network to help young entrepreneurs create innovative and disruptive businesses.</p>
         <p class="serif"><a href="http://teensintech.com/" target="_blank">Visit Teens in Tech</a></p>
-    </div>
-</section>
+      </div>
+    </section>
 
-      <footer class="cf">
-          <div class="c2">
-              &copy; Mozilla 2011 | <a href="http://www.mozilla.com/en-US/privacy-policy.html">Privacy Policy</a> | <a href="http://www.mozilla.com/en-US/about/legal.html">Legal Notices</a>
-          </div>
-          <div class="c4">
-              <ul>
-                  <li><a href="mailto:webfwd@mozilla.com">Contact Us</a></li>
-                  <li><a href="http://twitter.com/mozlabs">Twitter</a></li>
-                  <li><a href="http://www.facebook.com/mozlabs">Facebook</a></li>
-                  <li><a href="http://blog.webfwd.org/">Blog</a></li>
-              </ul>
-          </div>
-      </footer>
-    </div>
+    <footer class="cf">
+      <div class="c2">
+        &copy; Mozilla 2011 | <a href="http://www.mozilla.com/en-US/privacy-policy.html">Privacy Policy</a> | <a href="http://www.mozilla.com/en-US/about/legal.html">Legal Notices</a>
+      </div>
+      <div class="c4">
+        <ul>
+          <li><a href="mailto:webfwd@mozilla.com">Contact Us</a></li>
+          <li><a href="http://twitter.com/mozlabs">Twitter</a></li>
+          <li><a href="http://www.facebook.com/mozlabs">Facebook</a></li>
+          <li><a href="http://blog.webfwd.org/">Blog</a></li>
+        </ul>
+      </div>
+    </footer>
+  </div> <!-- END: wrapper -->
 
-          <script>
-          document.createElement("section");
-          document.createElement("article");  
-          document.createElement("footer");  
-          document.createElement("header");  
-          document.createElement("hgroup");  
-          document.createElement("nav");  
-      </script>
+  <script>
+    document.createElement("section");
+    document.createElement("article");  
+    document.createElement("footer");  
+    document.createElement("header");  
+    document.createElement("hgroup");  
+    document.createElement("nav");  
+  </script>
 
-      <script src="js/apply.js"></script>
-      
-      <a title="Real Time Web Analytics" href="http://getclicky.com/66455093"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-      <script type="text/javascript">
-      var clicky_site_ids = clicky_site_ids || [];
-      clicky_site_ids.push(66455590);
-      (function() {
-        var s = document.createElement('script');
-        s.type = 'text/javascript';
-        s.async = true;
-        s.src = '//static.getclicky.com/js';
-        ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-      })();
-      </script>
-      <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66455590ns.gif" /></p></noscript>
-            
-      </body>
+  <a title="Real Time Web Analytics" href="http://getclicky.com/66455093"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+  <script type="text/javascript">
+  var clicky_site_ids = clicky_site_ids || [];
+  clicky_site_ids.push(66455590);
+  (function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = '//static.getclicky.com/js';
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+  </script>
+  <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66455590ns.gif" /></p></noscript>
+
+</body>
 </html>

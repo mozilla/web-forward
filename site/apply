@@ -1,39 +1,35 @@
 <!DOCTYPE html>
 <html LANG="en-US" dir="ltr">
-  <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-    <title>WebFWD — Apply</title>
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  <title>WebFWD — Apply</title>
+  <link rel="stylesheet" media="screen,projection,tv" href="css/apply.css" />
+  <link rel="icon" type="image/x-icon" href="favicon.png">
+  <!--[if IE]>
+    <style type="text/css">
+      body #what #essentials {top: 0px;}
+    </style>
+  <![endif]-->
+</head>
 
-          <link rel="stylesheet" media="screen,projection,tv" href="css/apply.css" />
-      
-      <!--[if IE]>
-          <style type="text/css">
-              body #what #essentials {
-                  top: 0px;
-              }
-          </style>
-      <![endif]-->
-    
-    <link rel="icon" type="image/x-icon" href="favicon.png">
-  </head>
-  <body id="page-apply" class="no-js white">
-    <div id="grid"></div>
+<body id="page-apply" class="no-js white">
+  <div id="grid"></div>
 
-    <div id="wrapper">
-      <div id="essentials" class="row">
-          <div class="c5"></div>
-          <div class="c1"><a href="http://mozilla.com"><img class="tab" src="img/tab.png"></a></div>
-      </div>
-
-      <section id="spacer" class="cf">
-    <!-- spacer section to act as background for fixed nav -->
-</section>
-
-<nav id="primaryNav" class="cf">
-    <div class="c2">
-        <a href="/"><img src="img/fwd_logo.png" title="WebFWD" alt="WebFWD"></a>
+  <div id="wrapper">
+    <div id="essentials" class="row">
+      <div class="c5"></div>
+      <div class="c1"><a href="http://mozilla.com"><img class="tab" src="img/tab.png"></a></div>
     </div>
-    <ul class="c4">
+
+    <section id="spacer" class="cf">
+      <!-- spacer section to act as background for fixed nav -->
+    </section>
+
+    <nav id="primaryNav" class="cf">
+      <div class="c2">
+        <a href="/"><img src="img/fwd_logo.png" title="WebFWD" alt="WebFWD"></a>
+      </div>
+      <ul class="c4">
         <li><a href="/#what" class="what">What</a></li>
         <li><a href="/#how" class="how">How</a></li>
         <li><a href="/#who" class="who">Who</a></li>
@@ -46,208 +42,61 @@
         <li><a class="mentors" href="/mentorship">Mentors</a></li>
         <li><a class="Projects" href="/projects">Projects</a></li>
         <li><a class="apply selected">Apply</a></li>
-    </ul>
-</nav>  
+      </ul>
+    </nav>  
 
-<section id="notes" class="cf">
-    <!-- copy in this section is up for editing -->
-    <div class="c1"></div>
-    <div class="c4">
-        <p class="serif">Please read over our application form carefully before filling it in. Fill out as many fields as you feel applies to your project. Please be concise and try not to go over 1,500 characters for each question. We will get back to you in a timely manner.
-    </div>
-</section>
-
-<form action="apply" method="POST" id="form" class="cf">
-  
-
-  
-
-  
-      <div id="program_selection-container" class="field">
-          <label for="id_program_selection">Which program do you want to apply for?</label>
-          
-      <select name="program_selection" id="id_program_selection">
-<option value="" selected="selected">---------</option>
-<option value="6-month Fellows Program">6-month Fellows Program</option>
-<option value="4-week Bootcamp">4-week Bootcamp</option>
-<option value="Don&#39;t know - you tell me">Don&#39;t know - you tell me</option>
-</select>
-    </div>
-      <div id="first_name-container" class="field">
-          <label for="id_first_name">First name</label>
-          
-      <input id="id_first_name" type="text" placeholder="First Name" name="first_name" maxlength="100" />
-    </div>
-      <div id="last_name-container" class="field">
-          <label for="id_last_name">Last name</label>
-          
-      <input id="id_last_name" type="text" placeholder="Last Name" name="last_name" maxlength="100" />
-    </div>
-      <div id="email-container" class="field">
-          <label for="id_email">Email Address</label>
-          
-      <input id="id_email" type="text" placeholder="me@example.com" name="email" maxlength="75" />
-    </div>
-      <div id="phone_number-container" class="field">
-          <label for="id_phone_number">Phone number</label>
-          
-      <input id="id_phone_number" type="text" name="phone_number" maxlength="30" />
-    </div>
-      <div id="teammates-container" class="field">
-          <label for="id_teammates">Names of all Teammates</label>
-          
-      <textarea id="id_teammates" rows="10" placeholder="Names, separated by commas" cols="40" name="teammates"></textarea>
-    </div>
-      <div id="team_info-container" class="field">
-          <label for="id_team_info">For each of you, please list your name, age, year of graduation, school, degree and subject for each degree, email address, personal url, github url, employer and title (if applicable). Separate team members with blank lines.</label>
-          
-      <textarea id="id_team_info" rows="10" cols="40" name="team_info"></textarea>
-    </div>
-      <div id="location-container" class="field">
-          <label for="id_location">Where do you live now?</label>
-          
-      <textarea id="id_location" rows="10" cols="40" name="location"></textarea>
-    </div>
-      <div id="video_url-container" class="field">
-          <label for="id_video_url">Video Intro: Please send a brief video introducing yourself and your project. We don&#39;t care about the quality of the video ((hone video is fine), we just want to see and hear you.</label>
-          
-      <input id="id_video_url" type="text" placeholder="Introduce yourselves with a video, submit the URL to the video here" name="video_url" maxlength="200" />
-    </div>
-      <div id="pitch-container" class="field">
-          <label for="id_pitch">What are you building? What is your product about?</label>
-          
-      <textarea id="id_pitch" rows="10" placeholder="Pitch your idea to us." cols="40" name="pitch"></textarea>
-    </div>
-      <div id="idea_relevance-container" class="field">
-          <label for="id_idea_relevance">Why do you think your product matters? Why should anyone care?</label>
-          
-      <textarea id="id_idea_relevance" rows="10" cols="40" name="idea_relevance"></textarea>
-    </div>
-      <div id="interest-container" class="field">
-          <label for="id_interest">The WebFWD site lists areas of interest to Mozilla and relevant to the open, decentralized Web. How does your solution relate to these interest areas?</label>
-          
-      <textarea id="id_interest" rows="10" cols="40" name="interest"></textarea>
-    </div>
-      <div id="benefit-container" class="field">
-          <label for="id_benefit">How do you hope to benefit from WebFWD?</label>
-          
-      <textarea id="id_benefit" rows="10" cols="40" name="benefit"></textarea>
-    </div>
-      <div id="progress-container" class="field">
-          <label for="id_progress">How long have you been working on your product and how many lines of code (if applicable) have been written?</label>
-          
-      <textarea id="id_progress" rows="10" cols="40" name="progress"></textarea>
-    </div>
-      <div id="launch_info-container" class="field">
-          <label for="id_launch_info">How far along are you? Do you have a alpha/beta/v1 yet? If not, when will you? Are you launched? If so, how many users do you have? If you&#39;ve launched, what is your monthly growth rate?</label>
-          
-      <textarea id="id_launch_info" rows="10" cols="40" name="launch_info"></textarea>
-    </div>
-      <div id="demo_url-container" class="field">
-          <label for="id_demo_url">If you have an online demo, what&#39;s the URL?</label>
-          
-      <input id="id_demo_url" type="text" name="demo_url" maxlength="200" />
-    </div>
-      <div id="team_prior_commitments-container" class="field">
-          <label for="id_team_prior_commitments">Please describe any upcoming future commitments such as finishing college, going to grad school, or moving to a new location.</label>
-          
-      <textarea id="id_team_prior_commitments" rows="10" cols="40" name="team_prior_commitments"></textarea>
-    </div>
-      <div id="source_code_info-container" class="field">
-          <label for="id_source_code_info">Was any of your code written by someone who is not one of your founders or team members? If so, how can you safely use it? (Open Source is fine.)</label>
-          
-      <textarea id="id_source_code_info" rows="10" cols="40" name="source_code_info"></textarea>
-    </div>
-      <div id="team_accomplishments-container" class="field">
-          <label for="id_team_accomplishments">Tell us a bit more about yourself. What&#39;s the most amazing thing you&#39;ve done so far? Separate team members with blank lines and submit individual answers with each person&#39;s name.</label>
-          
-      <textarea id="id_team_accomplishments" rows="10" cols="40" name="team_accomplishments"></textarea>
-    </div>
-      <div id="team_history-container" class="field">
-          <label for="id_team_history">For team applications: Please tell us how long you&#39;ve known each other, whether you&#39;ve met in person, and whether you&#39;ve worked together on other projects. (If you have stuff on the Web, please share an URL.)</label>
-          
-      <textarea id="id_team_history" rows="10" cols="40" name="team_history"></textarea>
-    </div>
-      <div id="anecdote-container" class="field">
-          <label for="id_anecdote">Please tell us something surprising or amusing that one of you has discovered. (The answer need not be related to your project.)</label>
-          
-      <textarea id="id_anecdote" rows="10" cols="40" name="anecdote"></textarea>
-    </div>
-      <div id="other-container" class="field">
-          <label for="id_other">Is there anything else we should know about you, your team, or your project?</label>
-          
-      <textarea id="id_other" rows="10" cols="40" name="other"></textarea>
-    </div>
-      <div id="want_designer-container" class="field">
-          <label for="id_want_designer">I&#39;m interested in getting matched to a UI/UX designer.</label>
-          
-      <input type="checkbox" name="want_designer" id="id_want_designer" />
-    </div>
-      <div id="accept_terms-container" class="field">
-          <label for="id_accept_terms">
-          Please confirm that you have read, understood and agree to our
-          <a href="http://www.mozilla.com/en-US/about/legal.html">
-            Terms of Service
-          </a>
-      </label>
-          
-      <input type="checkbox" name="accept_terms" id="id_accept_terms" />
-    </div>
-      <div id="accept_privacy-container" class="field">
-          <label for="id_accept_privacy">
-          Please confirm that you have also read, understood and agree to our
-          <a href="http://www.mozilla.com/en-US/privacy-policy.html">
-            Privacy Policy
-          </a>
-      </label>
-          
-      <input type="checkbox" name="accept_privacy" id="id_accept_privacy" />
-    </div>
-  
-	<input type="submit" id="submit" value="Submit Application">
-
-	<div class="clear"></div>
-</form>
-
-      <footer class="cf">
-          <div class="c2">
-              &copy; Mozilla 2011 | <a href="http://www.mozilla.com/en-US/privacy-policy.html">Privacy Policy</a> | <a href="http://www.mozilla.com/en-US/about/legal.html">Legal Notices</a>
-          </div>
-          <div class="c4">
-              <ul>
-                  <li><a href="mailto:webfwd@mozilla.com">Contact Us</a></li>
-                  <li><a href="http://twitter.com/mozlabs">Twitter</a></li>
-                  <li><a href="http://www.facebook.com/mozlabs">Facebook</a></li>
-                  <li><a href="http://blog.webfwd.org/">Blog</a></li>
-              </ul>
-          </div>
-      </footer>
-    </div>
-
-          <script>
-          document.createElement("section");
-          document.createElement("article");  
-          document.createElement("footer");  
-          document.createElement("header");  
-          document.createElement("hgroup");  
-          document.createElement("nav");  
-      </script>
-
-      <script src="js/apply.js"></script>
-      
-      <a title="Real Time Web Analytics" href="http://getclicky.com/66455093"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+    <div style="margin: 50px 75px;">
+      <script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>
       <script type="text/javascript">
-      var clicky_site_ids = clicky_site_ids || [];
-      clicky_site_ids.push(66455590);
-      (function() {
-        var s = document.createElement('script');
-        s.type = 'text/javascript';
-        s.async = true;
-        s.src = '//static.getclicky.com/js';
-        ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-      })();
+        var m7x3s5 = new WufooForm();
+        m7x3s5.initialize({
+        'userName':'webfwd', 
+        'formHash':'m7x3s5', 
+        'autoResize':true,
+        'height':'2620',
+        'header':'show', 
+        'ssl':true});
+        m7x3s5.display();
       </script>
-      <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66455590ns.gif" /></p></noscript>
-            
-      </body>
+    </div>
+    
+    <footer class="cf">
+      <div class="c2">
+        &copy; Mozilla 2011 | <a href="http://www.mozilla.com/en-US/privacy-policy.html">Privacy Policy</a> | <a href="http://www.mozilla.com/en-US/about/legal.html">Legal Notices</a>
+      </div>
+      <div class="c4">
+        <ul>
+          <li><a href="mailto:webfwd@mozilla.com">Contact Us</a></li>
+          <li><a href="http://twitter.com/mozlabs">Twitter</a></li>
+          <li><a href="http://www.facebook.com/mozlabs">Facebook</a></li>
+          <li><a href="http://blog.webfwd.org/">Blog</a></li>
+        </ul>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    document.createElement("section");
+    document.createElement("article");  
+    document.createElement("footer");  
+    document.createElement("header");  
+    document.createElement("hgroup");  
+    document.createElement("nav");  
+  </script>
+
+  <a title="Real Time Web Analytics" href="http://getclicky.com/66455093"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+  <script type="text/javascript">
+  var clicky_site_ids = clicky_site_ids || [];
+  clicky_site_ids.push(66455590);
+  (function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = '//static.getclicky.com/js';
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+  </script>
+  <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66455590ns.gif" /></p></noscript>
+
+</body>
 </html>
