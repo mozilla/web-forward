@@ -265,6 +265,15 @@
         </li>
 
         <li class="c3 mentor">
+          <div class="headshot"><img src="img/headshot_gkawasaki.jpg" alt="Headshot"></div>
+          <div class="mentorInfo">
+            <span class="name">Guy Kawasaki</span>
+            <span class="title serif">Co-Founder Alltop.com & Garage Technology Ventures</span>
+            <p class="aboutMentor">Guy Kawasaki is the author of Enchantment, co-founder of Alltop.com, and a founding partner at Garage Technology Ventures. Previously, he was the chief evangelist of Apple. Kawasaki is the author of nine other books.</p>
+          </div>
+        </li>
+
+        <li class="c3 mentor">
           <div class="headshot"><img src="img/headshot_bkeighran.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Ben Keighran</span>
