@@ -68,7 +68,7 @@
         <img src="img/project_blank.png" alt="Meemoo">
         <p class="serif"><strong class="sans">The Project:</strong> Meemoo</p>
         <p class="serif"><strong class="sans">The Idea:</strong> Meemoo is a web application that encourages remixing and experimentation with web media. A Meemoo composition is a graph of modules and the wires that connect them. Modules are HTML pages that can live anywhere online, using any web technology. Wires represent how the modules send messages to each other. Compositions will be sharable on a community site. All compositions and modules will be forkable in the open source spirit of creative collaboration.</p> 
-        <p class="serif"><strong class="sans">The Team:</strong> <a href="http://twitter.com/sembiki" target="_blank">Forest Oliphant</a></p> 
+        <p class="serif"><strong class="sans">The Team:</strong> <a href="http://twitter.com/sembiki" target="_blank">Forrest Oliphant</a></p> 
         <p class="serif"><a href="http://meemoo.org/" target="_blank">Learn more at Meemoo.org</a></p>
       </div>
 
