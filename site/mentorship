@@ -292,7 +292,7 @@
         </li>
 
         <li class="c3 mentor">
-          <div class="headshot"><img src="img/headshot_rmacdonald.jpg.jpg" alt="Headshot"></div>
+          <div class="headshot"><img src="img/headshot_rmacdonald.jpg" alt="Headshot"></div>
           <div class="mentorInfo">
             <span class="name">Rory MacDonald</span>
             <span class="title serif">News Editor & Brand Communications</span>
