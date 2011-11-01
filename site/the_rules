@@ -2,7 +2,7 @@
 <html LANG="en-US" dir="ltr">
 <head>
   <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-  <title>WebFWD — The Rules</title>
+  <title>WebFWD — Rules of Engagement</title>
   <link rel="stylesheet" media="screen,projection,tv" href="css/apply.css" />
   <link rel="icon" type="image/x-icon" href="favicon.png">
   <!--[if IE]>
@@ -44,8 +44,8 @@
     <section id="aboutTheRules" class="cf">
       <div class="c1"></div>
       <div class="c4">
-        <h1 class="light">WebFWD Code of Conduct</h1>
-        <p class="serif">WebFWD is a community. We created the program to foster innovation through collaboration - and help accelerate your progress where we can. This means that you are required to play an active role and not just consume. You, your team, the other participants, our mentors, friends, the wider Mozilla crew and the WebFWD team are this community.</p>
+        <h1 class="light">WebFWD Rules of Engagement</h1>
+        <p class="serif">WebFWD is a community. We created the program to foster innovation through collaboration - and help accelerate your progress where we can. This means that you will play an active role to create, rather than just consume. You, your team, the other participants, our mentors, friends, the wider Mozilla crew and the WebFWD team are this community.</p>
         <p class="serif">Our community has a few ground rules. Play nicely by them, become an active participant and enjoy the ride.</p>
         <ol class="serif" style="font-size:16px;">
           <li>Be active. Share, engage, discuss. Our central hub for this is Yammer.</li>
