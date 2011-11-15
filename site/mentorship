@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+h<!DOCTYPE html>
 <html LANG="en-US" dir="ltr">
 <head>
   <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -484,49 +484,57 @@
       <div style="clear:both; height:30px;"></div>
 
       <div class="c3">
+        <a href="http://www.balsamiq.com/" target="_blank"><img src="img/logo_balsamiq.png" alt="Balsamiq"></a>
+        <p class="serif">Balsamiq is the maker of Mockups and myBalsamiq, the rapid wireframing tools that reproduce the experience of sketching so that teams can focus on what's important when designing interfaces. We're a fast-growing, but small and personable company that competes on usability and service. We believe work should be fun, and that life istoo short for bad software.</p>
+        <p class="serif"><a href="http://www.balsamiq.com/" target="_blank">Visit Balsamiq</a></p>
+      </div>
+      <div class="c3">
         <a href="http://braintreepayments.com/" target="_blank"><img src="img/logo_braintree.png" alt="Braintree"></a>
         <p class="serif">Braintree helps businesses process credit card payments by providing a merchant account, payment gateway, recurring billing and credit card storage. They're unlike others in the industry: they think and do things differently and are frequently told by their customers that they are the best payments company they've ever worked with.</p>
         <p class="serif"><a href="http://braintreepayments.com/" target="_blank">Visit Braintree</a></p>
       </div>
+
+      <div style="clear:both; height:30px;"></div>
+
       <div class="c3">
         <a href="http://thedesignerfund.com/" target="_blank"><img src="img/logo_designerfund.jpg" alt="Designer Fund"></a>
         <p class="serif">The Designer Fund is a community of designers who invest in designer founders through mentorship and angel funding, like AngelList for designers. Industry leading designers representing major platforms (YouTube, Facebook, Google, Twitter, LinkedIn), consultancies (IDEO, Cooper, Jump Associates, Frog, Method), and startups (Path, Flipboard, Peel) select applying candidates for angel investments and referrals to partners including accelerators like WebFWD.</p>
         <p class="serif"><a href="http://thedesignerfund.com/" target="_blank">Visit The Designer Fund</a></p>
       </div>
-
-      <div style="clear:both; height:30px;"></div>
-
       <div class="c3">
         <a href="http://founderlabs.org/" target="_blank"><img src="img/logo_founderslab.jpg" alt="Founder Labs"></a>
         <p class="serif">Founder Labs is a 5-week pre-incubator focused on the first phase of launching a mobile startup - finding a team and validating the business idea. Through Founder Labs, aspiring founders build a founding team, learn technical, lean startup skills, validate ideas to find the right product-market fit and rapidly prototype and test.What does this look like? The breakdown: 50% male, 50% female. 50% technical, 50% non-technical.</p>
         <p class="serif"><a href="http://founderlabs.org/" target="_blank">Visit Founder Labs</a></p>
       </div>
+
+      <div style="clear:both; height:30px;"></div>
+
       <div class="c3">
         <a href="http://mediatemple.net/" target="_blank"><img src="img/logo_mediatemple.png" alt="Media Temple"></a>
         <p class="serif">(mt) Media Temple is a web hosting and cloud services provider headquartered in Los Angeles, California. Since 1998, we have provided businesses and consumers around the world with professional-class service to host websites, applications, virtual servers, email, and other rich Internet content. Our infrastructure serves approximately 100,000 customers and over 1 million websites in top-tier datacenters on the east and west coasts of the United States.</p>
         <p class="serif"><a href="http://mediatemple.net/" target="_blank">Visit Media Temple</a></p>
       </div>
-
-      <div style="clear:both; height:30px;"></div>
-
       <div class="c3">
         <a href="http://pivotallabs.com/" target="_blank"><img src="img/logo_pivotallabs.gif" alt="Pivotal Labs"></a>
         <p class="serif">Pivotal Labs is a software development consultancy working with early stage startups, growth stage startups, and small innovative groups within larger enterprises. Pivotal works with teams to co-develop products rapidly and iteratively, building a solid technical foundation and a culture that supports rapid product development over the long term.</p>
         <p class="serif"><a href="http://pivotallabs.com/" target="_blank">Visit Pivotal Labs</a></p>
       </div>
+
+      <div style="clear:both; height:30px;"></div>
+
       <div class="c3">
         <a href="http://www.pollenizer.com/" target="_blank"><img src="img/logo_pollenizer.jpg" alt="Pollenizer"></a>
         <p class="serif">Pollenizer creates web businesses. We take innovative ideas and turn them into investable businesses. Some would say we are an incubator but we think we're something altogether different. Since inception, we have created a process that gets out portfolio companies in front of customer quickly and measures performance for maximum impact and investor confidence.</p>
         <p class="serif"><a href="http://www.pollenizer.com/" target="_blank">Visit Pollenizer</a></p>
       </div>
-
-      <div style="clear:both; height:30px;"></div>
-
       <div class="c3">
         <a href="http://seedcamp.com/" target="_blank"><img src="img/logo_seedcamp.jpg" alt="Seedcamp"></a>
         <p class="serif">Seedcamp is an early-stage micro seed investment fund and mentoring programme that was was created to jumpstart the entrepreneurial community in Europe by connecting next generation developers and entrepreneurs with over 1200 mentors. Across 10 global Mini Seedcamps spread throughout the year and our annual week-long forum (Seedcamp Week), we bring together EMEA’s top young founders with a world-class network of mentors in one place.</p>
         <p class="serif"><a href="http://seedcamp.com/" target="_blank">Visit Seedcamp</a></p>
       </div>
+
+      <div style="clear:both; height:30px;"></div>
+
       <div class="c3">
         <a href="http://teensintech.com/" target="_blank"><img src="img/logo_teensintech.jpg" alt="Teens in Tech"></a>
         <p class="serif">Teens in Tech Labs provides tools and resources to young entrepreneurs globally to help foster entrepreneurship at a young age. Founded on the premise that entrepreneurship doesn’t happen at a certain age or a certain location, Teens in Tech Labs provides a support community and network to help young entrepreneurs create innovative and disruptive businesses.</p>
