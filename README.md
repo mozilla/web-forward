@@ -1,5 +1,4 @@
 ## WebFWD
 
-WebFWD is an innovation acceleration program for mozilla.  This 
+WebFWD is the Open Innovation program from Mozilla.  This 
 repository contains the WebFWD website.
-
