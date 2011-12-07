@@ -183,7 +183,7 @@
 		VideoJS.setupAllWhenReady();
 
 		//grab the latest headlines and populate the dom
-		$.getJSON('https://webfwd.org/latest.json', function(feed) {
+		$.get('latest.json', function(feed) {
 			posts = feed.posts;
 			var i = 1;
 			$.each(posts,function(i,post){
