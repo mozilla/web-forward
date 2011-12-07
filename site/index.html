@@ -74,23 +74,7 @@
 			<section id="headlines" class="clearfix table_group">
 				<div class="c2 headlineLabel cell"><h2 class="icon rss">latest news</h2></div>
 				<div class="c4 headline cell">
-					<h3 id="blog" class="serif">
-						<span class="headlineRotator">
-							<a class="brandColor" href="http://blog.webfwd.org/post/13841351741/announcing-webfwds-latest-fellow-bigbluebutton">Announcing WebFWD’s Latest Fellow: BigBlueButton</a>
-						</span>
-						<span class="headlineRotator">
-							<a class="brandColor" href="http://blog.webfwd.org/post/13830277690/coffee-it-never-gets-old">Coffee - it never gets old</a>
-						</span>
-						<span class="headlineRotator">
-							<a class="brandColor" href="http://blog.webfwd.org/post/13786055983/no-code-no-cookie">No Code, No Cookie</a>
-						</span>
-						<span class="headlineRotator">
-							<a class="brandColor" href="http://blog.webfwd.org/post/13639614813/accelerating-our-teams-with-wilson-sonsini">Accelerating Our Teams with Wilson Sonsini</a>
-						</span>
-						<span class="headlineRotator">
-							<a class="brandColor" href="http://blog.webfwd.org/post/13551125129/whats-an-app-anyway">What’s an App, Anyway?</a>
-						</span>
-						</h3>
+					<h3 id="blog" class="serif"></h3>
 				</div>
 			</section> <!-- headlines -->
 
@@ -194,25 +178,46 @@
 	<script src="media/js/functions.min.js" type="text/javascript" charset="utf-8"></script>
 	<script src="media/js/video.min.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript">
-		var rotatorIndex = 0;
-		var rotators = $('.headlineRotator');
+	$(document).ready(function(){
+		//create video box
+		VideoJS.setupAllWhenReady();
 
+		//grab the latest headlines and populate the dom
+		$.get('latest.json', function(feed) {
+			posts = feed.posts;
+			var i = 1;
+			$.each(posts,function(i,post){
+				$("#blog").append('<span class="headlineRotator"><a class="brandColor" href="'+post.link+'">'+post.title+'</a></span>');
+				i = i + 1;
+				if (i == posts.length) { doThis(); }
+			});
+		});
+
+		var rotators;
+		var rotatorIndex = 0;
+
+		function doThis() {
+			//set variables for rotator		
+			rotators = $('.headlineRotator');
+			//start headline rotation
+			nextRotation();
+		}
+
+		//rotator function
 		function nextRotation() {
-			$(rotators[rotatorIndex]).fadeOut(1000, function() {
+			$(rotators[rotatorIndex]).fadeOut(600, function() {
 					//increase the index and do a check, so we won't overflow
 					rotatorIndex++;
 					if (rotatorIndex >= rotators.length)
 							rotatorIndex = 0;
 
 					//fade in the next element, after which call yourself infinitely
-					$(rotators[rotatorIndex]).fadeIn(1000, nextRotation).delay(3000);
+					$(rotators[rotatorIndex]).fadeIn(600, nextRotation).delay(2000);
 			});
 		}
-		//get the ball rolling
-		nextRotation();
-
-		VideoJS.setupAllWhenReady();
+	});
 	</script>
+
 	<script type="text/javascript">
 	var clicky_site_ids = clicky_site_ids || [];
 	clicky_site_ids.push(66455590);
