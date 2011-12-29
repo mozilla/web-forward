@@ -59,6 +59,13 @@ li.element:last-child {
 }
 
 /*
+	Video Styling [PF]
+*/
+.video img {
+	border: 1px solid rgba(0,0,0,0.15);
+}
+
+/*
 		Master styles
 */
 a img {
