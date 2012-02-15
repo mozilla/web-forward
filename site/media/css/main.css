@@ -46,6 +46,10 @@ li.element:last-child {
 	display: none;
 }
 
+#tabzilla a:hover, #tabzilla a:active {
+	background: none;
+}
+
 /*
 	Promo-Styles [PF]
 */
