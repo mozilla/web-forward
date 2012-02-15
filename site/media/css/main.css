@@ -46,19 +46,19 @@ li.element:last-child {
 	display: none;
 }
 
-.tabCleaner a:hover {
+a:hover.tabCleaner {
 	background-color: transparent;
 }
 
-.tabCleaner a:active {
+a:active.tabCleaner {
 	background-color: transparent;
 }
 
-.tabCleaner a:visited {
+a:visited.tabCleaner {
 	background-color: transparent;
 }
 
-.tabCleaner a {
+a.tabCleaner {
 	background-color: transparent;
 }
 
