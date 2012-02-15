@@ -46,8 +46,16 @@ li.element:last-child {
 	display: none;
 }
 
-#tabzilla a:hover, #tabzilla a:active {
-	background: none;
+#tabzilla a:hover {
+	background-color: transparent;
+}
+
+#tabzilla a:active {
+	background-color: transparent;
+}
+
+#tabzilla a:visited {
+	background-color: transparent;
 }
 
 /*
