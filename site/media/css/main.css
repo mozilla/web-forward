@@ -46,19 +46,10 @@ li.element:last-child {
 	display: none;
 }
 
-a:hover.tabCleaner {
-	background-color: transparent;
-}
-
-a:active.tabCleaner {
-	background-color: transparent;
-}
-
-a:visited.tabCleaner {
-	background-color: transparent;
-}
-
-a.tabCleaner {
+#tabCleaner a,
+#tabCleaner a:hover,
+#tabCleaner a:active,
+#tabCleaner a:visited {
 	background-color: transparent;
 }
 
