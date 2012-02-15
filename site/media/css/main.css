@@ -46,15 +46,19 @@ li.element:last-child {
 	display: none;
 }
 
-#tabzilla a:hover {
+.tabCleaner a:hover {
 	background-color: transparent;
 }
 
-#tabzilla a:active {
+.tabCleaner a:active {
 	background-color: transparent;
 }
 
-#tabzilla a:visited {
+.tabCleaner a:visited {
+	background-color: transparent;
+}
+
+.tabCleaner a {
 	background-color: transparent;
 }
 
