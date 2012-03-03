@@ -73,6 +73,14 @@ li.element:last-child {
 }
 
 /*
+	Top Border Styling [PF]
+*/
+#tabBorder {
+	border-top: 2px solid white;
+}
+
+
+/*
 		Master styles
 */
 a img {
@@ -788,7 +796,6 @@ body {
 	line-height: 21px;
 	color: #222;
 	overflow-y: scroll;
-	border-top: 2px solid #686868;
 }
 nav,
 article,
