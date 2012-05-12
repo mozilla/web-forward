@@ -27,8 +27,11 @@ li.element:last-child {
 /*
 	Homepage Specific Styling [PF]
 */
+#promoted > .c2 {
+    width: 265px;
+}
 .video-promo {
-	padding: 0 20px;
+	padding: 0 10px 0 20px;
 }
 
 .video-promo p {
@@ -782,10 +785,6 @@ button.unsubmit:active {
 * {
 	margin: 0;
 	padding: 0;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	-o-box-sizing: border-box;
-	box-sizing: border-box;
 }
 body {
 	background-image: url('../img/stripes.png');
@@ -877,7 +876,7 @@ button img, a.button img {
 .c6 {
 	min-height: 1px;
 	display: inline-block;
-	margin: 0 10px;
+	margin: 0 10px 0;
 	float: left;
 	position: relative;
 }
