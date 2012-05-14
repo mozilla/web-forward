@@ -1,0 +1,17 @@
+# vim: syntax=apache
+<VirtualHost  *:80>
+  ServerName webfwd
+  DocumentRoot /data/webfwd/htdocs
+
+  <Directory /data/webfwd/htdocs>
+    ReWriteEngine On
+    AllowOverride All
+  </Directory>
+
+  <Proxy *>
+    Order allow,deny
+    Allow from all
+  </Proxy>
+
+  AddDefaultCharset UTF-8
+</VirtualHost>
