@@ -4,7 +4,7 @@ id: resources
 -
 headline-1: LearnFWD Webinars
 -
-content-1: These sessions are a key component of the WebFWD program, covering various aspects of product development and entrepreneurship. The presenters are world-class experts from diverse disciplines.
+content-1: These sessions cover various aspects of product development and entrepreneurship. The presenters are world-class experts from diverse disciplines.
 -
 headline-2: Presentations
 -
