@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+:header
+
+<!-- main -->
+
+<!-- Team -->
+<div class="row padding">
+	<div class="four columns">
+		<h3>@headline-1</h3>
+	</div>
+	<div class="eight columns">
+		@content-1
+	</div>
+</div>
+
+get "/about-team" do
+	foreach $children do
+	<div class="row padding">
+		<div class="six columns imageFrame">
+			:images
+		</div>
+		<div class="six columns">
+			<h4>@name</h4>
+			<p class="largeP">@info</p>
+			<p>@links</p>
+		</div>
+	</div>
+	endforeach
+end
+<!-- Team -->
+
+<!-- Scouts -->
+<div class="row padding">
+	<div class="four columns">
+		<h3>@headline-2</h3>
+	</div>
+	<div class="eight columns">
+		@content-2
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve columns">
+		<ul class="block-grid two-up">
+		get "/about-scouts" do
+			foreach $children do
+			<li>
+				<div class="peopleFrame">
+					:images
+					<h5><a href="@link" target="_blank">@name</a></h5>
+					<p>@description</p>
+					<span class="white radius label">@country</span>
+				</div>
+			</li>
+			endforeach
+		end
+		</ul>
+	</div>
+</div>
+<!-- Scouts -->
+
+<!-- main -->
+
+:footer

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+:header
+
+<!-- main -->
+
+<!-- Webinars -->
+<div class="row padding">
+	<div class="four columns">
+		<h3>@headline-1</h3>
+	</div>
+	<div class="eight columns">
+		<p class="largeP">@content-1</p>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve columns">
+		<ul class="block-grid three-up">
+			foreach $_webinars do
+			<li><div class="resourcesContent">@content</div></li>
+			endforeach
+		</ul>
+	</div>
+</div>
+<!-- Webinars -->
+
+<!-- Presentations -->
+<div class="row padding">
+	<div class="four columns">
+		<h3>@headline-2</h3>
+	</div>
+	<div class="eight columns">
+		<p class="largeP">@content-2</p>
+	</div>
+</div>
+
+<div class="row padding" class="resourcesMain">
+	<div class="twelve columns">
+		<ul class="block-grid three-up">
+			foreach $_presentations do
+			<li class="resourcesMain"><div class="resourcesContent">@content</div></li>
+			endforeach
+		</ul>
+	</div>
+</div>
+<!-- Presentations -->
+
+<!-- main -->
+
+:footer

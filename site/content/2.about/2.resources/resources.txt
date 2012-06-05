@@ -1,0 +1,11 @@
+title: Resources
+-
+id: resources
+-
+headline-1: LearnFWD Webinars
+-
+content-1: These sessions are a key component of the WebFWD program, covering various aspects of product development and entrepreneurship. The presenters are world-class experts from diverse disciplines.
+-
+headline-2: Presentations
+-
+content-2: A growing collection of brown bag talks and other presentations at Mozilla and around the world, hosted and curated by WebFWD.

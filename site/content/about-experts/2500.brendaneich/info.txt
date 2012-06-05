@@ -1,0 +1,9 @@
+name: Brendan Eich
+-
+title: CTO, Mozilla
+-
+description: Created JavaScript, co-founded the mozilla.org project, helped launch the award winning Firefox Web browser and Thunderbird e-mail client. He is dedicated to driving innovation in Internet technology.
+-
+expertise: Technology
+-
+link: http://brendaneich.com/

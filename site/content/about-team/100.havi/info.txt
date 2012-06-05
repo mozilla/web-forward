@@ -1,0 +1,9 @@
+name: Havi Hoffman
+-
+info: Havi Hoffman is a long-time web writer, editor, and content wrangler. A herder of cats and hacker at heart, she works on the Mozilla Labs, WebFWD and Mozilla Developer Network/Hacks blogs. Havi helps connect developers and technologists with innovative projects and ideas via @mozlabs, hack days or over a good cup of coffee.
+
+Havi was at Yahoo! during the golden age of web-surfing, and later ran Yahoo! Press, a publishing partnership with O’Reilly Media responsible for titles including "Javascript: The Good Parts" and "Designing Social Interfaces".
+-
+links:
+Twitter: <a href="https://twitter.com/#!/freshelectrons" target="_blank">@freshelectrons</a><br />
+Blog: <a href="http://haviland.tumblr.com/" target="_blank">haviland.tumblr.com</a>

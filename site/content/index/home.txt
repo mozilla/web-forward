@@ -1,0 +1,21 @@
+title: Home
+-
+id: home
+-
+headline: Hit the Accelerator.
+-
+subheadline: WebFWD helps open source innovators create businesses to change the world.
+-
+video: webfwd_promotion
+-
+columnheader1: What
+-
+columntext1: A three-month business creation program for startups around the world. The program consists of weekly training sessions & exercises, office hours with industry experts, ongoing coaching and guidance from the world's best technologists. Upon graduating, teams can qualify for follow-on funding from Mozilla.
+-
+columnheader2: Why
+-
+columntext2: Traditional startup accelerator and incubator models aren't designed to address the demands and advantages of open innovation. WebFWD is uniquely positioned to share Mozilla's experience and skill with world-changing, mobile-focused web startups.
+-
+columnheader3: Who
+-
+columntext3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.

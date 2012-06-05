@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+:header
+
+<!-- main -->
+<div class="row padding">
+	<div class="four columns">
+		<h2>@headline</h2>
+	</div>
+	<div class="eight columns">
+		@content
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve columns">
+		<ul class="block-grid three-up">
+		get "/about-partners" do
+			foreach $children do
+			<li>
+				<div class="partners">
+					<a href="@link" target="_blank">:images</a><br />
+					<!-- <h6><a href="@link" target="_blank">» @name</a></h6> -->
+					<p>@info</p>
+				</div>
+			</li>
+			endforeach
+		end
+		</ul>
+	</div>
+</div>
+<!-- main -->
+
+:footer

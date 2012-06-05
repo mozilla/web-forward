@@ -1,0 +1,9 @@
+name: Jinghua Zhang
+-
+title: Lead of User Experience Research, Mozilla
+-
+description: Jinghua is an advocate and catalyst for understanding your users. She has guided several startup projects to align product strategy with user needs. She loves to help solve real (un-articulated) problems for people.
+-
+expertise: User Research
+-
+link: https://twitter.com/#!/jinghuaz

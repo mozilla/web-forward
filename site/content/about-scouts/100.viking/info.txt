@@ -1,0 +1,7 @@
+name: Viking Karwur
+-
+description: Co-founder WebPM - Indonesia Web Project Managers Network. Mozillian since 2004 (Now as Mozilla Indonesia CM & ReMo Council Member).
+-
+link: http://vikingkarwur.com/
+-
+country: Indonesia

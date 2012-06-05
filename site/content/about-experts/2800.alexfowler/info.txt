@@ -1,0 +1,9 @@
+name: Alex Fowler
+-
+title: Global Privacy & Policy Leader, Mozilla
+-
+description: Alex leads strategic and operational initiatives on privacy and information management. He is a dedicated professional focused on consumer rights, privacy by design and data governance.
+-
+expertise: Legal
+-
+link: http://firstpersoncookie.wordpress.com/

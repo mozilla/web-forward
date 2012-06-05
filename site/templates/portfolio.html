@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+:header
+
+<!-- main -->
+
+<!-- Portfolio Main -->
+<div class="row padding">
+	<div class="four columns">
+		<h2>@headline-1</h2>
+	</div>
+	<div class="eight columns">
+		@content-1
+	</div>
+</div>
+
+get "/portfolio-main" do
+	foreach $children do
+	<div class="row padding">
+		<div class="six columns imageFrame">
+			<a href="@link" target="_blank">:images</a>
+		</div>
+		<div class="six columns">
+			<h4 id="@name">@name</h4>
+			<p class="largeP">@info</p>
+			<p>@more</p>
+		</div>
+	</div>
+	endforeach
+end
+<!-- Portfolio Main -->
+
+<!-- Portfolio Alumni -->
+<div class="row padding">
+	<div class="four columns">
+		<h2>@headline-2</h2>
+	</div>
+	<div class="eight columns">
+		@content-2
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve columns">
+		<ul class="block-grid four-up">
+		get "/portfolio-alumni" do
+		foreach $children do
+			<li>
+				<div class="alumni">
+					<a href="@link" target="_blank">:images</a><br />
+					<p>@info</p>
+					<h6><a href="@link" target="_blank">Visit @name</a></h6>
+				</div>
+			</li>
+			endforeach
+		end
+		</ul>
+	</div>
+</div>
+<!-- Portfolio Alumni -->
+
+<!-- main -->
+
+:footer

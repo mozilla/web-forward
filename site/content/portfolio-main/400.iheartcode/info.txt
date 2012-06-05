@@ -1,0 +1,9 @@
+name: IHeartCode
+-
+info: IHeartCode is an interactive learning platform that runs from a browser. It teaches people how to use git, work on the command line, code in Python and create web apps without the fear of breaking their PC. It stems from the belief that creation spurs learning. We are also working towards a collaborative learning revolution.
+-
+more:
+Website: <a href="http://www.iheartpy.com/" target="_blank">iheartpy.com</a><br />
+Team: Kush Agrawal, <a href="http://singh.diwank.name/" target="_blank">Diwank Tomer</a>, Sitanshu Raj
+-
+link: http://www.iheartpy.com/

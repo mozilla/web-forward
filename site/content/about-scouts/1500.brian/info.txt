@@ -1,0 +1,7 @@
+name: Brian King
+-
+description: Long-time Mozilla community member helping out in many areas. Founder and developer at Briks Software, specialising in all things Mozilla.
+-
+link: http://brian.kingsonline.net/talk/
+-
+country: Slovenia

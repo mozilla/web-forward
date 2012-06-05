@@ -1,0 +1,7 @@
+name: Benny Chandra
+-
+description: Mozilla Rep, Mozilla Indonesia - Surabaya Regional Leader, blogger, writer, photographer, and web designer.
+-
+link: http://bennychandra.com/
+-
+country: Indonesia

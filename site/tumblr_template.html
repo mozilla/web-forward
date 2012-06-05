@@ -1,0 +1,139 @@
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>		<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>		<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>WebFWD {block:PostSummary}| {PostSummary}{/block:PostSummary}</title>
+
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="http://choconauts.com/public/stylesheets/foundation.min.css" />
+	<link rel="stylesheet" href="http://choconauts.com/public/stylesheets/app.min.css" />
+	<link rel="stylesheet" href="http://www.mozilla.org/tabzilla/media/css/tabzilla.css" />
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="http://choconauts.com/public/stylesheets/ie.min.css">
+	<![endif]-->
+	
+	<script src="http://choconauts.com/public/javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!-- Video JS code -->
+	<link rel="stylesheet" href="http://choconauts.com/public/stylesheets/video-js.min.css" />
+	<script src="http://choconauts.com/public/javascripts/video.min.js"></script>
+	<script>_V_.options.flash.swf = "http://choconauts.com/public/images/video-js/video-js.swf";</script>
+
+	<!-- The ever-so-important FavIcon -->
+	<link rel="shortcut icon" type="image/x-icon" href="http://choconauts.com/public/images/favicon.png" />
+
+	<!-- Generated: @updated -->
+</head>
+<body id="blog">
+	<div id="outer-wrapper">
+		<div id="wrapper">
+			<div class="container">
+				<!-- navigation -->
+				<div class="row">
+					<header>
+						<a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
+						<nav id="mainNavigation">
+							<ul>
+								<li><a href="http://choconauts.com/">Home</a></li>
+								<li><a href="http://choconauts.com/about/">About</a></li>
+								<li><a href="http://choconauts.com/portfolio/">Portfolio</a></li>
+								<li><a href="http://blog.webfwd.org/" class="current">Blog</a></li>
+								<li><a href="http://choconauts.com/apply/">Apply</a></li>
+							</ul>
+						</nav>
+						<h1><a href="/"><img src="http://choconauts.com/public/images/sandstone/logo.png" alt="WebFWD" /></a></h1>
+					</header>
+				</div>
+				<!-- navigation -->
+
+				<!-- main -->
+				{block:Posts}
+				{block:Text}
+				
+				<div class="row padding tumblr">
+					<div class="four columns">
+						{block:Title}
+						<h3><a href="{Permalink}">{Title}</a></h3>
+						{block:Date}<h6>{ShortMonth} {DayOfMonth}, {Year}</h6>{/block:Date}
+						{/block:Title}
+						{block:HasTags}{block:Tags}<span class="blue radius label"><a href="{TagURL}" class="tumblrTag">{Tag}</a></span>&nbsp;{/block:Tags}{/block:HasTags}
+					</div>
+					<div class="eight columns">
+						{Body}
+					</div>
+				</div>
+				
+				{/block:Text}
+				{/block:Posts}
+
+				<div class="row padding">
+					<div class="twelve columns text-right">
+						{block:PreviousPage}<a href="{PreviousPage}" class="small white radius button">&#171; Previous</a>&nbsp;{/block:PreviousPage}
+						<a href="/archive" class="small white radius button">Archive</a>
+						{block:NextPage}&nbsp;<a href="{NextPage}" class="small white radius button">Next &#187;</a>&nbsp;{/block:NextPage}
+					</div>
+				</div>
+				<!-- main -->
+
+			</div>
+			<!-- container -->
+		</div>
+		<!-- wrapper -->
+
+	<!-- footer -->
+	<footer>
+		<div class="row">
+			<div class="three columns">
+				<a href="http://www.mozilla.org/" class="footer-logo"><img src="http://choconauts.com/public/images/sandstone/footer-mozilla.png" alt="mozilla" /></a>
+			</div>
+			<div class="three columns">
+				<p>Portions of this content are ©1998–2012 by individual mozilla.org contributors. Content available under a <a href="http://www.mozilla.org/foundation/licensing/website-content.html">Creative Commons license</a>.</p>
+				<p><a href="http://www.mozilla.org/en-US/contribute/page/">Contribute to this page</a></p>
+			</div>
+			<div class="three columns">
+				<nav>
+					<ul>
+						<li><a href="mailto:webfwd@mozilla.com">Contact</a></li>
+						<li><a href="https://twitter.com/#!/MozWebFWD">Twitter</a></li>
+						<li><a href="https://www.facebook.com/webfwd">Facebook</a></li>
+						<li><a href="https://mail.mozilla.org/listinfo/webfwd-all">Newsletter</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="three columns">
+				<nav>
+					<ul>
+						<li><a href="http://www.flickr.com/photos/69751921@N07/sets/72157627996680613/detail/">In the Press</a></li>
+						<li><a href="http://www.mozilla.org/privacy-policy.html">Privacy Policy</a></li>
+						<li><a href="http://www.mozilla.org/about/legal.html">Legal Notices</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</footer>
+	<!-- footer -->
+
+</div>
+<!-- outer-wrapper -->
+
+<!-- Included JS Files -->
+<script src="http://choconauts.com/public/javascripts/jquery.min.js"></script>
+<script src="http://choconauts.com/public/javascripts/foundation.js"></script>
+<script src="http://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
+
+</body>
+</html>
+				

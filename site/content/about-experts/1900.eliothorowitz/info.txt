@@ -1,0 +1,9 @@
+name: Eliot Horowitz
+-
+title: Chief Technology Officer, 10gen
+-
+description: Eliot is CTO of 10gen, the company that sponsors the open source MongoDB project. Eliot is one of the core MongoDB kernel committers. Eliot is also the co-founder and chief scientist of ShopWiki.
+-
+expertise: Technology
+-
+link: http://eliothorowitz.com/

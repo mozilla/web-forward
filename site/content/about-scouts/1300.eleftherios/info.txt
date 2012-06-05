@@ -1,0 +1,7 @@
+name: Eleftherios Kosmas
+-
+description: Geek in mind, healthcare provider by profession, open source enthusiast, part time editor and blogger from Athens, Greece.
+-
+link: http://elkosmas.gr/
+-
+country: Greece

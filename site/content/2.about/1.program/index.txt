@@ -1,0 +1,45 @@
+title: Program
+-
+id: about
+-
+content:
+<div class="row padding">
+	<div class="twelve rows text-center">
+		<h1 class="large">The 12 Week Product Lab</h1>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve rows">
+		<h2>Hands-on learning</h2>
+	</div>
+</div>
+
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<p class="largeP">WebFWD reviews applications for our 12-week program on a quarterly schedule. Apply now for our upcoming session. Relocation is not required, but commitment is.</p>
+		<p class="largeP">The 12-week WebFWD session consists of:</p>
+		<ul class="circle">
+			<li>Ongoing coaching, collaboration and access to Mozilla experts and thought leaders</li>
+			<li>Ongoing office hours with mentors</li>
+			<li>8 weeks of focused, interactive learning with access to dedicated specialists, integrated with each section of the curriculum</li>
+			<li>4 weeks of development focused on designing your business/releasing your product</li>
+		</ul>
+		<h5><a href="@root_path/apply/">Apply for our October 2012 class »</a></h5>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve rows">
+		<h2>A bit of history</h2>
+	</div>
+</div>
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<p class="largeP">Mozilla is an open source success story – a not-for-profit organization with talented volunteer contributors and staff around the world. It’s no wonder that gifted entrepreneurs and technology innovators often approach us for help with their own ideas.</p>
+		<p class="largeP">In years past, we’ve extended ad hoc support. We believed that by taking a more programmatic approach, we could extend our ability to foster innovation and support others who share our vision of an open and accessible Web.</p>
+		<p class="largeP">WebFWD was born in the summer of 2011 with two teams and a vision for sustaining open source startups via coaching and access to technical and professional resources.</p>
+		<p class="largeP">During our first 8 months we grew to <a href="@root_path/portfolio/">14 teams</a> with members in 5 countries. We built a significant library of <a href="@root_path/about/resources/">resources</a> and roster of world-class <a href="@root_path/about/partners/">partners</a>. As the program grew, we came to believe that teams would benefit even more from an intensive curriculum, supported by coached, focused development and culminating in a graduation event.</p>
+		<p class="largeP">In June 2012, we fine-tuned the program, developing an aggressive-8 week curriculum of teaching and deliverables supported by expert office hours. These sessions are followed by 4 focused weeks of building, accompanied by mentorship and office hours as needed. At graduation time, we evaluate funding for qualifying projects as a way to continue our support beyond the 12-week program.</p>
+	</div>
+</div>

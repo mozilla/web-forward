@@ -1,0 +1,5 @@
+name: The Designer Fund
+-
+link: http://thedesignerfund.com/
+-
+info: The Designer Fund is a community of designers who invest in designer founders through mentorship and angel funding, like AngelList for designers. Industry leading designers representing major platforms, consultancies, and startups select applying candidates for angel investments and referrals to partners including programs like WebFWD.

@@ -1,0 +1,9 @@
+name: Marco DeMiroz
+-
+title: President & CEO, PlayFirst 
+-
+description: Marco loves working with those unique entrepreneurs who want to change the world!
+-
+expertise: Strategy
+-
+link: http://www.linkedin.com/pub/marco-demiroz/0/0/b62

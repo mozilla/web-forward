@@ -1,0 +1,7 @@
+name: Thejesh GN
+-
+description: Thej is a Technologist, developer, blogger, data enthusiast and traveler from Bangalore, India. He loves Ubuntu, Firefox, Python.
+-
+link: http://thejeshgn.com/
+-
+country: India

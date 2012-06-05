@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+:header
+
+<!-- main -->
+
+<!-- headline -->
+<div class="row padding">
+	<div class="twelve columns text-center">
+		<h1 class="huge">@headline</h1>
+	</div>
+</div>
+<!-- headline -->
+
+<!-- video -->
+<div class="row padding-small">
+	<div class="ten columns centered">
+		<video class="video-js vjs-default-skin" controls preload="auto" data-setup="{}" width="809" height="458" controls preload poster="http://videos.mozilla.org/serv/webfwd/@video.jpg">
+			<source src="http://videos.mozilla.org/serv/webfwd/@video.mp4" type='video/mp4'>
+			<source src="http://videos.mozilla.org/serv/webfwd/@video.webm" type='video/webm'>
+		</video>
+	</div>
+</div>
+<!-- video -->
+
+<!-- main content -->
+<div class="row padding">
+	<div class="four columns">
+		<h3>@columnheader1</h3>
+		<p class="largeP">@columntext1</p>
+	</div>
+	<div class="four columns">
+		<h3>@columnheader2</h3>
+		<p class="largeP">@columntext2</p>
+	</div>
+	<div class="four columns">
+		<h3>@columnheader3</h3>
+		<p class="largeP">@columntext3</p>
+	</div>
+</div>
+<!-- main content -->
+
+<!-- subheadline -->
+<div class="row padding">
+	<div class="twelve columns">
+		<h1 class="text-center">@subheadline</h1>
+	</div>
+</div>
+<!-- subheadline -->
+
+<!-- Portfolio-->
+<div class="row padding">
+	<div class="twelve columns">
+		<h3>Our Teams</h3>
+	</div>
+</div>
+<div class="row">
+	<div class="twelve columns">
+		<ul class="block-grid five-up">
+		get "/portfolio-main" do
+			foreach $children do
+			<li><a href="@root_path/portfolio/#@name">:thumbs</a></li>
+			endforeach
+		end
+		</ul>
+	</div>
+</div>
+<!-- Portfolio-->
+
+<!-- main -->
+
+:footer

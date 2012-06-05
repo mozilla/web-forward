@@ -1,0 +1,9 @@
+name: Rory MacDonald
+-
+title: News Editor & Brand Communications
+-
+description: News Editor on Linux User & Developer magazine, Rory also heads up the brand communications and media relations practice at Age of Peers.
+-
+expertise: Operations
+-
+link: http://www.ageofpeers.com/rory

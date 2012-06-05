@@ -1,0 +1,5 @@
+name: Pivotal Labs
+-
+link: http://pivotallabs.com/
+-
+info: Pivotal Labs is a software development consultancy working with early stage startups, growth stage startups, and small innovative groups within larger enterprises. Pivotal works with teams to co-develop products rapidly and iteratively, building a solid technical foundation and a culture that supports rapid product development over the long term.

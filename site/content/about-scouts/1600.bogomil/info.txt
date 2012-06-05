@@ -1,0 +1,7 @@
+name: Bogomil Shopov
+-
+description: Community Guy. OpenWeb Hacker. Pirate Politician. Mozilla, OpenData & Foss Rebellion. Bulgarian Living in Prague.
+-
+link: http://talkweb.eu/
+-
+country: Czech Republic

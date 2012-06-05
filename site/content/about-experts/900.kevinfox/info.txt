@@ -1,0 +1,9 @@
+name: Kevin Fox
+-
+title: Protagonist, Fury.com
+-
+description: Product design activist. Former design lead for Google's Gmail, Calendar, and Reader, FriendFeed, Facebook Games and Yahoo! Messenger.
+-
+expertise: Design/UI/UX
+-
+link: http://fury.com/
