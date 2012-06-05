@@ -26,7 +26,7 @@ content:
 
 <div class="row padding-small" id="aboutMain">
 	<div class="four columns">
-		<p class="largeP">Our mission is to transform closed markets and create new ones, focusing on mobile first. Learn more about us, our teams, and our approach.</p>
+		<p class="largeP">Our mission is to transform closed markets and create new ones, focusing on mobile first. Learn more about us, our teams and our approach.</p>
 		<a href="@root_path/apply/" class="medium blue radius button">Apply For Our October 2012 Class</a>
 	</div>
 	<div class="eight columns">
@@ -41,7 +41,7 @@ content:
 			</li>
 			<li>
 				<h4><a href="@root_path/about/experts/">Experts »</a></h4>
-				<p class="largeP">Our teams get hands-on help from the best minds in technology, business and entrepreneurship<br />&nbsp;</p>
+				<p class="largeP">Our teams get hands-on help from the best minds in technology, business and entrepreneurship.<br />&nbsp;</p>
 			</li>
 			<li>
 				<h4><a href="@root_path/about/team/">Team »</a></h4>
