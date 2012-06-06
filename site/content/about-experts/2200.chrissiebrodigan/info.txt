@@ -1,6 +1,6 @@
 name: Chrissie Brodigan
 -
-title: Website Lead
+title: UX/IA/IxD Designer
 -
 description: Chrissie is a user advocate and catalyst for testing ideas out on websites. She has helped several startup projects seal up experience leaks and abandonment by designing unique onboarding flows.
 -
