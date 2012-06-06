@@ -17,12 +17,12 @@
 		get "/about-experts" do
 			foreach $children do
 			<li>
-				<div class="peopleFrame">
+				<div class="peopleFrame h-card vcard">
 					:images
-					<h5><a href="@link" target="_blank">@name</a></h5>
+					<h5><a href="@link" target="_blank" class="p-name fn u-url url">@name</a></h5>
 					<small>@title</small>
-					<p>@description</p>
-					<span class="white radius label">@expertise</span>
+					<p class="p-note note">@description</p>
+					<span class="white radius label p-category category">@expertise</span>
 				</div>
 			</li>
 			endforeach
