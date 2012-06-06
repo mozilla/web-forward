@@ -5,5 +5,5 @@ info: Havi Hoffman is a long-time web writer, editor, and content wrangler. A he
 Havi was at Yahoo! during the golden age of web-surfing, and later ran Yahoo! Press, a publishing partnership with O’Reilly Media responsible for titles including "Javascript: The Good Parts" and "Designing Social Interfaces".
 -
 links:
-Twitter: <a href="https://twitter.com/#!/freshelectrons" target="_blank">@freshelectrons</a><br />
-Blog: <a href="http://haviland.tumblr.com/" target="_blank">haviland.tumblr.com</a>
+Twitter: <a class="u-url url" href="https://twitter.com/#!/freshelectrons" target="_blank">@freshelectrons</a><br />
+Blog: <a class="u-url url" href="http://haviland.tumblr.com/" target="_blank">haviland.tumblr.com</a>
