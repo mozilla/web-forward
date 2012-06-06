@@ -7,5 +7,5 @@ Prior to this role, she worked with various startups in marketing and communicat
 When not schmoozing at an event or with Mozillians, Diane can be found putting her cycling students through torturous workouts.
 -
 links:
-Twitter: <a href="https://twitter.com/#!/tbiz" target="_blank">@tbiz</a><br />
-Blog: <a href="http://diane.bz/" target="_blank">http://diane.bz</a>
+Twitter: <a class="u-url url" href="https://twitter.com/#!/tbiz" target="_blank">@tbiz</a><br />
+Blog: <a class="u-url url" href="http://diane.bz/" target="_blank">http://diane.bz</a>
