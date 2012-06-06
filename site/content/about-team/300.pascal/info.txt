@@ -7,5 +7,5 @@ Pascal frequently speaks about Open Innovation on the Web and mentors entreprene
 When he doesn't work you can find him running, teaching pro-runners Pilates or preparing espresso shots.
 -
 links:
-Twitter: <a href="https://twitter.com/#!/pfinette" target="_blank">@pfinette</a><br />
-Blog: <a href="http://blog.finette.com/" target="_blank">blog.finette.com</a>
+Twitter: <a class="u-url url" href="https://twitter.com/#!/pfinette" target="_blank">@pfinette</a><br />
+Blog: <a class="u-url url" href="http://blog.finette.com/" target="_blank">blog.finette.com</a>
