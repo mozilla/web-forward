@@ -15,13 +15,13 @@
 
 get "/about-team" do
 	foreach $children do
-	<div class="row padding">
+	<div class="row padding h-card vcard">
 		<div class="six columns imageFrame">
 			:images
 		</div>
 		<div class="six columns">
-			<h4>@name</h4>
-			<p class="largeP">@info</p>
+			<h4 class="p-name fn">@name</h4>
+			<div class="largeP p-note note">@info</div>
 			<p>@links</p>
 		</div>
 	</div>
