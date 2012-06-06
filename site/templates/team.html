@@ -45,11 +45,11 @@ end
 		get "/about-scouts" do
 			foreach $children do
 			<li>
-				<div class="peopleFrame">
+				<div class="peopleFrame h-card vcard">
 					:images
-					<h5><a href="@link" target="_blank">@name</a></h5>
-					<p>@description</p>
-					<span class="white radius label">@country</span>
+					<h5><a href="@link" target="_blank" class="p-name fn u-url url">@name</a></h5>
+					<p class="p-note note">@description</p>
+					<span class="white radius label p-category category">@country</span>
 				</div>
 			</li>
 			endforeach
