@@ -4,7 +4,7 @@ info: buddycloud is group communication done right. Create a channel and invite 
 -
 more:
 Website: <a href="http://buddycloud.com/" target="_blank">buddycloud.com</a><br />
-Team: Simon Tennant, Tuomas Koski<br />
+Team: <a href="https://mozillians.org/en-US/abmargb" target="_blank">Abmar Barros</a>, <a href="https://mozillians.org/en-US/dodo" target="_blank">Dodo Griffiths</a>, <a href="https://mozillians.org/en-US/imaginator" target="_blank">Simon Tennant</a>, <a href="https://mozillians.org/en-US/tkoski" target="_blank">Tuomas Koski</a><br />
 Twitter: <a href="https://twitter.com/#!/buddycloud" target="_blank">@buddycloud</a>
 -
 link: http://buddycloud.com/
