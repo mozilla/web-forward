@@ -1,7 +1,0 @@
-name: Paul Booker
--
-description: Dad[dy] + Partner, Mozillian, Open *Social* Web Advocate, Drupal Developer, Systems Administrator, Theoretical Physicist, Green, Vegetarian.
--
-link: http://paulbooker.co.uk/
--
-country: UK
