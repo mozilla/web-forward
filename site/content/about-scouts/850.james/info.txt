@@ -1,0 +1,7 @@
+name: James Digby
+-
+description: Englishman in CPH | Founder of @StartupWeekend NL / UK & Global Facilitator | Founding Partner @RockstartAccel | Perpetual traveller
+-
+link: http://twitter.com/digbyj
+-
+country: Denmark
