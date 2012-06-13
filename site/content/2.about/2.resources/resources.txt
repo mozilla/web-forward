@@ -2,10 +2,14 @@ title: Resources
 -
 id: resources
 -
-headline-1: LearnFWD Webinars
+headline-1: Learning Modules
 -
-content-1: These sessions cover various aspects of product development and entrepreneurship. The presenters are world-class experts from diverse disciplines.
+content-1: These videos, exercises and resources are what we put our teams through to transform them into full-fledged businesses. We invite you to not only learn from them, but to also join in and give us your feedback!
 -
-headline-2: Presentations
+headline-2: LearnFWD Webinars
 -
-content-2: A growing collection of brown bag talks and other presentations at Mozilla and around the world, hosted and curated by WebFWD.
+content-2: These sessions cover various aspects of product development and entrepreneurship. The presenters are world-class experts from diverse disciplines.
+-
+headline-3: Presentations
+-
+content-3: A growing collection of brown bag talks and other presentations at Mozilla and around the world, hosted and curated by WebFWD.

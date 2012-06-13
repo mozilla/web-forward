@@ -3,13 +3,43 @@
 
 <!-- main -->
 
-<!-- Webinars -->
+<!-- Learning Modules -->
 <div class="row padding">
 	<div class="four columns">
 		<h3>@headline-1</h3>
 	</div>
 	<div class="eight columns">
 		<p class="largeP">@content-1</p>
+	</div>
+</div>
+
+get "/about-modules" do
+	foreach $children do
+	<div class="row padding">
+		<div class="twelve columns">
+			<ul class="block-grid three-up">
+				<li>
+					<div class="resourcesContent">
+						<a href="@link">:images</a>
+						<p><strong><a href="@link">@topic</a></strong><br />@expert</p>
+						<p>@description</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	endforeach
+end
+
+<!-- Learning Modules -->
+
+<!-- Webinars -->
+<div class="row padding">
+	<div class="four columns">
+		<h3>@headline-2</h3>
+	</div>
+	<div class="eight columns">
+		<p class="largeP">@content-2</p>
 	</div>
 </div>
 
@@ -27,10 +57,10 @@
 <!-- Presentations -->
 <div class="row padding">
 	<div class="four columns">
-		<h3>@headline-2</h3>
+		<h3>@headline-3</h3>
 	</div>
 	<div class="eight columns">
-		<p class="largeP">@content-2</p>
+		<p class="largeP">@content-3</p>
 	</div>
 </div>
 
