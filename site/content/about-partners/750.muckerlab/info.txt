@@ -1,0 +1,5 @@
+name: MuckerLab
+-
+link: http://www.muckerlab.com/
+-
+info: MuckerLab is a mentorship-driven startup accelerator focused on serving Internet software, services and media entrepreneurs in Los Angeles and broader Southern California. MuckerLab aims to accelerate the growth of the overall technology ecosystem in Los Angeles by filling a critical gap currently in the market for start-ups at the earliest stages - resources, infrastructure, capital and guidance.
