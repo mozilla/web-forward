@@ -1,7 +1,0 @@
-name: Grant Goodale
--
-description: Ruby hacker and radical generalist. Chief Janitor at Massively Fun, makers of fine HTML5 gaming experiences.
--
-link: http://twitter.com/ggoodale
--
-country: USA

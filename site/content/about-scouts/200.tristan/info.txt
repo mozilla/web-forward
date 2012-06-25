@@ -1,7 +1,0 @@
-name: Tristan Nitot
--
-description: Passionate about Internet and the Web and what they can offer in terms of innovation and personal freedom.
--
-link: http://standblog.org/
--
-country: France
