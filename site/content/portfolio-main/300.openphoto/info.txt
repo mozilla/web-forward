@@ -4,7 +4,7 @@ info: OpenPhoto is an Open Source photo sharing platform which gives users compl
 -
 more:
 Website: <a href="http://theopenphotoproject.org/" target="_blank">theopenphotoproject.org</a><br />
-Team: <a href="http://www.jaisenmathai.com/" target="_blank">Jaisen Mathai</a>, Patrick Santana, Patrick Boos, Florian Menevis, Preet Jassi, Klaus Komenda, Kitt Hodsden, Peter Sankauskas, John Fabrizio, Gareth Greenaway<br />
+Team: <a href="http://www.jaisenmathai.com/" target="_blank">Jaisen Mathai</a>, <a href="https://twitter.com/#!/patricksantana" target="_blank">Patrick Santana</a><br />
 Twitter: <a href="https://twitter.com/#!/openphoto" target="_blank">@openphoto</a>
 -
 link: http://theopenphotoproject.org/
