@@ -1,0 +1,7 @@
+link: http://blog.webfwd.org/post/26033082927/ux-designing-an-effective-experience-for-your-users
+-
+topic: User Experience
+-
+expert: Brian Dils
+-
+description: Forms and signups may not sound sexy, but they are critical to your business. Learn practical tips on removing the superfluous stuff and have effective conversations with your users to ensure they actually sign up!
