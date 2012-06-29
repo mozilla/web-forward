@@ -1,0 +1,9 @@
+name: Dani Malik
+-
+title: Exec. Director User Experience, Hot Studio
+-
+description: Dani leads the User Experience (UX) team at Hot Studio, helping companies large and small embrace new technologies, define product strategies, and craft approaches to great user experiences. 
+-
+expertise: Design/UI/UX
+-
+link: http://www.hotstudio.com/
