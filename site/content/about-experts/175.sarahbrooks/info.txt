@@ -6,4 +6,4 @@ description: Sarah leads the Social Innovation practice at Hot Studio, collabora
 -
 expertise: Design/UI/UX
 -
-link: http://www.hotstudio.com/
+link: http://networkedculture.tumblr.com/
