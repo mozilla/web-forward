@@ -6,4 +6,4 @@ description: Dani leads the User Experience (UX) team at Hot Studio, helping com
 -
 expertise: Design/UI/UX
 -
-link: http://www.hotstudio.com/
+link: http://www.hotstudio.com/leadership/dani-malik
