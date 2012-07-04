@@ -1,0 +1,7 @@
+name: Kinshuk Sunil
+-
+description: Independent Game Developer, Musician, Curious, Imaginative, Innovative, Composer, Photographer, Human. Mozilla Rep. Student Reps RSC.
+-
+link: http://kinshuksunil.com/
+-
+country: India
