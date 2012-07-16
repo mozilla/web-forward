@@ -38,7 +38,7 @@ news-link-2: http://sprize.synbiota.com/
 -
 news-date-3: Jul, 16th
 -
-news-headline-3: WebFWD Graduation - Sep 19
+news-headline-3: WebFWD Graduation @ Sep 19
 -
 news-content-3: Our teams will show off their stuff and invite you to participate in their success. Details coming soon.
 -
