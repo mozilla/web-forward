@@ -20,15 +20,11 @@ columnheader3: Who
 -
 columntext3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 -
-news-date-1: Jul, 5th
--
 news-headline-1: IHeartCode Hackathon
 -
 news-content-1: If you like to hack and can get to Delhi, India, don't miss IHeartCode's hackathon.
 -
 news-link-1: http://lisa.iheartco.de/
--
-news-date-2: Jul, 1st
 -
 news-headline-2: Synbiota SPrize 2012
 -
@@ -36,9 +32,7 @@ news-content-2: Be a part of the next generation of biology: DIY! Get involved b
 -
 news-link-2: http://sprize.synbiota.com/
 -
-news-date-3: Jul, 16th
--
-news-headline-3: WebFWD Graduation @ Sep 19
+news-headline-3: WebFWD Graduation on Sep 19
 -
 news-content-3: Our teams will show off their stuff and invite you to participate in their success. Details coming soon.
 -
