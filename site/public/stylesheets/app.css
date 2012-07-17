@@ -282,8 +282,11 @@ footer nav li a {
 /* -----------------------------------------
    Page: Blog (tumblr)
 ----------------------------------------- */
-.tumblr li {
+.tumblr p, .tumblr li {
 	font-size: 14px;
+}
+
+.tumblr li {
 	list-style-type: circle;
 	margin-left: 24px;
 }
