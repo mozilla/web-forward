@@ -48,6 +48,10 @@ content:
 				<p class="largeP">WebFWD's team is passionate about helping entrepreneurs around the world build cool and useful things for the future of the Web.</p>
 			</li>
 			<li>
+				<h4><a href="@root_path/about/fund/">WebFWD Fund »</a></h4>
+				<p class="largeP">Through the WebFWD Fund we provide seed capital to selected teams in our program.</p>
+			</li>
+			<li>
 				<h4><a href="@root_path/about/partners/">Partners »</a></h4>
 				<p class="largeP">To make our startups successful, we collaborate with leading service and technology providers.</p>
 			</li>

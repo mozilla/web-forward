@@ -1,0 +1,36 @@
+title: WebFWD Fund
+-
+id: about
+-
+content:
+<div class="row padding">
+	<div class="twelve rows text-center">
+		<h1 class="large">The WebFWD Fund</h1>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve rows">
+		<h2>Overview</h2>
+	</div>
+</div>
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<p class="largeP">The WebFWD Fund was set up to further support projects inside the main WebFWD program, fostering projects which are well on their way to attain financial sustainability. The WebFWD Fund provides seed investment capital to bridge this gap with WebFWD providing long-term support for the projects and their founders.</p>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve rows">
+		<h2>Requirements</h2>
+	</div>
+</div>
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<ul class="circle">
+			<li>Only projects which went through the WebFWD 12-week program are eligible for funding</li>
+			<li>Projects must have proven traction in the market be aligned with Mozilla's mission</li>
+			<li>Projects are encouraged to seek additional outside funding</li>
+		</ul>
+	</div>
+</div>
