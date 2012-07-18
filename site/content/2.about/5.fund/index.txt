@@ -31,7 +31,7 @@ content:
 			<li>Only teams which have completed the WebFWD 12-week program are eligible for funding</li>
 			<li>Proven traction in the market</li>
 			<li>Alignment with Mozilla's mission</li>
-			<li>Projects are encouraged to seek additional outside funding</li>
 		</ul>
+		<p>* Projects are encouraged to seek additional outside funding.</p>
 	</div>
 </div>
