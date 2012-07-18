@@ -16,7 +16,7 @@ content:
 </div>
 <div class="row">
 	<div class="ten rows offset-by-one">
-		<p class="largeP">The WebFWD Fund was established to provide further support to the projects participating in the WebFWD program. The fund will provide seed capital investment to teams who are well on their way to financial sustainability and be augmented with long-term support from WebFWD.</p>
+		<p class="largeP">The WebFWD Fund was established to provide further support to the projects participating in the WebFWD program. The fund will provide seed capital investment to teams who are well on their way to financial sustainability and be augmented with long-term support from WebFWD. Funded teams are encouraged to seek additional sources of funding as well.</p>
 	</div>
 </div>
 
@@ -32,6 +32,5 @@ content:
 			<li>Proven traction in the market</li>
 			<li>Alignment with Mozilla's mission</li>
 		</ul>
-		<p>* Projects are encouraged to seek additional outside funding.</p>
 	</div>
 </div>
