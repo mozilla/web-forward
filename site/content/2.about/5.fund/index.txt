@@ -16,7 +16,7 @@ content:
 </div>
 <div class="row">
 	<div class="ten rows offset-by-one">
-		<p class="largeP">The WebFWD Fund was established to provide further support to the projects participating in the WebFWD program. It will provide cash investment to teams who are well on their way to financial sustainability by providing seed investment capital to bridge this gap with WebFWD providing long-term support for the projects and their founders.</p>
+		<p class="largeP">The WebFWD Fund was established to provide further support to the projects participating in the WebFWD program. The fund will provide seed capital investment to teams who are well on their way to financial sustainability and be augmented with long-term support from WebFWD.</p>
 	</div>
 </div>
 
