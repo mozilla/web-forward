@@ -34,7 +34,7 @@ news-link-2: http://sprize.synbiota.com/
 -
 news-headline-3: WebFWD Graduation on Sep 19
 -
-news-content-3: Our teams will show off their stuff and invite you to participate in their success. Details coming soon.
+news-content-3: Our teams will show off their stuff and invite you to participate in their success. RSVP <a href="http://webfwdgraduation.eventbrite.com/">here</a>.
 -
 news-link-3: #
 -
