@@ -1,0 +1,10 @@
+Name: Open Photo
+----
+Info: OpenPhoto is an Open Source photo sharing platform which gives users complete ownership and portability of their photos. Users’ photos, tags and comments are seamlessly stored into personally owned cloud services owned by themselves. Whatever they want to do or wherever they want to go their photos are free to go with them.
+----
+More:
+Website: <a href="http://theopenphotoproject.org/" target="_blank">theopenphotoproject.org</a><br />
+Team: <a href="http://www.jaisenmathai.com/" target="_blank">Jaisen Mathai</a>, <a href="https://twitter.com/#!/patricksantana" target="_blank">Patrick Santana</a><br />
+Twitter: <a href="https://twitter.com/#!/openphoto" target="_blank">@openphoto</a>
+----
+Link: http://theopenphotoproject.org/

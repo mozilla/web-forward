@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/22621431415/
+----
+Topic: Intro to Tracker
+----
+Expert: Joanne Web, Pivotal Tracker
+----
+Description: Pivotal Labs gives our teams the scoop on how to get up & running with this first-class agile software development tool.
+----

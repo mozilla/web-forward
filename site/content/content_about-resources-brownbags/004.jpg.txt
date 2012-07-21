@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/14623530097/
+----
+Topic: WebFWD - An Overview
+----
+Expert: Diane Bisgeier, Mozilla
+----
+Description: WebFWD’s program manager recaps highlights and lessons learned from the first six months (from launch to Summit), and looks ahead to 2012.
+----

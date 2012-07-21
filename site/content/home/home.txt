@@ -1,0 +1,38 @@
+Title: Home
+----
+ID: home
+----
+Headline: Hit the Accelerator.
+----
+Subheadline: WebFWD helps open source innovators create businesses to change the world.
+----
+ColumnHeader1: What
+----
+ColumnText1: A three-month business creation program for startups around the world. The program consists of weekly training sessions & exercises, office hours with industry experts, ongoing coaching and guidance from the world's best technologists. Upon graduating, teams can qualify for follow-on funding from Mozilla.
+----
+ColumnHeader2: Why
+----
+ColumnText2: Traditional startup accelerator and incubator models aren't designed to address the demands and advantages of open innovation. WebFWD is uniquely positioned to share Mozilla's experience and skill with world-changing, mobile-focused web startups.
+----
+ColumnHeader3: Who
+----
+ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
+----
+NewsHeadline1: IHeartCode Hackathon
+----
+NewsContent1: If you like to hack and can get to Delhi, India, don't miss IHeartCode's hackathon.
+----
+NewsLink1: http://lisa.iheartco.de/
+----
+NewsHeadline2: Synbiota SPrize 2012
+----
+NewsContent2: Be a part of the next generation of biology: DIY! Get involved by entering Synbiota's SPrize Competition.
+----
+NewsLink2: http://sprize.synbiota.com/
+----
+NewsHeadline3: WebFWD Graduation on Sep 19
+----
+NewsContent3: Our teams will show off their stuff and invite you to participate in their success. RSVP <a href="http://webfwdgraduation.eventbrite.com/">here</a>.
+----
+NewsLink3: http://webfwdgraduation.eventbrite.com/
+----

@@ -1,0 +1,9 @@
+Name: Mitchell Baker
+----
+Title: Chairwoman, Mozilla Foundation
+----
+Description: Mitchell is responsible for setting the direction and scope of the Mozilla Foundation and its activities. She leads a worldwide organization of employees and volunteers committed to an open, innovative Web and the infinite possibilities it presents.
+----
+Expertise: Strategy
+----
+Link: http://blog.lizardwrangler.com/

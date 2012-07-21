@@ -1,0 +1,37 @@
+Title: WebFWD Fund
+----
+ID: about
+----
+Main:
+<div class="row padding">
+	<div class="twelve rows text-center">
+		<h1 class="large">The WebFWD Fund</h1>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve rows">
+		<h2>Overview</h2>
+	</div>
+</div>
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<p class="largeP">The WebFWD Fund was established to provide further support to the projects participating in the WebFWD program. The fund will provide seed capital investment to teams who are well on their way to financial sustainability and be augmented with long-term support from WebFWD. Funded teams are encouraged to seek additional sources of funding as well.</p>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve rows">
+		<h2>Requirements</h2>
+	</div>
+</div>
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<ul class="circle">
+			<li>Only teams which have completed the WebFWD 12-week program are eligible for funding</li>
+			<li>Proven traction in the market</li>
+			<li>Alignment with <a href="http://www.mozilla.org/about/manifesto.en.html">Mozilla's mission</a></li>
+		</ul>
+	</div>
+</div>
+----

@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/14590258039/
+----
+Topic: The Apps of Tomorrow
+----
+Expert: Bill Walker, Mozilla
+----
+Description: The Mozilla Labs Apps Project uses Web standards and open technologies to bring app experiences to all of your devices, wherever you are.
+----

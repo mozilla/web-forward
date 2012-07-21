@@ -1,0 +1,8 @@
+Link: http://vid.ly/8l9r4r
+----
+Topic: Software Development Best Practices
+----
+Expert: Mike Hanson, Mozilla
+----
+Description: Mozillian Mike Hanson shares how, when done with planning and thought, software development becomes a key asset for attracting more contributors.
+----

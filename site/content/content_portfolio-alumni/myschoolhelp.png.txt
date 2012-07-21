@@ -1,0 +1,6 @@
+Name: MySchoolHelp
+----
+Info: MySchoolHelp is a place where high school students can find and share notes from their school.
+----
+Link: http://www.myschoolhelp.com/
+----

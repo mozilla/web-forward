@@ -1,0 +1,5 @@
+Name: Braintree
+----
+Link: http://braintreepayments.com/
+----
+Main: Braintree helps businesses process credit card payments by providing a merchant account, payment gateway, recurring billing and credit card storage. They're unlike others in the industry: they think and do things differently and are frequently told by their customers that they are the best payments company they've ever worked with.

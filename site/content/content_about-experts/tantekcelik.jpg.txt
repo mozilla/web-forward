@@ -1,0 +1,9 @@
+Name: Tantek &Ccedil;elik
+----
+Title: Web Standards Lead, Mozilla
+----
+Description: Created microformats, co-founded the microformats.org and barcamp.org communities, develops open standards for Mozilla at IETF, OWF, W3C, and wrote "HTML5 Now". He is dedicated to advancing open standards and simpler data formats for the Web.
+----
+Expertise: Technology/Design
+----
+Link: http://tantek.com/

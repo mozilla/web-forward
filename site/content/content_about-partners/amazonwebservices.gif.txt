@@ -1,0 +1,5 @@
+Name: Amazon Web Services
+----
+Link: http://aws.amazon.com/
+----
+Main: Since early 2006, Amazon Web Services (AWS) has provided companies of all sizes with an infrastructure web services platform in the cloud. With AWS you can requisition compute power, storage, and other services–gaining access to a suite of elastic IT infrastructure services as your business demands them.

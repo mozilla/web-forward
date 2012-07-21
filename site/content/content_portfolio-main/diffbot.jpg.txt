@@ -1,0 +1,10 @@
+Name: Diffbot
+----
+Info: Diffbot looks at the Web with a human set of eyes. We’ve built a robot that examines the Web using artificial intelligence, computer vision, machine learning and natural language processing, and provides software developers with tools to find, extract and understand objects from any Web page for use in their applications. Our goal is to make the Web as readable by machines as it currently is by humans.
+----
+More:
+Website: <a href="http://www.diffbot.com/" target="_blank">diffbot.com</a><br />
+Team: John Davi, Dan Steinberg, Kevin Truong, Mike Tung, Scott Waterman<br />
+Twitter: <a href="https://twitter.com/#!/diffbot" target="_blank">@diffbot</a>
+----
+Link: http://www.diffbot.com/

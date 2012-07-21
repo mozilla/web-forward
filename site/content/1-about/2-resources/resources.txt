@@ -1,0 +1,16 @@
+Title: Resources
+----
+ID: resources
+----
+Headline1: Learning Modules
+----
+Content1: These videos, exercises and resources are what we put our teams through to transform them into full-fledged businesses. We invite you to not only learn from them, but to also join in and give us your feedback!
+----
+Headline2: LearnFWD Webinars
+----
+Content2: These sessions cover various aspects of product development and entrepreneurship. The presenters are world-class experts from diverse disciplines.
+----
+Headline3: Presentations
+----
+Content3: A growing collection of brown bag talks and other presentations at Mozilla and around the world, hosted and curated by WebFWD.
+----

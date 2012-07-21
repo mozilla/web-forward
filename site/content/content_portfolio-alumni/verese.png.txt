@@ -1,0 +1,6 @@
+Name: Verese
+----
+Info: Verese keeps track of your debt and your credit among people in your social circle.
+----
+Link: http://verese.net/
+----

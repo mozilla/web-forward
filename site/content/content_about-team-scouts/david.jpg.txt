@@ -1,0 +1,7 @@
+Name: David Ascher
+----
+Description: I work in Mozilla Labs, thinking about what Mozilla can do beyond today's product offerings.
+----
+Link: http://ascher.ca/
+----
+Country: Canada

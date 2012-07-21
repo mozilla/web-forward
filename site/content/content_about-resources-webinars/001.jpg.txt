@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/11711287170/
+----
+Topic: The old ways of Web design don't work
+----
+Expert: Jonathan Smiley & Matt Kelly, ZURB
+----
+Description: ZURB Interactive Design introduces us to Foundation, their newly released open source framework for iterative and responsive design prototyping.
+----

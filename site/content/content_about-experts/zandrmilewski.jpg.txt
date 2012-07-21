@@ -1,0 +1,9 @@
+Name: Zandr Milewski
+----
+Title: Special Ops, Mozilla Corporation
+----
+Description: Raised in a startup environment, specializes in bridging the gap between Innovation and Operations, making sure the Next Thing can scale to be the Next Big Thing.
+----
+Expertise: Technology
+----
+Link: https://twitter.com/#!/zandr

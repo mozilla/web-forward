@@ -1,0 +1,5 @@
+Name: Errormator
+----
+Link: https://errormator.com/
+----
+Main: Errormator provides a helpful interface to let programmers save time spent on debugging and reproducing errors from a production environment. With Errormator any kind of application can be monitored for information that include exceptions, slow code calls in requests and log entries.

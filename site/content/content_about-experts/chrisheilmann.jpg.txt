@@ -1,0 +1,9 @@
+Name: Chris Heilmann
+----
+Title: Principal Developer Evangelist, Mozilla
+----
+Description: As a seasoned web developer with companies like Yahoo, author of several books and a truckload of presentations at conferences he knows not only how to build things but also how to explain them in a simple and interesting manner.
+----
+Expertise: Community
+----
+Link: http://christianheilmann.com/

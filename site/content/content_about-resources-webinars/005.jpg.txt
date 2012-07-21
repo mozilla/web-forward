@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/12829575514/
+----
+Topic: A Deeper Look at BrowserID
+----
+Expert: Ben Adida, Mozilla
+----
+Description: BrowserID makes it easy for users to manage online identity and sign into websites. Plus it's super easy for developers to implement in their sites.
+----

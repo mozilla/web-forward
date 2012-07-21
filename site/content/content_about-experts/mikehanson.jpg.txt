@@ -1,0 +1,9 @@
+Name: Mike Hanson
+----
+Title: Principal Engineer, Mozilla Labs
+----
+Description: Mike has been a Silicon Valley entrepreneur and inventor for nearly 20 years, with career stops at Apple, Stanford, Reactivity (as co-founder, acquired by Cisco), and Mozilla Labs.
+----
+Expertise: Technology
+----
+Link: http://www.open-mike.org/

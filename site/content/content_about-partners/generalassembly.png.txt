@@ -1,0 +1,5 @@
+Name: General Assembly
+----
+Link: http://generalassemb.ly/
+----
+Main: General Assembly is a campus for technology, design, and entrepreneurship. We provide educational programming, space, and support to facilitate collaborative practices and learning opportunities across a community inspired by the entrepreneurial experience.

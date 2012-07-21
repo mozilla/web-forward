@@ -1,0 +1,5 @@
+Name: Media Temple
+----
+Link: http://mediatemple.net/
+----
+Main: (mt) Media Temple is a web hosting and cloud services provider headquartered in Los Angeles, California. Since 1998, we have provided businesses and consumers around the world with professional-class service to host websites, applications, virtual servers, email, and other rich Internet content. Our infrastructure serves approximately 100,000 customers and over 1 million websites in top-tier datacenters on the east and west coasts of the United States.

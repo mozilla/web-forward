@@ -1,0 +1,10 @@
+Title: WebFWD
+----
+Author: Pascal Finette
+----
+Description: WebFWD helps open source innovators create businesses to change the world.
+----
+Keywords: webfwd, mozilla, incubator, accelerator, open web, startup, entrepreneuer
+----
+Copyright: Portions of this content are © 1998–2012 by individual mozilla.org contributors. Content available under a Creative Commons license (http://www.mozilla.org/foundation/licensing/website-content.html).
+----

@@ -1,0 +1,7 @@
+Name: Sau Sheong Chang
+----
+Description: Director of Applied Research for HP Labs in Singapore. Rubyist, Dataist, currently writing a new book on Ruby and R with O'Reilly.
+----
+Link: http://blog.saush.com/
+----
+Country: Singapore

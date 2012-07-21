@@ -1,0 +1,9 @@
+Name: Bre Pettis
+----
+Title: Founder, MakerBot
+----
+Description: Bre Pettis makes things that make things.
+----
+Expertise: Operations
+----
+Link: http://www.brepettis.com/

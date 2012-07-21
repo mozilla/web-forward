@@ -1,0 +1,10 @@
+Name: Tomahawk
+----
+Info: Tomahawk gives you to access to all of your favorite music in one powerful media player. Seamlessly jump from playing a song off your local machine, to one streaming from your other machines, to a recommendation from Spotify to your favorite indie band on Jamendo. Tomahawk lets you plug-in multiple content sources, connect to your friends and breaks down the barriers between true social music experiences by enabling data portability and sharing across music services and licensing territories.
+----
+More:
+Website: <a href="http://www.tomahawk-player.org/" target="_blank">tomahawk-player.org</a><br />
+Team: <a href="http://about.me/lfranchi/" target="_blank">Leonardo Franchi</a>, <a href="http://www.globallistic.com/" target="_blank">Jason Herskowitz</a>, <a href="http://about.me/jefferai/" target="_blank">Jeff Mitchell</a>, <a href="http://about.me/muesli/" target="_blank">Christian Muehlhaeuser</a>, Dominik Schmidt<br />
+Twitter: <a href="https://twitter.com/#!/tomahawk/" target="_blank">@tomahawk</a>
+----
+Link: http://www.tomahawk-player.org/
