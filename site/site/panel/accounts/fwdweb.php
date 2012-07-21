@@ -5,6 +5,6 @@
 # for your passwords. read more about encryption in the
 # docs: http://getkirby.com/panel/accounts
 
-username: fwdweb
-password: nasa spacex moon mars
+username: username
+password: password
 language: en
