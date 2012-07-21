@@ -1,9 +1,0 @@
-name: Sarah Brooks
--
-title: Director Social Innovation, Hot Studio
--
-description: Sarah leads the Social Innovation practice at Hot Studio, collaborating with social entrepreneurs, non-profits, ngo's and public partners to help support social, ecological and economic transformation.
--
-expertise: Design/UI/UX
--
-link: http://networkedculture.tumblr.com/

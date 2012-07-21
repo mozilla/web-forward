@@ -1,7 +1,0 @@
-name: Fauzan Alfi Agirachman
--
-description: UI-UX designer wannabe. Mozilla ReMo - Regional Leader Bandung. MakeMac.com Editor. Apple user. Student by day, Webcrawler by night.
--
-link: http://www.fauzanalfi.com/
--
-country: Indonesia

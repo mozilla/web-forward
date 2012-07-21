@@ -1,9 +1,0 @@
-name: Garrett Camp
--
-title: Founder, StumbleUpon
--
-description: Garrett has guided StumbleUpon's development since 2001, from inception to more than 15 million registered users. StumbleUpon is now the largest personalized content discovery engine on the web.
--
-expertise: Strategy
--
-link: https://twitter.com/#!/gmc

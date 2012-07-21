@@ -1,7 +1,0 @@
-name: Arky (Rakesh Ambati)
--
-description: Mozilla Community Manager (L10N)
--
-link: http://playingwithsid.blogspot.com/
--
-country: Vietnam

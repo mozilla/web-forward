@@ -1,9 +1,0 @@
-name: Diane Loviglio
--
-title: User Experience Researcher, Mozilla
--
-description: Prior to joining Mozilla, she co-created the first conference to focus on tech failures (FailCon) and co-founded a clean tech startup (Wattbot). She has also worked as a freelance researcher for technology and healthcare startups.
--
-expertise: User Research
--
-link: http://www.dianeloviglio.com/

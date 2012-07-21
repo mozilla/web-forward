@@ -1,7 +1,0 @@
-name: Benjamin Kerensa
--
-description: Benjamin is Team Lead of Ubuntu Oregon, Ubuntu Member, OMG! Ubuntu! Writer and enjoys advocating for Social Causes.
--
-link: http://benjaminkerensa.com/
--
-country: USA

@@ -1,7 +1,0 @@
-name: Evans Gikunda
--
-description: Cool but outstanding. Lover of open source communities.
--
-link: http://twitter.com/Amasy
--
-country: Kenya

@@ -1,7 +1,0 @@
-link: http://blog.webfwd.org/post/27057631574/customer-acquisition-from-product-to-market
--
-topic: Customer Acquisition
--
-expert: Eva Ho
--
-description: You've researched your users and developed your product… but you need people to use it! Identify common key barriers to adoption and tactics to draw people to your offerings.

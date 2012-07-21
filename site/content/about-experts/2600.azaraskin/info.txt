@@ -1,9 +1,0 @@
-name: Aza Raskin
--
-title: Founder, Massive Health
--
-description: Called an interface guru by publications like Wired and Fast Company, Aza is the co-founder of Massive Health, and was until recently Creative Lead for Firefox.
--
-expertise: Design/UI/UX
--
-link: http://www.azarask.in/blog/

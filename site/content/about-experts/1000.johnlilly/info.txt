@@ -1,9 +1,0 @@
-name: John Lilly
--
-title: Partner, Greylock Partners
--
-description: Currently a partner at Greylock Partners that invested in Facebook, LinkedIn and Pandora. Previously CEO of Mozilla, and involved in numerous for-profit and non-profit technology startups.
--
-expertise: Investment
--
-link: http://john.jubjubs.net/

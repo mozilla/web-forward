@@ -1,5 +1,0 @@
-name: Stripe
--
-link: https://stripe.com/
--
-info: Stripe makes it easy to start accepting payments on the web today. Our users include large companies, rapidly-growing start-ups, side projects, and everything in between. We're strong believers in the transformative power of the open web, and we're proud to partner with Mozilla for WebFWD.

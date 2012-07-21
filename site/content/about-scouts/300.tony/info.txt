@@ -1,7 +1,0 @@
-name: Tony Wasserman
--
-description: Professor; FLOSS researcher and advocate; software entrepreneur; world traveler; amateur photographer; progressive; 99% OWS; slow runner.
--
-link: http://twitter.com/twasserman
--
-country: USA

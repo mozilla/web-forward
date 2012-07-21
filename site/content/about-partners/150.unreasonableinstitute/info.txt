@@ -1,5 +1,0 @@
-name: Unreasonable Institute
--
-link: http://unreasonableinstitute.org/
--
-info: The Unreasonable Institute accelerates entrepreneurs tackling the world's greatest social and environmental challenges with mentorship, capital, and a global network. Each year, they unite 25 entrepreneurs from every corner of the globe to live under the same roof for six weeks in Boulder, Colorado. These entrepreneurs receive training from 50 world-class mentors; in the process, they form relationships with 20 investment funds, receive legal advice & design consulting, and pitch to scores of potential investors and partners.

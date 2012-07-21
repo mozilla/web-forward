@@ -1,7 +1,0 @@
-name: Isaac Kosgei
--
-description: I am passionate about Open web projects and I am a keen on youth empowerment programs in East Africa.
--
-link: http://www.kipsizoo.blogspot.com/
--
-country: Kenya

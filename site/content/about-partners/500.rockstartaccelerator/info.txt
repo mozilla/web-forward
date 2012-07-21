@@ -1,5 +1,0 @@
-name: Rockstart Accelerator
--
-link: http://rockstart.com/accelerator/
--
-info: Rockstart is an Amsterdam-based technology accelerator that helps promising teams from around the world launch their startups and break through on a global scale, providing funding, office space, mentorship, coaching and trips to Silicon Valley for its teams.

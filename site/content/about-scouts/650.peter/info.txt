@@ -1,7 +1,0 @@
-name: Peter Neubauer
--
-description: Peter is concentrating on turning OSS into enterprises at Neo4j.org If you want brainstorming - feed him a latte and you are in business.
--
-link: http://www.linkedin.com/in/neubauer
--
-country: Sweden

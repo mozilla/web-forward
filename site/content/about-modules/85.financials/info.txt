@@ -1,7 +1,0 @@
-link: http://blog.webfwd.org/post/26567725454/show-me-the-money-finances-and-metrics
--
-topic: Financials & Metrics
--
-expert: Pascal Finette
--
-description: Create a financial model and an effective set of metrics to accurately track and engineer the growth of your business.

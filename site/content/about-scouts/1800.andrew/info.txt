@@ -1,7 +1,0 @@
-name: Andrew Baker
--
-description: Software engineer and wannabe indie games developer. Working on an HTML5 landscape renderer and PBBG. Principle member of #bbg on Freenode.
--
-link: http://fleetingfantasy.com/
--
-country: UK

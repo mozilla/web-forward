@@ -1,9 +1,0 @@
-name: Enrique Allen
--
-title: Founder, The Designer Fund
--
-description: Enrique’s mission is to inspire startups to empathize & solve latent needs. Before being the founding designer at 500 Startups, he did UX design for Facebook's fbFund & Venrock. He continues to teach with the Stanford d.school & Persuasive Tech Lab.
--
-expertise: Design/UI/UX
--
-link: https://twitter.com/#!/enriqueallen

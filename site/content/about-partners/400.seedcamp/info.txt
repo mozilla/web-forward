@@ -1,5 +1,0 @@
-name: Seedcamp
--
-link: http://seedcamp.com/
--
-info: Seedcamp is an early-stage micro seed investment fund and mentoring programme that was was created to jumpstart the entrepreneurial community in Europe by connecting next generation developers and entrepreneurs with over 1200 mentors. Across 10 global Mini Seedcamps spread throughout the year and our annual week-long forum (Seedcamp Week), we bring together EMEA’s top young founders with a world-class network of mentors in one place.

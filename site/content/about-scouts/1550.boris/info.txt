@@ -1,7 +1,0 @@
-name: Boris Mann
--
-description: Passionate about permalinks. And open data. And open source. And forking. Also, startups, especially if they're in Canada. Likes to eat.
--
-link: http://blog.bmannconsulting.com/
--
-country: Canada

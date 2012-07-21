@@ -1,7 +1,0 @@
-name: Thomas Bassetto
--
-description: JavaScript developer, ParisHackers.org co-founder, long-time Mozilla volunteer. You can find me on startup and tech events in Paris.
--
-link: http://tbassetto.github.com/
--
-country: France

@@ -1,9 +1,0 @@
-name: Mary J. Colvig
--
-title: Director of Contributor Engagement, Mozilla
--
-description: Mary specializes in community instigation and setting the odd world record. She thrives on fostering and converting users and supporters into champions for the Mozilla project.
--
-expertise: Community
--
-link: http://chickswhoclick.wordpress.com/

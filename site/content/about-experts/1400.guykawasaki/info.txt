@@ -1,9 +1,0 @@
-name: Guy Kawasaki
--
-title: Co-Founder Alltop.com & Garage Technology Ventures
--
-description: Guy Kawasaki is the author of Enchantment, co-founder of Alltop.com, and a founding partner at Garage Technology Ventures. Previously, he was the chief evangelist of Apple. Kawasaki is the author of nine other books.
--
-expertise: Strategy
--
-link: http://www.guykawasaki.com/

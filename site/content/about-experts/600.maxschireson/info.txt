@@ -1,9 +1,0 @@
-name: Max Schireson
--
-title: President, 10gen
--
-description: As President of 10gen, Max is responsible for building and extending 10gen/MongoDB's market leadership. Prior to joining 10gen, Max spent 7 years at MarkLogic, where he played a variety of executive roles including Chief Operating Officer.
--
-expertise: Strategy
--
-link: http://maxschireson.com/

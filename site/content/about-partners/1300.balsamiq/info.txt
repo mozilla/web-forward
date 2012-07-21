@@ -1,5 +1,0 @@
-name: Balsamiq
--
-link: http://www.balsamiq.com/
--
-info: Balsamiq is the maker of Mockups and myBalsamiq, the rapid wireframing tools that reproduce the experience of sketching so that teams can focus on what's important when designing interfaces. We're a fast-growing, but small and personable company that competes on usability and service. We believe work should be fun, and that life istoo short for bad software.

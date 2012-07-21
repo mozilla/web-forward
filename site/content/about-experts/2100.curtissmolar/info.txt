@@ -1,9 +1,0 @@
-name: Curtis Smolar
--
-title: Partner, Fox Rotschild LLP
--
-description: Curtis is a business enthusiast and enjoys helping his clients develop their ideas to reality. He assists companies in all stages of their corporate life from inception and incorporation, licensing, securitization, employment/HR issues, to mergers and acquisitions.
--
-expertise: Legal
--
-link: https://twitter.com/#!/csmolar

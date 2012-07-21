@@ -1,7 +1,0 @@
-link: http://blog.webfwd.org/post/25035496165/strategy-a-startups-foundation
--
-topic: Strategy
--
-expert: Pascal Finette
--
-description: Learn how to build an effective strategy to ensure your startup learns quickly and effectively to grow into a healthy business.

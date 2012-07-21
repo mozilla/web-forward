@@ -1,9 +1,0 @@
-name: Arvind Rajan
--
-title: Managing Director Asia Pacific, LinkedIn
--
-description: Based out of Singapore, Arvind heads the operations for LinkedIn for Asia Pacific overseeing existing markets in Australia and India, and driving strategic market entry points in the region.
--
-expertise: Operations
--
-link: https://twitter.com/#!/arajan

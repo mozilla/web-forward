@@ -1,5 +1,0 @@
-name: Hot Studio
--
-link: http://www.hotstudio.com/
--
-info: Hot Studio is a people-centered experience design company. Dedicated to creating elegant solutions for complex design challenges, we collaborate with business leaders, innovative organizations, and emerging companies to create breakthrough products and services that have global reach and local impact.

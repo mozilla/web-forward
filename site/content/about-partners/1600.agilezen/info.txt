@@ -1,5 +1,0 @@
-name: AgileZen
--
-link: http://agilezen.com/
--
-info: AgileZen is an easy-to-use project management tool that helps people organize their work visually and collaborate with a team. More than a simple to-do list, AgileZen shows all the steps work has to go through to be complete and where everything is in the process. This means that a user can quickly see what's important to their team and what needs to be worked on next.

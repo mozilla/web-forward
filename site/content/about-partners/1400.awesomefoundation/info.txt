@@ -1,5 +1,0 @@
-name: The Awesome Foundation
--
-link: http://awesomefoundation.org/
--
-info: The Awesome Foundation for the Arts and Sciences is a global alliance of micro-trustees dedicated to forwarding the interest of awesomeness in the universe. It provides monthly, no-strings-attached grants of $1,000 to support innovative projects and efforts that surprise and delight worldwide.

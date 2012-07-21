@@ -1,5 +1,0 @@
-name: Propelly
--
-info: Propelly allows you to earn from your creativity by offering you a platform to sell your files/digital products with a single link.
--
-link: http://www.propelly.com/

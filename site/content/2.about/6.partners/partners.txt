@@ -1,7 +1,0 @@
-title: Partners
--
-id: partners
--
-headline: Partners
--
-content: WebFWD partners with companies and organizations aligned with WebFWD's mission to accelerate the future of the Web for the public good.

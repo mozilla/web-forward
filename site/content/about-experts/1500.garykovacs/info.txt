@@ -1,9 +1,0 @@
-name: Gary Kovacs
--
-title: CEO, Mozilla Corporation
--
-description: Gary is leading the overall direction of the organization and the Firefox Web browser. Prior to joining Mozilla, Gary held senior leadership roles at Sybase, Adobe and Macromedia.
--
-expertise: Strategy
--
-link: https://twitter.com/#!/mozillagary

@@ -1,5 +1,0 @@
-name: Teens in Tech
--
-link: http://teensintech.com/
--
-info: Teens in Tech Labs provides tools and resources to young entrepreneurs globally to help foster entrepreneurship at a young age. Founded on the premise that entrepreneurship doesn’t happen at a certain age or a certain location, Teens in Tech Labs provides a support community and network to help young entrepreneurs create innovative and disruptive businesses.

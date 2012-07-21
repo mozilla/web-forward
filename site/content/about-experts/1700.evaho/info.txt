@@ -1,9 +1,0 @@
-name: Eva Ho
--
-title: VP Marketing & Operations, Factual
--
-description: Serial entrepreneur - executive at Applied Semantics, Google, founder of Navigating Cancer, sit on boards of edu/health non-profits (First Descents, Iridescent, Whole Child LA). Now focused on solving big data challenges at Factual.
--
-expertise: Marketing
--
-link: https://twitter.com/#!/eva_ho
