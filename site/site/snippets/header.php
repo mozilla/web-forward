@@ -14,25 +14,25 @@
 	<title><?php echo $site->title() ?> | <?php echo $page->title() ?></title>
 
 	<!-- Included CSS Files -->
-	<?php echo css('assets/stylesheets/foundation.min.css') ?>
-	<?php echo css('assets/stylesheets/app.min.css') ?>
-	<?php echo css('https://www.mozilla.org/tabzilla/media/css/tabzilla.css') ?>
+	<link rel="stylesheet" href="/assets/stylesheets/foundation.min.css" />
+	<link rel="stylesheet" href="/assets/stylesheets/app.min.css" />
+	<link rel="stylesheet" href="https://www.mozilla.org/tabzilla/media/css/tabzilla.css" />
 
 	<!--[if lt IE 9]>
-		<?php echo css('assets/stylesheets/ie.min.css') ?>
+		<link rel="stylesheet" href="/assets/stylesheets/ie.min.css" />
 	<![endif]-->
 
 	<!-- Included Modernizr -->
-	<?php echo js('assets/javascripts/modernizr.foundation.js') ?>
+	<script src="/assets/javascripts/modernizr.foundation.js"></script>
 
   <!-- IE Fix for HTML5 Tags -->
   <!--[if lt IE 9]>
-		<?php echo js('http://html5shiv.googlecode.com/svn/trunk/html5.js') ?>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 	
 	<!-- Video JS code -->
-	<?php echo css('assets/stylesheets/video-js.min.css') ?>
-	<?php echo js('assets/javascripts/video.min.js') ?>
+	<link rel="stylesheet" href="/assets/stylesheets/video-js.min.css" />
+	<script src="/assets/javascripts/video.min.js"></script>
 	<script>_V_.options.flash.swf = "/assets/images/video-js/video-js.swf";</script>
 
 	<!-- The ever-so-important FavIcon -->

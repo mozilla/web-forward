@@ -43,10 +43,10 @@
 <a href="/apply/"><img style="position: absolute; top: 0; left: 0; border: 0;" src="/assets/images/apply.png" alt="Apply for Oct class" /></a>
 
 <!-- Included JS Files -->
-<?php echo js('assets/javascripts/jquery.min.js') ?>
-<?php echo js('assets/javascripts/foundation.js') ?>
-<?php echo js('assets/javascripts/app.min.js') ?>
-<?php echo js('https://www.mozilla.org/tabzilla/media/js/tabzilla.js') ?>
+<script src="/assets/javascripts/jquery.min.js"></script>
+<script src="/assets/javascripts/foundation.js"></script>
+<script src="/assets/javascripts/app.min.js"></script>
+<script src="https://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
 
 <!-- Clicky -->
 <script src="//static.getclicky.com/js" type="text/javascript"></script>
