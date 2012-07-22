@@ -4,4 +4,4 @@ Topic: Getting Your License Right
 ----
 Expert: John McGaraghan & Michael Wolk
 ----
-Description: Selecting what licensing scheme to use is critical for software companies - particularly open source ones. These attorneys from Wilson Sonsini walk through the various licensing options and provide guidance on how to align them directly to your business strategy.
+Description: Selecting what licensing scheme to use is critical for software companies - particularly open source ones. These attorneys from Wilson Sonsini walk through the various licensing options and provide guidance.
