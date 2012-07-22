@@ -121,7 +121,7 @@ c::set('url', 'https://yourdomain.com');
 
 */
 
-c::set('ssl', false);
+c::set('ssl', true);
 
 
 /*
