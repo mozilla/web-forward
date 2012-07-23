@@ -50,11 +50,11 @@
 		<a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
 		<nav id="mainNavigation">
 			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/about/">About</a></li>
-				<li><a href="/portfolio/">Portfolio</a></li>
+				<li><a href="/"<?php echo ($site->uri()->path()->first() == '') ? ' class="current"' : '' ?>>Home</a></li>
+				<li><a href="/about/"<?php echo ($site->uri()->path()->first() == 'about') ? ' class="current"' : '' ?>>About</a></li>
+				<li><a href="/portfolio/"<?php echo ($site->uri()->path()->first() == 'portfolio') ? ' class="current"' : '' ?>>Portfolio</a></li>
 				<li><a href="http://blog.webfwd.org/">Blog</a></li>
-				<li><a href="/apply/">Apply</a></li>
+				<li><a href="/apply/"<?php echo ($site->uri()->path()->first() == 'apply') ? ' class="current"' : '' ?>>Apply</a></li>
 			</ul>
 		</nav>
 		<h1><a href="/"><img src="/assets/images/sandstone/logo.png" alt="WebFWD" /></a></h1>

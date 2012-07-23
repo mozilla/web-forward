@@ -1,22 +1,3 @@
-/* Foundation v2.2.1 http://foundation.zurb.com */
-jQuery(document).ready(function ($) {
-
-	/* Use this js doc for all application specific JS */
-
-	/* ADD STYLING TO MAIN NAVIGATION ----------- */
-	var nav_items = document.getElementById('mainNavigation').getElementsByTagName('a');
-	var stripped_url = document.location.href.match(/([^\/]+)\/(#.+)?$/)[1];
-	for(var i = 0; i < nav_items.length; i++) {
-		var slug = nav_items[i].href.match(/([^\/]+)\/$/);
-		var stripped_href = (slug) ? slug[1] : '';
-		if(stripped_url == stripped_href) {
-			nav_items[i].className = 'current';
-			break;
-		}
-	}
-
-});
-
 $(window).load(function() {
 	$('#featured').orbit({
 		animation: 'horizontal-push',			// fade, horizontal-slide, vertical-slide, horizontal-push
