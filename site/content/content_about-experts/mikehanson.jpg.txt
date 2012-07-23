@@ -6,4 +6,4 @@ Description: Mike has been a Silicon Valley entrepreneur and inventor for nearly
 ----
 Expertise: Technology
 ----
-Link: http://www.open-mike.org/
+Link: https://twitter.com/michaelrhanson/
