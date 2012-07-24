@@ -1,2 +1,5 @@
 .DS_Store
-/site/app/_cache/*
+/site/cache/*
+/site/config/*
+/site/panel/accounts/*
+/site/thumbs/*
