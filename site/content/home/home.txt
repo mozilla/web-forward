@@ -24,9 +24,9 @@ NewsContent1: If you like to hack and can get to Delhi, India, don't miss IHeart
 ----
 NewsLink1: http://lisa.iheartco.de/
 ----
-NewsHeadline2: Synbiota SPrize 2012
+NewsHeadline2: Startup Office Hours
 ----
-NewsContent2: Be a part of the next generation of biology: DIY! Get involved by entering Synbiota's SPrize Competition.
+NewsContent2: Have questions about your startup? Chat with @pfinette or @dianeb in the #webfwd <a href="http://irc.mozilla.org">Mozilla IRC channel</a> each Wed at 7pm UTC.
 ----
 NewsLink2: http://sprize.synbiota.com/
 ----
