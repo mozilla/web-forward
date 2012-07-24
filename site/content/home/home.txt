@@ -26,9 +26,9 @@ NewsLink1: http://lisa.iheartco.de/
 ----
 NewsHeadline2: Startup Office Hours
 ----
-NewsContent2: Have questions about your startup? Chat with @pfinette or @dianeb in the #webfwd <a href="http://irc.mozilla.org">Mozilla IRC channel</a> each Wed at 7pm UTC.
+NewsContent2: Have questions about your startup? Chat with @pfinette or @dianeb in the #webfwd <a href="http://irc.mozilla.org/">Mozilla IRC channel</a> each Wed at 7pm UTC.
 ----
-NewsLink2: http://sprize.synbiota.com/
+NewsLink2: http://irc.mozilla.org/
 ----
 NewsHeadline3: WebFWD Graduation on Sep 19
 ----
