@@ -44,7 +44,7 @@ c::set('url', '/');
  
 */
 
-c::set('url', false);
+c::set('url', '/');
 
 
 /* 
