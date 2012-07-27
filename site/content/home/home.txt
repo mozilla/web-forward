@@ -32,7 +32,7 @@ NewsLink2: http://irc.mozilla.org/
 ----
 NewsHeadline3: WebFWD Graduation on Sept 19
 ----
-NewsContent3: Our teams will show off their stuff and invite you to participate in their success. RSVP <a href="http://webfwdgraduation.eventbrite.com/">here</a>.
+NewsContent3: Our teams will show off their stuff and invite you to participate in their success. Please RSVP <a href="http://webfwdgraduation.eventbrite.com/">here</a>.
 ----
 NewsLink3: http://webfwdgraduation.eventbrite.com/
 ----
