@@ -18,11 +18,11 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1: IHeartCode Hackathon
+NewsHeadline1: buddycloud Summit Aug 4-5
 ----
-NewsContent1: If you like to hack and can get to Delhi, India, don't miss IHeartCode's hackathon.
+NewsContent1: Be a part of the next generation of social enterprise in Munich and via Google Hangout.
 ----
-NewsLink1: http://lisa.iheartco.de/
+NewsLink1: http://blog.buddycloud.com/post/28045414582/buddycloud-summit-v1-0-and-hackathon
 ----
 NewsHeadline2: Startup Office Hours
 ----
