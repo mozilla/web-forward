@@ -18,11 +18,11 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1: buddycloud Summit Aug 4-5
+NewsHeadline1: Building an Open Source Business - Sept 12
 ----
-NewsContent1: Be a part of the next generation of social enterprise in Munich and via Google Hangout.
+NewsContent1: A panel of open source entrepreneurs will explore the ways to make money with open source models.
 ----
-NewsLink1: http://blog.buddycloud.com/post/28045414582/buddycloud-summit-v1-0-and-hackathon
+NewsLink1: http://opensourcebiz.eventbrite.com/
 ----
 NewsHeadline2: Startup Office Hours
 ----
