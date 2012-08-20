@@ -18,21 +18,21 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1: Building an Open Source Business -<br /> Sept 12
+NewsHeadline1: WebFWD at SxSW
 ----
-NewsContent1: A panel of open source entrepreneurs will explore the ways to make money with open source models.
+NewsContent1: Want to see us discuss WebFWD at SxSW? Vote for our panel and leave a comment.
 ----
-NewsLink1: http://opensourcebiz.eventbrite.com/
+NewsLink1: http://panelpicker.sxsw.com/vote/238
 ----
-NewsHeadline2: Startup Office Hours
+NewsHeadline2: Mixer with Rockstart Sep 18
 ----
-NewsContent2: Have questions about your startup? Chat with @pfinette or @dianeb in the #webfwd <a href="http://irc.mozilla.org/">Mozilla IRC channel</a> each Wed at 7pm UTC.
+NewsContent2: Meet startups from our partner accelerator in Amsterdam.
 ----
-NewsLink2: http://irc.mozilla.org/
+NewsLink2: http://rockstartatmozilla.eventbrite.com/
 ----
-NewsHeadline3: WebFWD Graduation on Sept 19
+NewsHeadline3: Building an Open Source Business -<br /> Sept 12
 ----
-NewsContent3: Our teams will show off their stuff and invite you to participate in their success. Please RSVP <a href="http://webfwdgraduation.eventbrite.com/">here</a>.
+NewsContent3: A panel of open source entrepreneurs will explore the ways to make money with open source models.
 ----
-NewsLink3: http://webfwdgraduation.eventbrite.com/
+NewsLink3: http://opensourcebiz.eventbrite.com/
 ----
