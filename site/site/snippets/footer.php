@@ -20,6 +20,7 @@
 						<li><a href="https://twitter.com/#!/MozWebFWD">Twitter</a></li>
 						<li><a href="https://www.facebook.com/webfwd">Facebook</a></li>
 						<li><a href="https://mail.mozilla.org/listinfo/webfwd-all">Newsletter</a></li>
+						<li><a href="https://www.google.com/calendar/b/0/embed?src=p8f1sspddudoko6oecne0efkog@group.calendar.google.com&ctz=America/Los_Angeles">Events</a></li>
 					</ul>
 				</nav>
 			</div>
