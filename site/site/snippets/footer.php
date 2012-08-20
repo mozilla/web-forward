@@ -20,13 +20,13 @@
 						<li><a href="https://twitter.com/#!/MozWebFWD">Twitter</a></li>
 						<li><a href="https://www.facebook.com/webfwd">Facebook</a></li>
 						<li><a href="https://mail.mozilla.org/listinfo/webfwd-all">Newsletter</a></li>
-						<li><a href="https://www.google.com/calendar/b/0/embed?src=p8f1sspddudoko6oecne0efkog@group.calendar.google.com&ctz=America/Los_Angeles">Events</a></li>
 					</ul>
 				</nav>
 			</div>
 			<div class="three columns">
 				<nav>
 					<ul>
+						<li><a href="https://www.google.com/calendar/b/0/embed?src=p8f1sspddudoko6oecne0efkog@group.calendar.google.com&ctz=America/Los_Angeles">Events</a></li>
 						<li><a href="http://www.flickr.com/photos/69751921@N07/sets/72157627996680613/detail/">In the Press</a></li>
 						<li><a href="http://www.mozilla.org/privacy-policy.html">Privacy Policy</a></li>
 						<li><a href="http://www.mozilla.org/about/legal.html">Legal Notices</a></li>
