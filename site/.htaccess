@@ -46,9 +46,3 @@ RewriteRule ^(.*) index.php [L]
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on 
-
-# Make sure Apache is serving the right content headers
-
-AddType video/ogg .ogv
-AddType video/mp4 .mp4
-AddType video/webm .webm
