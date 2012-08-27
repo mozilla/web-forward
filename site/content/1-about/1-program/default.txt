@@ -32,14 +32,28 @@ Main:
 
 <div class="row padding">
 	<div class="twelve rows">
-		<h2>A bit of history</h2>
+		<h2>Fall 2012 Schedule</h2>
 	</div>
 </div>
 <div class="row">
 	<div class="ten rows offset-by-one">
-		<p class="largeP">Mozilla is an open source success story – a not-for-profit organization with talented volunteer contributors and staff around the world. It’s no wonder that gifted entrepreneurs and technology innovators often approach us for help with their own ideas.</p>
-		<p class="largeP">In years past, we’ve extended ad hoc support. We believed that by taking a more programmatic approach, we could extend our ability to foster innovation and support others who share our vision of an open and accessible Web. WebFWD was born in the summer of 2011 with two teams and a vision for sustaining open source startups via coaching and access to technical and professional resources.</p>
-		<p class="largeP">During our first 8 months we grew to <a href="/portfolio/">14 teams</a> with members in 5 countries. We built a significant library of <a href="/about/resources/">resources</a> and roster of world-class <a href="/about/partners/">partners</a>. As the program grew, we came to believe that teams would benefit even more from an intensive curriculum, supported by coached, focussed development and culminating in a graduation event.</p>
-		<p class="largeP">In June 2012, we fine-tuned the program, developing an aggressive 8-week curriculum of teaching and deliverables supported by expert office hours. These sessions are followed by 4 focused weeks of building, accompanied by mentorship and office hours as needed. At graduation time, we evaluate funding for qualifying projects as a way to continue our support beyond the 12-week program.</p>
+		<p class="largeP">Every week our teams receive a video and homework assignments on the following topics. While these are also posted on our resources page, our teams will also meet as a group to walk through the assignments and learn from one another, and have the opportunity to connect directly with our industry experts on the specific topics.</p>
+		<p class="largeP">Here's our upcoming schedule - feel free to join along by learning from our Resources page! And if you have any thoughts on our curriculum, email us at <a href="mailto:webfwd@mozilla.com">webfwd@mozilla.com</a></p>
+		<ul>
+			<li>October 1 &mdash; Program Kick Off: Team introductions and Orientation to Mozilla</li>
+			<li>October 8 &mdash; Initial Team Pitches</li>
+			<li>October 15 &mdash; Strategy: Create an Evergreen Roadmap to Track You For Success</li>
+			<li>October 22 &mdash; User Research: Know Their Pain and Build the Right Solutions</li>			
+			<li>October 29 &mdash; User Experience: Optimize Your Solutions So They Are Actually Used</li>			
+			<li>November 5 &mdash; Financials & Metrics: Build a Reliable, Accurate Model for your Cash and Key Success Metrics</li>			
+			<li>November 12 &mdash; Legal Issues: Licensing, Founders Rights</li>			
+			<li>November 19 &mdash; User Acquisition: Master Some Best Practices to Pull In Users Early</li>			
+			<li>November 26 &mdash; THANKSGIVING (actually falls on 11/22)</li>			
+			<li>December 4 &mdash; Branding & Positioning: Draw Off Your Work To Best Position Yourself in the Market</li>			
+			<li>December 11 &mdash; Community Marketing: Multiply Your Impact by Actively Engaging Your Users</li>			
+			<li>December 18 &mdash; Pitch Practice</li>			
+			<li>Week of January 7, 2013 &mdash; Graduation</li>			
+		</ul>
+		<p class="largeP">Future classes will start in February, May and October.</p>
 	</div>
 </div>
