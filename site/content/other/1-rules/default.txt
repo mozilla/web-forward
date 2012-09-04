@@ -11,8 +11,8 @@ Main:
 
 <div class="row">
 	<div class="ten rows offset-by-one">
-	  <p>WebFWD is a community. We created the program to foster innovation through collaboration to help you accelerate your progress. This means that you will play an active role to create, rather than just consume. You, your team, the other participants, our mentors, friends, the wider Mozilla crew and the WebFWD team are this community.</p>
-	  <p>Our community has a few ground rules. Play nicely by them, become an active participant and enjoy the ride.</p>
+	  <p class="largeP">WebFWD is a community. We created the program to foster innovation through collaboration to help you accelerate your progress. This means that you will play an active role to create, rather than just consume. You, your team, the other participants, our mentors, friends, the wider Mozilla crew and the WebFWD team are this community.</p>
+	  <p class="largeP">Our community has a few ground rules. Play nicely by them, become an active participant and enjoy the ride.</p>
 	  <ol>
 	    <li><strong>Be active.</strong> Share, engage, discuss. Our central hub for this is Yammer.</li>
 	    <li><strong>Be helpful.</strong> We all have specific areas of strength. Offer help in your area of expertise.</li>
@@ -24,7 +24,7 @@ Main:
 	    <li><strong>Help us build.</strong> Provide feedback and spread the word about WebFWD.</li>
 	    <li><strong>Have fun.</strong> Without fun, all this other stuff is meaningless.</li>
 	  </ol>
-		<p>As a <strong>WebFWD Fellow</strong> we ask you to give back and pay forward to the Mozilla community. You do so by:</p>
+		<p class="largeP">As a <strong>WebFWD Fellow</strong> we ask you to give back and pay forward to the Mozilla community. You do so by:</p>
 		<ol>
 			<li><strong>Educating</strong> the Mozilla community on both your product and the way you operate through brown bags, webinars and in-person meetings at least once every month</li>
 			<li><strong>Writing</strong> guest blog posts about your project, progress, etc on a semimonthly basis</li>
@@ -32,6 +32,6 @@ Main:
 			<li><strong>Share</strong> in-depth project updates on our team call at least once per quarter</li>
 			<li><strong>Promote</strong> Mozilla and WebFWD</li>
 		</ol>
-		<p>As a rule of thumb, plan to spend about half-a-day per week on these contribution activities.</p>
+		<p class="largeP">As a rule of thumb, plan to spend about half-a-day per week on these contribution activities.</p>
 	</div>
 </div>
