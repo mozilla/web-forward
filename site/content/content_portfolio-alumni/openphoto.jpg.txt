@@ -1,0 +1,6 @@
+Name: Open Photo
+----
+Info: OpenPhoto is an Open Source photo sharing platform which gives users complete ownership and portability of their photos.
+----
+Link: http://theopenphotoproject.org/
+----

@@ -1,0 +1,6 @@
+Name: Entropy Wave
+----
+Info: Entropy Wave provides complete systems for video encoding and distribution to content producers and distributors.
+----
+Link: http://entropywave.com/
+----

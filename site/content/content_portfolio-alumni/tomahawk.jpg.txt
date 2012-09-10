@@ -1,0 +1,6 @@
+Name: Tomahawk
+----
+Info: Tomahawk gives you to access to all of your favorite music in one powerful media player.
+----
+Link: http://www.tomahawk-player.org/
+----

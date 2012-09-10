@@ -1,0 +1,6 @@
+Name: buddycloud
+----
+Info: buddycloud is group communication done right.
+----
+Link: http://buddycloud.com/
+----

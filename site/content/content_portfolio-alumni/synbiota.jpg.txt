@@ -1,0 +1,6 @@
+Name: Synbiota
+----
+Info: Synbiota is building a bio-lab in a browser.
+----
+Link: http://www.synbiota.com/
+----
