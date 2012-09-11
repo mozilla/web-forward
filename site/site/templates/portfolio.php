@@ -37,7 +37,7 @@
 	</div>
 </div>
 
-<div class="row padding">
+<div class="row padding" id="past">
 	<div class="twelve columns">
 		<ul class="block-grid four-up">
 		<?php $files = $pages->find('content_portfolio-alumni'); ?>

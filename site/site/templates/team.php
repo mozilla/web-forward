@@ -37,7 +37,7 @@
 	</div>
 </div>
 
-<div class="row padding">
+<div class="row padding" id="scouts">
 	<div class="twelve columns">
 		<ul class="block-grid two-up">
 		<?php $files = $pages->find('content_about-team-scouts'); ?>
