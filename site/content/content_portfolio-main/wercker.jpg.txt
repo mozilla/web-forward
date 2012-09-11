@@ -1,10 +1,10 @@
 Name: Wercker
 ----
-Info: Knights of Ni, we are but simple travelers who seek the enchanter who lives beyond these woods. Well, what do you want? You can't expect to wield supreme power just 'cause some watery tart threw a sword at you! We shall say 'Ni' again to you, if you do not appease us. Found them? In Mercia?! The coconut's tropical!
+Info: Wercker is a continuous deployment SaaS platform that helps developers reduce risk and eliminate waste in their software development process by enabling them to test and deploy their code often, in a hassle-free way. We’re building an integral platform for how software gets deployed on the internet and the cloud.
 ----
 More:
 Website: <a href="http://beta.wercker.com/" target="_blank">beta.wercker.com</a><br />
-Team: REPLACE<br />
+Team: Micha Hernandez Van Leuffen<br />
 Twitter: <a href="https://twitter.com/wercker" target="_blank">@wercker</a>
 ----
 Link: http://beta.wercker.com/

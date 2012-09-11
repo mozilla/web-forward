@@ -1,10 +1,10 @@
 Name: Open Jumpstarts
 ----
-Info: Knights of Ni, we are but simple travelers who seek the enchanter who lives beyond these woods. Well, what do you want? You can't expect to wield supreme power just 'cause some watery tart threw a sword at you! We shall say 'Ni' again to you, if you do not appease us. Found them? In Mercia?! The coconut's tropical!
+Info: OpenJumpstarts is an open and free marketplace for one-click web applications. Developers who build web apps and even Wordpress Themes or Drupal-based sites want other developers and users to try out their applications, but face a high barrier to entry from requirements to set up a local server, database, configurations, etc. Now with OpenJumpstarts, developers can turn their web apps into Jumpstarts; they receive a “Try it now" button to place on their website allowing any visitor to launch their app in under 30 seconds.
 ----
 More:
 Website: <a href="http://openjumpstarts.org/" target="_blank"> openjumpstarts.org </a><br />
-Team: REPLACE<br />
+Team: Maciej "Ski" Skierkowski<br />
 Twitter: <a href="https://twitter.com/OpenJumpstarts" target="_blank">@OpenJumpstarts</a>
 ----
 Link: http://openjumpstarts.org/
