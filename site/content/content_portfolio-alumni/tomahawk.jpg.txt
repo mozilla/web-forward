@@ -1,6 +1,6 @@
 Name: Tomahawk
 ----
-Info: Tomahawk gives you to access to all of your favorite music in one powerful media player.
+Info: Tomahawk is a universal music player allowing you to listen to a song regardless of  which music repository, streaming service or geographic territory it originates from.
 ----
 Link: http://www.tomahawk-player.org/
 ----

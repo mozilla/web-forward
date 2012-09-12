@@ -1,0 +1,6 @@
+Name: CASH Music
+----
+Info: CASH Music is a nonprofit organization focused on artist sustainability through education and open technology.
+----
+Link: http://cashmusic.org/
+----

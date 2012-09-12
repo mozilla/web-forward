@@ -1,6 +1,6 @@
 Name: buddycloud
 ----
-Info: buddycloud is group communication done right.
+Info: buddycloud provides custom communications channels for groups to collaborate and share various forms of media.
 ----
 Link: http://buddycloud.com/
 ----
