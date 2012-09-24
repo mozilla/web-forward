@@ -18,21 +18,21 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1: Building an Open Source Business -<br /> Sept 12
+NewsHeadline1: TEDxSanLuisObispo - Sept 28
 ----
-NewsContent1: A panel of open source entrepreneurs will explore the ways to make money with open source models.
+NewsContent1: Diane will share lessons from the Mozilla community.
 ----
-NewsLink1: http://opensourcebiz.eventbrite.com/
+NewsLink1: http://tedxsanluisobispo.com
 ----
-NewsHeadline2: Mixer with Rockstart Sep 18
+NewsHeadline2: Optimizing For Innovation - Sept 27
 ----
-NewsContent2: Meet startups from our partner accelerator in Amsterdam.
+NewsContent2: Pascal will get at the heart of what innovation is.
 ----
-NewsLink2: http://rockstartatmozilla.eventbrite.com/
+NewsLink2: http://www.connecting-group.com/Web/EventOverview.aspx?Identificador=27
 ----
-NewsHeadline3: WebFWD Graduation Sep 19
+NewsHeadline3: TEDxOrange Coast - Oct 10
 ----
-NewsContent3: Come watch our teams graduate in-person or via livestream! 
+NewsContent3: Pascal will share on how new ways to define Relevance. 
 ----
-NewsLink3: http://webfwdgraduation.eventbrite.com
+NewsLink3: http://www.tedxorangecoast.com
 ----
