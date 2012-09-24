@@ -26,7 +26,7 @@
 <div class="row padding-small" id="aboutMain">
 	<div class="four columns">
 		<p><?php echo $page->about() ?></p>
-		<a href="/apply/" class="medium blue radius button">Apply For Our October 2012 Class</a>
+		<a href="/apply/" class="medium blue radius button">Apply For Our February 2013 Class</a>
 	</div>
 	<div class="eight columns">
 		<ul class="block-grid two-up">
