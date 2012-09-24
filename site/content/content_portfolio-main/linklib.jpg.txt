@@ -1,6 +1,6 @@
 Name: Linklib
 ----
-Info: Linklib is an open, user generated library of video commentary that lets you add links to videos and send them to a second screen. A Twitter-like feed is sent to your phone or tablet in sync with the video so that the links are precisely coupled with whatever is happening on the big screen. This way you can watch a film in full screen without distractions and choose to read the links on your phone either during or after the film. Filmmakers and production companies can empower and engage their audiences with facts, deleted scenes, making-of material and commercial links. Film audiences can add facts and comments or simply dig deeper into good, reliable information about the movies, TV-shows and amateur clips they love.
+Info: Linklib is an open, user generated library of video commentary that lets you add links to videos and send them to a second screen. A Twitter-like feed is sent to your phone or tablet in sync with the video so that the links are precisely coupled with whatever is happening on the big screen. Filmmakers and production companies empower and engage their audiences with facts, deleted scenes, making-of material and commercial links. Film audiences can add facts and comments or simply dig deeper into good, reliable information about the movies, TV-shows and amateur clips they love.
 ----
 More:
 Website: <a href="http://linklib.org/" target="_blank">linklib.org</a><br />
