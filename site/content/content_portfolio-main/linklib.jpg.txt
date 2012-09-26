@@ -4,6 +4,6 @@ Info: Linklib is an open, user generated library of video commentary that lets y
 ----
 More:
 Website: <a href="http://linklib.org/" target="_blank">linklib.org</a><br />
-Team: Simon Klose, Hampus Söderström<br />
+Team: Simon Klose<br />
 ----
 Link: http://linklib.org/
