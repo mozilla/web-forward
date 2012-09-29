@@ -1,0 +1,5 @@
+Name: Google Developers
+----
+Link: https://developers.google.com/
+----
+Main: Google Startup Developer Pack for startups less than 3 years old, have less than $500,000 in annual revenue; have fewer than 25 employees; have received less than $2M in funding; are in the web/cloud/software space; and must not be a provider of gambling services, adult content, or involved in any illegal activities.

@@ -1,0 +1,5 @@
+Name: NephoScale
+----
+Link: http://www.nephoscale.com/
+----
+Main: NephoScale, a pioneer in high performance programmable infrastructure-as-a-service (IaaS), has created a next-generation cloud infrastructure platform that sets a new standard for ease-of-use, automation, collaboration, and governance. Use the CloudScript orchestration tool to manage all resources, applications stacks, code, and their associated dependencies with a single easy-to-use “living” document. NephoScale services include cloud virtual servers, on-demand SSD based bare metal physical servers, and highly redundant object-based cloud storage.
