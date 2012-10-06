@@ -18,21 +18,21 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1: TEDxSanLuisObispo - Sept 28
+NewsHeadline1:  TEDxOrange Coast - Oct 10
 ----
-NewsContent1: Diane will share lessons from the Mozilla community.
+NewsContent1: Pascal will share on how new ways to define Relevance.
 ----
-NewsLink1: http://tedxsanluisobispo.com
+NewsLink1: http://www.tedxorangecoast.com
 ----
-NewsHeadline2: Optimizing For Innovation - Sept 27
+NewsHeadline2: HTML5DevConf, Oct 15-16
 ----
-NewsContent2: Pascal will get at the heart of what innovation is.
+NewsContent2: Diane will share on building your developer community.
 ----
-NewsLink2: http://www.connecting-group.com/Web/EventOverview.aspx?Identificador=27
+NewsLink2: http://html5devconf.com/
 ----
-NewsHeadline3: TEDxOrange Coast - Oct 10
+NewsHeadline3: Global Mobile Internet Conference Silicon Valley (GMIC-SV), Oct 16-18
 ----
-NewsContent3: Pascal will share on how new ways to define Relevance. 
+NewsContent3: Pascal will judge and mentor promising mobile startups.
 ----
-NewsLink3: http://www.tedxorangecoast.com
+NewsLink3: http://www.gmic-sv.com/g-startup/
 ----
