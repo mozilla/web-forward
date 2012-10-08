@@ -32,7 +32,7 @@ NewsLink2: http://html5devconf.com/
 ----
 NewsHeadline3: Global Mobile Internet Conference Silicon Valley (GMIC-SV), Oct 16-18
 ----
-NewsContent3: Pascal will judge and mentor promising mobile startups.
+NewsContent3: Pascal will mentor promising mobile startups.
 ----
 NewsLink3: http://www.gmic-sv.com/g-startup/
 ----
