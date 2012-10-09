@@ -1,9 +1,9 @@
 Name: Jane Finette
 ----
-Title: Director of User Engagement, Mozilla Firefox
+Title: Entrepreneur in Residence, Astia
 ----
-Description: Jane leads global user engagement and acquisition for Mozilla Firefox. Jane held various positions at eBay, Sotheby's and Channel Advisor, crafting her art of marketing over the past 15 years.
+Description: Jane is a community and engagement expert, and is currently working on her next big thing. Previously held leadership positions at Mozilla, eBay, Sotheby's, Channel Advisor, and founded several start-ups in Europe.
 ----
-Expertise: Marketing/PR/Media
+Expertise: Marketing/Community/Media
 ----
 Link: http://janefinette.com/
