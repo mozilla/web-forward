@@ -1,0 +1,5 @@
+Name: Blossom
+----
+Link: http://www.blossom.io/
+----
+Main: Blossom is a very lightweight project management tool for building mobile and web applications. In a nutshell it's a virtual board with a bunch of cards on it but at the same time incredibly powerful. Blossom shows you who is working on what, the flow of a feature from inception until delivery and whether you are doing too many things at the same time. Blossom is heavily Inspired by the Lean Startup movement and ideal for teams who ship early and often.
