@@ -1,6 +1,0 @@
-Name: Bubbls
-----
-Info: Bubbls is a social platform that helps young adults plan events and hangouts. We’re a website and mobile app.
-----
-Link: http://www.bubbls.com/
-----
