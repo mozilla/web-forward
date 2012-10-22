@@ -31,9 +31,11 @@
   <![endif]-->
 	
 	<!-- Video JS code -->
+	<!--
 	<link rel="stylesheet" href="/assets/stylesheets/video-js.css" />
 	<script src="/assets/javascripts/video.min.js"></script>
 	<script>_V_.options.flash.swf = "/assets/images/video-js/video-js.swf";</script>
+	-->
 
 	<!-- The ever-so-important FavIcon -->
 	<link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.png" />
