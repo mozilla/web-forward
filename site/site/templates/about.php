@@ -37,6 +37,15 @@
 	<script>_V_.options.flash.swf = "/assets/images/video-js/video-js.swf";</script>
 	-->
 
+	<!-- Modal Code -->
+	<script type="text/javascript">
+  $(document).ready(function() {
+    $('#buttonForModal').click(function() {
+      $('#myModal').reveal();
+    });
+  });
+  </script>
+
 	<!-- The ever-so-important FavIcon -->
 	<link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.png" />
 </head>
@@ -91,7 +100,7 @@
 	<div class="four columns">
 		<p><?php echo $page->about() ?></p>
 		<a href="/apply/" class="medium blue radius button">Apply For Our February 2013 Class</a>
-		<p><a href="#" class="button" data-reveal-id="myModal2">Click Me For A Modal</a></p>
+		<p><a href="#" class="button" data-reveal-id="myModal2" id="buttonForModal">Click Me For A Modal</a></p>
 	</div>
 	<div class="eight columns">
 		<ul class="block-grid two-up">
