@@ -15,7 +15,7 @@
 
 	<!-- Included CSS Files -->
 	<link rel="stylesheet" href="/assets/stylesheets/foundation.min.css" />
-	<link rel="stylesheet" href="/assets/stylesheets/app.min.css" />
+	<link rel="stylesheet" href="/assets/stylesheets/app.css" />
 	<link rel="stylesheet" href="https://www.mozilla.org/tabzilla/media/css/tabzilla.css" />
 
 	<!--[if lt IE 9]>

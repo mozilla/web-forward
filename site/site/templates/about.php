@@ -28,7 +28,9 @@
 		<p><?php echo $page->about() ?></p>
 		<a href="/apply/" class="medium blue radius button">Apply For Our February 2013 Class</a>
 		<p><a href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">here</a></p>
-		<div id="light" class="white_content"><p><a href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'" class="medium blue radius button">Close</a></p></div>
+		<div id="light" class="white_content">
+			<iframe src="http://player.vimeo.com/video/52167567?badge=0&amp;autoplay=1" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">Close</a></p
+		</div>
 		<div id="fade" class="black_overlay"></div>
 	</div>
 	<div class="eight columns">
