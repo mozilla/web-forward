@@ -61,11 +61,13 @@
 
 <!-- VIDEO POPUP -->
 <div id="myModal" class="reveal-modal">
-	<video class="video-js vjs-default-skin" controls preload="auto" data-setup="{}" width="404" height="229" controls preload poster="https://beta.webfwd.org/assets/images/webfwd_promotion.jpg">
-		<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.mp4" type='video/mp4'>
-		<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.webm" type='video/webm'>
-		<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.ogv" type="video/ogg" />
-	</video>
+	<p>
+		<video controls preload="auto" data-setup="{}" controls preload poster="https://beta.webfwd.org/assets/images/webfwd_promotion.jpg">
+			<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.mp4" type='video/mp4'>
+			<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.webm" type='video/webm'>
+			<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.ogv" type="video/ogg" />
+		</video>
+	</p>
 	<a class="close-reveal-modal">&#215;</a>
 </div>
 <!-- /VIDEO POPUP -->
