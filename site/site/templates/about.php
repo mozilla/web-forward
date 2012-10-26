@@ -27,7 +27,7 @@
 	<div class="four columns">
 		<p><?php echo $page->about() ?></p>
 		<a href="/apply/" class="medium blue radius button">Apply For Our February 2013 Class</a>
-		<p><a href="#" data-reveal-id="myModal">Test</a></p>
+		<p><a href="#" data-reveal-id="myModal" data-animation="fade">Test</a></p>
 	</div>
 	<div class="eight columns">
 		<ul class="block-grid two-up">
