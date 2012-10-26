@@ -59,11 +59,12 @@
 	</div>
 </div>
 
+<!-- VIDEO POPUP -->
 <div id="myModal" class="reveal-modal">
-	<h1>Reveal Modal Goodness</h1>
-	<p>This is a default modal in all its glory, but any of the styles here can easily be changed in the CSS.</p>
+	<iframe src="http://player.vimeo.com/video/52167567?badge=0&amp;autoplay=1" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 	<a class="close-reveal-modal">&#215;</a>
 </div>
+<!-- /VIDEO POPUP -->
 
 <!-- /MAIN -->
 
