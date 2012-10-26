@@ -47,6 +47,7 @@
 <script src="/assets/javascripts/jquery.min.js"></script>
 <script src="/assets/javascripts/foundation.js"></script>
 <script src="/assets/javascripts/app.min.js"></script>
+<script src="/assets/javascripts/jquery.reveal.js"></script>
 <script src="https://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
 
 <!-- Clicky -->
