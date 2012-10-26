@@ -60,8 +60,7 @@
 </div>
 
 <!-- VIDEO POPUP -->
-<div id="myModal" class="reveal-modal">
-	<p>
+<div id="myModal" class="reveal-modal" style="width:800px;">
 		<video controls preload="auto" data-setup="{}" controls preload poster="https://beta.webfwd.org/assets/images/webfwd_promotion.jpg">
 			<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.mp4" type='video/mp4'>
 			<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.webm" type='video/webm'>
