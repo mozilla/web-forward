@@ -27,7 +27,6 @@
 	<div class="four columns">
 		<p><?php echo $page->about() ?></p>
 		<a href="/apply/" class="medium blue radius button">Apply For Our February 2013 Class</a>
-		<p><a href="#" data-reveal-id="myModal" data-animation="fade">Test</a></p>
 	</div>
 	<div class="eight columns">
 		<ul class="block-grid two-up">
@@ -58,18 +57,6 @@
 		</ul>
 	</div>
 </div>
-
-<!-- VIDEO POPUP -->
-<div id="myModal" class="reveal-modal">
-	<video controls preload="auto" data-setup="{}" controls preload poster="https://beta.webfwd.org/assets/images/webfwd_promotion.jpg">
-		<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.mp4" type='video/mp4'>
-		<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.webm" type='video/webm'>
-		<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.ogv" type="video/ogg" />
-	</video>
-	<a class="close-reveal-modal">&#215;</a>
-</div>
-<!-- /VIDEO POPUP -->
-
 <!-- /MAIN -->
 
 <?php snippet('footer') ?>
