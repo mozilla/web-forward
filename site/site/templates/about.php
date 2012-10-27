@@ -60,13 +60,8 @@
 </div>
 
 <!-- VIDEO POPUP -->
-<div id="myModal" class="reveal-modal" style="width:800px;">
-		<video controls preload="auto" data-setup="{}" controls preload poster="https://beta.webfwd.org/assets/images/webfwd_promotion.jpg">
-			<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.mp4" type='video/mp4'>
-			<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.webm" type='video/webm'>
-			<source src="https://beta.webfwd.org/assets/images/webfwd_promotion.ogv" type="video/ogg" />
-		</video>
-	</p>
+<div id="myModal" class="reveal-modal">
+	<iframe src="http://player.vimeo.com/video/52167567?byline=0&amp;portrait=0&amp;badge=0&amp;autoplay=1" width="800" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 	<a class="close-reveal-modal">&#215;</a>
 </div>
 <!-- /VIDEO POPUP -->
