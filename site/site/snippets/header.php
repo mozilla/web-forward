@@ -32,7 +32,7 @@
 	
 	<!-- Video JS code -->
 	<link rel="stylesheet" href="/assets/stylesheets/video-js.css" />
-	<script src="/assets/javascripts/video.js"></script>
+	<script src="/assets/javascripts/video.min.js"></script>
   <script>
     _V_.options.flash.swf = "/assets/images/video-js/video-js.swf";
   </script>
