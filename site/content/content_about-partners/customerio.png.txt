@@ -1,0 +1,5 @@
+Name: Customer.io
+----
+Link: http://customer.io/
+----
+Main: Customer.io helps online businesses (like you) to create happier customers. Our product makes it easy for you to send email based on what people do (or don't do) in your web or mobile app. You wont have to do exports from your database or write complex code in your app. We're proponents of the Open Web and happy to help participants of WebFWD any way we can.
