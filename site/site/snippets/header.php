@@ -25,20 +25,32 @@
 	<!-- Included Modernizr -->
 	<script src="/assets/javascripts/modernizr.foundation.js"></script>
 
-  <!-- IE Fix for HTML5 Tags -->
-  <!--[if lt IE 9]>
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
 		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+	<![endif]-->
 	
 	<!-- Video JS code -->
 	<link rel="stylesheet" href="/assets/stylesheets/video-js.css" />
 	<script src="/assets/javascripts/video.min.js"></script>
-  <script>
-    _V_.options.flash.swf = "/assets/images/video-js/video-js.swf";
-  </script>
+	<script>
+		_V_.options.flash.swf = "/assets/images/video-js/video-js.swf";
+	</script>
 
 	<!-- The ever-so-important FavIcon -->
 	<link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.png" />
+
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-35433268-9']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
 </head>
 
 <body id="<?php echo $page->id() ?>">

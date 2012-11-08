@@ -49,11 +49,6 @@
 <script src="/assets/javascripts/app.min.js"></script>
 <script src="https://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
 
-<!-- Clicky -->
-<script src="//static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(66455590); }catch(e){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66455590ns.gif" /></p></noscript>
-
 <!-- Page Generated: <?php echo $site->modified() ?> // WebFWD -->
 </body>
 </html>
