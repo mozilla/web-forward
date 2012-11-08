@@ -1,7 +1,7 @@
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>    	<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>		<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 7]>        <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    	<html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8" />
@@ -12,15 +12,15 @@
 	<title>WebFWD {block:PostSummary}| {PostSummary}{/block:PostSummary}</title>
 
 	<!-- Included CSS Files -->
-	<link rel="stylesheet" href="https://webfwd.org/stylesheets/foundation.min.css" />
-	<link rel="stylesheet" href="https://webfwd.org/stylesheets/app.min.css" />
+	<link rel="stylesheet" href="https://webfwd.org/assets/stylesheets/foundation.min.css" />
+	<link rel="stylesheet" href="https://webfwd.org/assets/stylesheets/app.min.css" />
 	<link rel="stylesheet" href="http://www.mozilla.org/tabzilla/media/css/tabzilla.css" />
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="https://webfwd.org/stylesheets/ie.min.css">
 	<![endif]-->
 	
-	<script src="https://webfwd.org/javascripts/modernizr.foundation.js"></script>
+	<script src="https://webfwd.org/assets/javascripts/modernizr.foundation.js"></script>
 
 	<!-- IE Fix for HTML5 Tags -->
 	<!--[if lt IE 9]>
@@ -28,19 +28,31 @@
 	<![endif]-->
 	
 	<!-- Video JS code -->
-	<link rel="stylesheet" href="https://webfwd.org/stylesheets/video-js.min.css" />
-	<script src="https://webfwd.org/javascripts/video.min.js"></script>
-	<script>_V_.options.flash.swf = "https://webfwd.org/images/video-js/video-js.swf";</script>
+	<link rel="stylesheet" href="https://webfwd.org/assets/stylesheets/video-js.min.css" />
+	<script src="https://webfwd.org/assets/javascripts/video.min.js"></script>
+	<script>_V_.options.flash.swf = "https://webfwd.org/assets/images/video-js/video-js.swf";</script>
 
 	<!-- Sublime Video JS code -->
 	<script type="text/javascript" src="http://cdn.sublimevideo.net/js/jzzorzdl.js"></script>
 
 	<!-- The ever-so-important FavIcon -->
-	<link rel="shortcut icon" type="image/x-icon" href="https://webfwd.org/images/favicon.png" />
+	<link rel="shortcut icon" type="image/x-icon" href="https://webfwd.org/assets/images/favicon.png" />
 
 	<!-- RSS Feed -->
 	<link rel="alternate" type="application/rss+xml" href="http://blog.webfwd.org/rss" />
 	
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-35433268-9']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+
 	<!-- Generated: @updated -->
 </head>
 <body id="blog">
@@ -60,7 +72,7 @@
 								<li><a href="https://webfwd.org/apply/">Apply</a></li>
 							</ul>
 						</nav>
-						<h1><a href="/"><img src="https://webfwd.org/images/sandstone/logo.png" alt="WebFWD" /></a></h1>
+						<h1><a href="/"><img src="https://webfwd.org/assets/images/sandstone/logo.png" alt="WebFWD" /></a></h1>
 					</header>
 				</div>
 				<!-- navigation -->
@@ -103,7 +115,7 @@
 	<footer>
 		<div class="row">
 			<div class="three columns">
-				<a href="http://www.mozilla.org/" class="footer-logo"><img src="https://webfwd.org/images/sandstone/footer-mozilla.png" alt="mozilla" /></a>
+				<a href="http://www.mozilla.org/" class="footer-logo"><img src="https://webfwd.org/assets/images/sandstone/footer-mozilla.png" alt="mozilla" /></a>
 			</div>
 			<div class="three columns">
 				<p>Portions of this content are ©1998–2012 by individual mozilla.org contributors. Content available under a <a href="http://www.mozilla.org/foundation/licensing/website-content.html">Creative Commons license</a>.</p>
@@ -136,23 +148,9 @@
 <!-- outer-wrapper -->
 
 <!-- Included JS Files -->
-<script src="https://webfwd.org/javascripts/jquery.min.js"></script>
-<script src="https://webfwd.org/javascripts/foundation.js"></script>
+<script src="https://webfwd.org/assets/javascripts/jquery.min.js"></script>
+<script src="https://webfwd.org/assets/javascripts/foundation.js"></script>
 <script src="http://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
-
-<!-- Clicky -->
-<script type="text/javascript">
-	var clicky_site_ids = clicky_site_ids || [];
-	clicky_site_ids.push(66455093);
-	(function() {
-		var s = document.createElement('script');
-		s.type = 'text/javascript';
-		s.async = true;
-		s.src = '//static.getclicky.com/js';
-		( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-	})();
-</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66455093ns.gif" /></p></noscript>
 
 </body>
 </html>
