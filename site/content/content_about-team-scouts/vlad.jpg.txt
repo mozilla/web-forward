@@ -1,0 +1,7 @@
+Name: Vlad Maniac
+----
+Description: Front end person and an enthusiastic (check my name for reference) Mozillian. I like talking JS. I follow anything honorable and fun.
+----
+Link: http://mozilla.ro/
+----
+Country: Romania
