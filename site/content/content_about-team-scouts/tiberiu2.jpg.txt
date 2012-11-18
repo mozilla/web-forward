@@ -1,0 +1,7 @@
+Name: Tiberiu Covaci
+----
+Description: For the past 10 years I dedicated my life to improve the quality of the software written by other people.
+----
+Link: http://www.many-core.net
+----
+Country: Romania
