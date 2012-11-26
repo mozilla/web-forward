@@ -18,21 +18,21 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1:  How To Web, Nov 7-8
+NewsHeadline1:  Tues, Nov 27 - Open Data Meetup
 ----
-NewsContent1: Diane will join entrepreneurs and accelerators in Eastern Europe.
+NewsContent1: Hear from <a href="http://triv.io">triv.io</a> and others
 ----
-NewsLink1: http://2012.howtoweb.co/
+NewsLink1: http://www.meetup.com/Open-Data-Bay-Area/events/90418522/
 ----
-NewsHeadline2: Silicon Valley Comes to the Baltics, Nov 15-16
+NewsHeadline2: Wed Dec 12 - WebGL Meetup
 ----
-NewsContent2: Diane will share lessons from the Valley with Baltic entrepreneurs.
+NewsContent2: Hear from <a href="http://sketchfab.com/">Sketchfab</a>
 ----
-NewsLink2: http://svc2baltics.com/
+NewsLink2: http://www.meetup.com/WebGL-Developers-Meetup/events/92089402/
 ----
-NewsHeadline3: MozCamp Asia, Nov 16-18
+NewsHeadline3: Wed Jan 23 - WebFWD Graduation
 ----
-NewsContent3: Didem and various WebFWD Scouts will connect with Mozillians in Asia.
+NewsContent3: Mark your calendars - details to come!
 ----
-NewsLink3: https://wiki.mozilla.org/MozCampAsia2012
+NewsLink3: #
 ----
