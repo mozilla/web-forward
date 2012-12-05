@@ -18,21 +18,21 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1:  Tues, Nov 27 - Open Data Meetup
+NewsHeadline1: Wed Dec 12 - WebGL Meetup
 ----
-NewsContent1: Hear from <a href="http://triv.io">triv.io</a> and others
+NewsContent1: Hear from <a href="http://sketchfab.com/">Sketchfab</a>
 ----
-NewsLink1: http://www.meetup.com/Open-Data-Bay-Area/events/90418522/
+NewsLink1: http://www.meetup.com/WebGL-Developers-Meetup/events/92089402/
 ----
-NewsHeadline2: Wed Dec 12 - WebGL Meetup
+NewsHeadline2: Wed Jan 23 - WebFWD Graduation
 ----
-NewsContent2: Hear from <a href="http://sketchfab.com/">Sketchfab</a>
+NewsContent2: Mark your calendars - details to come!
 ----
-NewsLink2: http://www.meetup.com/WebGL-Developers-Meetup/events/92089402/
+NewsLink2: #
 ----
-NewsHeadline3: Wed Jan 23 - WebFWD Graduation
+NewsHeadline3: Late January
 ----
-NewsContent3: Mark your calendars - details to come!
+NewsContent3: Deadline for next WebFWD Class
 ----
-NewsLink3: #
+NewsLink3: http://webfwd.org/apply
 ----
