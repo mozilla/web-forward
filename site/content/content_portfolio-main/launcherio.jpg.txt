@@ -1,0 +1,10 @@
+Name: Launcher.io
+----
+Info: Launcher.io is an open and free marketplace for one-click web applications. Developers who build web apps and even Wordpress Themes or Drupal-based sites want other developers and users to try out their applications, but face a high barrier to entry from requirements to set up a local server, database, configurations, etc. Now with Launcher.io, developers can turn their web apps into jumpstarts; they receive a “Try it now" button to place on their website allowing any visitor to launch their app in under 30 seconds.
+----
+More:
+Website: <a href="http://launcher.io/" target="_blank"> launcher.io </a><br />
+Team: Maciej "Ski" Skierkowski<br />
+Twitter: <a href="https://twitter.com/launcherio" target="_blank">@Olauncherio</a>
+----
+Link: http://launcher.io/
