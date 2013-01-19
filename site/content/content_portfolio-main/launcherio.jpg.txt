@@ -5,6 +5,6 @@ Info: Launcher.io is an open and free marketplace for one-click web applications
 More:
 Website: <a href="http://launcher.io/" target="_blank"> launcher.io </a><br />
 Team: Maciej "Ski" Skierkowski<br />
-Twitter: <a href="https://twitter.com/launcherio" target="_blank">@Olauncherio</a>
+Twitter: <a href="https://twitter.com/launcherio" target="_blank">@launcherio</a>
 ----
 Link: http://launcher.io/
