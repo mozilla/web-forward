@@ -24,7 +24,7 @@ NewsContent1: Join us at our Graduation & Demo Day where our teams will present 
 ----
 NewsLink1: http://webfwd2graduation.eventbrite.com
 ----
-NewsHeadline2: Thu Jan 31 - Deadline for next WebFWD Class
+NewsHeadline2: Thu Jan 31 - Deadline for applications
 ----
 NewsContent2: Don't miss the deadline to apply for next WebFWD Class
 ----
