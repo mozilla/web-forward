@@ -18,21 +18,21 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1: Wed Dec 12 - WebGL Meetup
+NewsHeadline1: Wed Jan 23 - WebFWD Graduation
 ----
-NewsContent1: Hear from <a href="http://sketchfab.com/">Sketchfab</a>
+NewsContent1: Join us at our Graduation & Demo Day where our teams will share more on their projects as well as what they need from you, whether it be connections, marketing, or funding.
 ----
-NewsLink1: http://www.meetup.com/WebGL-Developers-Meetup/events/92089402/
+NewsLink1: http://webfwd2graduation.eventbrite.com
 ----
-NewsHeadline2: Wed Jan 23 - WebFWD Graduation
+NewsHeadline2: Thu Jan 31 - Deadline for next WebFWD Class
 ----
-NewsContent2: Mark your calendars - details to come!
+NewsContent2: Don't miss the deadline to apply for next WebFWD Class
 ----
-NewsLink2: #
+NewsLink2: http://webfwd.org/apply
 ----
-NewsHeadline3: Late January
+NewsHeadline3: #
 ----
-NewsContent3: Deadline for next WebFWD Class
+NewsContent3: #
 ----
-NewsLink3: http://webfwd.org/apply
+NewsLink3: #
 ----
