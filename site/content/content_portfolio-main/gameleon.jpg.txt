@@ -1,8 +1,7 @@
 Name: Gameleon
 ----
-Info: Gameleon is a web platform that enables users to create, publish and play HMTL5 games using only a browser! It doesn’t require any programming skills on the user's behalf. For all intents and purposes, we're Wordpress for Game Creators.
-We are providing a browser-based cloud editor where games may be developed and assets (skins, maps, scripts, etc.) may be traded in the integrated marketplace.
-In a nutshell, we're helping developers create games fast, easy, from everywhere, in a collaborative fashion. They can also monetize via premium services or licensing on the marketplace
+Info: Gameleon is a web platform that enables users to create, publish and play HMTL5 games using only a browser! It doesn’t require any programming skills on the user's behalf. 
+In a nutshell, Gameleon is helping developers create games fast, easy, from everywhere, in a collaborative fashion. For all intents and purposes, it's Wordpress for Game Creators.
 ----
 More:
 Website: <a href="http://gameleon.co/" target="_blank">Gameleon</a><br />

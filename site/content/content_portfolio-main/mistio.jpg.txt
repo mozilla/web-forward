@@ -1,6 +1,6 @@
 Name: mist.io
 ----
-Info: mist.io helps you manage and monitor your virtual machines on multiple public and private clouds using your mobile phone, tablet or laptop. With mist.io, you can create, destroy, reboot and tag virtual machines. More importantly, you can execute shell commands through the web, using an interface optimized for touchscreens. Furthermore, mist.io gathers detailed usage statistics for your virtual machines and you are able to configure events that trigger email & sms notifications or automated responses (e.g. restarting services, auto-deploying virtual machines when the load increases)
+Info: mist.io helps you manage and monitor your virtual machines on multiple public and private clouds using your mobile phone, tablet or laptop. With mist.io, you can create, destroy, reboot and tag virtual machines. More importantly, you can execute shell commands through the web, using an interface optimized for touchscreens. Furthermore, mist.io gathers detailed usage statistics for your virtual machines and you are able to configure events that trigger email & sms notifications or automated responses.
 ----
 More:
 Website: <a href="https://mist.io/" target="_blank">mist.io</a><br />

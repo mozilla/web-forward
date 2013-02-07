@@ -1,6 +1,6 @@
 Name: Craftyy
 ----
-Info: Crafty
+Info: Craftyy
 ----
 More:
 Website: <a href="http://www.craftyy.com/" target="_blank"> Craftyy </a><br />

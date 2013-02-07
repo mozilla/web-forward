@@ -5,6 +5,6 @@ Info: Appsembler's mission is to elevate the open source ecosystem and make open
 More:
 Website: <a href="http://appsembler.com" target="_blank">Appsembler</a><br />
 Team: Nate Aune<br />
-Twitter: <a href="https://twitter.com/appsembler" target="_blank">@Happsembler</a>
+Twitter: <a href="https://twitter.com/appsembler" target="_blank">@appsembler</a>
 ----
 Link: http://appsembler.com/

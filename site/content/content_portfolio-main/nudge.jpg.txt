@@ -1,6 +1,6 @@
 Name: Nudge
 ----
-Info: Nudge is a better way to build websites. Our web-based platform lets individuals and teams design, develop, and manage projects in one place, on a single stack. 
+Info: Nudge is a better way to build websites. Its web-based platform lets individuals and teams design, develop, and manage projects in one place, on a single stack. 
 ----
 More:
 Website: <a href="http://nudgepad.com/" target="_blank">Nudge</a><br />
