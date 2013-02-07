@@ -1,0 +1,10 @@
+Name: Craftyy
+----
+Info: Crafty
+----
+More:
+Website: <a href="http://www.craftyy.com/" target="_blank"> Craftyy </a><br />
+Team: Jason Church, Nick Liow<br />
+Twitter: 
+----
+Link: http://www.craftyy.com/

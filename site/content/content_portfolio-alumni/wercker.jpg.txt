@@ -1,0 +1,5 @@
+Name: Wercker
+----
+Info: Wercker is a continuous deployment SaaS platform that helps developers reduce risk and eliminate waste in their software development process by enabling them to test and deploy their code often, in a hassle-free way. 
+----
+Link: http://beta.wercker.com/

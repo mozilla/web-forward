@@ -1,0 +1,5 @@
+Name: Launcher.io
+----
+Info: Launcher.io is an open and free marketplace for one-click web applications.
+----
+Link: http://launcher.io/

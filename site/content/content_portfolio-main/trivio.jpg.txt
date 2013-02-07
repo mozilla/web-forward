@@ -1,9 +1,0 @@
-Name: triv.io
-----
-Info: Triv.io makes managing a scalable data processing pipelines dead simple.  With triv.io you can transform massive amounts of poorly structured data on a regular basis. Regardless of the size and whether your data exists in log files, multiple databases or even at the end of a web API we help you store, transform and share your data with others. 
-----
-More:
-Website: <a href="http://www.triv.io/" target="_blank">triv.io</a><br />
-Team: Scott Robertson
-----
-Link: http://www.triv.io/
