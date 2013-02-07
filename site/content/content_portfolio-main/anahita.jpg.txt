@@ -1,6 +1,6 @@
 Name: Anahita
 ----
-Info: Anahita ® is an open source and developer friendly social networking platform and framework that helps you build social web and mobile app services in less time by utilizing the reusable design patterns that exist in all social networks called the nodes-graphs-stories architecture.
+Info: Anahita® is an open source and developer friendly social networking platform and framework that helps you build social web and mobile app services in less time by utilizing the reusable design patterns that exist in all social networks called the nodes-graphs-stories architecture.
 ----
 More:
 Website: <a href="http://www.anahitapolis.com" target="_blank">Anahita</a><br />
