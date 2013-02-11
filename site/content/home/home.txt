@@ -18,17 +18,17 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1: Wed Jan 23 - WebFWD Graduation
+NewsHeadline1: Fri Feb 15 - OSOM - Open Source Open Mind, 4 EvolutiON Program
 ----
-NewsContent1: Join us at our Graduation & Demo Day where our teams will present their projects.
+NewsContent1: If you're in Bucharest and interested in learning about Open Source, you may want to join the event. There will be a WebFWD session too. 
 ----
-NewsLink1: http://webfwd2graduation.eventbrite.com
+NewsLink1: http://osom.ro/2013/02/osom-4-evolution-program/
 ----
-NewsHeadline2: Thu Jan 31 - Deadline for applications
+NewsHeadline2: Tue Feb 19 - WebFWD III New Cohort Mixer
 ----
-NewsContent2: Don't miss the deadline to apply for next WebFWD Class
+NewsContent2: Come meet our newest batch of teams!
 ----
-NewsLink2: http://webfwd.org/apply
+NewsLink2: http://webfwd3kickoff.eventbrite.com/
 ----
 NewsHeadline3: 
 ----
