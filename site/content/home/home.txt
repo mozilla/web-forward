@@ -20,7 +20,7 @@ ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web te
 ----
 NewsHeadline1: Fri Feb 15 - OSOM 4 EvolutiON Program
 ----
-NewsContent1: OSOM - Open Source Open Mind in Buscharest, Romania. Join to learn about Open Source. There will also be a session on WebFWD. 
+NewsContent1: OSOM - Open Source Open Mind in Bucharest, Romania. Join to learn about Open Source. There will also be a session on WebFWD. 
 ----
 NewsLink1: http://osom.ro/2013/02/osom-4-evolution-program/
 ----
