@@ -18,9 +18,9 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
 ----
-NewsHeadline1: Fri Feb 15 - OSOM - Open Source Open Mind, 4 EvolutiON Program
+NewsHeadline1: Fri Feb 15 - OSOM 4 EvolutiON Program
 ----
-NewsContent1: If you're in Bucharest and interested in learning about Open Source, you may want to join the event. There will be a WebFWD session too. 
+NewsContent1: OSOM - Open Source Open Mind in Buscharest, Romania. Join to learn about Open Source. There will also be a session on WebFWD. 
 ----
 NewsLink1: http://osom.ro/2013/02/osom-4-evolution-program/
 ----
