@@ -1,0 +1,11 @@
+Name: Mobozi
+----
+Info: Mobozi is building a mobile web platform for creating, collecting, and managing user generated media. Mobile devices have become huge media creation tools, however very little of this sharing is done through the mobile web. We are utilizing HTML5 to make dealing with media over the web just as easy and enjoyable as through a native app.
+----
+More:
+Website: <a href="www.mobozi.com" target="_blank">Mobozi</a><br />
+Team: Nicholas Gottlieb, Raj Sen Sharma<br />
+AngelList: <a href="https://angel.co/mobozi" target="_blank">Mobozi</a><br />
+Twitter: <a href="https://twitter.com/Mobozi" target="_blank">@Mobozi</a>
+----
+Link: www.mobozi.com

@@ -1,11 +1,12 @@
 Name: Gameleon
 ----
-Info: Gameleon is a web platform that enables users to create, publish and play HMTL5 games using only a browser! It doesn’t require any programming skills on the user's behalf. 
-In a nutshell, Gameleon is helping developers create games fast, easy, from everywhere, in a collaborative fashion. For all intents and purposes, it's Wordpress for Game Creators.
+Info: Gameleon is a cloud-based web platform that allows users to make their own multiplayer browser game or to gamify an activity without any programming skills or experience. It's a completely visual tool that will be accessible on any HTML5-enabled device, as will any game created with it. It also handles the hosting and publishing of users’ web games and will allow them to monetize their creations.
 ----
 More:
 Website: <a href="http://gameleon.co/" target="_blank">Gameleon</a><br />
 Team: Victor Popescu, Vlad Radu<br />
+AngelList: <a href="https://angel.co/gameleon" target="_blank">Gameleon</a>
 Twitter: <a href="https://twitter.com/GameleonMain" target="_blank">@GameleonMain</a>
+Facebook: <a href="http://goo.gl/O2F9Y" target="_blank">Gameleon</a>
 ----
 Link: http://gameleon.co/

@@ -1,10 +1,11 @@
 Name: Vizme
 ----
-Info: Vizme
+Info: Vizme is an HTML5 app development platform that simplifies and accelerates the creation, storage, testing, and hosting of fully cross-platform (desktop and mobile) web and hybrid apps and sites. Vizme integrates over 1,300 open-source and public libraries  into one coherent platform and automates over 500 development tasks.
 ----
 More:
 Website: <a href="http://www.vizme.com//" target="_blank">Vizme</a><br />
 Team: Scott Ernst, Dan Mayhew<br />
-Twitter: 
+AngelList: <a href="https://angel.co/vizme" target="_blank">Vizme</a><br />
+Twitter: <a href="https://twitter.com/vizme" target="_blank">@vizme</a>
 ----
 Link: http://www.vizme.com/

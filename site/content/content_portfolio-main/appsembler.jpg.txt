@@ -1,10 +1,11 @@
 Name: Appsembler
 ----
-Info: Appsembler's mission is to elevate the open source ecosystem and make open source software more accessible. Our curated marketplace of ready-to-run open source web apps makes it easier for non-technical people to find, try and buy apps. Developers and vendors can register apps, set a monthly price and earn money by selling subscriptions on their own website using our 1-click try-before-you-buy widget. Appsembler takes care of the hosting, billing and other promotional services, in exchange for a cut of the monthly recurring revenue.
+Info: Appsembler's mission is to elevate the open source ecosystem and make open source software more accessible. Our curated marketplace of ready-to-run open source web apps makes it easier for non-technical people to find, try and buy apps. Developers and vendors can register apps, set a monthly price and earn money by selling subscriptions on their own website using our 1-click try-before-you-buy widget.
 ----
 More:
 Website: <a href="http://appsembler.com" target="_blank">Appsembler</a><br />
 Team: Nate Aune<br />
+AngelList: <a href="http://angel.co/appsembler" target="_blank">Appsembler</a>
 Twitter: <a href="https://twitter.com/appsembler" target="_blank">@appsembler</a>
 ----
 Link: http://appsembler.com/

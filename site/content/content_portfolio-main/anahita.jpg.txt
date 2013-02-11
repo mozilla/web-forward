@@ -1,10 +1,11 @@
 Name: Anahita
 ----
-Info: Anahita® is an open source and developer friendly social networking platform and framework that helps you build social web and mobile app services in less time by utilizing the reusable design patterns that exist in all social networks called the nodes-graphs-stories architecture.
+Info: Anahita ® is an open source social networking software that provides the building blocks for people to connect, express, and communicate. It also provides a powerful  web and mobile framework for developing custom social networking solutions. 
 ----
 More:
 Website: <a href="http://www.anahitapolis.com" target="_blank">Anahita</a><br />
 Team: Rastin Mehr, Ash Sanieyan<br />
+AngelList: <a href="https://angel.co/anahita" target="_blank">Anahita</a><br />
 Twitter: <a href="https://twitter.com/anahitapolis" target="_blank">@anahitapolis</a><br />
 Facebook: <a href="http://www.facebook.com/anahitasocial" target="_blank">Anahitasocial</a>
 ----
