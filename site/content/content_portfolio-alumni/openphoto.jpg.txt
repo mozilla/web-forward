@@ -1,6 +1,6 @@
 Name: Open Photo
 ----
-Info: OpenPhoto enables you to share, securely aggregate and import all your photos from across the web (Facebook, Flickr, etc.) into one account and storage service.<br /><br />
+Info: OpenPhoto enables you to share, securely aggregate and import all your photos from across the web (Facebook, Flickr, etc.) into one account and storage service.<br />
 <a href="http://videos.mozilla.org/serv/webfwd/openphoto.mp4" target="_blank">Watch video</a><br />
 ----
 Link: http://theopenphotoproject.org/
