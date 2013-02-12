@@ -1,7 +1,7 @@
 Name: Tomahawk
 ----
-Info: Tomahawk is a universal music player allowing you to listen to a song regardless of which music repository or streaming service it originates from.<br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/tomahawk.mp4" target="_blank">Watch video</a><br />
+Info: Tomahawk is a universal music player allowing you to listen to a song regardless of which music repository or streaming service it originates from.<br />
+<a href="http://videos.mozilla.org/serv/webfwd/tomahawk.mp4" target="_blank">Watch video</a>
 ----
 Link: http://www.tomahawk-player.org/
 ----
