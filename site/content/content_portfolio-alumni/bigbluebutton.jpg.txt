@@ -1,8 +1,7 @@
 Name: Big Blue Button
 ----
 Info: Big Blue Button is an open source web conferencing system for distance education.<br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/bigbluebutton.mp4" target="_blank">Watch video</a><br /><br />
-<video class="sublime" width="100" height="100" preload="none" target="_blank">Watch video><source src="http://videos.mozilla.org/serv/webfwd/bigbluebutton.mp4"></source><source src="http://videos.mozilla.org/serv/webfwd/WebFWD_Module_5-Legal2.mp4"></source><source src="http://videos.mozilla.org/serv/webfwd/bigbluebutton.webmhd.webm"></source></video>
+<a href="http://videos.mozilla.org/serv/webfwd/bigbluebutton.mp4" target="_blank">Watch video</a><br />
 ----
 Link: http://bigbluebutton.org/
 ----

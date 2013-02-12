@@ -1,6 +1,7 @@
 Name: buddycloud
 ----
-Info: buddycloud provides custom communications channels for groups to collaborate and share various forms of media.
+Info: buddycloud provides custom communications channels for groups to collaborate and share various forms of media.<br /><br />
+<a href="http://videos.mozilla.org/serv/webfwd/buddycloud.mp4" target="_blank">Watch video</a><br />
 ----
 Link: http://buddycloud.com/
 ----
