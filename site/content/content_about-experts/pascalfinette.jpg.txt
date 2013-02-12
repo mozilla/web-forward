@@ -2,8 +2,8 @@ Name: Pascal Finette
 ----
 Title: Director, Office of the Chair, Mozilla
 ----
-Description: Pascal is working as Director Office of the Chair on building and growing the Mozilla movement. He loves technology and believes that the Internet is deeply impacting mankind. Prior to Mozilla, he led eBay's Platform Solutions Group, consulted a bunch of entrepreneurs on their strategy & operations and invested into startups, among other things. He frequently speaks about Open Innovation on the Web and mentors entrepreneurs.
+Description: Pascal is working as Director Office of the Chair on building and growing the Mozilla movement. He loves technology and believes that the Internet is deeply impacting mankind. He frequently speaks and writes about Open Innovation on the Web and mentors entrepreneurs.
 ----
-Expertise: Strategy
+Expertise: Strategy/Technology
 ----
 Link: http://finette.com/
