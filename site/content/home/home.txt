@@ -33,9 +33,8 @@ NewsLink2: http://webfwd3kickoff.eventbrite.com/
 NewsHeadline3: Sat Apr 13 - Philippine Satellite of Echelon 2013
 ----
 NewsContent3: The Philippine Satellite is a conference
-and pitching competition that will prelude to the big event in June
-4-5 -- Echelon 2013 -- where the "regional" champs get to deck it out
-in Singapore. WebFWD Scout Jonathan Richie Yap will present WebFWD at the event. 
+and pitching competition that will prelude to the big event in June - Echelon 2013, where the "regional" champs get to deck it out
+in Singapore. Our Scout Jonathan Richie Yap will present WebFWD at the event. 
 ----
 NewsLink3: http://e27.co/echelon-2013-startups/
 ----
