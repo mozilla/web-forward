@@ -1,0 +1,10 @@
+Name: David Ascher
+----
+Info: David Ascher is Director of Mozilla Labs, where he coordinates product innovation activities around Mozilla, whether they emerge from the existing product and engineering groups, from the community of Mozillians, or those who fit with the Mozilla mission but aren't yet involved with Mozilla (which is why he keeps an eye on WebFWD).  David believes that combining multidisciplinary perspectives on real people facing real problems is both key to business innovation and making the world a better place.
+
+Prior to this role, he was CEO of Mozilla Messaging, overseeing both Thunderbird and more experimental product initiatives touching on messaging in the age of the web.  Prior to Mozilla, he worked on developer tools at ActiveState, on basic research at the Smith-Kettlewell Eye Research Institute.  David has been active in open source and open source foundations since the last century.
+
+David can often be found connecting like-minded (or complementary) folks together, especially early stage product thinkers.  He is based in Vancouver, BC, Canada, but carries three passports, and uses them often.
+----
+Links:
+Twitter: <a class="u-url url" href="https://twitter.com/#!/davidascher" target="_blank">@davidascher</a><br />
