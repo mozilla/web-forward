@@ -4,7 +4,7 @@ Info: Gameleon is a cloud-based web platform that allows users to make their own
 ----
 More:
 Website: <a href="http://gameleon.co/" target="_blank">Gameleon</a><br />
-Team: Victor Popescu, Vlad Radu<br />
+Team: Victor Popescu, Vlad Radu, Adrian Calotescu, Mihaela Epuran<br />
 AngelList: <a href="https://angel.co/gameleon" target="_blank">Gameleon</a><br />
 Twitter: <a href="https://twitter.com/GameleonMain" target="_blank">@GameleonMain</a><br />
 Facebook: <a href="http://goo.gl/O2F9Y" target="_blank">Gameleon</a>
