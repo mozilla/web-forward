@@ -40,20 +40,20 @@ Main:
 		<p class="largeP">Every week our teams receive a video and homework assignments on the following topics. While these are also posted on our resources page, our teams will also meet as a group to walk through the assignments and learn from one another, and have the opportunity to connect directly with our industry experts on the specific topics.</p>
 		<p class="largeP">Here's our upcoming schedule - feel free to join along by learning from our Resources page! And if you have any thoughts on our curriculum, email us at <a href="mailto:webfwd@mozilla.com">webfwd@mozilla.com</a></p>
 		<ul>
-			<li>October 1 &mdash; Program Kick Off: Team introductions and Orientation to Mozilla</li>
-			<li>October 8 &mdash; Initial Team Pitches</li>
-			<li>October 15 &mdash; Strategy: Create an Evergreen Roadmap to Track You For Success</li>
-			<li>October 22 &mdash; User Research: Know Their Pain and Build the Right Solutions</li>			
-			<li>October 29 &mdash; User Experience: Optimize Your Solutions So They Are Actually Used</li>			
-			<li>November 5 &mdash; Financials & Metrics: Build a Reliable, Accurate Model for your Cash and Key Success Metrics</li>			
-			<li>November 12 &mdash; Legal Issues: Licensing, Founders Rights</li>			
-			<li>November 19 &mdash; User Acquisition: Master Some Best Practices to Pull In Users Early</li>			
-			<li>November 26 &mdash; THANKSGIVING (actually falls on 11/22)</li>			
-			<li>December 4 &mdash; Branding & Positioning: Draw Off Your Work To Best Position Yourself in the Market</li>			
-			<li>December 11 &mdash; Community Marketing: Multiply Your Impact by Actively Engaging Your Users</li>			
-			<li>December 18 &mdash; Pitch Practice</li>			
-			<li>Week of January 7, 2013 &mdash; Graduation</li>			
+			<li>Week 0 &mdash; Program Kick Off: Team introductions and Orientation to Mozilla</li>
+			<li>Week 1 &mdash; Initial Team Pitches</li>
+			<li>Week 2 &mdash; Strategy: Create an Evergreen Roadmap to Track You For Success</li>
+			<li>Week 3 &mdash; Branding & Positioning: Draw Off Your Work To Best Position Yourself in the Market</li>		
+			<li>Week 4 &mdash; User Research: Know Their Pain and Build the Right Solutions</li>			
+			<li>Week 5 &mdash; User Experience: Optimize Your Solutions So They Are Actually Used</li>	
+			<li>Week 6 &mdash; THANKSGIVING (actually falls on 11/22)</li>
+			<li>Week 7 &mdash; User Acquisition: Master Some Best Practices to Pull In Users Early</li>	
+			<li>Week 8 &mdash; Community Marketing: Multiply Your Impact by Actively Engaging Your Users</li>		
+			<li>Week 9 &mdash; Financials & Metrics: Build a Reliable, Accurate Model for your Cash and Key Success Metrics</li>
+			<li>Week 10 &mdash; Legal Issues: Licensing, Founders Rights</li>												
+			<li>Week 11 18 &mdash; Pitch Practice</li>			
+			<li>Week of June 3rd, 2013 &mdash; Graduation</li>			
 		</ul>
-		<p class="largeP">Future classes will start in February, May and October.</p>
+		<p class="largeP">Future class will start in August. </p>
 	</div>
 </div>
