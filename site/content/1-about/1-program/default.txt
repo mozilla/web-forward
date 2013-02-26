@@ -36,8 +36,7 @@ Main:
 </div>
 <div class="row">
 	<div class="ten rows offset-by-one">
-		<p class="largeP">Every week our teams receive a video and homework assignments on the following topics. While these are also posted on our resources page, our teams will also meet as a group to walk through the assignments and learn from one another, and have the opportunity to connect directly with our industry experts on the specific topics.</p>
-		<p class="largeP">Here's our upcoming schedule - feel free to join along by learning from our Resources page! And if you have any thoughts on our curriculum, email us at <a href="mailto:webfwd@mozilla.com">webfwd@mozilla.com</a></p>
+		<p class="largeP">Every week our teams receive a video and homework assignments on the following topics. While these are also posted on our <h5><a href="/resources/">resources page</a></h5>, our teams will also meet as a group to walk through the assignments and learn from one another, and have the opportunity to connect directly with our industry experts on the specific topics.</p>
 		<ul>
 			<li>Week 0 &mdash; Program Kick Off: Team introductions and Orientation to Mozilla</li>
 			<li>Week 1 &mdash; Initial Team Pitches</li>
@@ -52,8 +51,7 @@ Main:
 			<li>Week 10 &mdash; Financials & Metrics: Build a Reliable, Accurate Model for your Cash and Key Success Metrics</li>
 			<li>Week 11 &mdash; Legal Issues: Licensing, Founders Rights</li>												
 			<li>Week 12 &mdash; Pitch Practice</li>			
-			<li>Week of June 3rd, 2013 &mdash; Graduation</li>			
+			<li>Graduation</li>			
 		</ul>
-		<p class="largeP">Future class will start in August. </p>
 	</div>
 </div>
