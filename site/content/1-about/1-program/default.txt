@@ -20,19 +20,18 @@ Main:
 		<p class="largeP">WebFWD reviews applications for our 12-week program on a quarterly schedule. <a href="/apply/">Apply now</a> for our upcoming session. Relocation is not required, but commitment is.</p>
 		<p class="largeP">The 12-week WebFWD session consists of:</p>
 		<ul class="circle">
+			<li>9 weeks of focused, interactive learning with access to dedicated specialists, integrated with each section of the curriculum</li>
 			<li>Ongoing coaching, collaboration and access to Mozilla experts and thought leaders</li>
 			<li>Ongoing office hours with mentors</li>
-			<li>8 weeks of focused, interactive learning with access to dedicated specialists, integrated with each section of the curriculum</li>
-			<li>4 weeks of development focused on designing your business/releasing your product</li>
 			<li>Opportunity for follow-on funding by Mozilla upon completion of the program</li>
 		</ul>
-		<h5><a href="/apply/">Apply for our October 2012 class »</a></h5>
+		<h5><a href="/apply/">Apply for our next class »</a></h5>
 	</div>
 </div>
 
 <div class="row padding">
 	<div class="twelve rows">
-		<h2>Fall 2012 Schedule</h2>
+		<h2>Weekly Schedule</h2>
 	</div>
 </div>
 <div class="row">
@@ -46,12 +45,13 @@ Main:
 			<li>Week 3 &mdash; Branding & Positioning: Draw Off Your Work To Best Position Yourself in the Market</li>		
 			<li>Week 4 &mdash; User Research: Know Their Pain and Build the Right Solutions</li>			
 			<li>Week 5 &mdash; User Experience: Optimize Your Solutions So They Are Actually Used</li>	
-			<li>Week 6 &mdash; THANKSGIVING (actually falls on 11/22)</li>
+			<li>Week 6 &mdash; Break</li>
 			<li>Week 7 &mdash; User Acquisition: Master Some Best Practices to Pull In Users Early</li>	
-			<li>Week 8 &mdash; Community Marketing: Multiply Your Impact by Actively Engaging Your Users</li>		
-			<li>Week 9 &mdash; Financials & Metrics: Build a Reliable, Accurate Model for your Cash and Key Success Metrics</li>
-			<li>Week 10 &mdash; Legal Issues: Licensing, Founders Rights</li>												
-			<li>Week 11 18 &mdash; Pitch Practice</li>			
+			<li>Week 8 &mdash; Community Marketing: Multiply Your Impact by Actively Engaging Your Users</li>
+			<li>Week 9 &mdash; Selling: The Skill Everyone Needs </li>
+			<li>Week 10 &mdash; Financials & Metrics: Build a Reliable, Accurate Model for your Cash and Key Success Metrics</li>
+			<li>Week 11 &mdash; Legal Issues: Licensing, Founders Rights</li>												
+			<li>Week 12 &mdash; Pitch Practice</li>			
 			<li>Week of June 3rd, 2013 &mdash; Graduation</li>			
 		</ul>
 		<p class="largeP">Future class will start in August. </p>
