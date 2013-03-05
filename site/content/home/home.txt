@@ -8,7 +8,7 @@ Subheadline: WebFWD helps open source innovators create businesses to change the
 ----
 ColumnHeader1: What
 ----
-ColumnText1: Mozilla’s WebFWD is a three-month hands-on accelerator designed to help entrepreneurs from around the globe build healthy businesses.  The program consists of weekly training sessions & exercises, office hours with industry experts, ongoing coaching and guidance from the world's best technologists, investors, designers, marketers, and other awesome folks.
+ColumnText1: Mozilla’s WebFWD is a 3-month hands-on accelerator designed to help entrepreneurs from around the globe build healthy businesses.  It consists of weekly training & exercises, office hours with industry experts, ongoing coaching from the world's best technologists, investors, designers, marketers, and other awesome folks.
 ----
 ColumnHeader2: Why
 ----
