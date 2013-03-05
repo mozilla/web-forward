@@ -1,5 +1,6 @@
 Name: codebender
 ----
-Info: codebender is a web platform for makers, hackers and artists, designed to help them develop cool new hardware-related and embedded projects fast and easy. 
+Info: codebender is a web platform for makers, hackers and artists, designed to help them develop cool new hardware-related and embedded projects fast and easy. <br /><br />
+<a href="http://videos.mozilla.org/serv/webfwd/codebender.mp4" target="_blank">Watch video</a><br />
 ----
 Link: http://codebender.cc/

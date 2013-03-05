@@ -6,6 +6,8 @@ More:
 Website: <a href="https://mist.io/" target="_blank">mist.io</a><br />
 Team: Chris Psaltis, Dimitris Moraitis, Mike Muzurakis, Markos Gogoulos, Stephane Konstantaropoulos, Yannis Chatzikonstantinou<br />
 AngelList: <a href="https://angel.co/mist-io" target="_blank">mist.io</a><br />
-Twitter: <a href="https://twitter.com/mist_io" target="_blank">@mist_io</a>
+Twitter: <a href="https://twitter.com/mist_io" target="_blank">@mist_io</a><br /><br />
+<a href="http://videos.mozilla.org/serv/webfwd/mistio.mp4" target="_blank">Watch video</a><br />
+
 ----
 Link: https://mist.io

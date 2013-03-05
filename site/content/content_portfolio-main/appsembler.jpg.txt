@@ -6,6 +6,8 @@ More:
 Website: <a href="http://appsembler.com" target="_blank">Appsembler</a><br />
 Team: Nate Aune<br />
 AngelList: <a href="http://angel.co/appsembler" target="_blank">Appsembler</a><br />
-Twitter: <a href="https://twitter.com/appsembler" target="_blank">@appsembler</a>
+Twitter: <a href="https://twitter.com/appsembler" target="_blank">@appsembler</a><br /><br />
+<a href="http://videos.mozilla.org/serv/webfwd/appsembler.mp4" target="_blank">Watch video</a><br />
+
 ----
 Link: http://appsembler.com/

@@ -5,6 +5,8 @@ Info: Nudge is a better way to build websites. Its web-based platform lets indiv
 More:
 Website: <a href="http://nudgepad.com/" target="_blank">Nudge</a><br />
 Team: Ben Zulauf, Breck Yunits<br />
-AngelList: <a href="https://angel.co/nudge-2" target="_blank">Nudge</a>
+AngelList: <a href="https://angel.co/nudge-2" target="_blank">Nudge</a><br /><br />
+<a href="http://videos.mozilla.org/serv/webfwd/nudge.mp4" target="_blank">Watch video</a><br />
+
 ----
 Link: http://www.nudgepad.com/

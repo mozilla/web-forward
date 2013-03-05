@@ -11,10 +11,10 @@
 <!-- video -->
 <div class="row padding-small">
 	<div class="ten columns centered">
-		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="455" poster="/assets/images/webfwd_2012.jpg">
-			<source src="/assets/images/webfwd_2012.mp4" type='video/mp4' />
-			<source src="/assets/images/webfwd_2012.ogv" type="video/ogg" />
-			<source src="/assets/images/webfwd_2012.webm" type='video/webm' />
+		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="455" poster="/assets/images/webfwd_Feb_2013.jpg">
+			<source src="/assets/images/webfwd_Feb_2013.mp4" type='video/mp4' />
+			<!--<source src="/assets/images/webfwd_Feb_2013.ogv" type="video/ogg" /> -->
+			<source src="/assets/images/webfwd_Feb_2013.webm" type='video/webm' />
 		</video>
 	</div>
 </div>
@@ -40,7 +40,7 @@
 <div class="row padding-small" id="aboutMain">
 	<div class="four columns">
 		<p><?php echo $page->about() ?></p>
-		<a href="/apply/" class="medium blue radius button">Apply For Our February 2013 Class</a>
+		<a href="/apply/" class="medium blue radius button">Apply For Our Next Class</a>
 	</div>
 	<div class="eight columns">
 		<ul class="block-grid two-up">

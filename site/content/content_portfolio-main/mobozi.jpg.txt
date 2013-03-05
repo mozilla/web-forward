@@ -6,6 +6,8 @@ More:
 Website: <a href="https://www.mobozi.com" target="_blank">Mobozi</a><br />
 Team: Nicholas Gottlieb, Raj Sen Sharma<br />
 AngelList: <a href="https://angel.co/mobozi" target="_blank">Mobozi</a><br />
-Twitter: <a href="https://twitter.com/Mobozi" target="_blank">@Mobozi</a>
+Twitter: <a href="https://twitter.com/Mobozi" target="_blank">@Mobozi</a><br /><br />
+<a href="http://videos.mozilla.org/serv/webfwd/mobozi.mp4" target="_blank">Watch video</a><br />
+
 ----
 Link: https://www.mobozi.com

@@ -6,6 +6,8 @@ More:
 Website: <a href="http://www.vizme.com//" target="_blank">Vizme</a><br />
 Team: Scott Ernst, Dan Mayhew<br />
 AngelList: <a href="https://angel.co/vizme" target="_blank">Vizme</a><br />
-Twitter: <a href="https://twitter.com/vizme" target="_blank">@vizme</a>
+Twitter: <a href="https://twitter.com/vizme" target="_blank">@vizme</a><br /><br />
+<a href="http://videos.mozilla.org/serv/webfwd/vizme.mp4" target="_blank">Watch video</a><br />
+
 ----
 Link: http://www.vizme.com/
