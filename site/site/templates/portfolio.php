@@ -39,7 +39,7 @@
 
 <div class="row padding" id="past">
 	<div class="twelve columns">
-		<ul class="block-grid four-up">
+		<ul class="block-grid three-up">
 		<?php $files = $pages->find('content_portfolio-alumni'); ?>
 		<?php foreach($files->images() as $image): ?>
 			<li>
