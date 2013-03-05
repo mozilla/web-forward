@@ -16,11 +16,11 @@ ColumnText2: Traditional startup accelerator and incubator models don’t addres
 ----
 ColumnHeader3: Who
 ----
-ColumnText3: We’re looking for innovators who are building products to make the Web better and more open. We want to see a working prototype vs. just your idea.  If your startup is:
+ColumnText3: We’re looking for innovators who are building products to make the Web better and more open. We want to see a working prototype vs. just your idea.  If your startup is: <br />
 
-    - Building innovative mobile and web technologies
-    - Open source (at minimum, a component)
-    - Actively exploring its business model(s)
+    - Building innovative mobile and web technologies<br />
+    - Open source (at minimum, a component)<br />
+    - Actively exploring its business model(s)<br />
 
 
 ...apply for our next class here!
