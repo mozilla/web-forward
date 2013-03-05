@@ -8,15 +8,15 @@ Subheadline: WebFWD helps open source innovators create businesses to change the
 ----
 ColumnHeader1: What
 ----
-ColumnText1: A three-month business creation program for startups around the world. The program consists of weekly training sessions & exercises, office hours with industry experts, ongoing coaching and guidance from the world's best technologists. Upon graduating, teams can qualify for follow-on funding from Mozilla.
+ColumnText1: Mozilla’s WebFWD is a three-month hands-on accelerator designed to help entrepreneurs from around the globe build healthy businesses.  The program consists of weekly training sessions & exercises, office hours with industry experts, ongoing coaching and guidance from the world's best technologists, investors, designers, marketers, and other awesome folks.
 ----
 ColumnHeader2: Why
 ----
-ColumnText2: Traditional startup accelerator and incubator models aren't designed to address the demands and advantages of open innovation. WebFWD is uniquely positioned to share Mozilla's experience and skill with world-changing, mobile-focused web startups.
+ColumnText2: Traditional startup accelerator and incubator models don’t address the demands and advantages of open innovation.  Our curriculum combines the best of startup and open source principles, meeting the needs of open source entrepreneurs who are developing on the desktop and across mobile devices.
 ----
 ColumnHeader3: Who
 ----
-ColumnText3: WebFWD entrepreneurs worldwide are committed to building new web technologies that align with Mozilla's values, and support our mission to promote openness, innovation and opportunity on the Web. Our goal is to help you jumpstart your technology vision and build it into a business.
+ColumnText3: We’re looking for innovators who are building products to make the Web better and more open.  We are fiercely pro-founder and we want to help you build your technology vision into a successful business.
 ----
 NewsHeadline1: Fri Feb 15 - OSOM 4 EvolutiON Program
 ----
