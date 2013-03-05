@@ -4,7 +4,7 @@ ID: about
 ----
 Headline: Get to know WebFWD
 ----
-About: Our mission is to transform closed markets and create new ones, focusing on mobile first. Learn more about us, our teams and our approach.
+About: Mozilla’s WebFWD takes the best of startup and open source principles to help open Web innovators build successful companies.
 ----
 Header1: Program
 ----
