@@ -2,25 +2,13 @@
 
 <!-- MAIN -->
 
-<!-- headline -->
+<!-- subheadline -->
 <div class="row padding">
-	<div class="twelve columns text-center">
-		<h1 class="huge"><?php echo $page->headline() ?></h1>
+	<div class="twelve columns">
+		<h1 class="text-center"><?php echo $page->subheadline() ?></h1>
 	</div>
 </div>
-<!-- /headline -->
-
-<!-- video -->
-<div class="row padding-small">
-	<div class="ten columns centered">
-		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="458" poster="/assets/images/webfwd_promotion.jpg">
-			<source src="/assets/images/webfwd_promotion.mp4" type='video/mp4' />
-			<source src="/assets/images/webfwd_promotion.ogv" type="video/ogg" />
-			<source src="/assets/images/webfwd_promotion.webm" type='video/webm' />
-		</video>
-	</div>
-</div>
-<!-- /video -->
+<!-- /subheadline -->
 
 <!-- main content -->
 <div class="row padding">
@@ -39,13 +27,25 @@
 </div>
 <!-- /main content -->
 
-<!-- subheadline -->
-<div class="row padding">
-	<div class="twelve columns">
-		<h1 class="text-center"><?php echo $page->subheadline() ?></h1>
+<!-- video -->
+<div class="row padding-small">
+	<div class="ten columns centered">
+		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="458" poster="/assets/images/webfwd_promotion.jpg">
+			<source src="/assets/images/webfwd_promotion.mp4" type='video/mp4' />
+			<source src="/assets/images/webfwd_promotion.ogv" type="video/ogg" />
+			<source src="/assets/images/webfwd_promotion.webm" type='video/webm' />
+		</video>
 	</div>
 </div>
-<!-- /subheadline -->
+<!-- /video -->
+
+<!-- headline -->
+<div class="row padding">
+	<div class="twelve columns text-center">
+		<h1 class="huge"><?php echo $page->headline() ?></h1>
+	</div>
+</div>
+<!-- /headline -->
 
 <!-- portfolio-->
 <div class="row padding">
