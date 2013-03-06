@@ -46,7 +46,7 @@
 				<div class="alumni">
 					<a href="<?php echo $image->link() ?>" target="_blank"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->name() ?>" /></a><br />
 					<p><?php echo $image->info() ?></p>
-					<h6><a href="<?php echo $image->link() ?>" target="_blank">Visit <?php echo $image->name() ?></a><?php <?php echo $image->video() ?></h6>
+					<h6><a href="<?php echo $image->link() ?>" target="_blank">Visit <?php echo $image->name() ?></a> <?php echo $image->video() ?></h6>
 				</div>
 			</li>
 		<?php endforeach ?>
