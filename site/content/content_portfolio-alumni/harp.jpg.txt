@@ -1,6 +1,8 @@
 Name: Harp Platform
 ----
-Info: From the creators of PhoneGap, a new platform that leverages the power of Dropbox to give you the easiest development solution.<br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/harp.mp4" target="_blank">Watch video</a><br />
+Info: From the creators of PhoneGap, a new platform that leverages the power of Dropbox to give you the easiest development solution.
 ----
 Link: http://harp.io/
+----
+Video: http://videos.mozilla.org/serv/webfwd/HARP.mp4
+----

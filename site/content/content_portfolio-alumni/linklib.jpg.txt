@@ -1,6 +1,8 @@
 Name: Linklib
 ----
-Info: Linklib is an open, user generated library of video commentary that lets you add links to videos and send them to a second screen.<br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/linklib.mp4" target="_blank">Watch video</a><br />
+Info: Linklib is an open, user generated library of video commentary that lets you add links to videos and send them to a second screen.
 ----
 Link: http://linklib.org/
+----
+Video: http://videos.mozilla.org/serv/webfwd/linklib.mp4
+----

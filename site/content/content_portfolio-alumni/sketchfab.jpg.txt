@@ -1,6 +1,8 @@
 Name: Sketchfab
 ----
-Info: Sketchfab is a web service to publish interactive 3D content online in real-time without plugin.<br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/sketchfab.mp4" target="_blank">Watch video</a><br />
+Info: Sketchfab is a web service to publish interactive 3D content online in real-time without plugin.
 ----
 Link: http://sketchfab.com/
+----
+Video: http://videos.mozilla.org/serv/webfwd/sketchfab.mp4
+----

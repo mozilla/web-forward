@@ -1,6 +1,8 @@
 Name: Wercker
 ----
-Info: Wercker is a continuous deployment SaaS platform that helps to reduce risk and eliminate waste in software development process. <br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/wercker.mp4" target="_blank">Watch video</a><br />
+Info: Wercker is a continuous deployment SaaS platform that helps to reduce risk and eliminate waste in software development process.
 ----
 Link: http://beta.wercker.com/
+----
+Video: http://videos.mozilla.org/serv/webfwd/wercker.mp4
+----

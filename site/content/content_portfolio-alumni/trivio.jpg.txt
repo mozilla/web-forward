@@ -1,6 +1,8 @@
 Name: triv.io
 ----
-Info: Triv.io makes managing a scalable data processing pipelines dead simple.<br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/trivio.mp4" target="_blank">Watch video</a><br />
+Info: Triv.io makes managing a scalable data processing pipelines dead simple.
 ----
 Link: http://www.triv.io/
+----
+Video: http://videos.mozilla.org/serv/webfwd/trivio.mp4
+----
