@@ -12,7 +12,7 @@ ColumnText1: Mozilla’s WebFWD is a 3-month hands-on accelerator designed to he
 ----
 ColumnHeader2: Why
 ----
-ColumnText2: Traditional startup accelerator and incubator models don’t address the demands and advantages of open innovation.  Our curriculum combines the best of startup and open source principles, meeting the needs of open source entrepreneurs who are developing on the desktop and across mobile devices.
+ColumnText2: Traditional startup accelerator and incubator models don’t address the demands and advantages of open innovation.  Our curriculum combines <b>the best of startup and open source principles </b>, meeting the needs of open source entrepreneurs who are developing on the desktop and across mobile devices.
 ----
 ColumnHeader3: Who
 ----
