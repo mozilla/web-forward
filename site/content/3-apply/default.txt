@@ -10,7 +10,7 @@ Main:
 			var z7x0q1 = new WufooForm();
 			z7x0q1.initialize({
 			'userName':'webfwd', 
-			'formHash':'z7x0q1', 
+			'formHash':'z7p9k5', 
 			'autoResize':true,
 			'height':'2620',
 			'header':'show', 

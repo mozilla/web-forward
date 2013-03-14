@@ -34,7 +34,7 @@ Header5: WebFWD Fund
 ----
 Slug5: about/fund/
 ----
-Description5: Through the WebFWD Fund we provide seed capital to selected teams in our program.
+Description5: Through the WebFWD Fund we provide seed capital to selected teams who completed our program.
 ----
 Header6: Partners
 ----

@@ -36,7 +36,7 @@ Main:
 </div>
 <div class="row">
 	<div class="ten rows offset-by-one">
-		<p class="largeP">Every week our teams receive a video and homework assignments on the following topics. While these are also posted on our <a href="https://webfwd.org/about/resources/">resources page</a>, our teams will also meet as a group to walk through the assignments and learn from one another, and have the opportunity to connect directly with our industry experts on the specific topics.</p>
+		<p class="largeP">Every week our teams receive a video and homework assignments on the following topics. While these are also posted on our <a href="https://webfwd.org/about/resources/">resources page</a>, our teams will also meet as a group to walk through the assignments and learn from one another, have the opportunity to connect directly with our industry experts on the specific topics, and practice pitches every week.</p>
 		<ul>
 			<li>Week 0 &mdash; Program Kick Off: Team introductions and Orientation to Mozilla</li>
 			<li>Week 1 &mdash; Initial Team Pitches</li>
@@ -50,7 +50,7 @@ Main:
 			<li>Week 9 &mdash; Selling: The Skill Everyone Needs </li>
 			<li>Week 10 &mdash; Financials & Metrics: Build a Reliable, Accurate Model for your Cash and Key Success Metrics</li>
 			<li>Week 11 &mdash; Legal Issues: Licensing, Founders Rights</li>												
-			<li>Week 12 &mdash; Pitch Practice</li>			
+			<li>Week 12 &mdash; Final Pitch Practice</li>			
 			<li>Graduation</li>			
 		</ul>
 	</div>
