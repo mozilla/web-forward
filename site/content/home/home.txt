@@ -4,11 +4,11 @@ ID: home
 ----
 Headline: Hit the Accelerator.
 ----
-Subheadline: WebFWD helps open source innovators create businesses to change the world.
+Subheadline: Mozilla's WebFWD helps open source innovators create businesses to change the world.
 ----
 ColumnHeader1: What
 ----
-ColumnText1: Mozilla’s WebFWD is a 3-month hands-on accelerator designed to help entrepreneurs from around the globe build healthy businesses.  It consists of weekly training & exercises, office hours with industry experts, ongoing coaching from the world's best technologists, investors, designers, marketers, and other awesome folks.
+ColumnText1: A 3-month hands-on accelerator designed to help entrepreneurs from around the globe <b>build healthy businesses</b>.  It consists of weekly training & exercises, office hours with industry experts, ongoing coaching from the world's best technologists, investors, designers, marketers, and other awesome folks.
 ----
 ColumnHeader2: Why
 ----
@@ -16,28 +16,21 @@ ColumnText2: Traditional startup accelerator and incubator models don’t addres
 ----
 ColumnHeader3: Who
 ----
-ColumnText3: We’re looking for innovators who are building products to make the Web better and more open. We want to see a working prototype vs. just your idea.  If your startup is: <br />
-
-    - Building innovative mobile and web technologies<br />
-    - Open source (at minimum, a component)<br />
-    - Actively exploring its business model(s)<br />
-
-
-...apply for our next class here!
+ColumnText3: WebFWD is for <b>innovators building products to make the Web better and more open</b>. We are looking for entrepreneurs who are building innovative mobile and/or web technologies, and actively exploring its business models, where the product is open source (at minimum, a component) and at a prototype stage or beyond. 
 ----
-NewsHeadline1: Fri Feb 15 - OSOM 4 EvolutiON Program
+NewsHeadline1: Wed., March 20, San Francisco - "What is Open Business?"
 ----
-NewsContent1: OSOM - Open Source Open Mind in Bucharest, Romania. Join to learn about Open Source. There will also be a session on WebFWD. 
+NewsContent1: A panel of open source professionals will discuss what "open business" means to them.
 ----
-NewsLink1: http://osom.ro/2013/02/osom-4-evolution-program/
+NewsLink1: http://balancedpayments.eventbrite.com/#
 ----
-NewsHeadline2: Tue Feb 19 - WebFWD III New Cohort Mixer
+NewsHeadline2: Mon. - Wed., April 1-3 - HTML5DevConf
 ----
-NewsContent2: Come meet our newest batch of teams!
+NewsContent2: Diane will share on why "You Can't Build a Movement Alone" and how  Mozilla is positioned to build the next movement around HTML5.
 ----
-NewsLink2: http://webfwd3kickoff.eventbrite.com/
+NewsLink2: http://html5devconf.com/
 ----
-NewsHeadline3: Sat Apr 13 - Philippine Satellite of Echelon 2013
+NewsHeadline3: Sat. Apr 13 - Philippine Satellite of Echelon 2013
 ----
 NewsContent3: The Philippine Satellite is a conference
 and pitching competition that will prelude to the big event in June - Echelon 2013, where the "regional" champs get to deck it out
