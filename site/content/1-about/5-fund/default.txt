@@ -31,6 +31,7 @@ Main:
 			<li>Only teams which have completed the WebFWD 12-week program are eligible for funding</li>
 			<li>Proven traction in the market</li>
 			<li>Alignment with <a href="http://www.mozilla.org/about/manifesto.en.html">Mozilla's mission</a></li>
+			<li>Lead investor identifed (Mozilla will not act as a lead investor) </li>
 		</ul>
 	</div>
 </div>
