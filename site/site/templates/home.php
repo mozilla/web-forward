@@ -5,7 +5,7 @@
 <!-- subheadline -->
 <div class="row padding">
 	<div class="twelve columns">
-		<h1 class="text-center"><?php echo $page->subheadline() ?></h1>
+		<h1 class="Large"><?php echo $page->subheadline() ?></h1>
 	</div>
 </div>
 <!-- /subheadline -->
