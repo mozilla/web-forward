@@ -4,7 +4,7 @@ ID: home
 ----
 Headline: Hit the Accelerator.
 ----
-Subheadline: WebFWD helps open source innovators create businesses to change the world.
+Subheadline: We help open source innovators to change the world.
 ----
 ColumnHeader1: What
 ----
