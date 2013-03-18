@@ -13,10 +13,10 @@
 <!-- video -->
 <div class="row padding-small">
 	<div class="ten columns centered">
-		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="458" poster="/assets/images/webfwd_promotion.jpg">
-			<source src="/assets/images/webfwd_promotion.mp4" type='video/mp4' />
-			<source src="/assets/images/webfwd_promotion.ogv" type="video/ogg" />
-			<source src="/assets/images/webfwd_promotion.webm" type='video/webm' />
+		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="458" poster="/assets/images/webfwd_feb_2013.jpg">
+			<source src="/assets/images/webfwd_feb_2013.mp4" type='video/mp4' />
+			<!--<source src="/assets/images/webfwd_feb_2013.ogv" type="video/ogg" /> -->
+			<source src="/assets/images/webfwd_feb_2013.webm" type='video/webm' />
 		</video>
 	</div>
 </div>
