@@ -1,6 +1,6 @@
 Name: Didem Ersoz
 ----
-Info: Didem Ersoz is the newest member of the WebFWD team. She helped Pascal to build WebFWD in its inaugural year as an intern. She recently earned her MBA at UC Berkeley's Haas School of Business with a focus in entrepreneurship and rejoined the team as a full-time member to grow the program further.
+Info: Didem Ersoz is the newest member of the WebFWD team. She helped to build WebFWD in its inaugural year as an intern. She recently earned her MBA at UC Berkeley's Haas School of Business with a focus in entrepreneurship and rejoined the team as a full-time member to grow the program further.
 
 Prior to business school, she was at Procter and Gamble leading project and start-up teams for new technologies and large-scale capacity increases in manufacturing. She holds a B.Sc and M.Sc. in EE from Bogazici University, Istanbul.
 ----
