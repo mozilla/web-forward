@@ -12,8 +12,8 @@
 <div class="row padding-small">
 	<div class="ten columns centered">
 		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="455" poster="/assets/images/webfwd_2012.jpg">
-			<source src="https://videos-origin.mozilla.org/manage/webfwd//webfwd_2012.webm" type='video/mp4' />
-			<source src="https://videos-origin.mozilla.org/manage/webfwd//webfwd_2012.mp4" type='video/webm' />
+			<source src="https://videos-origin.mozilla.org/manage/webfwd//webfwd_2012.webm" type='video/webm' />
+			<source src="https://videos-origin.mozilla.org/manage/webfwd//webfwd_2012.mp4" type='video/mp4' />
 		</video>
 	</div>
 </div>
