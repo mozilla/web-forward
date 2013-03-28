@@ -14,8 +14,8 @@
 <div class="row padding-small">
 	<div class="ten columns centered">
 		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="458" poster="/assets/images/webfwd_2013.jpg">
-			<source src="/assets/images/webfwd_2013.mp4" type='video/mp4' />
 			<source src="/assets/images/webfwd_2013.webm" type='video/webm' />
+			<source src="/assets/images/webfwd_2013.mp4" type='video/mp4' />
 		</video>
 	</div>
 </div>
