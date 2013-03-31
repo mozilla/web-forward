@@ -9,8 +9,8 @@
 	</div>
 	<div class="eight columns">
 		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="592" height="334" poster="/assets/images/webfwd_2013.jpg">
-			<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2013.webm" type='video/webm' />
-			<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2013.mp4" type='video/mp4' />
+			<source src="https://videos-cdn.mozilla.net/serv/webfwd/webfwd_2013.webm" type='video/webm' />
+			<source src="https://videos-cdn.mozilla.net/serv/webfwd/webfwd_2013.mp4" type='video/mp4' />
 		</video>
 	</div>
 </div>

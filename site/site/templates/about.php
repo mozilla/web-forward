@@ -12,17 +12,17 @@
 <div class="row padding-small">
 	<div class="ten columns centered">
 		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="455" poster="/assets/images/webfwd_2012.jpg">
-			<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2012.webm" type='video/webm' />
-			<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2012.mp4" type='video/mp4' />
+			<source src="https://videos-cdn.mozilla.net/serv/webfwd/webfwd_2012.webm" type='video/webm' />
+			<source src="https://videos-cdn.mozilla.net/serv/webfwd/webfwd_2012.mp4" type='video/mp4' />
 		</video>
 	</div>
 </div>
 <!-- /video -->
 
-<!-- 
+<!--
 <div class="row padding-small">
 	<div class="ten columns centered">
-		<div id="featured"> 
+		<div id="featured">
 			<img src="/assets/images/about-program.jpg" alt="WebFWD Program" data-caption="#htmlCaption1" />
 			<img src="/assets/images/about-experts.jpg" alt="WebFWD Experts" data-caption="#htmlCaption2" />
 			<img src="/assets/images/about-team.jpg" alt="WebFWD Team" data-caption="#htmlCaption3" />
