@@ -46,6 +46,8 @@
 			<?php foreach($files->images() as $image): ?>
 			<li><a href="<?php echo url('') ?>portfolio/#<?php echo $image->name() ?>"><img src="<?php echo $image->thumb()->url() ?>" alt="<?php echo $image->name() ?>" class="thumbs" /></a></li>
 			<?php endforeach ?>
+			<li> </li>
+			<li> </li>
 		</ul>
 	</div>
 </div>
