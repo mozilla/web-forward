@@ -5,7 +5,7 @@
 <!-- promo -->
 <div class="row padding" style="background-color: rgba(255,255,255,0.5); padding-bottom: 48px;">
 	<div class="four columns">
-		<h1 style="padding-left: 48px;"><?php echo $page->subheadline() ?></h1>
+		<h1 style="padding-left: 48px; line-height: 1.2;"><?php echo $page->subheadline() ?></h1>
 	</div>
 	<div class="eight columns">
 		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="592" height="334" poster="/assets/images/webfwd_2013.jpg">
