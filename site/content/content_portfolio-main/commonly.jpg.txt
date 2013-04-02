@@ -5,5 +5,7 @@ Info: Commonly.cc uses crowdfunding to pay creators to openly license their work
 More:
 Website: <a href="http://Commonly.cc" target="_blank"> Commonly.cc </a><br />
 Team: Nick Liow<br />
+AngelList: <a href="https://angel.co/commonly" target="_blank"> Commonly.cc </a><br />
+Twitter: <a href="http://twitter.com/commonlycc" target="_blank"> Commonly.cc </a><br /><br />
 ----
 Link: http://Commonly.cc
