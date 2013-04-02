@@ -3,12 +3,12 @@
 <!-- MAIN -->
 
 <!-- promo -->
-<div class="row padding" style="background-color: rgba(255,255,255,0.5);">
+<div class="row padding" style="background-color: rgba(255,255,255,0.5); padding-bottom: 48px;">
 	<div class="four columns">
-		<h1><?php echo $page->subheadline() ?></h1>
+		<h1 style="padding-left: 48px;"><?php echo $page->subheadline() ?></h1>
 	</div>
 	<div class="eight columns">
-		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" poster="/assets/images/webfwd_2013.jpg">
+		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="592" height="334" poster="/assets/images/webfwd_2013.jpg">
 			<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2013.webm" type='video/webm' />
 			<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2013.mp4" type='video/mp4' />
 		</video>
@@ -16,15 +16,16 @@
 </div>
 <!-- /promo -->
 
-<!-- subheadline -->
+<!-- 
+<!- subheadline ->
 <div class="row padding">
 	<div class="twelve columns">
 		<h1 class="text-center"><?php echo $page->subheadline() ?></h1>
 	</div>
 </div>
-<!-- /subheadline -->
+<!- /subheadline ->
 
-<!-- video -->
+<!- video ->
 <div class="row padding-small">
 	<div class="ten columns centered">
 		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="458" poster="/assets/images/webfwd_2013.jpg">
@@ -33,9 +34,8 @@
 		</video>
 	</div>
 </div>
-<!-- /video -->
-
-
+<!- /video ->
+-->
 
 <!-- main content -->
 <div class="row padding">
