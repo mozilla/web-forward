@@ -3,17 +3,15 @@
 <!-- MAIN -->
 
 <!-- promo -->
-<div style="background-color: rgba(0,0,0,0.25);">
-	<div class="row padding">
-		<div class="four columns">
-			<h1><?php echo $page->subheadline() ?></h1>
-		</div>
-		<div class="eight columns">
-			<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="640" height="360" poster="/assets/images/webfwd_2013.jpg">
-				<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2013.webm" type='video/webm' />
-				<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2013.mp4" type='video/mp4' />
-			</video>
-		</div>
+<div class="row padding" style="background-color: rgba(255,255,255,0.5);">
+	<div class="four columns">
+		<h1><?php echo $page->subheadline() ?></h1>
+	</div>
+	<div class="eight columns">
+		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" poster="/assets/images/webfwd_2013.jpg">
+			<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2013.webm" type='video/webm' />
+			<source src="http://videos.mozilla.org/serv/webfwd/webfwd_2013.mp4" type='video/mp4' />
+		</video>
 	</div>
 </div>
 <!-- /promo -->
