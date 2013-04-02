@@ -2,6 +2,17 @@
 
 <!-- MAIN -->
 
+<!-- promo -->
+<div class="row padding">
+	<div class="four columns">
+		<h1 class="text-center"><?php echo $page->subheadline() ?></h1>
+	</div>
+	<div class="eight columns">
+		<img src="http://placehold.it/800x600">
+	</div>
+</div>
+<!-- /promo -->
+
 <!-- subheadline -->
 <div class="row padding">
 	<div class="twelve columns">
@@ -11,7 +22,6 @@
 <!-- /subheadline -->
 
 <!-- video -->
-
 <div class="row padding-small">
 	<div class="ten columns centered">
 		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="809" height="458" poster="/assets/images/webfwd_2013.jpg">
