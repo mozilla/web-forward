@@ -36,6 +36,26 @@
 <!-- portfolio-->
 <div class="row padding">
 	<div class="twelve columns">
+		<h2>TEST</h2>
+	</div>
+</div>
+<div class="row">
+	<div class="twelve columns">
+		<ul class="block-grid four-up">
+			<?php $files = $pages->find('content_portfolio-main'); ?>
+			<?php foreach($files->images() as $image): ?>
+			<li><img src="http://placehold.it/300x200"></li>
+			<?php endforeach ?>
+			<li> </li>
+			<li> </li>
+		</ul>
+	</div>
+</div>
+<!-- /portfolio-->
+
+<!-- portfolio-->
+<div class="row padding">
+	<div class="twelve columns">
 		<h2>Our Teams</h2>
 	</div>
 </div>
