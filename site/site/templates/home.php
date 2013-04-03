@@ -44,26 +44,6 @@
 		<ul class="block-grid four-up">
 			<?php $files = $pages->find('content_portfolio-main'); ?>
 			<?php foreach($files->images() as $image): ?>
-			<li><a href="<?php echo url('') ?>portfolio/#<?php echo $image->name() ?>"><img src="<?php echo $image->url() ?>"></a></li>
-			<?php endforeach ?>
-			<li> </li>
-			<li> </li>
-		</ul>
-	</div>
-</div>
-<!-- /portfolio-->
-
-<!-- portfolio-->
-<div class="row padding">
-	<div class="twelve columns">
-		<h2>Our Teams</h2>
-	</div>
-</div>
-<div class="row">
-	<div class="twelve columns">
-		<ul class="block-grid five-up">
-			<?php $files = $pages->find('content_portfolio-main'); ?>
-			<?php foreach($files->images() as $image): ?>
 			<li><a href="<?php echo url('') ?>portfolio/#<?php echo $image->name() ?>"><img src="<?php echo $image->thumb()->url() ?>" alt="<?php echo $image->name() ?>" class="thumbs" /></a></li>
 			<?php endforeach ?>
 			<li> </li>
