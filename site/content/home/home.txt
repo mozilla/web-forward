@@ -26,13 +26,13 @@ in Singapore. Our Scout Jonathan Richie Yap will present WebFWD at the event.
 ----
 NewsLink1: http://e27.co/echelon-2013-startups/
 ----
-NewsHeadline2: Thu., April 18 - Open thinking for open organisations, Cluj - Romania
+NewsHeadline2: Thu. April 18 - Open thinking for open organisations, Cluj - Romania
 ----
 NewsContent2: Mozilla Rep Stefania Ioana Chiorean will be presenting exciting projects from Mozilla including WebFWD, Webmaker and the upcoming Mozilla Festival.
 ----
 NewsLink2: https://reps.mozilla.org/e/open-thinking-for-open-organisations/
 ----
-NewsHeadline3: Sat. - Sun., April 27-28 - LinuxFest Northwest
+NewsHeadline3: Sat. - Sun. April 27-28 - LinuxFest Northwest
 ----
 NewsContent3: Our scout Benjamin Kerensa will be running a Mozilla booth at the event and promoting WebFWD. 
 ----
