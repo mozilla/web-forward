@@ -18,19 +18,19 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD is for <b>innovators building products to make the Web better and more open</b>. We are looking for entrepreneurs who are building mobile and/or web technologies, and actively exploring its business models, where the product is open source (at minimum, a component) and at a prototype stage or beyond. 
 ----
-NewsHeadline1: Mon. - Wed., April 1-3 - HTML5DevConf
+NewsHeadline1: Sat. Apr 13 - Philippine Satellite of Echelon 2013
 ----
-NewsContent1: Diane will share on why "You Can't Build a Movement Alone" and how  Mozilla is positioned to build the next movement around HTML5.
-----
-NewsLink1: http://html5devconf.com/
-----
-NewsHeadline2: Sat. Apr 13 - Philippine Satellite of Echelon 2013
-----
-NewsContent2: The Philippine Satellite is a conference
+NewsContent1: The Philippine Satellite is a conference
 and pitching competition that will prelude to the big event in June - Echelon 2013, where the "regional" champs get to deck it out
 in Singapore. Our Scout Jonathan Richie Yap will present WebFWD at the event. 
 ----
-NewsLink2: http://e27.co/echelon-2013-startups/
+NewsLink1: http://e27.co/echelon-2013-startups/
+----
+NewsHeadline2: Thu., April 18 - Open thinking for open organisations, Cluj - Romania
+----
+NewsContent2: Mozilla Rep Stefania Ioana Chiorean will be presenting exciting projects from Mozilla including WebFWD, Webmaker and the upcoming Mozilla Festival.
+----
+NewsLink2: https://reps.mozilla.org/e/open-thinking-for-open-organisations/
 ----
 NewsHeadline3: Sat. - Sun., April 27-28 - LinuxFest Northwest
 ----
