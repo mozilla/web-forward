@@ -1,0 +1,5 @@
+Name: Verify
+----
+Link: http://verifyapp.com/
+----
+Main: Verify is the fastest way to collect and analyze user feedback on screens or mockups. Verify will help you understand any potential problems or gather proof for your design decisions by narrowing the focus of your data with specific concept tests, which can be taken on any device." 
