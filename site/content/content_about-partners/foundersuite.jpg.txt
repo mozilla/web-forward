@@ -1,5 +1,5 @@
 Name: Founder Suite
 ----
-Link: www.foundersuite.com
+Link: http://www.foundersuite.com/beta
 ----
 Main: Foundersuite's goal is to bring "structure" and "process" to the messy job of starting a company.  Our software includes modules for Ideation & Validation, Corporate Housekeeping, Raising Capital, and Investor Relations, and our bundles include templates for Getting Started, Hiring Early Employees, Building An Advisory Board, and Marketing & Branding, with many more in the works.
