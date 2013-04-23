@@ -41,7 +41,7 @@
 <!-- /outer-wrapper -->
 
 <!-- 'Apply for Feb class' ribbon -->
-<!-- <a href="/apply/"><img style="position: absolute; top: 0; left: 0; border: 0;" src="/assets/images/apply.png" alt="Apply for Oct class" /></a> -->
+<a href="/apply/"><img style="position: absolute; top: 0; left: 0; border: 0;" src="/assets/images/apply.png" alt="Apply for Aug class" /></a>
 
 <!-- Included JS Files -->
 <script src="/assets/javascripts/jquery.min.js"></script>
