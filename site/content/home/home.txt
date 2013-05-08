@@ -18,7 +18,7 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD is for <b>innovators building products to make the Web better and more open</b>. We are looking for entrepreneurs who are building mobile and/or web technologies, and actively exploring its business models, where the product is open source (at minimum, a component) and at a prototype stage or beyond. 
 ----
-NewsHeadline1: Tue. June 4 - WebFWD Mixer San Francisco
+NewsHeadline1: Tue. June 4 - WebFWD Mixer, San Francisco
 ----
 NewsContent1: Join our teams for a pre-Demo Day mixer in our San Francisco space!
 ----
