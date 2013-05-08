@@ -18,11 +18,11 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD is for <b>innovators building products to make the Web better and more open</b>. We are looking for entrepreneurs who are building mobile and/or web technologies, and actively exploring its business models, where the product is open source (at minimum, a component) and at a prototype stage or beyond. 
 ----
-NewsHeadline1: Wed. June 5 - Deadline to apply for our next class!
+NewsHeadline1: Tue. June 4 - WebFWD Mixer San Francisco
 ----
-NewsContent1: Apply to be a part of the WebFWD IV class and learn the best of open source and start-up principles to transform your projects into sustainable businesses. 
+NewsContent1: Join our teams for a pre-Demo Day mixer in our San Francisco space!
 ----
-NewsLink1: https://webfwd.org/apply/
+NewsLink1: http://webfwdiiimixer.eventbrite.com/
 ----
 NewsHeadline2: Wed. June 5th - Join us at WebFWD III Graduation, Mountain View
 ----
@@ -30,9 +30,9 @@ NewsContent2: Our graduating eight startups will be presenting their businesses.
 ----
 NewsLink2: http://webfwdiii.eventbrite.com/
 ----
-NewsHeadline3: Sat. - Sun. April 27-28 - LinuxFest Northwest
+NewsHeadline3: Wed. June 5 - Deadline to apply for our next class!
 ----
-NewsContent3: Our scout Benjamin Kerensa will be running a Mozilla booth at the event and promoting WebFWD. 
+NewsContent3: Apply to be a part of the WebFWD IV class and learn the best of open source and start-up principles to transform your projects into sustainable businesses. 
 ----
-NewsLink3: http://linuxfestnorthwest.org/
+NewsLink3: https://webfwd.org/apply/
 ----
