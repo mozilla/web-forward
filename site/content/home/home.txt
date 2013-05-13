@@ -18,21 +18,21 @@ ColumnHeader3: Who
 ----
 ColumnText3: WebFWD is for <b>innovators building products to make the Web better and more open</b>. We are looking for entrepreneurs who are building mobile and/or web technologies, and actively exploring its business models, where the product is open source (at minimum, a component) and at a prototype stage or beyond. 
 ----
-NewsHeadline1: Tue. June 4 - WebFWD Mixer, San Francisco
+NewsHeadline1: Wed. May 29 - Intro to Firefox OS, San Francisco
 ----
-NewsContent1: Join our teams for a pre-Demo Day mixer in our San Francisco space!
+NewsContent1: Nick Desaulniers will give a talk on how developers can get started developing apps that run great on Firefox OS, and how tools like Firefox's Developer Tools and the Firefox OS Simulator can lend a hand to the development process. There will also be a special presentation by Diane Bisgeier of Mozilla about WebFWD.
 ----
-NewsLink1: http://webfwdiiimixer.eventbrite.com/
+NewsLink1: http://introtofirefoxos.eventbrite.com/
 ----
-NewsHeadline2: Wed. June 5th - Join us at WebFWD III Graduation, Mountain View
+NewsHeadline2: Tue. June 4 - WebFWD Mixer, San Francisco
 ----
-NewsContent2: Our graduating eight startups will be presenting their businesses. Join us to learn more about them and celebrate their graduation. 
+NewsContent2: Join our teams for a pre-Demo Day mixer in our San Francisco space!
 ----
-NewsLink2: http://webfwdiii.eventbrite.com/
+NewsLink2: http://webfwdiiimixer.eventbrite.com/
 ----
-NewsHeadline3: Wed. June 5 - Deadline to apply for our next class!
+NewsHeadline3: Wed. June 5th - Join us at WebFWD III Graduation, Mountain View
 ----
-NewsContent3: Apply to be a part of the WebFWD IV class and learn the best of open source and start-up principles to transform your projects into sustainable businesses. 
+NewsContent3: Our graduating eight startups will be presenting their businesses. Join us to learn more about them and celebrate their graduation. 
 ----
-NewsLink3: https://webfwd.org/apply/
+NewsLink3: http://webfwdiii.eventbrite.com/
 ----
