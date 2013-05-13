@@ -1,6 +1,6 @@
 Name: Mobozi
 ----
-Info: Mobozi's app discovery engine makes it easy, quick, and convenient to find a mobile web app that fits your needs. It's like the iPhone App Store but you never have to sign in or download an update, every app is accessible in real time, end no lengthy review waits for developers.
+Info: Mobozi's app discovery engine makes it easy, quick, and convenient to find a mobile web app that fits your needs. It's like the iPhone App Store but you never have to sign in or download an update. Every app is instead accessible in real time, with no lengthy review requirements for developers.
 ----
 More:
 Website: <a href="https://www.mobozi.com" target="_blank">Mobozi</a><br />
