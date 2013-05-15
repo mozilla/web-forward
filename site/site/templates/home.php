@@ -36,7 +36,7 @@
 <!-- portfolio-->
 <div class="row padding">
 	<div class="twelve columns">
-		<h2>Our Teams.</h2>
+		<h2>Our Teams</h2>
 	</div>
 </div>
 <div class="row">
