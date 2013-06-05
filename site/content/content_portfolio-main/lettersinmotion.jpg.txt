@@ -1,0 +1,11 @@
+Name: Letters in Motion
+----
+Info: Letters in Motion sells software tools and services for digital artists to create high-quality, compelling video from text. This drastically reduces video production times and costs, allowing artists to meet the exponentially growing demand for video marketing. 
+----
+More:
+Website: <a href="http://www.lettermotion.com/" target="_blank">Letters in Motion</a><br />
+Team: Scott Ernst, Dan Mayhew<br />
+Twitter: <a href="https://twitter.com/lettermotion" target="_blank">@lettermotion</a><br /><br />
+
+----
+Link: http://www.lettermotion.com/
