@@ -6,11 +6,55 @@ Headline1: Learning Modules
 ----
 Content1: These videos, exercises and resources are what we put our teams through to transform them into full-fledged businesses. We invite you to not only learn from them, but to also join in and give us your feedback!
 ----
-Headline2: LearnFWD Webinars
+Headline2: LearnFWD Webinars and Presentations
 ----
-Content2: These sessions cover various aspects of product development and entrepreneurship. The presenters are world-class experts from diverse disciplines.
+Content2: A growing collection of presentations and brown bag talks and other presentations hosted and curated by WebFWD. These sessions cover various aspects of product development and entrepreneurship. The presenters are world-class experts from diverse disciplines.
 ----
-Headline3: Presentations
+Headline3: Community
 ----
-Content3: A growing collection of brown bag talks and other presentations at Mozilla and around the world, hosted and curated by WebFWD.
+Content3: 
+----
+Headline4: Design / UX
+----
+Content4: 
+----
+Headline5: Financials & Metrics
+----
+Content5: 
+----
+Headline6: Human Resources
+----
+Content6: 
+----
+Headline7: Incorporation
+----
+Content7: 
+----
+Headline8: Investment
+----
+Content8: 
+----
+Headline9: Licensing
+----
+Content9: 
+----
+Headline10: Marketing
+----
+Content10: 
+----
+Headline11: Sales
+----
+Content11: 
+----
+Headline12: Strategy
+----
+Content12: 
+----
+Headline113: Technology
+----
+Content13: 
+----
+Headline14: User Research
+----
+Content14: 
 ----
