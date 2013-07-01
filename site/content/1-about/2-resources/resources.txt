@@ -46,15 +46,11 @@ Headline11: Sales
 ----
 Content11: 
 ----
-Headline12: Strategy
+Headline12: Technology
 ----
 Content12: 
 ----
-Headline113: Technology
+Headline13: User Research
 ----
 Content13: 
-----
-Headline14: User Research
-----
-Content14: 
 ----

@@ -300,10 +300,10 @@
 <!-- technology -->
 <div class="row padding">
 	<div class="four columns">
-		<h3><?php echo $page->headline13() ?></h3>
+		<h3><?php echo $page->headline12() ?></h3>
 	</div>
 	<div class="eight columns">
-		<p class="largeP"><?php echo $page->content13() ?></p>
+		<p class="largeP"><?php echo $page->content12() ?></p>
 	</div>
 </div>
 
@@ -328,10 +328,10 @@
 <!-- user research -->
 <div class="row padding">
 	<div class="four columns">
-		<h3><?php echo $page->headline14() ?></h3>
+		<h3><?php echo $page->headline13() ?></h3>
 	</div>
 	<div class="eight columns">
-		<p class="largeP"><?php echo $page->content14() ?></p>
+		<p class="largeP"><?php echo $page->content13() ?></p>
 	</div>
 </div>
 
