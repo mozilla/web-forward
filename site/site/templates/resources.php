@@ -297,34 +297,6 @@
 </div>
 <!-- /sales -->
 
-<!-- strategy -->
-<div class="row padding">
-	<div class="four columns">
-		<h3><?php echo $page->headline12() ?></h3>
-	</div>
-	<div class="eight columns">
-		<p class="largeP"><?php echo $page->content12() ?></p>
-	</div>
-</div>
-
-<div class="row padding">
-	<div class="twelve columns">
-		<ul class="block-grid three-up">
-		<?php $files = $pages->find('content_about-resources-strategy'); ?>
-		<?php foreach($files->images() as $image): ?>
-			<li>
-				<div class="resourcesContent">
-					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" /></a>
-					<p><strong><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></strong><br /><?php echo $image->expert() ?></p>
-					<p><?php echo $image->description() ?></p>
-				</div>
-			</li>
-		<?php endforeach ?>
-		</ul>
-	</div>
-</div>
-<!-- /strategy -->
-
 <!-- technology -->
 <div class="row padding">
 	<div class="four columns">
