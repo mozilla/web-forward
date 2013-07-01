@@ -40,6 +40,7 @@
 	</div>
 </div>
 
+<!-- 
 <div class="row padding">
 	<div class="twelve columns">
 		<ul class="block-grid three-up">
@@ -56,7 +57,10 @@
 		</ul>
 	</div>
 </div>
+-->
+
 <!-- /LearnFWD Webinars and Presentations -->
+
 
 <!-- community -->
 <div class="row padding">
