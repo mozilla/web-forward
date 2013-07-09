@@ -1,0 +1,5 @@
+Name: GoGrid
+----
+Link: http://www.GoGrid.com
+----
+Main: GoGrid is the world's #1 pure-play Infrastructure-as-a-Service (IaaS) provider specializing in public cloud and private cloud solutions. GoGrid helps businesses revolutionize their unique IT environments with the cloud. GoGrid customers can deploy and begin managing applications and workloads on our proven, secure hosted public cloud platform.
