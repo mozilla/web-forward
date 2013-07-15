@@ -5,7 +5,6 @@ Info: Navvid is a web application and authoring tool for building interactive in
 More:
 Website: <a href="http://navvid.com" target="_blank">Navvid</a><br />
 Team: Michael S. McCarthy, Jacob A. Brennan <br />
-AngelList: <a href="https://angel.co/navvid/" target="_blank">Navvid</a><br />
 Twitter: <a href="https://twitter.com/navvideo" target="_blank">@navvideo</a><br /><br />
 
 ----

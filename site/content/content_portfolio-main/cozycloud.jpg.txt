@@ -3,9 +3,8 @@ Name: Cozycloud
 Info: Cozy is the personal cloud server for everyone; store your data and install web apps in a place that is yours. Applications collaborate around your data enabling unique cross services integration and personal mashups.
 ----
 More:
-Website: <a href="http://www.cozycloud.cc/" target="_blank">Appsembler</a><br />
+Website: <a href="http://www.cozycloud.cc/" target="_blank">Cozycloud</a><br />
 Team: Benjamin André, Frank Rousseau, Lucas Toulouse, Maxence Cote, Romain Foucault, Zoé Bellot, Joseph Silvestre <br />
-AngelList: <a href="https://angel.co/cozy-cloud" target="_blank">Cozycloud</a><br />
 Twitter: <a href="https://twitter.com/MyCozyCloud" target="_blank">@MyCozyCloud</a><br /><br />
 ----
 Link: http://www.cozycloud.cc/ 
