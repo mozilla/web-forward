@@ -1,11 +1,10 @@
-Name: Commonly.cc
+Name: Hyperaudio
 ----
-Info: Commonly.cc uses crowdfunding to pay creators to openly license their work. What would have otherwise been locked down by copyright, we use to help build a thriving public domain.
+Info: Imagine editing audio and video as simply as you can a text-based document. With word-accurate, time-aligned transcripts you can create, break apart and remix media like never before.
 ----
 More:
-Website: <a href="http://Commonly.cc" target="_blank"> Commonly.cc </a><br />
-Team: Nick Liow<br />
-AngelList: <a href="https://angel.co/commonly" target="_blank"> Commonly.cc </a><br />
-Twitter: <a href="http://twitter.com/commonlycc" target="_blank"> @Commonly </a><br /><br />
+Website: <a href="http://Hyperaud.io" target="_blank"> Hyperaudio </a><br />
+Team: Mark Boas, Daniel Schultz, Matteo Spinelli<br />
+Twitter: <a href="http://twitter.com/hyperaud_io" target="_blank"> @Hyperaud_io </a><br /><br />
 ----
-Link: http://Commonly.cc
+Link: http://Hyperaud.io

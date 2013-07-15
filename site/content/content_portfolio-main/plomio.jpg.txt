@@ -1,13 +1,12 @@
-Name: mist.io
+Name: Plom.io, The Public Library of Models
 ----
-Info: mist.io helps you manage and monitor your virtual machines on multiple public and private clouds using your mobile phone, tablet or laptop. Create, destroy, reboot and tag virtual machines and - more importantly - execute shell commands through the web, using an interface optimized for touchscreens.
+Info: PLOM.IO is an open-source, online company developing data streaming APIs, an interactive platform for collaboration, and a library of prior knowledge, scientific models, and results, with the aim of changing the way science is done and changing the way decisions are made.
 ----
 More:
-Website: <a href="https://mist.io/" target="_blank">mist.io</a><br />
-Team: Chris Psaltis, Dimitris Moraitis, Mike Muzurakis, Markos Gogoulos, Stephane Konstantaropoulos, Yannis Chatzikonstantinou<br />
-AngelList: <a href="https://angel.co/mist-io" target="_blank">mist.io</a><br />
-Twitter: <a href="https://twitter.com/mist_io" target="_blank">@mist_io</a><br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/mistio.mp4" target="_blank">Watch video</a><br />
+Website: <a href="http://plom.io  " target="_blank">Plom.io</a><br />
+Team: Tiffany Bogich, Sebastien Ballesteros, and Joseph Dureau along with an awesome group of advisors, interns, and a developer named Moo<br />
+AngelList: <a href="http://angel.co/plom-io-the-public-library-of-models " target="_blank">Plom.io</a><br />
+Twitter: <a href="https://twitter.com/PLOMdotIO" target="_blank">@PLOMdotIO </a><br /><br />
 
 ----
-Link: https://mist.io
+Link: http://plom.io

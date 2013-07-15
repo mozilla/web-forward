@@ -1,14 +1,12 @@
-Name: Anahita
+Name: Clay.io
 ----
-Info: Anahita ® is an open source social networking software that provides the building blocks for people to connect, express, and communicate. It also provides a powerful  web and mobile framework for developing custom social networking solutions. 
+Info: Clay.io is a platform for HTML5 games. We help developers distribute and improve their games with high level features like user accounts, in-game payments, high scores, and more. For consumers, we offer a single place to discover and play games that work on any device.
 ----
 More:
-Website: <a href="http://www.anahitapolis.com" target="_blank">Anahita</a><br />
-Team: Rastin Mehr, Ash Sanieyan<br />
-AngelList: <a href="https://angel.co/anahita" target="_blank">Anahita</a><br />
-Twitter: <a href="https://twitter.com/anahitapolis" target="_blank">@anahitapolis</a><br />
-Facebook: <a href="http://www.facebook.com/anahitasocial" target="_blank">Anahitasocial</a><br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/anahita.mp4" target="_blank">Watch video</a><br />
-
+Website: <a href="http://clay.io" target="_blank">Clay.io</a><br />
+Team: Austin Hallock, Robert Leung<br />
+AngelList: <a href="https://angel.co/clay-io" target="_blank">Clay.io</a><br />
+Twitter: <a href="http://twitter.com/claydotio" target="_blank">@claydotio</a><br />
+Facebook: <a href="https://www.facebook.com/clay.io" target="_blank">Clay.io</a><br /><br />
 ----
-Link: http://www.anahitapolis.com
+Link: http://clay.io

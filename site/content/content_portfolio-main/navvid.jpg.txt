@@ -1,11 +1,12 @@
-Name: Letters in Motion
+Name: Navvid
 ----
-Info: Letters in Motion sells software tools and services for digital artists to create high-quality, compelling video from text. This drastically reduces video production times and costs, allowing artists to meet the exponentially growing demand for video marketing. 
+Info: Navvid is a web application and authoring tool for building interactive instructional video, documentary film, entertainment and more.
 ----
 More:
-Website: <a href="http://www.lettermotion.com/" target="_blank">Letters in Motion</a><br />
-Team: Scott Ernst, Dan Mayhew<br />
-Twitter: <a href="https://twitter.com/lettermotion" target="_blank">@lettermotion</a><br /><br />
+Website: <a href="http://navvid.com" target="_blank">Navvid</a><br />
+Team: Michael S. McCarthy, Jacob A. Brennan <br />
+AngelList: <a href="https://angel.co/navvid/" target="_blank">Navvid</a><br />
+Twitter: <a href="https://twitter.com/navvideo" target="_blank">@navvideo</a><br /><br />
 
 ----
-Link: http://www.lettermotion.com/
+Link: http://navvid.com

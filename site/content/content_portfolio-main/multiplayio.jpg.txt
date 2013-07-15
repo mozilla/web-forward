@@ -1,14 +1,12 @@
-Name: Gameleon
+Name: Multiplay.io
 ----
-Info: Gameleon is a cloud-based web platform that allows users to make their own multiplayer browser game or to gamify an activity without any programming skills or experience. It's a completely visual tool that will be accessible on any HTML5-enabled device, as will any game created with it. It also handles the hosting and publishing of users’ web games and will allow them to monetize their creations.
+Info: We make it super easy to make 3D mobile, multiplayer games for iOS, Android, WP8 and the Web.
 ----
 More:
-Website: <a href="http://gameleon.co/" target="_blank">Gameleon</a><br />
-Team: Victor Popescu, Vlad Radu, Adrian Calotescu, Mihaela Epuran<br />
-AngelList: <a href="https://angel.co/gameleon" target="_blank">Gameleon</a><br />
-Twitter: <a href="https://twitter.com/GameleonMain" target="_blank">@GameleonMain</a><br />
-Facebook: <a href="http://goo.gl/O2F9Y" target="_blank">Gameleon</a><br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/gameleon.mp4" target="_blank">Watch video</a><br />
-
+Website: <a href="http://multiplay.io " target="_blank">Multiplay.io</a><br />
+Team: Ashraf Samy Hegab, Alex McIl, Foyzul Hassan, Alex Goddard, David Zerafa<br />
+AngelList: <a href="http://angel.co/multiplay-io" target="_blank">Multiplay.io</a><br />
+Twitter: <a href="http://twitter.com/multiplayio" target="_blank">@multiplayio</a><br />
+Facebook: <a href="https://www.facebook.com/pages/MultiPlayio/126348687515734" target="_blank">Multiplay.io</a><br /><br />
 ----
-Link: http://gameleon.co/
+Link: http://multiplay.io 

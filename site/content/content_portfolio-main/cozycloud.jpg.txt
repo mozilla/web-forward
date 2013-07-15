@@ -1,13 +1,11 @@
-Name: Appsembler
+Name: Cozycloud
 ----
-Info: Appsembler's mission is to elevate the open source ecosystem and make open source software more accessible. Its curated marketplace of ready-to-run open source web apps makes it easier for non-technical people to find, try and buy apps. Developers and vendors can register apps, set a monthly price and earn money by selling subscriptions on their own website using the 1-click try-before-you-buy widget.
+Info: Cozy is the personal cloud server for everyone; store your data and install web apps in a place that is yours. Applications collaborate around your data enabling unique cross services integration and personal mashups.
 ----
 More:
-Website: <a href="http://appsembler.com" target="_blank">Appsembler</a><br />
-Team: Nate Aune<br />
-AngelList: <a href="http://angel.co/appsembler" target="_blank">Appsembler</a><br />
-Twitter: <a href="https://twitter.com/appsembler" target="_blank">@appsembler</a><br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/appsembler.mp4" target="_blank">Watch video</a><br />
-
+Website: <a href="http://www.cozycloud.cc/" target="_blank">Appsembler</a><br />
+Team: Benjamin André, Frank Rousseau, Lucas Toulouse, Maxence Cote, Romain Foucault, Zoé Bellot, Joseph Silvestre <br />
+AngelList: <a href="https://angel.co/cozy-cloud" target="_blank">Cozycloud</a><br />
+Twitter: <a href="https://twitter.com/MyCozyCloud" target="_blank">@MyCozyCloud</a><br /><br />
 ----
-Link: http://appsembler.com/
+Link: http://www.cozycloud.cc/ 

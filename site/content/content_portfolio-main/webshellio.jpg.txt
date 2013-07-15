@@ -1,12 +1,10 @@
-Name: Nudge
+Name: Webshell.io
 ----
-Info: Nudge is a better way to build websites. Its web-based platform lets individuals and teams design, develop, and manage projects in one place, on a single stack. 
+Info: Webshell.io is a platform enabling developers to save time integrating and scripting external open web APIs. Webshell.io’s cloud framework enhances the learning curve of API developers thanks to a unification layer for all web APIs, transforming API endpoints into Javascript objects.
 ----
 More:
-Website: <a href="http://nudgepad.com/" target="_blank">Nudge</a><br />
-Team: Ben Zulauf, Breck Yunits<br />
-AngelList: <a href="https://angel.co/nudge-2" target="_blank">Nudge</a><br /><br />
-<a href="http://videos.mozilla.org/serv/webfwd/nudge.mp4" target="_blank">Watch video</a><br />
-
+Website: <a href="http://webshell.io" target="_blank">Webshell.io</a><br />
+Team: Thibaud Arnault, Mehdi Medjaoui, Arnaud Richard<br />
+AngelList: <a href="https://angel.co/webshell" target="_blank">Webshell.io</a><br /><br />
 ----
-Link: http://www.nudgepad.com/
+Link: http://webshell.io
