@@ -22,17 +22,17 @@ NewsHeadline1: Wed. May 29 - Intro to Firefox OS, San Francisco
 ----
 NewsContent1: Nick Desaulniers will give a talk on how developers can get started developing apps that run great on Firefox OS, and how tools like Firefox's Developer Tools and the Firefox OS Simulator can lend a hand to the development process. There will also be a special presentation by Diane Bisgeier of Mozilla about WebFWD.
 ----
-NewsLink1: http://introtofirefoxos.eventbrite.com/
+NewsLink1: http://webfwdivorientation.eventbrite.com/
 ----
-NewsHeadline2: Tue. June 4 - WebFWD Mixer, San Francisco
+NewsHeadline2: Wed. July 31 - WebFWD Mixer, San Francisco
 ----
-NewsContent2: Join our teams for a pre-Demo Day mixer in our San Francisco space!
+NewsContent2: Join our newest class of teams in San Francisco as they get Oriented to our program and Mozilla.
 ----
-NewsLink2: http://webfwdiiimixer.eventbrite.com/
+NewsLink2:
 ----
-NewsHeadline3: Wed. June 5th - Join us at WebFWD III Graduation, Mountain View
+NewsHeadline3:
 ----
-NewsContent3: Our graduating eight startups will be presenting their businesses. Join us to learn more about them and celebrate their graduation. 
+NewsContent3:
 ----
-NewsLink3: http://webfwdiii.eventbrite.com/
+NewsLink3:
 ----
