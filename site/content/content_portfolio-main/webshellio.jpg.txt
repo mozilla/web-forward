@@ -6,5 +6,6 @@ More:
 Website: <a href="http://webshell.io" target="_blank">Webshell.io</a><br />
 Team: Thibaud Arnault, Mehdi Medjaoui, Arnaud Richard<br />
 AngelList: <a href="https://angel.co/webshell" target="_blank">Webshell.io</a><br /><br />
+Twitter: <a href="http://twitter.com/webshell_ " target="_blank">@webshell_ </a><br />
 ----
 Link: http://webshell.io
