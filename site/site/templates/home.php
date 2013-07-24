@@ -8,7 +8,7 @@
 		<h1 style="padding-left: 48px; line-height: 1.2;"><?php echo $page->subheadline() ?></h1>
 	</div>
 	<div class="eight columns">
-		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" poster="/assets/images/webfwd_2013.jpg">
+		<video id="webfwd-video" class="video-js vjs-default-skin" controls preload="none" data-setup="{}" poster="/assets/images/webfwd_2013.jpg">
 			<source src="https://videos-cdn.mozilla.net/serv/webfwd/webfwd_2013.webm" type='video/webm' />
 			<source src="https://videos-cdn.mozilla.net/serv/webfwd/webfwd_2013.mp4" type='video/mp4' />
 		</video>
