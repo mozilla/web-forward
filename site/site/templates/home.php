@@ -8,12 +8,31 @@
 		<h1 style="padding-left: 48px; line-height: 1.2;"><?php echo $page->subheadline() ?></h1>
 	</div>
 	<div class="eight columns">
-		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" width="592" height="334" poster="/assets/images/webfwd_2013.jpg">
+		<video class="video-js vjs-default-skin" controls preload="none" data-setup="{}" poster="/assets/images/webfwd_2013.jpg">
 			<source src="https://videos-cdn.mozilla.net/serv/webfwd/webfwd_2013.webm" type='video/webm' />
 			<source src="https://videos-cdn.mozilla.net/serv/webfwd/webfwd_2013.mp4" type='video/mp4' />
 		</video>
 	</div>
 </div>
+<script type="text/javascript">
+  // Once the video is ready
+  _V_("webfwd-video").ready(function(){
+
+    var myPlayer = this;    // Store the video object
+    var aspectRatio = 9/16; // Make up an aspect ratio
+
+    function resizeVideoJS(){
+      // Get the parent element's actual width
+      var width = document.getElementById(myPlayer.id).parentElement.offsetWidth;
+       width = width * 0.9;
+      // Set width to fill parent element, Set height
+      myPlayer.width(width).height( width * aspectRatio);
+    }
+
+    resizeVideoJS(); // Initialize the function
+    window.onresize = resizeVideoJS; // Call the function on resize
+  });
+</script>
 <!-- /promo -->
 
 <!-- main content -->
