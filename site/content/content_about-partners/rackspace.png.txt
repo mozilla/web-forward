@@ -1,0 +1,5 @@
+Name: Rackspace
+----
+Link: http://www.rackspace.com/
+----
+Main: Rackspace delivers enterprise-class hybrid cloud infrastructures to businesses of all sizes and kinds around the world. Rackspace combines public cloud, private cloud, and dedicated bare metal computing to provide the perfect infrastructure for each customer’s specific needs and the Rackspace Hybrid Cloud is powered by OpenStack® and backed by Fanatical Support.
