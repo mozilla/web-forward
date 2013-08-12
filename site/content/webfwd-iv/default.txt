@@ -1,6 +1,6 @@
 Title: Program
 ----
-ID: home
+ID: cohort
 ----
 NewsHeadline1: Announcing WebFWD IV!
 ----
@@ -19,8 +19,6 @@ NewsHeadline3:
 NewsContent3:
 ----
 NewsLink3:
-----
-ID: about
 ----
 Main:
 <div class="row padding">
