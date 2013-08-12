@@ -1,21 +1,5 @@
 <?php snippet('header') ?>
 
-<!-- news -->
-<div class="row padding" id="news">
-	<div class="twelve columns">
-		<h2>News</h2>
-	</div>
-</div>
-<div class="row">
-	<div class="twelve columns">
-		<ul class="block-grid three-up">
-			<li><h5><a href="<?php echo $page->newslink1() ?>" title="<?php echo $page->newsheadline1() ?>" target="_blank"><?php echo $page->newsheadline1() ?></a></h5><p class="largeP"><?php echo $page->newscontent1() ?></p></li>
-			<li><h5><a href="<?php echo $page->newslink2() ?>" title="<?php echo $page->newsheadline2() ?>" target="_blank"><?php echo $page->newsheadline2() ?></a></h5><p class="largeP"><?php echo $page->newscontent2() ?></p></li>
-			<li><h5><a href="<?php echo $page->newslink3() ?>" title="<?php echo $page->newsheadline3() ?>" target="_blank"><?php echo $page->newsheadline3() ?></a></h5><p class="largeP"><?php echo $page->newscontent3() ?></p></li>
-		</ul>
-	</div>
-</div>
-<!-- /news -->
 
 <!-- MAIN -->
 
@@ -107,4 +91,20 @@
 </div>
 <!-- /MAIN -->
 
+<!-- news -->
+<div class="row padding" id="news">
+	<div class="twelve columns">
+		<h2>News</h2>
+	</div>
+</div>
+<div class="row">
+	<div class="twelve columns">
+		<ul class="block-grid three-up">
+			<li><h5><a href="<?php echo $page->newslink1() ?>" title="<?php echo $page->newsheadline1() ?>" target="_blank"><?php echo $page->newsheadline1() ?></a></h5><p class="largeP"><?php echo $page->newscontent1() ?></p></li>
+			<li><h5><a href="<?php echo $page->newslink2() ?>" title="<?php echo $page->newsheadline2() ?>" target="_blank"><?php echo $page->newsheadline2() ?></a></h5><p class="largeP"><?php echo $page->newscontent2() ?></p></li>
+			<li><h5><a href="<?php echo $page->newslink3() ?>" title="<?php echo $page->newsheadline3() ?>" target="_blank"><?php echo $page->newsheadline3() ?></a></h5><p class="largeP"><?php echo $page->newscontent3() ?></p></li>
+		</ul>
+	</div>
+</div>
+<!-- /news -->
 <?php snippet('footer') ?>
