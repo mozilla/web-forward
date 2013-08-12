@@ -11,7 +11,7 @@ Main:
 
 <div class="row padding">
 	<div class="twelve rows text-center">
-		<h1 class="large">The 12-Week Product Lab</h1>
+		<h1 class="large">Announcements The 12-Week Product Lab</h1>
 	</div>
 </div>
 
