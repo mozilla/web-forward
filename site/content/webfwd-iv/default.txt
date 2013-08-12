@@ -1,5 +1,25 @@
 Title: Program
 ----
+ID: home
+----
+NewsHeadline1: Announcing WebFWD IV!
+----
+NewsContent1: We’re really excited annouce our newest class of teams. Read more about them on our blog. 
+----
+NewsLink1: http://webfwd.tumblr.com/post/55543089956/announcing-webfwd-iv
+----
+NewsHeadline2: Wed. July 31 - WebFWD Mixer, San Francisco
+----
+NewsContent2: Join our newest class of teams in San Francisco as they get Oriented to our program and Mozilla.
+----
+NewsLink2: http://webfwdivorientation.eventbrite.com/
+----
+NewsHeadline3:
+----
+NewsContent3:
+----
+NewsLink3:
+----
 ID: about
 ----
 Main:
