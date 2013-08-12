@@ -11,7 +11,7 @@ Main:
 
 <div class="row padding">
 	<div class="twelve rows">
-		<h2>Schedule <a href="/apply/">Apply now</a> </h2> <h2> Announcements <a href="/apply/">Apply now</a> </h2> <h2>Tasks <a href="/apply/">Apply now</a> </h2>
+		<h2><a href="/apply/">Schedule</a> <a href="/apply/">Announcements</a> <a href="/apply/">Tasks</a> </h2>
 	</div>
 </div>
 
