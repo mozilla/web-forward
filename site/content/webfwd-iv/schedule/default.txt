@@ -17,9 +17,9 @@ Main:
 
 <div class="row">
 	<div class="ten rows offset-by-one">
-		<p class="largeP">WebFWD meets every Tuesday and Thursday between 10:00am - 11:30am Pacific Time. Every Tuesday we invite a subject matter expert to the meeting and discuss a curriculum topic. Every Thursday, three of our teams pitches and receives feedback. We also host guest speakers to share interesting initiatives or share knowledge. The detailed agenda of each meeting is below. 
+		<p class="largeP">WebFWD meets every Tuesday and Thursday between 10:00am - 11:30am Pacific Time. Every Tuesday we invite a subject matter expert to the meeting and discuss a curriculum topic. Every Thursday, three of our teams pitches and receives feedback. We also host guest speakers to share interesting initiatives or share knowledge. The detailed agenda of each meeting is below. </p>
 
-		For Tuesday meetings, make sure to go to the given link, read the blog post, watch the video, work on the assignment, and prepare your questions for the experts. This way you can identify the areas you need the most help with and make the best use of your interaction with the experts during meetings.
+		<p>For Tuesday meetings, make sure to go to the given link, read the blog post, watch the video, work on the assignment, and prepare your questions for the experts. This way you can identify the areas you need the most help with and make the best use of your interaction with the experts during meetings.
 
 		For Thursday meetings, make sure to know when it is your turn to pitch and be ready for that day. </p>
 
