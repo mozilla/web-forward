@@ -1,0 +1,84 @@
+Title: Program
+----
+ID: cohort
+----
+Main:
+<div class="row padding">
+	<div class="twelve rows">
+		<h2><a href="/webfwd-iv/schedule/">Schedule</a>  |  <a href="/webfwd-iv/announcements/">Announcements</a>   |  <a href="/webfwd-iv/tasks/">Tasks</a> </h2>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve rows text-center">
+		<h1 class="large">Main The 12-Week Product Lab</h1>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve rows">
+		<h2><a href="/webfwd-iv/schedule/">Schedule</a>  |  <a href="/announcements/">Announcements</a>   |  <a href="/tasks/">Tasks</a> </h2>
+	</div>
+</div>
+
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<p class="largeP">TEST WebFWD reviews applications for our 12-week program on a quarterly schedule. <a href="/apply/">Apply now</a> for our upcoming session. Relocation is not required, but commitment is.</p>
+		<p class="largeP">The 12-week WebFWD session consists of:</p>
+		<ul class="circle">
+			<li>9 weeks of focused, interactive learning with access to dedicated specialists, integrated with each section of the curriculum</li>
+			<li>Ongoing coaching, collaboration and access to Mozilla experts and thought leaders</li>
+			<li>Ongoing office hours with mentors</li>
+			<li>Opportunity for follow-on funding by Mozilla upon completion of the program</li>
+		</ul>
+		<h5><a href="/apply/">Apply for our next class »</a></h5>
+	</div>
+</div>
+
+<div class="row padding">
+	<div class="twelve rows">
+		<h2>Weekly Schedule</h2>
+	</div>
+</div>
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<p class="largeP">Every week our teams receive a video and homework assignments on the following topics. While these are also posted on our <a href="https://webfwd.org/about/resources/">resources page</a>, our teams will also meet as a group to walk through the assignments and learn from one another, have the opportunity to connect directly with our industry experts on the specific topics, and practice their pitches every week.</p>
+		<ul>
+			<li>Week 0 - Jul 30 - Aug 1 &mdash; Program Kick Off: Team introductions and Orientation to Mozilla</li>
+			<li>Week 1 - Tuesday Aug 6  &mdash; Strategy: Create an Evergreen Roadmap to Track You For Success</li>
+			<li>Week 1 - Thursday Aug 8 &mdash; Pitch Practice: Clay.io, CozyCloud, and Hyperaudio</li>
+			<li>Week 2 - Tuesday Aug 13  &mdash; Branding & Positioning: Draw Off Your Work To Best Position Yourself in the Market</li>	
+			<li>Week 2 - Thursday Aug 15 &mdash; Pitch Practice: Multiplay.io, Navvid, and Plom.io</li>
+			<li>Week 3 &mdash; Branding & Positioning: Draw Off Your Work To Best Position Yourself in the Market</li>		
+			<li>Week 4 &mdash; User Research: Know Their Pain and Build the Right Solutions</li>			
+			<li>Week 5 &mdash; User Experience: Optimize Your Solutions So They Are Actually Used</li>	
+			<li>Week 6 &mdash; Break</li>
+			<li>Week 7 &mdash; User Acquisition: Master Some Best Practices to Pull In Users Early</li>	
+			<li>Week 8 &mdash; Community Marketing: Multiply Your Impact by Actively Engaging Your Users</li>
+			<li>Week 9 &mdash; Selling: The Skill Everyone Needs </li>
+			<li>Week 10 &mdash; Financials & Metrics: Build a Reliable, Accurate Model for your Cash and Key Success Metrics</li>
+			<li>Week 11 &mdash; Legal Issues: Licensing, Founders Rights</li>												
+			<li>Week 12 &mdash; Final Pitch Practice</li>			
+			<li>Graduation</li>			
+		</ul>
+	</div>
+</div>
+----
+NewsHeadline1: Announcing WebFWD IV!
+----
+NewsContent1: We’re really excited annouce our newest class of teams. Read more about them on our blog. 
+----
+NewsLink1: http://webfwd.tumblr.com/post/55543089956/announcing-webfwd-iv
+----
+NewsHeadline2: Wed. July 31 - WebFWD Mixer, San Francisco
+----
+NewsContent2: Join our newest class of teams in San Francisco as they get Oriented to our program and Mozilla.
+----
+NewsLink2: http://webfwdivorientation.eventbrite.com/
+----
+NewsHeadline3:
+----
+NewsContent3:
+----
+NewsLink3:
+----
