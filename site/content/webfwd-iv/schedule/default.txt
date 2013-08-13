@@ -33,7 +33,7 @@ Main:
     <th>Guest Expert and Bio</th>
   </tr>
   <tr class="largeP">
-    <td><b>Aug 6</b></td>
+    <td class="largeP"><b>Aug 6</b></td>
     <td><a href="http://webfwd.tumblr.com/post/25035496165/strategy-a-startups-foundation" target="_blank">Strategy: Create an Evergreen Roadmap to Track You For Success</a></td>
     <td><a href="http://www.linkedin.com/in/pfinette" target="_blank">Pascal Finette</a></td>
   </tr>
