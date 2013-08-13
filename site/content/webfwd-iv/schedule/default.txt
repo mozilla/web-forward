@@ -10,20 +10,44 @@ Main:
 </div>
 
 <div class="row padding">
-	<div class="twelve rows text-center">
-		<h1 class="large">Schedule The 12-Week Product Lab</h1>
-	</div>
-</div>
-
-<div class="row padding">
 	<div class="twelve rows">
-		<h2><a href="/webfwd-iv/schedule/">Schedule</a>  |  <a href="/announcements/">Announcements</a>   |  <a href="/tasks/">Tasks</a> </h2>
+		<h2 class="large">Schedule</h2>
 	</div>
 </div>
 
 <div class="row">
 	<div class="ten rows offset-by-one">
-		<p class="largeP">TEST WebFWD reviews applications for our 12-week program on a quarterly schedule. <a href="/apply/">Apply now</a> for our upcoming session. Relocation is not required, but commitment is.</p>
+		<p class="largeP">WebFWD meets every Tuesday and Thursday between 10:00am - 11:30am Pacific Time. Every Tuesday we invite a subject matter expert to the meeting and discuss a curriculum topic. Every Thursday, three of our teams pitches and receives feedback. We also host guest speakers to share interesting initiatives or share knowledge. The detailed agenda of each meeting is below. 
+
+		For Tuesday meetings, make sure to go to the given link, read the blog post, watch the video, work on the assignment, and prepare your questions for the experts. This way you can identify the areas you need the most help with and make the best use of your interaction with the experts during meetings.
+
+		For Thursday meetings, make sure to know when it is your turn to pitch and be ready for that day. </p>
+
+
+		<body>
+
+<table border="1">
+  <tr>
+    <th>Date</th>
+    <th>Topic & Link</th>
+    <th>Guest Expert and Bio</th>
+  </tr>
+  <tr>
+    <td><b>Aug 6</b></td>
+    <td><a href="http://webfwd.tumblr.com/post/25035496165/strategy-a-startups-foundation" target="_blank">Strategy: Create an Evergreen Roadmap to Track You For Success</a></td>
+    <td><a href="http://www.linkedin.com/in/pfinette" target="_blank">Pascal Finette</a></td>
+  </tr>
+  <tr>
+    <td><b>Aug 13</b></td>
+    <td><a href="http://blog.webfwd.org/post/27933281198/the-customer-value-proposition" target="_blank">Branding & Positioning: Draw Off Your Work To Best Position Yourself in the Market</a></td>
+    <td><a href="http://www.linkedin.com/in/shappy" target="_blank">Melissa Shapiro</a></td>
+  </tr>
+</table>
+
+</body>
+
+
+
 		<p class="largeP">The 12-week WebFWD session consists of:</p>
 		<ul class="circle">
 			<li>9 weeks of focused, interactive learning with access to dedicated specialists, integrated with each section of the curriculum</li>
@@ -35,16 +59,11 @@ Main:
 	</div>
 </div>
 
-<div class="row padding">
-	<div class="twelve rows">
-		<h2>Weekly Schedule</h2>
-	</div>
-</div>
 <div class="row">
 	<div class="ten rows offset-by-one">
 		<p class="largeP">Every week our teams receive a video and homework assignments on the following topics. While these are also posted on our <a href="https://webfwd.org/about/resources/">resources page</a>, our teams will also meet as a group to walk through the assignments and learn from one another, have the opportunity to connect directly with our industry experts on the specific topics, and practice their pitches every week.</p>
 		<ul>
-			<li>Week 0 - Jul 30 - Aug 1 &mdash; Program Kick Off: Team introductions and Orientation to Mozilla</li>
+			<li><b>Week 0 - Jul 30 - Aug 1 &mdash; Program Kick Off: Team introductions and Orientation to Mozilla</li>
 			<li>Week 1 - Tuesday Aug 6  &mdash; Strategy: Create an Evergreen Roadmap to Track You For Success</li>
 			<li>Week 1 - Thursday Aug 8 &mdash; Pitch Practice: Clay.io, CozyCloud, and Hyperaudio</li>
 			<li>Week 2 - Tuesday Aug 13  &mdash; Branding & Positioning: Draw Off Your Work To Best Position Yourself in the Market</li>	
