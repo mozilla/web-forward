@@ -13,7 +13,7 @@ Main:
 
 <div class="row padding">
 	<div class="twelve rows">
-		<h2>Schedule</h2>
+		<h1>Schedule</h1>
 	</div>
 </div>
 
