@@ -52,24 +52,24 @@ Main:
     <td class="largeP"><a href="http://www.linkedin.com/in/lovig" target="_blank">Diane Loviglio</a></td>
   </tr>
     <tr>
-    <td class="largeP"><b>Aug 27</b></td>
-    <td class="largeP"> User Experience <p> <a href="http://webfwd.tumblr.com/post/47034814113/designing-for-new-users" target="_blank">Option 1: Designing for New Users</a> </p><p>  <a href="http://blog.webfwd.org/post/35263834255/improving-your-ux-and-conversions-tips-responsive
+    <td><b>Aug 27</b></td>
+    <td> User Experience <p> <a href="http://webfwd.tumblr.com/post/47034814113/designing-for-new-users" target="_blank">Option 1: Designing for New Users</a> </p><p>  <a href="http://blog.webfwd.org/post/35263834255/improving-your-ux-and-conversions-tips-responsive
 " target="_blank">Option 2: Responsive Design</a> </p> <p> <a href="http://webfwd.tumblr.com/post/26033082927/ux-designing-an-effective-experience-for-your-users" target="_blank">Option 3: Forms Best Practices</a></p> </td>
-    <td class="largeP"><a href="http://www.linkedin.com/in/chrissiebrodigan" target="_blank">Chrissie Brodigan</a></td>
+    <td><a href="http://www.linkedin.com/in/chrissiebrodigan" target="_blank">Chrissie Brodigan</a></td>
   </tr>
 
     <tr>
-    <td class="largeP"><b>Sep 3</b></td>
-    <td class="largeP"> User Acquisition <p> <a href="http://blog.webfwd.org/post/27057631574/customer-acquisition-from-product-to-market" target="_blank">Option 1: Master Some Best Practices to Pull In Users Early </a> </p><p>  <a href="http://blog.webfwd.org/private/51014682079/tumblr_mn61vslKi91qlgse7" target="_blank">Option 2: Mastering a New Platform</a> </p> </td>
-    <td class="largeP"><a href="http://www.linkedin.com/in/chudson" target="_blank">Charles Hudson</a></td>
+    <td><b>Sep 3</b></td>
+    <td> User Acquisition <p> <a href="http://blog.webfwd.org/post/27057631574/customer-acquisition-from-product-to-market" target="_blank">Option 1: Master Some Best Practices to Pull In Users Early </a> </p><p>  <a href="http://blog.webfwd.org/private/51014682079/tumblr_mn61vslKi91qlgse7" target="_blank">Option 2: Mastering a New Platform</a> </p> </td>
+    <td><a href="http://www.linkedin.com/in/chudson" target="_blank">Charles Hudson</a></td>
   </tr>
 
 
 
     <tr>
-    <td class="largeP"><b>Sep 10</b></td>
-    <td class="largeP"><a href="http://webfwd.tumblr.com/post/25513972675/get-out-of-the-building-doing-user-research" target="_blank">User Research: Know Their Pain and Build the Right Solutions</a></td>
-    <td class="largeP"><a href="http://www.linkedin.com/in/lovig" target="_blank">Diane Loviglio</a></td>
+    <td><b>Sep 10</b></td>
+    <td><a href="http://webfwd.tumblr.com/post/25513972675/get-out-of-the-building-doing-user-research" target="_blank">User Research: Know Their Pain and Build the Right Solutions</a></td>
+    <td><a href="http://www.linkedin.com/in/lovig" target="_blank">Diane Loviglio</a></td>
   </tr>
 
 </table>
