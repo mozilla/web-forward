@@ -22,7 +22,8 @@ Main:
 	</div>
 </div>
 
-		
+<div class="row">
+  <div class="ten rows offset-by-one">		
 
 
 <body>
