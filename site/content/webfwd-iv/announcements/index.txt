@@ -24,7 +24,7 @@ Main:
 
 
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> UX audit with your UX expert</b> <br> ---------------------------------------------------------------------------------  <br> Please get in touch with your UX expert (you should have been introduced) and arrange how and when you'll have the ux audit
  <br></p>
 	</div>
@@ -32,7 +32,7 @@ Main:
 
 
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> Upcoming agenda (8/22):  Pitch Practice and Guest Speaker</b> <br> ---------------------------------------------------------------------------------  <br> <b><u>Pitch Practice:</u></b> PredictionIO, Vizicities, Webshell.io will be pitching <br> 
 		<b><u>Guest Speaker: </u></b> <a href="ca.linkedin.com/in/davidascher"> David Ascher</a> & <a href="ca.linkedin.com/pub/fred-dixon/0/75/695" target="_blank"> Fred Dixon </a> will give an overview on Open Source Business Model evolution & it's current state .  
  <br></p>
@@ -43,7 +43,7 @@ Main:
 
 
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> Rackspace Deal: Patience please</b> <br> ---------------------------------------------------------------------------------  <br> I received a couple emails asking how to apply for the deal from Rackspace. They'll provide us a custom link that will allow us to take advantage of this deal. I'll share it with you as soon as Rackspace sends it our way...  
  <br></p>
 	</div>
@@ -54,7 +54,7 @@ Main:
 
 <!--
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> 8/6 Upcoming agenda (8/15):  Pitch Practice and Guest Speaker</b> <br> ---------------------------------------------------------------------------------  <br> <b><u>Pitch Practice:</u></b> Multiplay.io, Navvid, Plom.io will be pitching <br> 
 		<b><u>Guest Speaker: </u></b> <a href="http://www.linkedin.com/in/christopherarnold"> Christopher Arnold</a>, Bus-Dev lead at Mozilla, will give an overview of UP, a Mozilla initiative on user profiling.  
  <br></p>
@@ -66,7 +66,7 @@ Main:
 
 
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> 8/6 Week 2: Branding & Positioning Module</b> <br> ---------------------------------------------------------------------------------  <br> Watch the video and read the assignment <a href="http://webfwd.tumblr.com/post/27933281198/the-customer-value-proposition">here</a> <br> <br><b><u>Assignment</u></b>, due <b>August 13th</b>: <br> Work through the Audience Relevance exercise and fill out the sheet, <a href="http://d.pr/f/BV6o">here</a>. <br> Work through the Customer Value Proposition exercise and fill out the sheet <a href="http://d.pr/f/G8QY">here</a>. <br> <br> <b>Mentor:</b>  <b><u><a href="http://www.linkedin.com/in/shappy"> Melissa Shapiro </a></b></u>, Marketing and Communications Consultant and Founder of Tioli, previously the Director of Global Public Relations at Mozilla, will be on the call for your questions.  <br></p>
 	</div>
 </div>
@@ -74,7 +74,7 @@ Main:
 
 
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> 8/6 Upcoming agenda (8/8):  Pitch Practice and Guest Speaker</b> <br> ---------------------------------------------------------------------------------  <br> <b><u>Pitch Practice:</u></b> Clay.io, CozyCloud, and Hyperaudio will be pitching <br> 
 		<b><u>Guest Speaker: </u></b> Asa Dotzler, The Director of Firefox, will give an overview of Mozilla
  <br></p>
@@ -83,7 +83,7 @@ Main:
 
 
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> 8/6 News and Announcements: Rackspace & UX audits</b> <br> ---------------------------------------------------------------------------------  <br> Check out the deal from Rackspace for WebFWD teams. They will provide companies coming through your program a credit of $2000/month valid on our US based cloud products for a period of 12 months.For details >>  <a href="https://docs.google.com/document/d/19uq-Tlr_Jx2QcZN3Va60KSb1_4laQibkpjJRw72hc9k/edit?usp=sharing"> the goodie bag </a> <br>
 
 		UX audits will start happening in next week or two. 
@@ -92,19 +92,19 @@ Main:
 </div>
 
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> 8/6 Strategy module w/ Pascal: Recap</b> <br> ---------------------------------------------------------------------------------  <br> Thanks for the great call. It looks like the structure worked well, and you all got to discuss your canvases with Pascal in depth. If you have any further questions, feel free to reach out to Pascal. His email: p@mozilla.com. And important note is, given time limitations of a meeting, try to focus on the most important/challenging questions you have for the mentor, rather than just explaining them where you are. <br><br> We created a Dropbox folder for you to share your Lean Canvases with each other. A sub-folder called "Lean Canvases" in the WebFWD IV folder. Here is the link: <a href="https://www.dropbox.com/sh/256zhxlalbsyd5n/sxylHMOGkt"> https://www.dropbox.com/sh/256zhxlalbsyd5n/sxylHMOGkt</a> <br><br> <b>Action Items:</b><br> - Complete the Orientation Survey on Top Hat. Your opinion counts and we'd love to make things better and better, help us! <br> - Send 2-3 goals that you want to achieve at WebFWD by Monday August 12. <br></p>
 	</div>
 </div>
 
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> 7/31 Week 1: Strategy Module</b> <br> ---------------------------------------------------------------------------------  <br> Watch the video and read the assignment <a href="http://webfwd.tumblr.com/private/24370857783/tumblr_m52i3txCle1qlgse7">here</a> <br> <b><u>Assignment</u></b>, due <b>August 6th</b>: Create a Business Canvas using the Lean Canvas website. Optionally create a One-Page Strategic Plan <br> <b>Mentor:</b> Pascal Finette will be on the call to help you with your questions. <br></p>
 	</div>
 </div>
 
 <div class="row">
-	<div class="ten rows offset-by-one">
+	<div class="twelve rows">
 		<p class="largeP"> <b> 7/31 How to Install Vidyo</b> <br> --------------------------------------------------------------------------------- <br>Here is the invitation link that will allow you to join our meetings: <a href="https://v.mozilla.com/flex.html?roomdirect.html&key=K5WeIeF7sC4T">https://v.mozilla.com/flex.html?roomdirect.html&key=K5WeIeF7sC4T</a> <br><br>When you click on the link, it will prompt you to <b>install Vidyo</b>.<br> Once you install Vidyo, <b>click on the link again</b>. This time you will be prompted to "<b>Enter guest name and click the join button</b>"<br> Enter your name (and your company name), and click to join button.<br><b>Next window that opens will be the video meeting room</b>. There is a control panel on the top of the screen. <br> </p>
 	</div>
 </div>
