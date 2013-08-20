@@ -11,9 +11,37 @@ Main:
 
 <div class="row padding">
 	<div class="twelve rows text-center">
-		<h1 class="large">Announcements and Tasks</h1>
+		<h1 class="large">Announcements and Tasks <br></h1>
 	</div>
 </div>
+
+
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<p class="largeP"> <b> 8/27 Week 4: User Experience</b> <br> ---------------------------------------------------------------------------------  <br> Choose one of the three options (see schedule), watch the video and complete the assignment. <br> <br><b><u>Assignment</u></b>, due <b>August 27th</b>: <br> See individual options for specific assignments in each. <br> <br> <b>Mentor:</b>  <b><u><a href="http://www.linkedin.com/in/chrissiebrodigan" target="_blank">Chrissie Brodigan</a></b></u>, Design & User Experience Research at GitHub, will be on the call for your questions.  <br></p>
+	</div>
+</div>
+
+
+
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<p class="largeP"> <b> UX audit with your UX expert</b> <br> ---------------------------------------------------------------------------------  <br> Please get in touch with your UX expert (you should have been introduced) and arrange how and when you'll have the ux audit
+ <br></p>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="ten rows offset-by-one">
+		<p class="largeP"> <b> Upcoming agenda (8/22):  Pitch Practice and Guest Speaker</b> <br> ---------------------------------------------------------------------------------  <br> <b><u>Pitch Practice:</u></b> PredictionIO, Vizicities, Webshell.io will be pitching <br> 
+		<b><u>Guest Speaker: </u></b> <a href="ca.linkedin.com/in/davidascher"> David Ascher</a> & <a href="ca.linkedin.com/pub/fred-dixon/0/75/695" target="_blank"> Fred Dixon </a> will give an overview on Open Source Business Model evolution & it's current state .  
+ <br></p>
+	</div>
+</div>
+
+
+
 
 <div class="row">
 	<div class="ten rows offset-by-one">
@@ -25,7 +53,7 @@ Main:
 
 
 
-
+<!--
 <div class="row">
 	<div class="ten rows offset-by-one">
 		<p class="largeP"> <b> 8/6 Upcoming agenda (8/15):  Pitch Practice and Guest Speaker</b> <br> ---------------------------------------------------------------------------------  <br> <b><u>Pitch Practice:</u></b> Multiplay.io, Navvid, Plom.io will be pitching <br> 
@@ -81,5 +109,6 @@ Main:
 		<p class="largeP"> <b> 7/31 How to Install Vidyo</b> <br> --------------------------------------------------------------------------------- <br>Here is the invitation link that will allow you to join our meetings: <a href="https://v.mozilla.com/flex.html?roomdirect.html&key=K5WeIeF7sC4T">https://v.mozilla.com/flex.html?roomdirect.html&key=K5WeIeF7sC4T</a> <br><br>When you click on the link, it will prompt you to <b>install Vidyo</b>.<br> Once you install Vidyo, <b>click on the link again</b>. This time you will be prompted to "<b>Enter guest name and click the join button</b>"<br> Enter your name (and your company name), and click to join button.<br><b>Next window that opens will be the video meeting room</b>. There is a control panel on the top of the screen. <br> </p>
 	</div>
 </div>
+-->
 
 
