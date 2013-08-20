@@ -68,8 +68,8 @@ Interview minimum 6 users</td>
 
     <tr>
     <td class="largeP"><b>Aug 27</b></td>
-    <td class="largeP"> User Experience <p> <a href="http://webfwd.tumblr.com/post/47034814113/designing-for-new-users" target="_blank">Option 1: Designing for New Users</a> </p><p>  <a href="http://blog.webfwd.org/post/35263834255/improving-your-ux-and-conversions-tips-responsive
-" target="_blank">Option 2: Responsive Design</a> </p> <p> <a href="http://webfwd.tumblr.com/post/26033082927/ux-designing-an-effective-experience-for-your-users" target="_blank">Option 3: Forms Best Practices</a></p> </td>
+    <td class="largeP"> User Experience <p class="largeP"> <a href="http://webfwd.tumblr.com/post/47034814113/designing-for-new-users" target="_blank">Option 1: Designing for New Users</a> </p><p class="largeP">  <a href="http://blog.webfwd.org/post/35263834255/improving-your-ux-and-conversions-tips-responsive
+" target="_blank">Option 2: Responsive Design</a> </p> <p class="largeP"> <a href="http://webfwd.tumblr.com/post/26033082927/ux-designing-an-effective-experience-for-your-users" target="_blank">Option 3: Forms Best Practices</a></p> </td>
     <td class="largeP"><a href="http://www.linkedin.com/in/chrissiebrodigan" target="_blank">Chrissie Brodigan</a></td>
 
     <td class="largeP">See individual options for specific assignments in each</td>
@@ -78,7 +78,7 @@ Interview minimum 6 users</td>
 
     <tr>
     <td class="largeP"><b>Sep 3</b></td>
-    <td class="largeP"> User Acquisition <p> <a href="http://blog.webfwd.org/post/27057631574/customer-acquisition-from-product-to-market" target="_blank">Option 1: Master Some Best Practices to Pull In Users Early </a> </p><p>  <a href="http://blog.webfwd.org/private/51014682079/tumblr_mn61vslKi91qlgse7" target="_blank">Option 2: Mastering a New Platform</a> </p> </td>
+    <td class="largeP"> User Acquisition <p class="largeP"> <a href="http://blog.webfwd.org/post/27057631574/customer-acquisition-from-product-to-market" target="_blank">Option 1: Master Some Best Practices to Pull In Users Early </a> </p><p class="largeP">  <a href="http://blog.webfwd.org/private/51014682079/tumblr_mn61vslKi91qlgse7" target="_blank">Option 2: Mastering a New Platform</a> </p> </td>
     <td class="largeP"><a href="http://www.linkedin.com/in/chudson" target="_blank">Charles Hudson</a></td>
     <td class="largeP">See individual options for specific assignments in each</td>
   </tr>
@@ -93,8 +93,8 @@ Interview minimum 6 users</td>
 
 <tr>
     <td class="largeP"><b>Sep 17</b></td>
-    <td class="largeP"><p><a href="http://blog.webfwd.org/private/27669094505/tumblr_m6afdmdkD31qlgse7" target="_blank">Option 1: Community Marketing: Multiply Your Impact by Actively Engaging Your Users
-Mary Colvig (community marketing) </a> </p><p>  <a href="http://blog.webfwd.org/private/51155270486/tumblr_mn8nbrdyX41qlgse7" target="_blank">Option 2: Social Media: The Open of Marketing</a> </p> </td>
+    <td class="largeP"><p class="largeP"><a href="http://blog.webfwd.org/private/27669094505/tumblr_m6afdmdkD31qlgse7" target="_blank">Option 1: Community Marketing: Multiply Your Impact by Actively Engaging Your Users
+Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://blog.webfwd.org/private/51155270486/tumblr_mn8nbrdyX41qlgse7" target="_blank">Option 2: Social Media: The Open of Marketing</a> </p> </td>
     <td class="largeP"><a href="http://www.linkedin.com/in/rachelmasters" target="_blank">Rachel Masters</a></td>
      <td class="largeP">See individual options for specific assignments in each</td>
   </tr>
