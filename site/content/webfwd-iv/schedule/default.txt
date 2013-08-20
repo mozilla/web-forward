@@ -20,7 +20,7 @@ Main:
 
 <div class="row padding">
 	<div class="twelve rows">
-		<h4>WebFWD meets every Tuesday and Thursday between 10:00 am - 11:30 am PT <br><br></h4>
+		<h4>WebFWD meets every Tuesday and Thursday, 10:00 am - 11:30 am PT <br><br></h4>
 	</div>
 </div>
 
