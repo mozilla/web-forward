@@ -11,13 +11,13 @@ Main:
 
 	<div class="row padding">
 	<div class="twelve rows">
-		<h1>Announcements and Tasks</h1>
+		<h1>Announcements & Tasks</h1>
 	</div>
 </div>
 
 <div class="row padding">
 	<div class="twelve rows">
-		<p class="largeP"> <b> 8/27 Week 4: User Experience</b> <br> ---------------------------------------------------------------------------------  <br> Choose one of the three options (see schedule), watch the video and complete the assignment. <br> <br><b><u>Assignment</u></b>, due <b>August 27th</b>: <br> See individual options for specific assignments in each. <br> <br> <b>Mentor:</b>  <b><u><a href="http://www.linkedin.com/in/chrissiebrodigan" target="_blank">Chrissie Brodigan</a></b></u>, Design & User Experience Research at GitHub, will be on the call for your questions.  <br></p>
+		<p class="largeP"> <b> Due 8/27, User Experience Assignment</b> <br> ---------------------------------------------------------------------------------  <br> Choose one of the three options (see schedule), watch the video and complete the assignment. <br> <br><b><u>Assignment</u></b>, due <b>August 27th</b>: <br> See individual options for specific assignments in each. <br> <br> <b>Mentor:</b>  <b><u><a href="http://www.linkedin.com/in/chrissiebrodigan" target="_blank">Chrissie Brodigan</a></b></u>, Design & User Experience Research at GitHub, will be on the call for your questions.  <br></p>
 	</div>
 </div>
 
@@ -25,7 +25,7 @@ Main:
 
 <div class="row">
 	<div class="twelve rows">
-		<p class="largeP"> <b> UX audit with your UX expert</b> <br> ---------------------------------------------------------------------------------  <br> Please get in touch with your UX expert (you should have been introduced) and arrange how and when you'll have the ux audit
+		<p class="largeP"> <b> Due 8/27, UX audit with your UX expert</b> <br> ---------------------------------------------------------------------------------  <br> Please get in touch with your UX expert (you should have been introduced) and arrange how and when you'll have the ux audit
  <br></p>
 	</div>
 </div>
@@ -33,7 +33,7 @@ Main:
 
 <div class="row">
 	<div class="twelve rows">
-		<p class="largeP"> <b> Upcoming agenda (8/22):  Pitch Practice and Guest Speaker</b> <br> ---------------------------------------------------------------------------------  <br> <b><u>Pitch Practice:</u></b> PredictionIO, Vizicities, Webshell.io will be pitching <br> 
+		<p class="largeP"> <b> Due 8/22 Pitch Practice and Guest Speaker</b> <br> ---------------------------------------------------------------------------------  <br> <b><u>Pitch Practice:</u></b> PredictionIO, Vizicities, Webshell.io will be pitching <br> 
 		<b><u>Guest Speaker: </u></b> <a href="ca.linkedin.com/in/davidascher"> David Ascher</a> & <a href="ca.linkedin.com/pub/fred-dixon/0/75/695" target="_blank"> Fred Dixon </a> will give an overview on Open Source Business Model evolution & it's current state .  
  <br></p>
 	</div>
@@ -41,7 +41,7 @@ Main:
 
 
 
-
+<!--
 <div class="row">
 	<div class="twelve rows">
 		<p class="largeP"> <b> Rackspace Deal: Patience please</b> <br> ---------------------------------------------------------------------------------  <br> I received a couple emails asking how to apply for the deal from Rackspace. They'll provide us a custom link that will allow us to take advantage of this deal. I'll share it with you as soon as Rackspace sends it our way...  
@@ -51,8 +51,6 @@ Main:
 
 
 
-
-<!--
 <div class="row">
 	<div class="twelve rows">
 		<p class="largeP"> <b> 8/6 Upcoming agenda (8/15):  Pitch Practice and Guest Speaker</b> <br> ---------------------------------------------------------------------------------  <br> <b><u>Pitch Practice:</u></b> Multiplay.io, Navvid, Plom.io will be pitching <br> 
