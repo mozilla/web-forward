@@ -25,6 +25,22 @@ Main:
 <div class="row">
   <div class="twelve rows">		
 
+<head>
+<style>
+table,td,th
+{
+border:1px solid black;
+}
+table
+{
+width:100%;
+}
+th
+{
+height:50px;
+}
+</style>
+</head>
 
 <body>
 
@@ -34,7 +50,7 @@ Main:
 
 <caption> <h4><b>Tuesday's Calls </b></h4></caption>
 
- <tr class="row padding">
+ <tr>
     <th width="10%"><b>Date of Call</b></th>
     <th><b>Topic & Link</b></th>
     <th><b>Guest Expert and Bio</b></th>
