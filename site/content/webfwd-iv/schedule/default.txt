@@ -4,7 +4,7 @@ ID: cohort
 ----
 Main:
 <div class="row padding">
-	<div class="twenty rows">
+	<div class="twelve rows">
 		<h2 align =right><a href="/webfwd-iv/schedule/">Schedule</a>  |  <a href="/webfwd-iv/announcements/">Announcements & Tasks</a>  </h2>
 	</div>
 </div>
@@ -20,8 +20,8 @@ Main:
 
 <div class="row padding">
 	<div class="twelve rows">
-		<h2>Weekly Call with Subject Matter Expert: Tuesday, 10:00 am - 11:30 am PT <br> Weekly Pitch Practice Call: Thursday, 10:00 am - 11:30 am PT  <br>
-		All deliverables should be completed for the call on Tuesday<br><br></h2>
+		<h3>Weekly Call with Subject Matter Expert: Tuesday, 10:00 am - 11:30 am PT <br> Weekly Pitch Practice Call: Thursday, 10:00 am - 11:30 am PT  <br>
+		All deliverables should be completed for the call on Tuesday<br><br></h3>
 	</div>
 </div>
 
@@ -34,13 +34,13 @@ Main:
 
 <table width = "100%">
 
-<caption> <b>Schedule for Tuesday's Calls </b></caption>
+<caption> <h5><b>Schedule for Tuesday's Calls </b></h5></caption>
 
  <tr>
-    <th>Date</th>
-    <th>Topic & Link</th>
-    <th>Guest Expert and Bio</th>
-    <th>Deliverables</th>
+    <th><b>Date</b></th>
+    <th><b>Topic & Link</b></th>
+    <th><b>Guest Expert and Bio</b></th>
+    <th><b>Deliverables</b></th>
   </tr>
   <tr>
     <td class="largeP"><b>Aug 6</b></td>
@@ -134,12 +134,12 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 <table>
 
 
-<caption> <b>Schedule for Thursday's Calls </b></caption>
+<caption> <h5><b>Schedule for Thursday's Calls </b></h5></caption>
 
  <tr>
-    <th>Date</th>
-    <th>Teams Pitching</th>
-    <th>Guest Speaker & Topic</th>
+    <th><b>Date</b></th>
+    <th><b>Teams Pitching</b></th>
+    <th><b>Guest Speaker & Topic</b></th>
   </tr>
   <tr>
     <td class="largeP"><b>Aug 8</b></td>
