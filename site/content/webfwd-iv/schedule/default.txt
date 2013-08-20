@@ -111,7 +111,7 @@ Mary Colvig (community marketing) </a> </p><p>  <a href="http://blog.webfwd.org/
 <tr>
     <td class="largeP"><b>Oct 1</b></td>
     <td class="largeP"><a href="http://blog.webfwd.org/post/26567725454/show-me-the-money-finances-and-metrics" target="_blank">Financials & Metrics: Build a Reliable, Accurate Model for your Cash and Key Success Metrics</a></td>
-    <td class="largeP">Jared Stasik (Unconfirmed)</td>
+    <td class="largeP">Jared Stasik</td>
     <td class="largeP">Create a financial model & plan for your project
     <br> Create a plan on how to get to positive cash flow - and implement it!
 </td>
@@ -119,8 +119,8 @@ Mary Colvig (community marketing) </a> </p><p>  <a href="http://blog.webfwd.org/
 
 <tr>
     <td class="largeP"><b>Oct 8</b></td>
-    <td class="largeP"> <p> <a href="http://blog.webfwd.org/post/27490054493/getting-your-software-license-right" target="_blank">Option 1: Legal Issues: Licensing, Founders Rights Option </a> </p><p>  <a href="http://blog.webfwd.org/post/36844154171/setting-yourself-and-your-founders-up-for-success" target="_blank">Option 2: Founder Agreements</a> </p> </td>
-    <td class="largeP"><a href="http://www.linkedin.com/pub/lowell-ness/2/91/634" target="_blank">Lowell Ness (right ??)</a></td>
+    <td class="largeP"> <p class="largeP"> <a href="http://blog.webfwd.org/post/27490054493/getting-your-software-license-right" target="_blank">Option 1: Legal Issues: Licensing, Founders Rights Option </a> </p><p class="largeP">  <a href="http://blog.webfwd.org/post/36844154171/setting-yourself-and-your-founders-up-for-success" target="_blank"> Option 2: Founder Agreements</a> </p> </td>
+    <td class="largeP"><a href="http://www.linkedin.com/pub/lowell-ness/2/91/634" target="_blank">Lowell Ness</a></td>
     <td class="largeP">See individual options for specific assignments in each</td>
   </tr>
 
