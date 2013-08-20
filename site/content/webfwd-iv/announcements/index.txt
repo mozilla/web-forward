@@ -15,7 +15,7 @@ Main:
 	</div>
 </div>
 
-<div class="row">
+<div class="row padding">
 	<div class="twelve rows">
 		<p class="largeP"> <b> Due 8/22 Pitch Practice and Guest Speaker</b> <br> ---------------------------------------------------------------------------------  <br> <b><u>Pitch Practice:</u></b> PredictionIO, Vizicities, Webshell.io will be pitching <br> 
 		<b><u>Guest Speaker: </u></b> <a href="ca.linkedin.com/in/davidascher"> David Ascher</a> & <a href="ca.linkedin.com/pub/fred-dixon/0/75/695" target="_blank"> Fred Dixon </a> will give an overview on Open Source Business Model evolution & it's current state .  
@@ -32,7 +32,7 @@ Main:
 
 
 
-<div class="row">
+<div class="row padding">
 	<div class="twelve rows">
 		<p class="largeP"> <b> Due 8/27, UX audit with your UX expert</b> <br> ---------------------------------------------------------------------------------  <br> Please get in touch with your UX expert (you should have been introduced) and arrange how and when you'll have the ux audit
  <br></p>
