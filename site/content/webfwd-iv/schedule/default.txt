@@ -23,7 +23,7 @@ Main:
 </div>
 
 <div class="row">
-  <div class="ten rows offset-by-one">		
+  <div class="four rows offset-by-one">		
 
 
 <body>
