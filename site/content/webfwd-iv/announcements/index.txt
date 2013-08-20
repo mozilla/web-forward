@@ -15,14 +15,6 @@ Main:
 	</div>
 </div>
 
-
-<div class="row padding">
-	<div class="twelve rows">
-		<h2>Weekly Call with Subject Matter Expert: Tuesday, 10:00 am - 11:30 am PT <br> Weekly Pitch Practice Call: Thursday, 10:00 am - 11:30 am PT  <br><br></h2>
-	</div>
-</div>
-
-
 <div class="row">
 	<div class="ten rows offset-by-one">
 		<p class="largeP"> <b> Rackspace Deal: Patience please</b> <br> ---------------------------------------------------------------------------------  <br> I received a couple emails asking how to apply for the deal from Rackspace. They'll provide us a custom link that will allow us to take advantage of this deal. I'll share it with you as soon as Rackspace sends it our way...  
