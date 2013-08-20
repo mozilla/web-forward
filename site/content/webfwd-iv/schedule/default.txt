@@ -31,6 +31,7 @@ Main:
 table,td,th
 {
 border:1px solid dodgerblue;
+font-size:200%;
 }
 table
 {
@@ -44,7 +45,6 @@ td
 {
 padding:15px;
 vertical-align:middle;
-font-size:200%;
 }
 </style>
 </head>
