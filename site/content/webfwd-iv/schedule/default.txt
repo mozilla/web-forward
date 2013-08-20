@@ -28,7 +28,7 @@ Main:
 
 <head>
 <style>
-table,td,th
+table,tr,td,th
 {
 border:1px solid dodgerblue;
 font-size:200%;
