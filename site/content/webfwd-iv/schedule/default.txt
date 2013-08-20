@@ -33,7 +33,7 @@ Main:
 
 <table width = "100%">
 
-<caption> <h4><b>Schedule for Tuesday's Calls </b></h4></caption>
+<caption> <h4><b>Tuesday's Calls </b></h4></caption>
 
  <tr>
     <th><b>Date</b></th>
@@ -133,7 +133,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 <table>
 
 
-<caption> <h4><b>Schedule for Thursday's Calls </b></h4></caption>
+<caption> <h4><b>Thursday's Calls </b></h4></caption>
 
  <tr>
     <th><b>Date</b></th>
