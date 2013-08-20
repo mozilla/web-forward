@@ -40,7 +40,7 @@ th
 {
 height:50px;
 vertical-align:middle;
-padding:10px;
+padding:5px;
 }
 td
 {
