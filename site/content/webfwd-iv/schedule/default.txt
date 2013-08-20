@@ -129,7 +129,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 <br>
 <br>
 
-<table>
+<table width = "100%">
 
 
 <caption> <h4><b>Thursday's Calls </b></h4></caption>
