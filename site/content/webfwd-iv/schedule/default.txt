@@ -44,7 +44,7 @@ padding:5px;
 }
 td
 {
-padding:15px;
+padding:5px;
 vertical-align:middle;
 }
 tr
@@ -72,7 +72,7 @@ vertical-align:middle;
     <td class="largeP"><b>Aug 6</b></td>
     <td class="largeP"><a href="http://webfwd.tumblr.com/post/25035496165/strategy-a-startups-foundation" target="_blank">Strategy: Create an Evergreen Roadmap to Track You For Success</a></td>
     <td class="largeP"><a href="http://www.linkedin.com/in/pfinette" target="_blank">Pascal Finette</a></td>
-    <td>Create a Business Canvas using the Lean Canvas website <br>Optionally, create a One-Page Strategic Plan</td>
+    <td class="largeP">Create a Business Canvas using the Lean Canvas website <br>Optionally, create a One-Page Strategic Plan</td>
   </tr> 
 
   <tr>
