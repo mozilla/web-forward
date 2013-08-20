@@ -35,7 +35,7 @@ Main:
 <caption> <h4><b>Tuesday's Calls </b></h4></caption>
 
  <tr>
-    <th width="10%"><b>Date</b></th>
+    <th width="10%"><b>Date of Call</b></th>
     <th><b>Topic & Link</b></th>
     <th><b>Guest Expert and Bio</b></th>
     <th><b>Deliverables</b></th>
@@ -148,7 +148,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 <tr>
     <td class="largeP"><b>Aug 15</b></td>
     <td class="largeP">MultiplayIO <br> Navvid <br> PLOM.io</td>
-    <td class="largeP"><a href="www.linkedin.com/in/christopherarnold" target="_blank">Christopher Arnold</a>: UP</td>
+    <td class="largeP"><a href="http://www.linkedin.com/in/christopherarnold" target="_blank">Christopher Arnold</a>: UP</td>
   </tr>
 
   <tr>
