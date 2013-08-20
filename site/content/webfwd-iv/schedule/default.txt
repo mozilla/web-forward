@@ -4,7 +4,7 @@ ID: cohort
 ----
 Main:
 <div class="row padding">
-	<div class="twelve rows">
+	<div class="twenty rows">
 		<h2 align =right><a href="/webfwd-iv/schedule/">Schedule</a>  |  <a href="/webfwd-iv/announcements/">Announcements & Tasks</a>  </h2>
 	</div>
 </div>
