@@ -39,6 +39,8 @@ width:100%;
 th
 {
 height:50px;
+vertical-align:middle;
+padding:15px;
 }
 td
 {
