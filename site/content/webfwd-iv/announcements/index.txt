@@ -15,7 +15,7 @@ Main:
 	</div>
 </div>
 
-<div class="row">
+<div class="row padding">
 	<div class="twelve rows">
 		<p class="largeP"> <b> 8/27 Week 4: User Experience</b> <br> ---------------------------------------------------------------------------------  <br> Choose one of the three options (see schedule), watch the video and complete the assignment. <br> <br><b><u>Assignment</u></b>, due <b>August 27th</b>: <br> See individual options for specific assignments in each. <br> <br> <b>Mentor:</b>  <b><u><a href="http://www.linkedin.com/in/chrissiebrodigan" target="_blank">Chrissie Brodigan</a></b></u>, Design & User Experience Research at GitHub, will be on the call for your questions.  <br></p>
 	</div>
