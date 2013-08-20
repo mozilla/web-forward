@@ -35,7 +35,7 @@ Main:
 <caption> <h4><b>Tuesday's Calls </b></h4></caption>
 
  <tr>
-    <th width="100%><b>Date</b></th>
+    <th width="100%"><b>Date</b></th>
     <th><b>Topic & Link</b></th>
     <th><b>Guest Expert and Bio</b></th>
     <th><b>Deliverables</b></th>
