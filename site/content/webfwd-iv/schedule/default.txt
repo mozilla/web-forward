@@ -25,11 +25,12 @@ Main:
 <div class="row">
   <div class="twelve rows">		
 
+
 <head>
 <style>
 table,td,th
 {
-border:1px solid grey;
+border:1px solid dodgerblue;
 }
 table
 {
