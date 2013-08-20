@@ -44,7 +44,7 @@ td
 {
 padding:15px;
 vertical-align:middle;
-font-size:100%;
+font-size:200%;
 }
 </style>
 </head>
@@ -59,7 +59,7 @@ font-size:100%;
 
  <tr>
     <th width="10%"><b>Date of Call</b></th>
-    <th><b>Topic & Link</b></th>
+    <th valign =middle><b>Topic & Link</b></th>
     <th><b>Guest Expert and Bio</b></th>
     <th><b>Deliverables</b></th>
   </tr>
