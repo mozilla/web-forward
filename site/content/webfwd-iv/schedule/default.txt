@@ -23,7 +23,7 @@ Main:
 </div>
 
 <div class="row">
-  <div class="fourteen rows">		
+  <div class="twelve rows">		
 
 
 <body>
