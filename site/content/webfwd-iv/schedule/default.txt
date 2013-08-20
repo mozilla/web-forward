@@ -31,23 +31,19 @@ Main:
 table,td,th
 {
 border:1px solid lightskyblue;
-font-size:200%;
 }
 table
 {
 width:100%;
-font-size:200%;
 }
 th
 {
 height:50px;
-font-size:200%;
 }
 td
 {
 padding:15px;
 vertical-align:middle;
-font-size:200%;
 }
 </style>
 </head>
@@ -67,10 +63,10 @@ font-size:200%;
     <th><b>Deliverables</b></th>
   </tr>
   <tr>
-    <td><b>Aug 6</b></td>
-    <td><a href="http://webfwd.tumblr.com/post/25035496165/strategy-a-startups-foundation" target="_blank">Strategy: Create an Evergreen Roadmap to Track You For Success</a></td>
+    <td class="largeP"><b>Aug 6</b></td>
+    <td class="largeP"><a href="http://webfwd.tumblr.com/post/25035496165/strategy-a-startups-foundation" target="_blank">Strategy: Create an Evergreen Roadmap to Track You For Success</a></td>
     <td class="largeP"><a href="http://www.linkedin.com/in/pfinette" target="_blank">Pascal Finette</a></td>
-    <td class="largeP">Create a Business Canvas using the Lean Canvas website <br>Optionally, create a One-Page Strategic Plan</td>
+    <td>Create a Business Canvas using the Lean Canvas website <br>Optionally, create a One-Page Strategic Plan</td>
   </tr> 
 
   <tr>
