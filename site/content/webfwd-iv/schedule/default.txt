@@ -30,15 +30,18 @@ Main:
 <style>
 table,td,th
 {
-border:1px solid dodgerblue;
+border:1px solid lightskyblue;
+font-size:200%;
 }
 table
 {
 width:100%;
+font-size:200%;
 }
 th
 {
 height:50px;
+font-size:200%;
 }
 td
 {
@@ -59,7 +62,7 @@ font-size:200%;
 
  <tr>
     <th width="10%"><b>Date of Call</b></th>
-    <th valign =middle><b>Topic & Link</b></th>
+    <th><b>Topic & Link</b></th>
     <th><b>Guest Expert and Bio</b></th>
     <th><b>Deliverables</b></th>
   </tr>
