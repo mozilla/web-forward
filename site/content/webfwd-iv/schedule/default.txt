@@ -34,7 +34,7 @@ Main:
 
 <caption> <h4><b>Tuesday's Calls </b></h4></caption>
 
- <tr>
+ <tr class="row padding">
     <th width="10%"><b>Date of Call</b></th>
     <th><b>Topic & Link</b></th>
     <th><b>Guest Expert and Bio</b></th>
@@ -178,7 +178,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
   <tr>
     <td class="largeP"><b>Sept 19</b></td>
     <td class="largeP">Prediction.io <br> ViziCities <br> Webshell.io</td>
-    <td class="largeP"><a href="http://www.linkedin.com/in/emilygoligoski" target="_blank">Emily Goligoski</a>on Mozilla Open Badges </td>
+    <td class="largeP"><a href="http://www.linkedin.com/in/emilygoligoski" target="_blank">Emily Goligoski</a> on Mozilla Open Badges </td>
   </tr>
 
 
