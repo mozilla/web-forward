@@ -35,7 +35,7 @@ Main:
 <caption> <h4><b>Tuesday's Calls </b></h4></caption>
 
  <tr>
-    <th><b>Date</b></th>
+    <th width="100%><b>Date</b></th>
     <th><b>Topic & Link</b></th>
     <th><b>Guest Expert and Bio</b></th>
     <th><b>Deliverables</b></th>
@@ -48,7 +48,7 @@ Main:
   </tr> 
 
   <tr>
-    <td class="largeP"><b>Aug 13</b></td>
+    <td class="largeP", width="100%><b>Aug 13</b></td>
     <td class="largeP"><a href="http://blog.webfwd.org/post/27933281198/the-customer-value-proposition" target="_blank">Branding & Positioning: Draw Off Your Work To Best Position Yourself in the Market</a></td>
     <td class="largeP"><a href="http://www.linkedin.com/in/shappy" target="_blank">Melissa Shapiro</a></td>
     <td class="largeP">Work through the Audience Relevance exercise and <a href = "http://d.pr/f/BV6o" target="_blank"> fill out the sheet </a> <br> Work through the Customer Value Proposition exercise and <a href = "http://d.pr/f/G8QY" target="_blank"> fill out the sheet </a></td>
