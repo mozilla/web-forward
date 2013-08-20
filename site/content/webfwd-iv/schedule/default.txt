@@ -28,7 +28,7 @@ Main:
 
 <head>
 <style>
-table,td,th
+table,td,th, tr
 {
 border:1px solid lightskyblue;
 }
@@ -43,6 +43,10 @@ height:50px;
 td
 {
 padding:15px;
+vertical-align:middle;
+}
+tr
+{
 vertical-align:middle;
 }
 </style>
