@@ -135,7 +135,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 <caption> <h4><b>Thursday's Calls </b></h4></caption>
 
  <tr>
-    <th><b>Date</b></th>
+    <th><b>Date of Call</b></th>
     <th><b>Teams Pitching</b></th>
     <th><b>Guest Speaker & Topic</b></th>
   </tr>
@@ -154,7 +154,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
   <tr>
     <td class="largeP"><b>Aug 22</b></td>
     <td class="largeP">Prediction.io <br> ViziCities <br> Webshell.io</td>
-    <td class="largeP"><a href="ca.linkedin.com/in/davidascher" target="_blank">David Ascher </a> & <a href="ca.linkedin.com/pub/fred-dixon/0/75/695" target="_blank"> Fred Dixon </a>on Open Source Business Model evolution & it's current state </td>
+    <td class="largeP"><a href="http://www.linkedin.com/in/davidascher" target="_blank">David Ascher </a> & <a href="http://www.linkedin.com/pub/fred-dixon/0/75/695" target="_blank"> Fred Dixon </a>on Open Source Business Model evolution & it's current state </td>
   </tr>
 
 <tr>
@@ -166,7 +166,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 <tr>
     <td class="largeP"><b>Sept 5</b></td>
     <td class="largeP">MultiplayIO <br> Navvid <br> PLOM.io</td>
-  	<td class="largeP"><a href="ca.linkedin.com/in/yvanboily" target="_blank">Yvan Boily </a>on Minion / Security</td>
+  	<td class="largeP"><a href="http://www.linkedin.com/in/yvanboily" target="_blank">Yvan Boily </a>on Minion / Security</td>
   </tr>
 
   <tr>
@@ -178,7 +178,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
   <tr>
     <td class="largeP"><b>Sept 19</b></td>
     <td class="largeP">Prediction.io <br> ViziCities <br> Webshell.io</td>
-    <td class="largeP"><a href="www.linkedin.com/in/emilygoligoski" target="_blank">Emily Goligoski</a>on Mozilla Open Badges </td>
+    <td class="largeP"><a href="http://www.linkedin.com/in/emilygoligoski" target="_blank">Emily Goligoski</a>on Mozilla Open Badges </td>
   </tr>
 
 
