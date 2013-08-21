@@ -5,7 +5,7 @@ ID: cohort
 Main:
 
 	<div class="row padding">
-	<div class="twelve rows">
+	<div class="sixteen rows">
 		<h1>Schedule</h1>
 	</div>
 </div>
