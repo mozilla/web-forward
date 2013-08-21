@@ -3,12 +3,6 @@ Title: Program
 ID: cohort
 ----
 Main:
-<div class="row padding">
-	<div class="twelve rows">
-		<h2 align =right><a href="/webfwd-iv/schedule/">Schedule</a>  |  <a href="/webfwd-iv/announcements/">Announcements & Tasks</a>  </h2>
-	</div>
-</div>
-
 
 	<div class="row padding">
 	<div class="twelve rows">
@@ -56,9 +50,11 @@ vertical-align:middle;
 
 <body>
 
-
-
 <table width = "100%">
+<tr>
+<td>
+
+<table>
 
 <caption> <h4><b>Tuesday's Calls </b></h4></caption>
 
@@ -152,12 +148,13 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 
 
 </table>
+</td>
 
-<br> 
-<br>
-<br>
 
-<table width = "100%">
+<td>
+
+
+<table>
 
 
 <caption> <h4><b>Thursday's Calls </b></h4></caption>
@@ -256,6 +253,9 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 
 </table>
 
+</td>
+
+</table>
 
 </body>
 
