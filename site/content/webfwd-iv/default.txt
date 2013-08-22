@@ -241,13 +241,6 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
   </tr>
 
   <tr>
-    <td class="largeP"><b>Oct 10</b></td>
-    <td class="largeP">All 9 teams! </td>
-    <td class="largeP"> - </td>
-    <td class="largeP"> Listed teams ready to pitch </td>
-  </tr>
-
-  <tr>
     <td class="largeP"><b>Oct 28-30</b></td>
     <td class="largeP">Graduation </td>
     <td class="largeP"> - </td>
