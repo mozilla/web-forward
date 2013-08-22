@@ -71,9 +71,9 @@ vertical-align:middle;
 
   <tr>
     <td class="largeP"><b>Aug 8</b></td>
-    <td class="largeP">Clay.io <br> CozyCloud <br> Hyperaudio</td>
+    <td class="largeP">Pitch Practice: Clay.io, CozyCloud, and Hyperaudio</td>
     <td class="largeP"><a href="http://www.linkedin.com/in/asadotzler" target="_blank">Asa Dotzler</a>: Overview of Mozilla</td>
-    <td> - </td>
+    <td> Listed teams ready to pitch </td>
   </tr>
 
   <tr>
