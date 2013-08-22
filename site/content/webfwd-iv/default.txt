@@ -3,38 +3,10 @@ Title: Program
 ID: cohort
 ----
 Main:
-  <div class="row padding">
-  <div class="twelve rows">
-    <h3>Actions</h3>
-    <ul>
-      <li>Due Aug 27, Take a minute to fill out the weekly feedback form on User Research. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here</a></li>
-      <li>Due Aug 27, Make sure to get in touch with the UX expert you were introduced, and arrange how and when you'll have the UX audit. </li>
-     </ul> 
-  </div>
-</div>
-
-	<div class="row padding">
-	<div class="twelve rows">
-		<h3>Schedule</h3>
-	</div>
-</div>
-
-
-
-<div class="row padding">
-	<div class="twelve rows">
-		<h4>WebFWD meets every Tuesday and Thursday, 10:00 am - 11:30 am PT</h4>
-    <h5>Click <a href="http://v.mozilla.com/flex.html?roomdirect.html&key=K5WeIeF7sC4T" target="_blank">here</a> to join the Vidyo meeting. <br></h5>
-	</div>
-</div>
-
-
-<div class="row">
-  <div class="twelve rows">		
-
 
 <head>
 <style>
+ul.b {list-style-type:square;}
 table,td,th, tr
 {
 border:1px solid lightskyblue;
@@ -60,6 +32,35 @@ vertical-align:middle;
 }
 </style>
 </head>
+
+  <div class="row padding">
+  <div class="twelve rows">
+    <h3>Actions</h3>
+    <ul class="b">
+      <li>Due Aug 27, Take a minute to fill out the weekly feedback form on User Research. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here</a></li>
+      <li>Due Aug 27, Make sure to get in touch with the UX expert you were introduced, and arrange how and when you'll have the UX audit. </li>
+     </ul> 
+  </div>
+</div>
+
+	<div class="row padding">
+	<div class="twelve rows">
+		<h3>Schedule</h3>
+	</div>
+</div>
+
+
+
+<div class="row padding">
+	<div class="twelve rows">
+		<h4>WebFWD meets every Tuesday and Thursday, 10:00 am - 11:30 am PT</h4>
+    <h5>Click <a href="http://v.mozilla.com/flex.html?roomdirect.html&key=K5WeIeF7sC4T" target="_blank">here</a> to join the Vidyo meeting. <br></h5>
+	</div>
+</div>
+
+
+<div class="row">
+  <div class="twelve rows">		
 
 <body>
 
