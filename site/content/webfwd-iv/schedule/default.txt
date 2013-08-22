@@ -3,12 +3,6 @@ Title: Program
 ID: cohort
 ----
 Main:
-<div class="row padding">
-	<div class="twelve rows">
-		<h2 align =right><a href="/webfwd-iv/schedule/">Schedule</a>  |  <a href="/webfwd-iv/announcements/">Announcements & Tasks</a>  </h2>
-	</div>
-</div>
-
 
 	<div class="row padding">
 	<div class="twelve rows">
@@ -74,6 +68,13 @@ vertical-align:middle;
     <td class="largeP"><a href="http://www.linkedin.com/in/pfinette" target="_blank">Pascal Finette</a></td>
     <td class="largeP">Create a Business Canvas using the Lean Canvas website <br>Optionally, create a One-Page Strategic Plan</td>
   </tr> 
+
+  <tr>
+    <td class="largeP"><b>Aug 8</b></td>
+    <td class="largeP">Clay.io <br> CozyCloud <br> Hyperaudio</td>
+    <td class="largeP"><a href="http://www.linkedin.com/in/asadotzler" target="_blank">Asa Dotzler</a>: Overview of Mozilla</td>
+    <td> - </td>
+  </tr>
 
   <tr>
     <td class="largeP"><b>Aug 13</b></td>
