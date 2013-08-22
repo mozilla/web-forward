@@ -82,8 +82,15 @@ vertical-align:middle;
     <td class="largeP"><a href="http://www.linkedin.com/in/shappy" target="_blank">Melissa Shapiro</a></td>
     <td class="largeP">Work through the Audience Relevance exercise and <a href = "http://d.pr/f/BV6o" target="_blank"> fill out the sheet </a> <br> Work through the Customer Value Proposition exercise and <a href = "http://d.pr/f/G8QY" target="_blank"> fill out the sheet </a></td>
 
-
   </tr>
+
+  <tr>
+    <td class="largeP"><b>Aug 15</b></td>
+    <td class="largeP">MultiplayIO <br> Navvid <br> PLOM.io</td>
+    <td class="largeP"><a href="http://www.linkedin.com/in/christopherarnold" target="_blank">Christopher Arnold</a>: UP</td>
+    <td class="largeP"> Listed teams ready to pitch </td>
+  </tr>
+
   <tr>
     <td class="largeP"><b>Aug 20</b></td>
     <td class="largeP"><a href="http://webfwd.tumblr.com/post/25513972675/get-out-of-the-building-doing-user-research" target="_blank">User Research: Know Their Pain and Build the Right Solutions</a></td>
@@ -93,6 +100,15 @@ vertical-align:middle;
 Interview minimum 6 users</td>
   </tr>
 
+
+   <tr>
+    <td class="largeP"><b>Aug 22</b></td>
+    <td class="largeP">Prediction.io <br> ViziCities <br> Webshell.io</td>
+    <td class="largeP"><a href="http://www.linkedin.com/in/davidascher" target="_blank">David Ascher </a> & <a href="http://www.linkedin.com/pub/fred-dixon/0/75/695" target="_blank"> Fred Dixon </a>on Open Source Business Model evolution & it's current state </td>
+    <td class="largeP"> Listed teams ready to pitch </td>
+  </tr>
+
+
     <tr>
     <td class="largeP"><b>Aug 27</b></td>
     <td class="largeP"> User Experience <p class="largeP"> <a href="http://webfwd.tumblr.com/post/47034814113/designing-for-new-users" target="_blank">Option 1: Designing for New Users</a> </p><p class="largeP">  <a href="http://blog.webfwd.org/post/35263834255/improving-your-ux-and-conversions-tips-responsive
@@ -101,7 +117,14 @@ Interview minimum 6 users</td>
 
     <td class="largeP">See individual options for specific assignments in each</td>
 
-  </tr>
+   </tr>
+
+   <tr>
+    <td class="largeP"><b>Aug 29</b></td>
+    <td class="largeP">Clay.io <br> CozyCloud <br> Hyperaudio</td>
+    <td class="largeP"> - </td>
+    <td class="largeP"> Listed teams ready to pitch </td>
+   </tr>
 
     <tr>
     <td class="largeP"><b>Sep 3</b></td>
@@ -111,13 +134,18 @@ Interview minimum 6 users</td>
   </tr>
 
 
-
 <tr>
     <td class="largeP"><b>Sep 10</b></td>
     <td class="largeP">Midterm Break</td>
     <td class="largeP">N.A.</td>
 </tr>
 
+  <tr>
+    <td class="largeP"><b>Sept 12</b></td>
+    <td class="largeP">Midterm Break</td>
+    <td class="largeP"> - </td>
+  </tr>
+  
 <tr>
     <td class="largeP"><b>Sep 17</b></td>
     <td class="largeP"><p class="largeP"><a href="http://blog.webfwd.org/private/27669094505/tumblr_m6afdmdkD31qlgse7" target="_blank">Option 1: Community Marketing: Multiply Your Impact by Actively Engaging Your Users
@@ -154,55 +182,15 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 
 </table>
 
-<br> 
-<br>
-<br>
-
-<table width = "100%">
 
 
-<caption> <h4><b>Thursday's Calls </b></h4></caption>
 
- <tr>
-    <th><b>Date of Call</b></th>
-    <th><b>Teams Pitching</b></th>
-    <th><b>Guest Speaker & Topic</b></th>
-  </tr>
-  <tr>
-    <td class="largeP"><b>Aug 8</b></td>
-    <td class="largeP">Clay.io <br> CozyCloud <br> Hyperaudio</td>
-    <td class="largeP"><a href="http://www.linkedin.com/in/asadotzler" target="_blank">Asa Dotzler</a>: Overview of Mozilla</td>
-  </tr>
+ 
 
-<tr>
-    <td class="largeP"><b>Aug 15</b></td>
-    <td class="largeP">MultiplayIO <br> Navvid <br> PLOM.io</td>
-    <td class="largeP"><a href="http://www.linkedin.com/in/christopherarnold" target="_blank">Christopher Arnold</a>: UP</td>
-  </tr>
 
-  <tr>
-    <td class="largeP"><b>Aug 22</b></td>
-    <td class="largeP">Prediction.io <br> ViziCities <br> Webshell.io</td>
-    <td class="largeP"><a href="http://www.linkedin.com/in/davidascher" target="_blank">David Ascher </a> & <a href="http://www.linkedin.com/pub/fred-dixon/0/75/695" target="_blank"> Fred Dixon </a>on Open Source Business Model evolution & it's current state </td>
-  </tr>
 
-<tr>
-    <td class="largeP"><b>Aug 29</b></td>
-    <td class="largeP">Clay.io <br> CozyCloud <br> Hyperaudio</td>
-    <td class="largeP"> - </td>
-  </tr>
 
-<tr>
-    <td class="largeP"><b>Sept 5</b></td>
-    <td class="largeP">MultiplayIO <br> Navvid <br> PLOM.io</td>
-  	<td class="largeP"><a href="http://www.linkedin.com/in/yvanboily" target="_blank">Yvan Boily </a>on Minion / Security</td>
-  </tr>
 
-  <tr>
-    <td class="largeP"><b>Sept 12</b></td>
-    <td class="largeP">Midterm Break</td>
-  	<td class="largeP"> - </td>
-  </tr>
 
   <tr>
     <td class="largeP"><b>Sept 19</b></td>
