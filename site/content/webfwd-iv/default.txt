@@ -40,10 +40,10 @@ vertical-align:middle;
 
   <div class="row padding">
   <div class="twelve rows">
-    <h3>Actions</h3>
+    <h3><b>Actions</b></h3>
      <ul class="b">
       <li><hd>Due Aug 27</hd>, Take a minute to fill out the weekly feedback form on User Research. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here</a></li>
-      <li>Due Aug 27, Make sure to get in touch with the UX expert you were introduced, and arrange how and when you'll have the UX audit. </li>
+      <li><em>Due Aug 27</em>, Make sure to get in touch with the UX expert you were introduced, and arrange how and when you'll have the UX audit. </li>
      </ul>
   </div>
 </div>
@@ -51,14 +51,7 @@ vertical-align:middle;
 
 	<div class="row padding">
 	<div class="twelve rows">
-		<h3>Schedule</h3>
-	</div>
-</div>
-
-
-
-<div class="row padding">
-	<div class="twelve rows">
+		<h3><b>Schedule</b></h3>
 		<h4>WebFWD meets every Tuesday and Thursday, 10:00 am - 11:30 am PT</h4>
     <h5>Click <a href="http://v.mozilla.com/flex.html?roomdirect.html&key=K5WeIeF7sC4T" target="_blank">here</a> to join the Vidyo meeting. <br></h5>
 	</div>
