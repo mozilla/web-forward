@@ -56,8 +56,9 @@ vertical-align:middle;
 
 <table width = "100%">
 
+<!--
 <caption> <h4><b>Tuesday's Calls </b></h4></caption>
-
+-->
  <tr>
     <th width="11%"><b>Date of Call</b></th>
     <th><b>Topic & Link</b></th>
