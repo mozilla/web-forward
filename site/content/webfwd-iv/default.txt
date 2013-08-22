@@ -49,8 +49,10 @@ vertical-align:middle;
      <br>
 
 		<h3><b>Schedule</b></h3>
-		WebFWD meets every Tuesday and Thursday, 10:00 am - 11:30 am PT <br>
-    Click <a href="http://v.mozilla.com/flex.html?roomdirect.html&key=K5WeIeF7sC4T" target="_blank">here</a> to join the Vidyo meeting. <br>
+    <ul class="b">
+      <li> WebFWD meets every Tuesday and Thursday between 10:00 am - 11:30 am PT. Refer to the table below for detailed schedule. </li>
+      <li> Click <a href="http://v.mozilla.com/flex.html?roomdirect.html&key=K5WeIeF7sC4T" target="_blank">here</a> to join the Vidyo meeting. </li>
+    </ul>
 	</div>
 </div>
 
