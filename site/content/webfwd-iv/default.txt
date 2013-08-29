@@ -42,8 +42,8 @@ vertical-align:middle;
   <div class="twelve rows">
     <h3><b>Actions</b></h3>
      <ul class="b">
-      <li><em>Due Aug 27</em>, Take a minute to fill out the weekly feedback form on User Research. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here</a></li>
-      <li><em>Due Aug 27</em>, Make sure to get in touch with the UX expert you were introduced, and arrange how and when you'll have the UX audit. </li>
+      <li><em>Due Aug 29</em>, Chrissie Brodigan will join the Thursday call on Aug 29 for 30 minutes. Be prepared to ask your UX related questions to ask her during the call.</li>
+      <li><em>Due Sep 2</em>, Make sure to get in touch with the UX expert you were introduced, and arrange how and when you'll have the UX audit. </li>
      </ul>
 
      <br>
