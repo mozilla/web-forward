@@ -141,7 +141,7 @@ Interview minimum 6 users</td>
     <tr>
     <td class="largeP"><b>Sep 3</b></td>
     <td class="largeP"> User Acquisition <p class="largeP"> <a href="http://blog.webfwd.org/post/27057631574/customer-acquisition-from-product-to-market" target="_blank">Option 1: Master Some Best Practices to Pull In Users Early </a> </p><p class="largeP">  <a href="http://blog.webfwd.org/private/51014682079/tumblr_mn61vslKi91qlgse7" target="_blank">Option 2: Mastering a New Platform</a> </p> </td>
-    <td class="largeP"><a href="http://www.linkedin.com/in/chudson" target="_blank">Charles Hudson</a></td>
+    <td class="largeP"><a href="http://www.linkedin.com/in/evaho1" target="_blank">Eva Ho</a></td>
     <td class="largeP">See individual options for specific assignments in each</td>
   </tr>
 
