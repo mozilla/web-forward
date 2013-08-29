@@ -145,6 +145,13 @@ Interview minimum 6 users</td>
     <td class="largeP">See individual options for specific assignments in each</td>
   </tr>
 
+  <tr>
+    <td class="largeP"><b>Sept 5</b></td>
+    <td class="largeP">Multiplay.io <br> Navvid <br> Plom.io</td>
+    <td class="largeP"> - </td>
+    <td class="largeP"> Listed teams ready to pitch </td>
+  </tr>
+
 
 <tr>
     <td class="largeP"><b>Sep 10</b></td>
