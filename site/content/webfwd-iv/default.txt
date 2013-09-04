@@ -150,7 +150,7 @@ Interview minimum 6 users</td>
   <tr>
     <td class="largeP"><b>Sept 5</b></td>
     <td class="largeP">Multiplay.io <br> Navvid <br> Plom.io</td>
-    <td class="largeP"> - </td>
+    <td class="largeP"> <a href="http://www.linkedin.com/in/yvanboily" target="_blank">Yvan Boily</a> on Minion - Security.  </td>
     <td class="largeP"> Listed teams ready to pitch </td>
   </tr>
 
