@@ -8,7 +8,7 @@ Main:
 <div class="row padding">
 	<div class="twelve rows">
 
-	<h3>Application period has ended for the August class. </h3>
+	<h3>Application period has ended for the August class. <br><br></h3>
 
 	<!--
 
