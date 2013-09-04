@@ -45,7 +45,7 @@ vertical-align:middle;
       <li><em>Due Sep 10</em>, Fill out the feedback survey for Week 5, Customer Acquisition. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here for the survey link.</a> </li>
       <li><em>Due Sep 10-12</em>, We are having a break, so there will not be any meetings on Sep 10 and Sep 12. </li>
       <li><em>Due Sep 10</em>, Check out the WebFWD IV Dropbox folder for the sample CLTV calculation spreadsheet. </li>
-      <li><em>Due Sep 10</em>, We will create a directory including the contact details of all teams as spreadsheet in the WebFWD IV dropbox folder. Let us know if you prefer not to be included there. </li>
+      <li><em>Due Sep 10</em>, We will create a directory listing the contact details of all teams in a spreadsheet stored in the WebFWD IV dropbox folder. Let us know if you prefer not to be included there. </li>
      </ul>
 
      <br>
