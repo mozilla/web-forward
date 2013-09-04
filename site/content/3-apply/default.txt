@@ -6,14 +6,15 @@ Main:
 
 
 <div class="row padding">
-	<div class="twelve columns apply">
+	<div class="twelve rows">
 
 	<h3>Application period has ended for the August class. </h3>
 
-
-    <p class="largeP">Application period has ended for the August class.<br><br></p>
-
 	<!--
+
+	<div class="row padding">
+	<div class="twelve columns apply">
+
 		<script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>
 		<script type="text/javascript">
 			var z7x0q1 = new WufooForm();
@@ -26,7 +27,10 @@ Main:
 			'ssl':true});
 			z7x0q1.display();
 		</script>
-		-->
+		
 	</div>
 </div>
+-->
 
+	</div>
+</div>
