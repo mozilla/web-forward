@@ -44,6 +44,8 @@ vertical-align:middle;
      <ul class="b">
       <li><em>Due Sep 10</em>, Fill out the feedback survey for Week 5, Customer Acquisition. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here for the survey link.</a> </li>
       <li><em>Due Sep 10-12</em>, We are having a break, so there will not be any meetings on Sep 10 and Sep 12. </li>
+      <li><em>Due Sep 10</em>, Check out the WebFWD IV Dropbox folder for the sample CLTV calculation spreadsheet. </li>
+      <li><em>Due Sep 10</em>, We will create a directory including the contact details of all teams as spreadsheet in the WebFWD IV dropbox folder. Let us know if you prefer not to be included there. </li>
      </ul>
 
      <br>
@@ -141,7 +143,7 @@ Interview minimum 6 users</td>
     <tr>
     <td class="largeP"><b>Sep 3</b></td>
     <td class="largeP"> User Acquisition <p class="largeP"> <a href="http://blog.webfwd.org/post/27057631574/customer-acquisition-from-product-to-market" target="_blank">Option 1: Master Some Best Practices to Pull In Users Early </a> </p><p class="largeP">  <a href="http://blog.webfwd.org/private/51014682079/tumblr_mn61vslKi91qlgse7" target="_blank">Option 2: Mastering a New Platform</a> </p> </td>
-    <td class="largeP"><a href="http://www.linkedin.com/in/evaho1" target="_blank">Eva Ho</a></td>
+    <td class="largeP"><a href="http://www.linkedin.com/in/pfinette" target="_blank">Pascal Finette</a></td>
     <td class="largeP">See individual options for specific assignments in each</td>
   </tr>
 
