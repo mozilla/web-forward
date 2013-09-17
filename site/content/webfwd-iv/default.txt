@@ -42,10 +42,8 @@ vertical-align:middle;
   <div class="twelve rows">
     <h3><b>Actions</b></h3>
      <ul class="b">
-      <li><em>Due Sep 10</em>, Fill out the feedback survey for Week 5, Customer Acquisition. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here for the survey link.</a> </li>
-      <li><em>Due Sep 10-12</em>, We are having a break, so there will not be any meetings on Sep 10 and Sep 12. </li>
-      <li><em>Due Sep 10</em>, Check out the WebFWD IV Dropbox folder for the sample CLTV calculation spreadsheet. </li>
-      <li><em>Due Sep 10</em>, We will create a directory listing the contact details of all teams in a spreadsheet stored in the WebFWD IV dropbox folder. Let us know if you prefer not to be included there. </li>
+      <li><em>Due Sep 10</em>, Fill out the feedback survey for Week 6, Community Building and Social Media Marketing. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here for the survey link.</a> </li>
+      <li><em>Due Sep 10</em>, Check out the WebFWD IV Dropbox folder for the WebFWD IV Directory. </li>
      </ul>
 
      <br>
@@ -177,7 +175,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 
   <tr>
     <td class="largeP"><b>Sept 19</b></td>
-    <td class="largeP">Prediction.io <br> ViziCities <br> Webshell.io</td>
+    <td class="largeP">Prediction.io <br> ViziCities <br> CozyCloud </td>
     <td class="largeP"><a href="http://www.linkedin.com/in/emilygoligoski" target="_blank">Emily Goligoski</a> on Mozilla Open Badges </td>
     <td class="largeP"> Listed teams ready to pitch </td>
   </tr>
@@ -192,7 +190,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 
   <tr>
     <td class="largeP"><b>Sept 26th</b></td>
-    <td class="largeP">Clay.io <br> CozyCloud <br> Hyperaudio</td>
+    <td class="largeP">Clay.io <br> Webshell.io <br> Hyperaudio</td>
     <td class="largeP"> - </td>
     <td class="largeP"> Listed teams ready to pitch </td>
   </tr>
