@@ -207,7 +207,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
   <tr>
     <td class="largeP"><b>Oct 3</b></td>
     <td class="largeP">MultiplayIO <br> Navvid <br> PLOM.io</td>
-    <td class="largeP"> - </td>
+    <td class="largeP"><a href="http://www.ageofpeers.com/rory" target="_blank">Rory MacDonald</a> on putting your brand into action  </td>
     <td class="largeP"> Listed teams ready to pitch </td>
   </tr>
 
