@@ -42,8 +42,9 @@ vertical-align:middle;
   <div class="twelve rows">
     <h3><b>Actions</b></h3>
      <ul class="b">
-      <li><em>Due Sep 24</em>, Fill out the feedback survey for Week 6, Community Building and Social Media Marketing. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here for the survey link.</a> </li>
-      <li><em>Due Sep 24</em>, Check out the WebFWD IV Dropbox folder for the WebFWD IV Directory. </li>
+      <li><em>Due Oct 1</em>, Fill out the feedback survey for Week 8, How To Sell. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here for the survey link.</a> </li>
+      <li><em>Due Oct 1</em>, Email us how many people from your team will be joining the dinner on Tuesday Oct 29th. </li>
+      <li><em>Due Oct 1</em>, Email us if there are any Mozillians or specific groups at Mozilla, that you'd like to meet and learn more about their projects during graduation? </li>
      </ul>
 
      <br>
