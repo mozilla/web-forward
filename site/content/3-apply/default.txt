@@ -5,12 +5,15 @@ ID: apply
 Main:
 
 
+
+<!--
+
 <div class="row padding">
 	<div class="twelve rows">
 
 	<h3>Application period has ended for the August class. <br><br></h3>
 
-	<!--
+-->
 
 	<div class="row padding">
 	<div class="twelve columns apply">
@@ -30,7 +33,7 @@ Main:
 		
 	</div>
 </div>
--->
+
 
 	</div>
 </div>
