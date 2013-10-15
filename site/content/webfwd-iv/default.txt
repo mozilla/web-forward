@@ -40,6 +40,8 @@ vertical-align:middle;
 
   <div class="row padding">
   <div class="twelve rows">
+
+  <!--
     <h3><b>Actions</b></h3>
      <ul class="b">
       <li><em>Due Oct 1</em>, Fill out the feedback survey for Week 8, How To Sell. <a href="http://www.surveygizmo.com/s3/1334069/WebFWD-IV-Weekly-Feedback" target="_blank">Click here for the survey link.</a> </li>
@@ -48,6 +50,8 @@ vertical-align:middle;
      </ul>
 
      <br>
+
+  -->
 
 		<h3><b>Schedule</b></h3>
     <ul class="b">
@@ -229,14 +233,14 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
 
   <tr>
     <td class="largeP"><b>Oct 15</b></td>
-    <td class="largeP">Clay.io <br> CozyCloud <br> Hyperaudio</td>
+    <td class="largeP">Clay.io <br> Hyperaudio</td>
     <td class="largeP"> - </td>
     <td class="largeP"> Listed teams ready to pitch </td>
   </tr>
 
   <tr>
     <td class="largeP"><b>Oct 17</b></td>
-    <td class="largeP">MultiplayIO <br> Navvid <br> PLOM.io</td>
+    <td class="largeP">CozyCloud <br> MultiplayIO <br> PLOM.io </td>
     <td class="largeP"> - </td>
     <td class="largeP"> Listed teams ready to pitch </td>
   </tr>
