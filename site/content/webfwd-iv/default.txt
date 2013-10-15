@@ -253,7 +253,7 @@ Mary Colvig (community marketing) </a> </p><p class="largeP">  <a href="http://b
   </tr>
 
   <tr>
-    <td class="largeP"><b>Oct 28-30</b></td>
+    <td class="largeP"><b>Oct 29-30</b></td>
     <td class="largeP">Graduation </td>
     <td class="largeP"> - </td>
     <td class="largeP"> WebFWD Teams re-unite in SF Bay Area for Graduation </td>
