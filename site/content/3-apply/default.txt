@@ -13,22 +13,12 @@ Main:
 
 	<h3>Application has been closed. <br><br></h3>
 
-
-
-	<div class="row padding">
-	<div class="twelve columns apply">
-
-
 <!--
 
 
 	<script type="text/javascript" >document.write('<script src="http' + ( ("https:" == document.location.protocol) ? "s" : "") + '://www.surveygizmo.com/s3/js/1331014/c090b54338b0?__ref=' + escape(document.location) + '" type="text/javascript" ></scr'  + 'ipt>');</script><noscript>This survey is powered by SurveyGizmo's <a href="http://www.surveygizmo.com">online survey software</a>. <a href="http://www.surveygizmo.com/s3/jsfallback/1331014/c090b54338b0">Please take my survey now</a></noscript>
 
 -->
-
-		
-	</div>
-</div>
 
 
 	</div>
