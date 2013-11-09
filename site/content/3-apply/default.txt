@@ -11,7 +11,7 @@ Main:
 <div class="row padding">
 	<div class="twelve rows">
 
-	<h3>Application has been closed. <br><br></h3>
+	<h3>  We are in the process of launching a new version of our program. Sign up for our distribution list for updates by emailing us at webfwd@mozilla.com <br><br></h3>
 
 <!--
 
