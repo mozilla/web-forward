@@ -3,7 +3,7 @@ Name: Standardanalytics.io
 Info: Standardanalytics.io creates powerful tools for community health monitoring and decision-making. These take the form of cards that aggregate streams of data and science to help health decision-makers seamlessly gain local insight, react in real time and design comprehensive strategies.
 ----
 More:
-Website: <a href="Standardanalytics.io  " target="_blank">Standardanalytics.io</a><br />
+Website: <a href="http://Standardanalytics.io" target="_blank">Standardanalytics.io</a><br />
 Team: Sebastien Ballesteros, Tiffany Bogich, Joseph Dureau, and Moo Hyun Kim<br />
 Twitter: <a href="https://twitter.com/@RESTfulScience" target="_blank">@RESTfulScience </a><br /><br />
 
