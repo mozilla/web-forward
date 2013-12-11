@@ -30,9 +30,9 @@ NewsContent2: Hear what our latest teams are doing to change the web!
 ----
 NewsLink2: http://webfwdivgraduation.eventbrite.com/ 
 ----
-NewsHeadline3: Wed Nov 13 - Startup Policy Lab: Crowdfunding
+NewsHeadline3: 
 ----
-NewsContent3: People interested in public policy that impacts startups to educate & network and organize around topics.
+NewsContent3: 
 ----
-NewsLink3: http://www.meetup.com/Startup-Policy-Lab/events/142494272/?a=ea1_grp&rv=ea1&_af_eid=142494272&_af=event
+NewsLink3: 
 ----
