@@ -18,12 +18,14 @@ Slug2: about/resources/
 ----
 Description2: Educational materials and presentations to accelerate your own entrepreneurial efforts.
 ----
+<!--
 Header3: Experts
 ----
 Slug3: about/experts/
 ----
 Description3: Our teams get hands-on help from the best minds in technology, business and entrepreneurship.<br />&nbsp;
 ----
+-->
 Header4: Team
 ----
 Slug4: about/team/
