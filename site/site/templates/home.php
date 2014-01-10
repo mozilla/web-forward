@@ -6,7 +6,7 @@
 <div class="row padding" style="padding-bottom: 48px;">
 	<div class="twelve columns">
 
-		<h3> <b>We are currently making some exciting changes for WebFWD. <a href="http://blog.webfwd.org/post/68820630391/moving-the-web-even-more-forward" target="_blank">Here</a> is a sneak peek of what is coming next. Continue following our <a href="https://beta.webfwd.org/" target="_blank">blog</a> for future updates.  </b></h3>
+		<h3> <b>We are currently making some exciting changes for WebFWD. <a href="http://blog.webfwd.org/post/68820630391/moving-the-web-even-more-forward" target="_blank">Here</a> is a sneak peek of what is coming next. Continue following our <a href="https://beta.webfwd.org/" target="_blank">blog</a> for future updates...  </b></h3>
 	</div>	
 </div>
 
