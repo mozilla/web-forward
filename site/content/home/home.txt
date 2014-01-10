@@ -2,9 +2,9 @@ Title: Home
 ----
 ID: home
 ----
-Headline: CHanges
-----
 Headlinelink: http://blog.webfwd.org/post/68820630391/moving-the-web-even-more-forward
+----
+Headline: CHanges again
 ----
 Headlinecontent: Change content
 ----
