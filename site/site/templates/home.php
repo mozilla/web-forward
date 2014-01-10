@@ -6,7 +6,7 @@
 <div class="row padding" style="padding-bottom: 48px;">
 	<div class="twelve columns">
 
-		<h3 style="padding-left: 48px; line-height: 1.2;"> We are currently making some exciting changes for WebFWD. <a href="http://blog.webfwd.org/post/68820630391/moving-the-web-even-more-forward" target="_blank">Here</a> is a sneak peak of what is coming next. Continue following our blog for future updates.  </h3>
+		<h3> <b>We are currently making some exciting changes for WebFWD. <a href="http://blog.webfwd.org/post/68820630391/moving-the-web-even-more-forward" target="_blank">Here</a> is a sneak peak of what is coming next. Continue following our blog for future updates.  </b></h3>
 	</div>	
 </div>
 
