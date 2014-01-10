@@ -5,7 +5,7 @@
 <!-- promo -->
 <div class="row padding" style="background-color: rgba(255,255,255,0.5); padding-bottom: 48px;">
 	<div class="four columns">
-		<h1 style="padding-left: 48px; line-height: 1.2;"> <h1><a href="<?php echo $page->Headlinelink() ?>" title="<?php echo $page->Headline() ?>" target="_blank"><?php echo $page->Headline() ?></a></h5><p class="largeP"><?php echo $page->Headlinecontent() ?></p> </h1>
+		<h1 style="padding-left: 48px; line-height: 1.2;"> <h1> test </h1>
 	</div>	
 </div>
 
