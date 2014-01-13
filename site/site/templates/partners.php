@@ -13,7 +13,6 @@
 
   <section class="row">
     <div class="col-md-12">
-      <h2>How Can You Be A Part Of It?</h2>
       <p>More to come!</p>
     </div>
   </section>
