@@ -1,0 +1,167 @@
+/* Foundation v2.2.1 http://foundation.zurb.com */
+/* Artfully masterminded by ZURB  */
+/* Reboot based on Pascal Finette's previous work on the site */
+
+/*global*/
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+
+html { background: #FFF; }
+
+body {
+	font-size: 16px;
+	line-height: 24px;
+	font-family: Georgia, serif;
+	color: #333;
+	background: #FFF;
+}
+
+h1, h2, h3, h4, h5, h6, .huge, .large {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	display: block;
+	margin: 0 0 12px 0;
+	line-height: 100%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,0.75);
+	color: #484848;
+}
+
+.huge,
+.huge h1 {
+	font-size: 108px;
+	letter-spacing: -4px;
+	line-height: 100%;
+}
+
+.large,
+.large h1 {
+	font-size: 72px;
+	letter-spacing: -3px;
+	line-height: 100%;
+}
+
+h1,
+.huge h2,
+.large h2 {
+	font-size: 48px;
+	letter-spacing: -2px;
+}
+
+h2 {
+	font-size: 32px;
+	letter-spacing: -1px;
+}
+
+h3 {
+	font-size: 28px;
+	letter-spacing: -0.5px;
+}
+
+h4 {
+	font-size: 24px;
+	letter-spacing: -0.25px;
+}
+
+h5 {
+	font-size: 16px;
+}
+
+h6 {
+	font-size: 14px;
+}
+
+.small,
+small {
+	font-size: 12px;
+	line-height: 16px;
+}
+
+p,
+ul,
+ol,
+dl {
+	margin: 0 0 24px 0;
+}
+
+
+a {
+	//color: #f0f0f0;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #000;
+	text-decoration: underline;
+}
+
+/*header*/
+
+nav {
+  margin-top: -6px;
+}
+
+.mainnav {
+  background: #fff;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+
+.navbar-brand img {
+  height: 50px;
+  margin-top: 0px;
+}
+
+/*maincontent*/
+.maincontent {
+  margin-top: 40px;
+  //background: #ccc;
+}
+
+/*footer*/
+footer {
+  background: #fff;
+  padding-top: 100px;
+  min-height: 300px;
+}
+
+
+/*homepage*/
+
+/*promo*/
+#promo {
+  background: url('/assets/images/about-team.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 460px;
+}
+
+
+
+/*small {
+  position: relative;
+  top: -50px;
+}*/
+
+/*.big-row {
+  min-height: 300px;
+  padding: 20px 15px;
+}
+
+.big-row-one {
+  margin-top: 300px;
+  background: #c4c4c4;
+}
+
+.big-row-two {
+  background: #ccc;
+}
+
+.big-row-three {
+  background: #c5c5c5;
+}
+
+.big-row-four {
+  background: #cecece;
+}
+*/

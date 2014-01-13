@@ -1,0 +1,4 @@
+Title: News
+----
+Link: http://blog.webfwd.org/
+----

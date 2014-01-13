@@ -1,0 +1,38 @@
+Title: Home
+----
+ID: home
+----
+Headline: Hit the Accelerator.
+----
+Subheadline: We help open source innovators </br>change the world.
+----
+ColumnHeader1: What
+----
+ColumnText1: A 3-month hands-on accelerator designed to help entrepreneurs from around the globe <b>build healthy businesses</b>.  It consists of weekly training & exercises, office hours with industry experts, ongoing coaching from the world's best technologists, investors, designers, marketers, and other awesome folks.
+----
+ColumnHeader2: Why
+----
+ColumnText2: Traditional startup accelerator and incubator models don’t address the demands and advantages of open innovation.  Our curriculum combines <b>the best of startup and open source principles </b>, meeting the needs of open source entrepreneurs who are developing on the desktop and across mobile devices.
+----
+ColumnHeader3: Who
+----
+ColumnText3: WebFWD is for <b>innovators building products to make the Web better and more open</b>. We are looking for entrepreneurs who are building mobile and/or web technologies, and actively exploring its business models, where the product is open source (at minimum, a component) and at a prototype stage or beyond. 
+----
+NewsHeadline1: Mon. Oct 21 - HTML5DevConference
+----
+NewsContent1: Hear us, other Mozillians and HTML5 gods share at the Moscone Center.
+----
+NewsLink1: http://html5devconf.com
+----
+NewsHeadline2: Wed. Oct 30 - WebFWD IV Graduation
+----
+NewsContent2: Hear what our latest teams are doing to change the web!
+----
+NewsLink2: http://webfwdivgraduation.eventbrite.com/ 
+----
+NewsHeadline3: 
+----
+NewsContent3: 
+----
+NewsLink3: 
+----
