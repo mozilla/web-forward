@@ -20,9 +20,8 @@ h1, h2, h3, h4, h5, h6, .huge, .large {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	display: block;
-	margin: 0 0 12px 0;
+	//margin: 0 0 12px 0;
 	line-height: 100%;
-	text-shadow: 0px 1px 0px rgba(255,255,255,0.75);
 	color: #484848;
 }
 
@@ -80,9 +79,8 @@ p,
 ul,
 ol,
 dl {
-	margin: 0 0 24px 0;
+	//margin: 0 0 24px 0;
 }
-
 
 a {
 	//color: #f0f0f0;
@@ -96,24 +94,32 @@ a:hover {
 
 /*header*/
 
-nav {
-  margin-top: -6px;
-}
-
 .mainnav {
   background: #fff;
+  border-bottom-color: none;
+}
+
+.navlinks {
+  margin-top: -14px;
+}
+
+.mainnav .list-inline > li:first-child {
+  padding-left: 5px;
 }
 
 .navbar-brand {
-  padding: 0px;
 }
 
 .navbar-brand img {
   height: 50px;
   margin-top: 0px;
+  margin-left: -14px;
 }
 
-/*maincontent*/
+/*body*/
+.container {
+  max-width: 800px;
+}
 .maincontent {
   margin-top: 40px;
   //background: #ccc;
@@ -122,20 +128,30 @@ nav {
 /*footer*/
 footer {
   background: #fff;
-  padding-top: 100px;
-  min-height: 300px;
+  margin-top: 20px;
 }
 
+footer .container {
+  border-top: 1px solid rgba(0,0,0,0.1);
+  padding-top: 20px;
+}
 
 /*homepage*/
-
-/*promo*/
 #promo {
-  background: url('/assets/images/about-team.jpg') no-repeat center center fixed;
+  background: url('/assets/images/promo.jpg') no-repeat center center fixed;
   background-size: cover;
-  height: 460px;
+  height: 500px;
 }
 
+#promo h1 {
+  padding-top: 180px;
+  color: #fff;
+}
+
+#home .col-3-info img {
+  width: 200px;
+  border-radius: 400px;
+}
 
 
 /*small {
