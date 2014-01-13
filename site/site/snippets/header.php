@@ -30,35 +30,30 @@
   <div class="mainnav">
     <div class="container">
       <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
-
       <div class="row">
-
-        <div class="col-xs-12">
+        <div class="col-xs-12 col-md-2">
           <h1><a href="/" class="navbar-brand"><img src="..//assets/images/sandstone/logo.png" alt="WebFWD" /></a></h1>
         </div>
-        <div class="col-xs-12">
-          <ul class="nav nav-pills nav-justified">
-            <li>asdf</li>
-            <li>asdf</li>
-            <li>asdf</li>
-            <li>asdf</li>
+        <div class="col-xs-12 col-md-10 navlinks">
+          <ul class="list-inline">
+            <li>
+              <a href="/"<?php echo ($site->uri()->path()->first() == '') ? ' class="current"' : '' ?>>Overview</a>
+            </li>
+    				<li>
+    				  <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Startup Resources</a>
+    				</li>
+    				<li>
+    				  <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="current"' : '' ?>>Partners</a>
+    				</li>
+    				<li>
+    				  <a href="/news/"<?php echo ($site->uri()->path()->first() == 'news') ? ' class="current"' : '' ?>>News</a>
+    				</li>
+    				<li>
+    				  <a href="/accelerator/" target="_blank">Accelerator</a>
+            </li>
           </ul>
-          <a href="/"<?php echo ($site->uri()->path()->first() == '') ? ' class="current"' : '' ?>>Overview</a>
-  				<a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Startup Resources</a>
-  				<a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="current"' : '' ?>>Partners</a>
-  				<a href="/news/"<?php echo ($site->uri()->path()->first() == 'news') ? ' class="current"' : '' ?>>News</a>
-  				<a href="/accelerator/" target="_blank">Accelerator</a>
         </div>
-
       </div>
-
-		  <nav role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-
-        <ul class="nav nav-pills pull-left">
-
-        </ul>
-      </nav>
     </div>
   </div>
   <!-- /navigation -->
