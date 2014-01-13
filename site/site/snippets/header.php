@@ -6,72 +6,59 @@
 <!--[if IE 8]>		<html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
-	<meta charset="utf-8" />
 
-	<!-- Set the viewport width to device width for mobile -->
-	<meta name="viewport" content="width=device-width" />
+  <title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="<?php echo html($site->description()) ?>" />
+  <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
+  <meta name="author" content="">
+  <meta name="robots" content="index, follow" />
+  <link rel="shortcut icon" href="../../assets/images/favicon.png">
 
-	<title><?php echo $site->title() ?> | <?php echo $page->title() ?></title>
+  <link rel="stylesheet" href="https://www.mozilla.org/tabzilla/media/css/tabzilla.css" />
+  <!-- Bootstrap core CSS -->
+  <link href="../assets/styles/bootstrap.css" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="../assets/styles/base.css" rel="stylesheet">
 
-	<!-- Included CSS Files -->
-	<link rel="stylesheet" href="/assets/stylesheets/foundation.min.css" />
-	<link rel="stylesheet" href="/assets/stylesheets/app.min.css" />
-	<link rel="stylesheet" href="https://www.mozilla.org/tabzilla/media/css/tabzilla.css" />
-
-	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="/assets/stylesheets/ie.min.css" />
-	<![endif]-->
-
-	<!-- Included Modernizr -->
-	<script src="/assets/javascripts/modernizr.foundation.js"></script>
-
-	<!-- IE Fix for HTML5 Tags -->
-	<!--[if lt IE 9]>
-		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-	
-	<!-- Video JS code -->
-	<link rel="stylesheet" href="/assets/stylesheets/video-js.css" />
-	<script src="/assets/javascripts/video.min.js"></script>
-	<script>
-		_V_.options.flash.swf = "/assets/images/video-js/video-js.swf";
-	</script>
-
-	<!-- The ever-so-important FavIcon -->
-	<link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.png" />
-
-	<!-- Google Analytics -->
-	<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-35433268-9']);
-	_gaq.push(['_trackPageview']);
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-	</script>
 </head>
 
 <body id="<?php echo $page->id() ?>">
-<div id="outer-wrapper">
-<div id="wrapper">
-<div class="container">
 
-<!-- navigation -->
-<div class="row">
-	<header>
-		<a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
-		<nav id="mainNavigation">
-			<ul>
-				<li><a href="/"<?php echo ($site->uri()->path()->first() == '') ? ' class="current"' : '' ?>>Home</a></li>
-				<li><a href="/about/"<?php echo ($site->uri()->path()->first() == 'about') ? ' class="current"' : '' ?>>About</a></li>
-				<li><a href="/portfolio/"<?php echo ($site->uri()->path()->first() == 'portfolio') ? ' class="current"' : '' ?>>Portfolio</a></li>
-				<li><a href="http://blog.webfwd.org/">Blog</a></li>
-				<li><a href="/apply/"<?php echo ($site->uri()->path()->first() == 'apply') ? ' class="current"' : '' ?>>Apply</a></li>
-			</ul>
-		</nav>
-		<h1><a href="/"><img src="/assets/images/sandstone/logo.png" alt="WebFWD" /></a></h1>
-	</header>
-</div>
-<!-- /navigation -->
+  <!-- navigation -->
+  <div class="mainnav">
+    <div class="container">
+      <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
+
+      <div class="row">
+
+        <div class="col-xs-12">
+          <h1><a href="/" class="navbar-brand"><img src="..//assets/images/sandstone/logo.png" alt="WebFWD" /></a></h1>
+        </div>
+        <div class="col-xs-12">
+          <ul class="nav nav-pills nav-justified">
+            <li>asdf</li>
+            <li>asdf</li>
+            <li>asdf</li>
+            <li>asdf</li>
+          </ul>
+          <a href="/"<?php echo ($site->uri()->path()->first() == '') ? ' class="current"' : '' ?>>Overview</a>
+  				<a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Startup Resources</a>
+  				<a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="current"' : '' ?>>Partners</a>
+  				<a href="/news/"<?php echo ($site->uri()->path()->first() == 'news') ? ' class="current"' : '' ?>>News</a>
+  				<a href="/accelerator/" target="_blank">Accelerator</a>
+        </div>
+
+      </div>
+
+		  <nav role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+
+        <ul class="nav nav-pills pull-left">
+
+        </ul>
+      </nav>
+    </div>
+  </div>
+  <!-- /navigation -->
