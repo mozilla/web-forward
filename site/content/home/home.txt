@@ -2,41 +2,19 @@ Title: Home
 ----
 ID: home
 ----
-Headlinelink: http://blog.webfwd.org/post/68820630391/moving-the-web-even-more-forward
-----
-Headline: CHanges again
-----
-Headlinecontent: Change content
+Headline: Hit the Accelerator.
 ----
 Subheadline: We help open source innovators </br>change the world.
 ----
-ColumnHeader1: What
+ColumnHeader1: What is WebFWD?
 ----
-ColumnText1: A 3-month hands-on accelerator designed to help entrepreneurs from around the globe <b>build healthy businesses</b>.  It consists of weekly training & exercises, office hours with industry experts, ongoing coaching from the world's best technologists, investors, designers, marketers, and other awesome folks.
+ColumnText1: <p>Mozilla has changed the landscape of the web. Along the way, we’ve developed best-in-class expertise that can help tech entrepreneurs grow their businesses. WebFWD adapts these Mozilla resources for startups around the world through hands-on workshops, online trainings and fora.</p>
 ----
-ColumnHeader2: Why
+ColumnHeader2: How Can You Be A Part Of It?
 ----
-ColumnText2: Traditional startup accelerator and incubator models don’t address the demands and advantages of open innovation.  Our curriculum combines <b>the best of startup and open source principles </b>, meeting the needs of open source entrepreneurs who are developing on the desktop and across mobile devices.
+ColumnText2: <p>If you are a startup program…we’d love to explore how we provide our workshops to your startup community.</p><p>If you are a startup….check out our event calendar and let us know if there is something you wish to attend (or organize!) in your community.</p><p>If you love startups….you can help by sharing our offering with your local accelerator, coworking space or other startup program. You can also roll up your sleeves and be a workshop facilitator!</p>
 ----
-ColumnHeader3: Who
+ColumnHeader3: You can contact us at any of these channels:
 ----
-ColumnText3: WebFWD is for <b>innovators building products to make the Web better and more open</b>. We are looking for entrepreneurs who are building mobile and/or web technologies, and actively exploring its business models, where the product is open source (at minimum, a component) and at a prototype stage or beyond. 
-----
-NewsHeadline1: Mon. Oct 21 - HTML5DevConference
-----
-NewsContent1: Hear us, other Mozillians and HTML5 gods share at the Moscone Center.
-----
-NewsLink1: http://html5devconf.com
-----
-NewsHeadline2: Wed. Oct 30 - WebFWD IV Graduation
-----
-NewsContent2: Hear what our latest teams are doing to change the web!
-----
-NewsLink2: http://webfwdivgraduation.eventbrite.com/ 
-----
-NewsHeadline3: 
-----
-NewsContent3: 
-----
-NewsLink3: 
+ColumnText3: <p>Social channels (IRC, Twitter etc)</p><p>Contact info (webfwd@)</p>
 ----
