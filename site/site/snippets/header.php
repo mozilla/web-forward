@@ -27,33 +27,35 @@
 <body id="<?php echo $page->id() ?>">
 
   <!-- navigation -->
-  <div class="mainnav">
+  <nav class="navbar navbar-default navbar-fixed-top mainnav" role="navigation">
+
     <div class="container">
-      <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
-      <div class="row">
-        <div class="col-xs-12 col-md-2">
-          <h1><a href="/" class="navbar-brand"><img src="..//assets/images/sandstone/logo.png" alt="WebFWD" /></a></h1>
-        </div>
-        <div class="col-xs-12 col-md-10 navlinks">
-          <ul class="list-inline">
-    				<li>
-    				  <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Resources</a>
-    				</li>
-    				<li>
-    				  <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="current"' : '' ?>>Partners</a>
-    				</li>
-    				<li>
-    				  <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="current"' : '' ?>>Calendar</a>
-    				</li>
-    				<li>
-    				  <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="current"' : '' ?>>Blog</a>
-    				</li>
-    				<li>
-    				  <a href="/accelerator/" target="_blank">About</a>
-            </li>
-          </ul>
-        </div>
+      <a href="http://www.mozilla.org/" id="tabzilla" style="z-index:9999">Mozilla</a>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <a href="/" class="navbar-brand"><img src="..//assets/images/sandstone/logo.png" alt="WebFWD" /></a>
       </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="" id="">
+        <ul class="nav navbar-nav navbar-left navlinks">
+          <li>
+  				  <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Resources</a>
+  				</li>
+  				<li>
+  				  <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="current"' : '' ?>>Partners</a>
+  				</li>
+  				<li>
+  				  <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="current"' : '' ?>>Calendar</a>
+  				</li>
+  				<li>
+  				  <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="current"' : '' ?> target="_blank">Blog</a>
+  				</li>
+  				<li>
+  				  <a href="/accelerator/" target="_blank">About</a>
+          </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
     </div>
-  </div>
+  </nav>
   <!-- /navigation -->
