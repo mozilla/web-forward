@@ -14,7 +14,6 @@ body {
 	font-family: Georgia, serif;
 	color: #333;
 	background: #FFF;
-	padding-top: 81px;
 }
 
 h1, h2, h3, h4, h5, h6, .huge, .large {
@@ -89,23 +88,33 @@ a {
 }
 
 a:hover {
-	color: #000;
-	text-decoration: underline;
+	//color: #000;
+	//text-decoration: underline;
 }
 
 /*header*/
-
 .mainnav {
   background: #fff;
   border-bottom-color: none;
+  margin-bottom: 0px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 ul.navlinks {
   margin-top: 14px;
+  font-size: 14px;
+}
+
+.navbox {
+  background: #ccc;
+}
+
+ul.navlinks a:hover {
+  text-decoration: underline;
 }
 
 .navbar-brand img {
-  height: 50px;
+  //height: 40px;
   margin-top: 0px;
 }
 
@@ -114,8 +123,7 @@ ul.navlinks {
   max-width: 800px;
 }
 .maincontent {
-  margin-top: 40px;
-  //background: #ccc;
+  margin-top: 81px;
 }
 
 /*footer*/
@@ -132,38 +140,20 @@ footer .container {
 
 /*homepage*/
 #promo {
-  background: url('/assets/images/promo.jpg') no-repeat center center fixed;
+  background: url('/assets/images/promo.png') no-repeat center center fixed;
   background-size: cover;
-  height: 500px;
+  height: 600px;
 }
 
 #promo h1 {
-  padding-top: 180px;
+  padding-top: 280px;
   color: #fff;
 }
 
 #home .col-3-info img {
   width: 200px;
   border-radius: 400px;
-}
-
-/* =Tabzilla
------------------------------------------------ */
-#tabzilla-panel,
-#tabzilla-panel *,
-#tabzilla-panel *:before,
-#tabzilla-panel *:after {
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-}
-
-#tabzilla-panel a {
-  font-size: 11px;
-  line-height: 12px;
-}
-
-a#tabzilla {
-  display: inherit;
+  margin: 10px 20px;
 }
 
 

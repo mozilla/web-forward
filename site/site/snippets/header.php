@@ -21,41 +21,49 @@
   <link href="../assets/styles/bootstrap.css" rel="stylesheet">
   <!-- Custom styles for this template -->
   <link href="../assets/styles/base.css" rel="stylesheet">
+  <link href="../assets/styles/animated-header-component.css" rel="stylesheet">
 
 </head>
 
 <body id="<?php echo $page->id() ?>">
-
-  <!-- navigation -->
-  <nav class="navbar navbar-default navbar-fixed-top mainnav" role="navigation">
-
+  <nav class="cbp-af-header navbar-fixed-top mainnav">
     <div class="container">
-      <a href="http://www.mozilla.org/" id="tabzilla" style="z-index:9999">Mozilla</a>
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <a href="/" class="navbar-brand"><img src="..//assets/images/sandstone/logo.png" alt="WebFWD" /></a>
+      <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
+      <div class="cbp-af-inner">
+          <a href="/" class=""><img src="..//assets/images/sandstone/logo.png" alt="WebFWD" class="brandlogo" /></a>
+          <nav>
+              <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Resources</a>
+              <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="current"' : '' ?>>Partners</a>
+              <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="current"' : '' ?>>Calendar</a>
+              <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="current"' : '' ?> target="_blank">Blog</a>
+              <a href="/accelerator/" target="_blank">About</a>
+          </nav>
       </div>
-
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="" id="">
-        <ul class="nav navbar-nav navbar-left navlinks">
-          <li>
-  				  <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Resources</a>
-  				</li>
-  				<li>
-  				  <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="current"' : '' ?>>Partners</a>
-  				</li>
-  				<li>
-  				  <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="current"' : '' ?>>Calendar</a>
-  				</li>
-  				<li>
-  				  <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="current"' : '' ?> target="_blank">Blog</a>
-  				</li>
-  				<li>
-  				  <a href="/accelerator/" target="_blank">About</a>
-          </li>
-        </ul>
-      </div><!-- /.navbar-collapse -->
     </div>
   </nav>
-  <!-- /navigation -->
+
+  <!-- navigation
+  <nav class="navbar navbar-default navbar-fixed-top mainnav" role="navigation">
+    <div class="row navbox">
+      <div class="container">
+        <ul class="nav navbar-nav navbar-left navlinks">
+          <li>
+    			  <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Resources</a>
+    			</li>
+    			<li>
+    			  <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="current"' : '' ?>>Partners</a>
+    			</li>
+    			<li>
+    			  <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="current"' : '' ?>>Calendar</a>
+    			</li>
+    			<li>
+    			  <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="current"' : '' ?> target="_blank">Blog</a>
+    			</li>
+    			<li>
+    			  <a href="/accelerator/" target="_blank">About</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+   /navigation -->

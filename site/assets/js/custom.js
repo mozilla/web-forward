@@ -1,5 +1,5 @@
 $("#tabzilla").click(function(){
-  $('nav').toggleClass( "navbar-fixed-top" );
+  $('nav.mainnav').toggleClass( "navbar-fixed-top" );
 });
 
 //easing to section
