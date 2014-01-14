@@ -36,20 +36,20 @@
         </div>
         <div class="col-xs-12 col-md-10 navlinks">
           <ul class="list-inline">
-            <li>
-              <a href="/"<?php echo ($site->uri()->path()->first() == '') ? ' class="current"' : '' ?>>Overview</a>
-            </li>
     				<li>
-    				  <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Startup Resources</a>
+    				  <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="current"' : '' ?>>Resources</a>
     				</li>
     				<li>
     				  <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="current"' : '' ?>>Partners</a>
     				</li>
     				<li>
-    				  <a href="/news/"<?php echo ($site->uri()->path()->first() == 'news') ? ' class="current"' : '' ?>>News</a>
+    				  <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="current"' : '' ?>>Calendar</a>
     				</li>
     				<li>
-    				  <a href="/accelerator/" target="_blank">Accelerator</a>
+    				  <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="current"' : '' ?>>Blog</a>
+    				</li>
+    				<li>
+    				  <a href="/accelerator/" target="_blank">About</a>
             </li>
           </ul>
         </div>

@@ -1,4 +1,4 @@
-Title: News
+Title: Calendar
 ----
 Link: http://blog.webfwd.org/
 ----
