@@ -1,4 +1,4 @@
-Title: Startup Resources
+Title: Resources
 ----
 ID: resources
 ----

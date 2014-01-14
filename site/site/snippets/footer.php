@@ -3,14 +3,10 @@
 	<footer>
 		<div class="container">
 		  <div class='row'>
-  			<div class="col-md-3">
+  			<div class="col-md-4">
   				<a href="http://www.mozilla.org/" class="footer-logo"><img src="/assets/images/sandstone/footer-mozilla.png" alt="mozilla" /></a>
   			</div>
-  			<div class="col-md-3">
-  				<p>Portions of this content are ©1998–<script>document.write(new Date().getFullYear())</script> by individual mozilla.org contributors. Content available under a <a href="http://www.mozilla.org/foundation/licensing/website-content.html">Creative Commons license</a>.</p>
-  				<p><a href="http://www.mozilla.org/en-US/contribute/page/">Contribute to this page</a><p>
-  			</div>
-  			<div class="col-md-3">
+  			<div class="col-md-4">
   				<nav>
   					<ul class="list-unstyled">
   						<li><a href="mailto:webfwd@mozilla.com">Contact</a></li>
@@ -20,7 +16,7 @@
   					</ul>
   				</nav>
   			</div>
-  			<div class="col-md-3">
+  			<div class="col-md-4">
   				<nav>
   					<ul class="list-unstyled">
   						<li><a href="https://www.google.com/calendar/b/0/embed?src=p8f1sspddudoko6oecne0efkog@group.calendar.google.com&ctz=America/Los_Angeles">Events</a></li>
