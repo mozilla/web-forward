@@ -16,7 +16,7 @@
 </section>
 
 <!-- container -->
-<section class="container maincontent" id="home">
+<section class="container" id="home">
 
   <!-- main content -->
   <section class="row">

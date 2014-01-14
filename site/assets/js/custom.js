@@ -1,3 +1,7 @@
+$("#tabzilla").click(function(){
+  $('nav.mainnav').toggleClass( "navbar-fixed-top navbar-static-top" );
+});
+
 //easing to section
 
 $("a.home").click(function() {

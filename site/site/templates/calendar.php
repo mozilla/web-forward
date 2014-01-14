@@ -13,9 +13,7 @@
 
   <section class="row">
     <div class="col-md-12">
-      <p>More to come!</p>
-      <p>Calendar goes here</p>
-      <p>List of events below calendar goes here</p>
+      <iframe src="https://www.google.com/calendar/embed?src=7greh1l41r6mumsfhj593spke4%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
     </div>
   </section>
 

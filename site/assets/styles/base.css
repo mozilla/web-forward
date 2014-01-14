@@ -88,32 +88,34 @@ a {
 }
 
 a:hover {
-	color: #000;
-	text-decoration: underline;
+	//color: #000;
+	//text-decoration: underline;
 }
 
 /*header*/
-
 .mainnav {
   background: #fff;
   border-bottom-color: none;
+  margin-bottom: 0px;
+  font-family: 'Open Sans', sans-serif;
 }
 
-.navlinks {
-  margin-top: -14px;
+ul.navlinks {
+  margin-top: 14px;
+  font-size: 14px;
 }
 
-.mainnav .list-inline > li:first-child {
-  padding-left: 5px;
+.navbox {
+  background: #ccc;
 }
 
-.navbar-brand {
+ul.navlinks a:hover {
+  text-decoration: underline;
 }
 
 .navbar-brand img {
-  height: 50px;
+  //height: 40px;
   margin-top: 0px;
-  margin-left: -14px;
 }
 
 /*body*/
@@ -121,36 +123,37 @@ a:hover {
   max-width: 800px;
 }
 .maincontent {
-  margin-top: 40px;
-  //background: #ccc;
+  margin-top: 100px;
 }
 
 /*footer*/
 footer {
   background: #fff;
-  margin-top: 20px;
+  margin-top: 40px;
+  min-height: 200px;
 }
 
 footer .container {
   border-top: 1px solid rgba(0,0,0,0.1);
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 /*homepage*/
 #promo {
-  background: url('/assets/images/promo.jpg') no-repeat center center fixed;
+  background: url('/assets/images/promo.png') no-repeat center center fixed;
   background-size: cover;
-  height: 500px;
+  height: 600px;
 }
 
 #promo h1 {
-  padding-top: 180px;
+  padding-top: 280px;
   color: #fff;
 }
 
 #home .col-3-info img {
   width: 200px;
   border-radius: 400px;
+  margin: 10px 20px;
 }
 
 
