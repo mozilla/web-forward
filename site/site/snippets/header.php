@@ -49,7 +49,7 @@
     				  <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="current"' : '' ?>>Blog</a>
     				</li>
     				<li>
-    				  <a href="/accelerator/" target="_blank">Accelerator</a>
+    				  <a href="/accelerator/" target="_blank">About</a>
             </li>
           </ul>
         </div>
