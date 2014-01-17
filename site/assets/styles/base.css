@@ -110,7 +110,7 @@ a:hover {
 }
 
 .mainnavrow {
-  padding: 40px 0px;
+  padding: 40px 0px 30px;
 }
 
 .mainnav nav {
@@ -175,6 +175,10 @@ footer a:hover {
 footer .container {
   //border-top: 1px solid rgba(0,0,0,0.1);
   padding-top: 40px;
+}
+
+footer img {
+  height: 48px;
 }
 
 /*homepage*/
@@ -262,16 +266,96 @@ footer .container {
 }
 
 @media (min-width: 768px) {
-
+  /*home*/
+  .navlinks {
+    text-align: right !important;
+    width: 66.66666666666666% !important;
+    //border: 1px solid red !important;
+  }
 
 }
 
 @media (min-width: 480px) {
 
+  /*home*/
+  .navlinks {
+    text-align: left;
+    width: 100%;
+    margin-left: -5px;
+  }
 
+  .navlinks a {
+    line-height: 44px;
+  }
+
+  #home #promo h1 {
+    margin-top: 0px;
+    font-size: 38px;
+    line-height: 40px;
+    letter-spacing: 0px;
+  }
+
+  #home .vertically-align-image {
+    margin: -20px auto;
+  }
+
+  #home .vertically-align-text {
+    margin: -60px auto 0px;
+  }
+
+  /*footer*/
+
+  footer {
+    padding-bottom: 40px;
+  }
+  footer .footer-logo img {
+    padding-bottom: 20px;
+  }
+  footer .col-xs-12 {
+    margin-bottom: -10px;
+  }
 }
 
 @media (max-width: 480px) {
 
+  /*home*/
+  .navlinks {
+    text-align: left;
+    width: 100%;
+    margin-left: -5px;
+  }
 
+  .navlinks a {
+    line-height: 44px;
+  }
+
+  .logoarea {
+    width: 100%;
+  }
+
+  #home #promo h1 {
+    margin-top: 0px;
+    font-size: 38px;
+    line-height: 40px;
+    letter-spacing: 0px;
+  }
+
+  #home .vertically-align-image {
+    margin: -20px auto;
+  }
+
+  #home .vertically-align-text {
+    margin: -60px auto 0px;
+  }
+
+  /*footer*/
+  footer {
+    padding-bottom: 40px;
+  }
+  footer .footer-logo img {
+    padding-bottom: 20px;
+  }
+  footer .col-xs-12 {
+    margin-bottom: -10px;
+  }
 }

@@ -30,10 +30,10 @@
     <div class="container">
       <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
       <div class="row mainnavrow">
-          <div class="col-xs-4">
+          <div class="col-xs-4 col-md-4 logoarea">
             <a href="/" class=""><img src="..//assets/images/sandstone/logo-w.png" alt="WebFWD" class="brandlogo" /></a>
           </div>
-          <nav class="col-xs-8 text-right">
+          <nav class="col-xs-8 col-md-8 text-right navlinks">
               <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="active"' : '' ?>>Resources</a>
               <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="active"' : '' ?>>Partners</a>
               <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="active"' : '' ?>>Calendar</a>
