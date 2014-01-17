@@ -237,8 +237,6 @@ footer img {
   padding-top: 40px;
 }
 
-/*Resources*/
-
 .header-box {
   background: #009E63;
   padding-bottom: 60px;
@@ -252,11 +250,13 @@ footer img {
   color: #fff;
 }
 
+/*Resources*/
+
 #resources .box {
-  padding: 10px;
+  padding: 14px;
   background: #f8f8f8;
   border-radius: 10px;
-  margin: 10px 0;
+  margin: 14px 0;
 }
 
 #resources .subtitle {
@@ -268,6 +268,20 @@ footer img {
   color: #a1a1a1;
   margin: 0px 0px;
 }
+
+/*Partners*/
+
+#partners .box {
+  padding: 14px;
+  background: #f8f8f8;
+  border-radius: 10px;
+  margin: 14px 0;
+}
+
+#partners .maincontent img {
+  padding-bottom: 10px;
+}
+
 
 
 /*Responsive hacks*/
