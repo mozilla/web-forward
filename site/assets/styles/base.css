@@ -252,6 +252,23 @@ footer img {
   color: #fff;
 }
 
+#resources .box {
+  padding: 10px;
+  background: #f8f8f8;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+#resources .subtitle {
+  padding: 10px 0px 0px;
+  margin-bottom: 0px;
+}
+
+#resources .author {
+  color: #a1a1a1;
+  margin: 0px 0px;
+}
+
 
 /*Responsive hacks*/
 
