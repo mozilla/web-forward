@@ -1,4 +1,8 @@
 Title: Calendar
 ----
-Link: http://blog.webfwd.org/
+ID: calendar
+----
+Headline: Check out upcoming events here!
+----
+Calendariframe: <iframe class="container" src="https://www.google.com/calendar/embed?title=Mozilla%20WebFwd%20Calendar&amp;showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mozwebfwd%40gmail.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles" style="border-width:0 " height="600" frameborder="0" scrolling="no"></iframe>
 ----
