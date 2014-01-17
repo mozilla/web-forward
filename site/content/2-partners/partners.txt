@@ -2,5 +2,5 @@ Title: Partners
 ----
 ID: partners
 ----
-Headline: Our Portfolio
+Headline: Our Portfolio.
 ----
