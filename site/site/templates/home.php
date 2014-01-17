@@ -6,46 +6,47 @@
 <section id="promo">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 text-center">
+      <div class="col-xs-12 col-md-12 text-center">
         <h1>
-          We help open source innovators change the world.
+          <?php echo $page->headline() ?>
         </h1>
+        <?php echo $page->mainimage() ?>
       </div>
     </div>
   </div>
 </section>
 
 <!-- container -->
-<section class="container" id="home">
+<section class="container" id="homecontent">
 
   <!-- main content -->
   <section class="row">
-    <div class="col-md-5">
-      <img src="assets/images/placeholder-300x300.png" class="img-responsive promo-img">
+    <div class="col-xs-12 col-md-6">
+      <?php echo $page->section1image() ?>
     </div>
-    <div class="col-md-7">
-      <h2><?php echo $page->columnheader1() ?></h2>
-      <?php echo $page->columntext1() ?>
+    <div class="col-xs-12 col-md-6 text-area vertically-align-text">
+      <h3><?php echo $page->section1() ?></h3>
+      <?php echo $page->section1text() ?>
     </div>
   </section>
 
-  <section class="row col-3-info">
-    <div class="col-xs-7 col-md-7">
-      <h2>How Can You Be A Part Of It?</h2>
-      <h5>If you are a startup program</h5>
-      <p>We’d love to explore how we provide our workshops to your startup community.</p>
-      <h5>If you are a startup</h5>
-      <p>We’d love to explore how we provide our workshops to your startup community.</p>
-      <h5>If you love startups</h5>
-      <p>you can help by sharing our offering with your local accelerator, coworking space or other startup program. You can also roll up your sleeves and be a workshop facilitator!</p>
+  <section class="row">
+    <div class="col-xs-12 col-md-6">
+      <h3><?php echo $page->section2() ?></h3>
+      <h5><?php echo $page->section2subhead1() ?></h5>
+      <p><?php echo $page->section2text1() ?></p>
+      <h5><?php echo $page->section2subhead2() ?></h5>
+      <p><?php echo $page->section2text2() ?></p>
+      <h5><?php echo $page->section2subhead3() ?></h5>
+      <p><?php echo $page->section2text3() ?></p>
     </div>
-    <div class="col-xs-12 col-md-5">
-      <img src="assets/images/placeholder-300x300.png" class="img-responsive promo-img">
+    <div class="col-xs-12 col-md-6 vertically-align-image">
+      <?php echo $page->section2image() ?>
     </div>
   </section>
   <!-- /MAIN -->
 
-      <!-- <h2><?php echo $page->columnheader2() ?></h2>
+      <!-- <h3><?php echo $page->columnheader2() ?></h3>
       <?php echo $page->columntext2() ?> -->
 
 <!-- /end container -->
