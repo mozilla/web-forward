@@ -26,23 +26,25 @@
 </head>
 
 <body id="<?php echo $page->id() ?>">
-  <nav class="navbar-static-top mainnav">
-    <div class="container">
-      <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
-      <div class="row mainnavrow">
-          <div class="col-xs-4 col-md-4 logoarea">
-            <a href="/" class=""><img src="..//assets/images/sandstone/logo-w.png" alt="WebFWD" class="brandlogo" /></a>
-          </div>
-          <nav class="col-xs-8 col-md-8 text-right navlinks">
-              <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="active"' : '' ?>>Resources</a>
-              <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="active"' : '' ?>>Partners</a>
-              <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="active"' : '' ?>>Calendar</a>
-              <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="active"' : '' ?> target="_blank">Blog</a>
-              <a href="/about/"<?php echo ($site->uri()->path()->first() == 'about') ? ' class="active"' : '' ?>>About</a>
-          </nav>
+
+  <div class="only-home">
+    <nav class="navbar-static-top mainnav">
+      <div class="container">
+        <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
+        <div class="row mainnavrow">
+            <div class="col-xs-4 col-md-4 logoarea">
+              <a href="/" class=""><img src="..//assets/images/sandstone/logo-w.png" alt="WebFWD" class="brandlogo" /></a>
+            </div>
+            <nav class="col-xs-8 col-md-8 text-right navlinks">
+                <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="active"' : '' ?>>Resources</a>
+                <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="active"' : '' ?>>Partners</a>
+                <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="active"' : '' ?>>Calendar</a>
+                <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="active"' : '' ?> target="_blank">Blog</a>
+                <a href="/about/"<?php echo ($site->uri()->path()->first() == 'about') ? ' class="active"' : '' ?>>About</a>
+            </nav>
+        </div>
       </div>
-    </div>
-  </nav>
+    </nav>
 
   <!-- navigation
   <nav class="navbar navbar-default navbar-fixed-top mainnav" role="navigation">

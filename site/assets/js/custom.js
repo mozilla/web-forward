@@ -21,3 +21,18 @@ $("a.toolkit").click(function() {
         scrollTop: $("#toolkit").offset().top - 50
     }, 1000);
 });
+
+
+$("#promo h1").hide();
+$("#promo h1").fadeIn();
+
+//scroll fade text
+var target = $('#promo');
+var targetHeight = target.outerHeight();
+
+$(document).scroll(function(e){
+    var scrollPercent = (targetHeight - window.scrollY) / targetHeight;
+    if(scrollPercent >= 0){
+        target.css('opacity', scrollPercent);
+    }
+});
