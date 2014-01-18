@@ -10,11 +10,12 @@
         <h1>
           <?php echo $page->headline() ?>
         </h1>
-        <?php echo $page->mainimage() ?>
       </div>
     </div>
   </div>
 </section>
+
+</div> <!-- onlyhome -->
 
 <!-- container -->
 <section class="container" id="homecontent">

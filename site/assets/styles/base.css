@@ -136,7 +136,7 @@ a:hover {
 .mainnav nav a:hover {
   padding: 12px;
   text-decoration: none;
-  background: rgba(0,0,0,0.1);
+  background: rgba(0,0,0,0.2);
   border-radius: 10px;
 }
 
@@ -184,14 +184,17 @@ footer img {
 /*homepage*/
 
 #home .mainnav {
+  background: none;
+}
+
+#home .only-home {
+  background: url('/assets/images/main-promo.png') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
 }
 
 #promo {
-  //background: url('/assets/images/main-promo.png') no-repeat center center fixed;
-  //background-size: cover;
-  //height: 300px;
-  background: #009E63;
-  padding-bottom: 40px;
+  padding-top: 80px;
 }
 
 #promo img {
@@ -200,9 +203,10 @@ footer img {
 
 #promo h1 {
   letter-spacing: -2px;
-  padding-bottom: 40px;
+  padding: 0px 40px 40px;
   color: #fff;
   font-size: 62px;
+  line-height: 100px;
 }
 
 #homecontent img.promo-img {
@@ -301,7 +305,11 @@ footer img {
   .navlinks {
     text-align: right !important;
     width: 66.66666666666666% !important;
-    //border: 1px solid red !important;
+  }
+
+  #home #promo h1 {
+    font-size: 62px !important;
+    line-height: 68px !important;
   }
 
 }

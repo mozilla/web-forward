@@ -4,7 +4,7 @@ ID: home
 ----
 Headline: We help entrepreneurs change the world.
 ----
-MainImage: <img src="assets/images/main-promo.png" class="img-responsive">
+MainImage: assets/images/main-promo.png
 ----
 Section1: What is WebFWD?
 ----
