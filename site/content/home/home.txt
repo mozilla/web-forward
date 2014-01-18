@@ -10,21 +10,17 @@ Section1: What is WebFWD?
 ----
 Section1Image: <img src="assets/images/promo-a.png" class="img-responsive promo-img">
 ----
-Section1Text: <p>Mozilla has changed the landscape of the web. Along the way, we’ve developed best-in-class expertise that can help tech entrepreneurs grow their businesses. WebFWD adapts these Mozilla resources for startups around the world through hands-on workshops, online trainings and fora.</p>
+Section1Text: <p>Mozilla has changed the landscape of the web. Along the way, we’ve developed best-in-class expertise that can help tech entrepreneurs grow their businesses. At WebFWD, we share Mozilla resources with entrepreneurs around the world.</p>
 ----
 Section2: How Can You Be A Part Of It?
 ----
 Section2Image: <img src="assets/images/promo-b.png" class="img-responsive promo-img">
 ----
-Section2Subhead1: <p>If you are a startup program</p>
+Section2Subhead1: <p>If you are a startup</p>
 ----
-Section2Text1: <p>We'd love to explore how we provide our workshops to your startup community.  <a href="mailto:webfwd@mozilla.com">Contact us</a> to learn more!</p>
+Section2Text1: <p>Check out our <a href="/resources/">event calendar</a>. Also, please <a href="mailto:webfwd@mozilla.com">share</a> what else you'd like to learn from Mozilla with us!</p>
 ----
-Section2Subhead2: <p>If you are a startup</p>
+Section2Subhead2: <p>If you are a Mozillian</p>
 ----
-Section2Text2: <p>Check out our <a href="/calendar/">event calendar</a> and let us know if there is an event you wish to attend (or organize!) in your community.</p>
-----
-Section2Subhead3: <p>If you love startups</p>
-----
-Section2Text3: <p>You can help by sharing our offering with your local accelerator, coworking space or other startup program. You can also roll up your sleeves and be a workshop facilitator!</p>
+Section2Text2: <p>Provide us with your knowledge, expertise and resources that we can pass on to the larger entrepreneurial community.</p>
 ----
