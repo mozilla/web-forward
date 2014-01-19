@@ -2,5 +2,5 @@ Title: Resources
 ----
 ID: resources
 ----
-Headline: Get to know WebFWD
+Headline: Get to know WebFWD.
 ----
