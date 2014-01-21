@@ -18,12 +18,6 @@
 <section class="container maincontent">
 
   <section class="row">
-    <div class="col-md-12">
-      <p>More to come!</p>
-    </div>
-  </section>
-
-  <section class="row">
     <div class="col-xs-12 col-md-12">
       <h3>Learning Modules</h3>
     </div>

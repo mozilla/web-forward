@@ -22,17 +22,17 @@
 
   <!-- main content -->
   <section class="row">
-    <div class="col-xs-12 col-md-6">
+    <div class="col-xs-12 col-md-6 promoimageA">
       <?php echo $page->section1image() ?>
     </div>
-    <div class="col-xs-12 col-md-6 text-area vertically-align-text">
+    <div class="col-xs-12 col-md-6 text-area vertically-align-text promotextA">
       <h3><?php echo $page->section1() ?></h3>
       <?php echo $page->section1text() ?>
     </div>
   </section>
 
   <section class="row">
-    <div class="col-xs-12 col-md-6">
+    <div class="col-xs-12 col-md-6 promotextB">
       <h3><?php echo $page->section2() ?></h3>
       <h5><?php echo $page->section2subhead1() ?></h5>
       <p><?php echo $page->section2text1() ?></p>
@@ -41,7 +41,7 @@
       <h5><?php echo $page->section2subhead3() ?></h5>
       <p><?php echo $page->section2text3() ?></p>
     </div>
-    <div class="col-xs-12 col-md-6 vertically-align-image">
+    <div class="col-xs-12 col-md-6 vertically-align-image promoimageB">
       <?php echo $page->section2image() ?>
     </div>
   </section>

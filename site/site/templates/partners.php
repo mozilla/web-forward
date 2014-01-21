@@ -18,12 +18,9 @@
 <section class="container maincontent">
 
   <section class="row">
-    <div class="col-md-12">
-      <p>More to come!</p>
+    <div class="col-xs-12 col-md-12">
+      <h3>Lorem ipsum</h3>
     </div>
-  </section>
-
-  <section class="row">
     <div class="col-xs-6 col-md-4">
       <div class="box">
         <a href=""><img src="/assets/images/placeholder-400x300.png" class="img-responsive"></a>

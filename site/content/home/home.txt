@@ -18,7 +18,7 @@ Section2Image: <img src="assets/images/promo-b.png" class="img-responsive promo-
 ----
 Section2Subhead1: <p>If you are a startup</p>
 ----
-Section2Text1: <p>Check out our <a href="/resources/">event calendar</a>. Also, please <a href="mailto:webfwd@mozilla.com">share</a> what else you'd like to learn from Mozilla with us!</p>
+Section2Text1: <p>Check out our <a href="/calendar/">event calendar</a>. Also, please <a href="mailto:webfwd@mozilla.com">share</a> what else you'd like to learn from Mozilla with us!</p>
 ----
 Section2Subhead2: <p>If you are a Mozillian</p>
 ----

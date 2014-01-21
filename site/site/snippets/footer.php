@@ -6,7 +6,7 @@
   			<div class="col-xs-12 col-md-4">
   				<a href="http://www.mozilla.org/" class="footer-logo"><img src="/assets/images/sandstone/footer-mozilla.png" alt="mozilla" /></a>
   			</div>
-  			<div class="col-xs-12 col-md-4">
+  			<div class="col-xs-6 col-md-4">
   				<nav>
   					<ul class="list-unstyled">
   						<li><a href="mailto:webfwd@mozilla.com">Contact</a></li>
@@ -15,7 +15,7 @@
   					</ul>
   				</nav>
   			</div>
-  			<div class="col-xs-12 col-md-4">
+  			<div class="col-xs-6 col-md-4">
   				<nav>
   					<ul class="list-unstyled">
   						<li><a href="/calendar/">Events</a></li>
