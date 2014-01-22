@@ -2,16 +2,32 @@
 /* Artfully masterminded by ZURB  */
 /* Reboot based on Pascal Finette's previous work on the site */
 
+/*
+green #5AC1A4
+blue #0F99D6
+yellow #FFCE00
+*/
+
 /*global*/
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+
+@font-face  {
+  font-family: FiraSans-Regular;
+  src: url(/assets/fonts/FiraSans/FiraSans-Regular.ttf);
+}
+
+@font-face  {
+  font-family: ClearSans-Regular;
+  src: url(/assets/fonts/ClearSans/ClearSans-Regular.ttf);
+}
 
 html { background: #FFF; }
 
 body {
 	font-size: 16px;
 	line-height: 24px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: ClearSans-Regular, 'Open Sans', sans-serif;
 	color: #333;
   background: #fff; /* Old browsers */
   //background: -moz-linear-gradient(top,  #00585f 0%, #d3e4e7 28%); /* FF3.6+ */
@@ -24,8 +40,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, .huge, .large {
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 300;
+	font-family: FiraSans-Regular, 'Open Sans', sans-serif;
+	//font-weight: 300;
 	display: block;
 	//margin: 0 0 12px 0;
 	line-height: 100%;
@@ -90,7 +106,7 @@ dl {
 }
 
 a {
-	color: #009E63;
+	color: #5AC1A4;
 	text-decoration: none;
 }
 
@@ -101,7 +117,7 @@ a:hover {
 
 /*header*/
 .mainnav {
-  background: #009E63;
+  background: #5AC1A4;
   border-bottom-color: none;
   //margin-bottom: 40px;
   font-family: 'Open Sans', sans-serif;
@@ -154,13 +170,17 @@ img.brandlogo {
   min-height: 600px;
 }
 
+.maincontent h3 {
+  color: #0F99D6;
+}
+
 /*footer*/
 footer {
-  background: #009E63;
+  background: #5AC1A4;
   margin-top: 40px;
-  padding-top: 20px;
   //min-height: 220px;
-  font-size: 0.75em;
+  font-size: 0.9em;
+  padding-bottom: 10px !important;
 }
 
 footer a {
@@ -173,8 +193,7 @@ footer a:hover {
 }
 
 footer .container {
-  //border-top: 1px solid rgba(0,0,0,0.1);
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 footer img {
@@ -220,9 +239,10 @@ footer img {
 }
 
 #homecontent h3 {
-  font-size: 26px;
-  letter-spacing: -0.75px;
-  font-weight: 400;
+  //font-size: 26px;
+  //letter-spacing: -0.75px;
+  //font-weight: 400;
+  color: #0F99D6;
 }
 
 #homecontent h5 {
@@ -241,12 +261,13 @@ footer img {
 }
 
 .header-box {
-  background: #009E63;
+  background: #5AC1A4;
   padding-bottom: 60px;
 }
 
 .header-box h1 {
   color: #fff;
+  font-size: 74px;
 }
 
 .header-box h4 {
@@ -254,6 +275,10 @@ footer img {
 }
 
 /*Resources*/
+
+#resources .header-box {
+  //background: #000;
+}
 
 #resources .box {
   //padding: 14px;
@@ -289,6 +314,10 @@ footer img {
   padding-bottom: 10px;
   border-radius: 4px;
 }
+
+/*Calendar*/
+/*change the styles here?*/
+
 
 
 
