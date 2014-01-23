@@ -40,6 +40,18 @@
   <script src="../assets/js/modernizr.custom.js"></script>
   <script src="https://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
 
+  <script type="text/javascript" charset="utf-8">
+    //change bg images
+    if(window.location.href == "http://localhost:8888/resources/") {
+
+      //resources bg image
+      $(".top-image-bg").css("background","url('/assets/images/main-promo.png') no-repeat center center fixed");
+      $(".top-image-bg").css("background-size","cover");
+      $(".top-image-bg").css("height","auto");
+    }
+
+  </script>
+
 
 </body>
 </html>

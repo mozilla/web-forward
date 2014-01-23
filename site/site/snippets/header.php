@@ -27,7 +27,7 @@
 
 <body id="<?php echo $page->id() ?>">
 
-  <div class="only-home">
+  <div class="top-image-bg"> <!-- big header bg -->
     <nav class="navbar-static-top mainnav">
       <div class="container">
         <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>

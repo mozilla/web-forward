@@ -14,6 +14,9 @@
   </div>
 </section>
 
+</div> <!-- end .top-image-bg -->
+
+
 <!-- container -->
 <section class="container maincontent">
 

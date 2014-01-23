@@ -22,12 +22,15 @@ yellow #FFCE00
   src: url(/assets/fonts/ClearSans/ClearSans-Regular.ttf);
 }
 
-html { background: #FFF; }
+html {
+  background: #FFF;
+  }
 
 body {
+  border-top: 1px solid #fff;
 	font-size: 16px;
 	line-height: 24px;
-	font-family: ClearSans-Regular, 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #333;
   background: #fff; /* Old browsers */
   //background: -moz-linear-gradient(top,  #00585f 0%, #d3e4e7 28%); /* FF3.6+ */
@@ -40,19 +43,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, .huge, .large {
-	font-family: FiraSans-Regular, 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	//font-weight: 300;
 	display: block;
 	//margin: 0 0 12px 0;
 	line-height: 100%;
-	color: #484848;
-}
-
-#promo,
-#promo h1 {
-	font-size: 48px;
-	//letter-spacing: -4px;
-	line-height: 100%;
+	color: rgb(77, 78, 83);
 }
 
 .large,
@@ -94,8 +90,8 @@ h6 {
 
 .small,
 small {
-	font-size: 12px;
-	line-height: 16px;
+	font-size: 14px;
+	line-height: 18px;
 }
 
 p,
@@ -106,54 +102,58 @@ dl {
 }
 
 a {
-	color: #5AC1A4;
+	color: #0F99D6;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #159F48;
+	color: #2f86ac;
 	text-decoration: underline;
 }
 
 /*header*/
 .mainnav {
-  background: #5AC1A4;
+  //background: #5AC1A4;
   border-bottom-color: none;
   //margin-bottom: 40px;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
-  //text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .mainnavrow {
-  padding: 40px 0px 30px;
+  padding: 20px 0px 30px;
 }
 
 .mainnav nav {
   margin-right: 0px;
-  margin-top: 30px;
+  margin-top: 0px;
   padding-right: 0px;
 }
 
 .mainnav nav a {
   color: #fff;
   //padding: 10px;
-  margin-right: 10px;
-  padding: 12px;
+  padding: 4px 0px;
+  margin-right: 12px;
 }
 
 .mainnav .active {
-  padding: 12px;
+  padding: 4px 0px;
+  margin-right: 12px;
   text-decoration: none;
-  background: rgba(0,0,0,0.1);
-  border-radius: 10px;
+  //background: rgba(0,0,0,0.1);
+  //border-radius: 10px;
+  border-bottom: 1px solid #fff;
 }
 
 .mainnav nav a:hover {
-  padding: 12px;
+  padding: 4px 0px;
+  margin-right: 12px;
+  border-bottom: 1px solid #fff;
   text-decoration: none;
-  background: rgba(0,0,0,0.2);
-  border-radius: 10px;
+  //background: rgba(0,0,0,0.2);
+  //border-radius: 10px;
 }
 
 img.brandlogo {
@@ -171,7 +171,7 @@ img.brandlogo {
 }
 
 .maincontent h3 {
-  color: #0F99D6;
+  //color: #0F99D6;
 }
 
 /*footer*/
@@ -200,20 +200,20 @@ footer img {
   height: 48px;
 }
 
+.top-image-bg {
+  background: url('/assets/images/main-promo.png') no-repeat center center fixed;
+  background-size: cover;
+  height: auto;
+}
+
 /*homepage*/
 
 #home .mainnav {
   background: none;
 }
 
-#home .only-home {
-  background: url('/assets/images/main-promo.png') no-repeat center center fixed;
-  background-size: cover;
-  height: 500px;
-}
-
 #promo {
-  padding-top: 80px;
+  padding-top: 0px;
 }
 
 #promo img {
@@ -224,8 +224,9 @@ footer img {
   letter-spacing: -2px;
   padding: 0px 40px 40px;
   color: #fff;
-  font-size: 62px;
+  font-size: 48px;
   line-height: 100px;
+  font-weight: 200;
 }
 
 #homecontent img.promo-img {
@@ -242,7 +243,7 @@ footer img {
   //font-size: 26px;
   //letter-spacing: -0.75px;
   //font-weight: 400;
-  color: #0F99D6;
+  //color: #0F99D6;
 }
 
 #homecontent h5 {
@@ -261,13 +262,15 @@ footer img {
 }
 
 .header-box {
-  background: #5AC1A4;
+  //background: #5AC1A4;
   padding-bottom: 60px;
 }
 
 .header-box h1 {
   color: #fff;
-  font-size: 74px;
+  font-size: 72px;
+  letter-spacing: -2px;
+  font-weight: 300;
 }
 
 .header-box h4 {
@@ -369,11 +372,11 @@ footer img {
   }
 
   #home #promo {
-    padding-top: 80px !important;
+    //padding-top: 80px !important;
   }
 
   #home #promo h1 {
-    font-size: 62px !important;
+    font-size: 48px !important;
     line-height: 68px !important;
   }
 
@@ -408,7 +411,7 @@ footer img {
   }
 
   #home #promo {
-    padding-top: 20px;
+    padding-top: 10px;
   }
 
   #home #promo h1 {
