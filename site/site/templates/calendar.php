@@ -17,7 +17,7 @@
 </div> <!-- end .top-image-bg -->
 
 <!-- container -->
-<section class="container maincontent">
+<section class="container maincontent" id="fluidcalendar">
 
   <section class="row-fluid">
       <?php echo $page->calendariframe() ?>

@@ -156,6 +156,10 @@ a:hover {
   //border-radius: 10px;
 }
 
+.navlinks {
+  text-align: right;
+}
+
 img.brandlogo {
   height: 60px;
   margin-top: 14px;
@@ -201,7 +205,7 @@ footer img {
 }
 
 .top-image-bg {
-  background: url('/assets/images/main-promo.png') no-repeat center center fixed;
+  background: url('/assets/images/promo-main.png') no-repeat center center fixed;
   background-size: cover;
   height: auto;
 }
@@ -230,7 +234,6 @@ footer img {
 }
 
 #homecontent img.promo-img {
-  width: 360px;
   border-radius: 400px;
   padding: 20px 20px;
 }
@@ -322,15 +325,32 @@ footer img {
 /*change the styles here?*/
 
 
-
-
 /*Responsive hacks*/
 
 @media (min-width: 1200px) {
 
+  .navlinks {
+    text-align: right;
+  }
+
 }
 
 @media (min-width: 992px) {
+  .logoarea {
+    text-align: left !important;
+  }
+}
+
+
+@media (max-width: 992px) {
+
+  .navlinks {
+    text-align: center;
+  }
+
+  .logoarea {
+    text-align: left;
+  }
 
   #home .promotextA {
     padding-top: 40px;
@@ -342,6 +362,10 @@ footer img {
 
   /*home*/
 
+  .logoarea {
+    text-align: center;
+  }
+
   #home .promoimageA {
     padding: 0px !important;
   }
@@ -350,25 +374,11 @@ footer img {
     width: 300px !important;
   }
 
-  #home .promotextB {
-    padding-top: 20px;
-  }
-
-  #home .promoimageB img {
-    width: 300px !important;
-    margin: 0px auto;
-  }
-
-  #home .promoimageB img.promo-img {
-    width: 300px !important;
+  #home .promoimageB {
+    margin-top: 40px;
   }
 
   #home .vertically-align-text {
-  }
-
-  .navlinks {
-    text-align: right !important;
-    width: 66.66666666666666% !important;
   }
 
   #home #promo {
@@ -379,20 +389,21 @@ footer img {
     font-size: 48px !important;
     line-height: 68px !important;
   }
-
 }
 
 @media (min-width: 480px) {
 
   /*home*/
-  .navlinks {
-    text-align: left;
-    width: 100%;
-    margin-left: -5px;
+  .mainnavrow {
+    padding-bottom: 20px;
   }
 
   .navlinks a {
     line-height: 44px;
+  }
+
+  .logoarea {
+    text-align: center;
   }
 
   #home .promoimageA {
@@ -401,11 +412,6 @@ footer img {
   }
 
   #home .promoimageA img {
-    width: 200px !important;
-    margin: 0px auto;
-  }
-
-  #home .promoimageB img {
     width: 200px !important;
     margin: 0px auto;
   }
@@ -443,11 +449,21 @@ footer img {
 
 @media (max-width: 480px) {
 
+  .mainnavrow {
+    padding-bottom: 0px;
+  }
+
+  #calendar #fluidcalendar .container {
+    max-width: 280px;
+  }
+
+  .header-box h1 {
+    font-size: 3em;
+  }
+
   /*home*/
   .navlinks {
-    text-align: left;
-    width: 100%;
-    margin-left: -5px;
+    text-align: center;
   }
 
   .navlinks a {
@@ -456,10 +472,16 @@ footer img {
 
   .logoarea {
     width: 100%;
+    text-align: center;
   }
 
   #home #promo {
     padding-top: 20px;
+  }
+
+  #homecontent img.promo-img {
+    border-radius: 200px;
+    padding: 0px 0px;
   }
 
   #home .promoimageA img {
@@ -468,7 +490,7 @@ footer img {
   }
 
   #home .promoimageB img {
-    width: 200px;
+    width: 300px;
     margin: 0px auto;
   }
 

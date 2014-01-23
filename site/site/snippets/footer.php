@@ -43,9 +43,29 @@
   <script type="text/javascript" charset="utf-8">
     //change bg images
     if(window.location.href == "http://localhost:8888/resources/") {
-
       //resources bg image
-      $(".top-image-bg").css("background","url('/assets/images/main-promo.png') no-repeat center center fixed");
+      $(".top-image-bg").css("background","url('/assets/images/promo-resources.png') no-repeat center center fixed");
+      $(".top-image-bg").css("background-size","cover");
+      $(".top-image-bg").css("height","auto");
+    }
+
+    if(window.location.href == "http://localhost:8888/partners/") {
+      //resources bg image
+      $(".top-image-bg").css("background","url('/assets/images/promo-partners.png') no-repeat center center fixed");
+      $(".top-image-bg").css("background-size","cover");
+      $(".top-image-bg").css("height","auto");
+    }
+
+    if(window.location.href == "http://localhost:8888/calendar/") {
+      //resources bg image
+      $(".top-image-bg").css("background","url('/assets/images/promo-calendar.png') no-repeat center center fixed");
+      $(".top-image-bg").css("background-size","cover");
+      $(".top-image-bg").css("height","auto");
+    }
+
+    if(window.location.href == "http://localhost:8888/about/") {
+      //resources bg image
+      $(".top-image-bg").css("background","url('/assets/images/promo-about.png') no-repeat center center fixed");
       $(".top-image-bg").css("background-size","cover");
       $(".top-image-bg").css("height","auto");
     }

@@ -22,17 +22,17 @@
 
   <!-- main content -->
   <section class="row">
-    <div class="col-xs-12 col-md-6 promoimageA">
-      <?php echo $page->section1image() ?>
-    </div>
-    <div class="col-xs-12 col-md-6 text-area vertically-align-text promotextA">
+    <div class="col-xs-12 col-sm-12 col-md-12 text-area">
       <h3><?php echo $page->section1() ?></h3>
       <?php echo $page->section1text() ?>
     </div>
+    <!-- <div class="col-xs-12 col-sm-6 col-md-6 promoimageA">
+      <?php echo $page->section1image() ?>
+    </div> -->
   </section>
 
   <section class="row">
-    <div class="col-xs-12 col-md-6 promotextB">
+    <div class="col-xs-12 col-sm-6 col-md-6">
       <h3><?php echo $page->section2() ?></h3>
       <h5><?php echo $page->section2subhead1() ?></h5>
       <p><?php echo $page->section2text1() ?></p>
@@ -43,13 +43,12 @@
         <li><a href="/calendar/">Tues Jan 28 - Lorem ipsum event</a></li>
       </ul>
       <a href="/calendar/" class="small">See more</a>
-
       <h5><?php echo $page->section2subhead2() ?></h5>
       <p><?php echo $page->section2text2() ?></p>
       <h5><?php echo $page->section2subhead3() ?></h5>
       <p><?php echo $page->section2text3() ?></p>
     </div>
-    <div class="col-xs-12 col-md-6 vertically-align-image promoimageB">
+    <div class="col-xs-12 col-sm-6 col-md-6 promoimageB">
       <?php echo $page->section2image() ?>
     </div>
   </section>
