@@ -21,8 +21,7 @@
 
   <section class="row">
     <div class="col-md-12">
-      <p>More to come!</p>
-      </p>You can visit the old website <a href="/accelerator/" target="blank">here</a>.</p>
+      <?php echo $page->maintext() ?>
     </div>
   </section>
 
