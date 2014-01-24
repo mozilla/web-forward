@@ -14,14 +14,10 @@
   </div>
 </section>
 
+</div> <!-- end .top-image-bg -->
+
 <!-- container -->
 <section class="container maincontent">
-
-  <section class="row">
-    <div class="col-md-12">
-      <p>More to come!</p>
-    </div>
-  </section>
 
   <section class="row">
     <div class="col-xs-12 col-md-12">
