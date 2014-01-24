@@ -70,6 +70,8 @@
       $(".top-image-bg").css("height","auto");
     }
 
+    $('#resources .row .col-xs-6.col-md-4:nth-child(3n)').after('<div class="clearfix visible-xs visible-sm visible-md visible-lg"></div>');
+
   </script>
 
 

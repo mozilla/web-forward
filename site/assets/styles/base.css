@@ -23,7 +23,7 @@ yellow #FFCE00
 }
 
 html {
-  background: #FFF;
+  background: #5AC1A4;
   }
 
 body {
@@ -285,6 +285,7 @@ footer img {
 #resources h4.subtitle-txt {
   padding-top: 6px;
   color: #898989;
+  opacity: 0.8;
 }
 
 #resources .header-box {
@@ -300,6 +301,7 @@ footer img {
 
 #resources .maincontent img {
   border-radius: 4px;
+  border: 1px solid rgba(0,0,0,0.2);
 }
 
 #resources .subtitle {
@@ -380,7 +382,7 @@ footer img {
   }
 
   #home .promoimageB {
-    margin-top: 40px;
+    margin-top: 0px;
   }
 
   #home .vertically-align-text {
@@ -393,6 +395,12 @@ footer img {
   #home #promo h1 {
     font-size: 48px !important;
     line-height: 68px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  #home .promoimageB img {
+    display: none;
   }
 }
 
@@ -495,8 +503,7 @@ footer img {
   }
 
   #home .promoimageB img {
-    width: 300px;
-    margin: 0px auto;
+    display: none;
   }
 
   #home #promo h1 {
