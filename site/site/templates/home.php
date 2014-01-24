@@ -36,13 +36,6 @@
       <h3><?php echo $page->section2() ?></h3>
       <h5><?php echo $page->section2subhead1() ?></h5>
       <p><?php echo $page->section2text1() ?></p>
-      <h5>Upcoming Events</h5>
-      <ul class="">
-        <li><a href="/calendar/">Tues Jan 28 - Lorem ipsum event</a></li>
-        <li><a href="/calendar/">Tues Jan 28 - Lorem ipsum event</a></li>
-        <li><a href="/calendar/">Tues Jan 28 - Lorem ipsum event</a></li>
-      </ul>
-      <a href="/calendar/" class="small">See more</a>
       <h5><?php echo $page->section2subhead2() ?></h5>
       <p><?php echo $page->section2text2() ?></p>
       <h5><?php echo $page->section2subhead3() ?></h5>

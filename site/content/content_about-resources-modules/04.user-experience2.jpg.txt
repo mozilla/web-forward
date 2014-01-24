@@ -1,0 +1,7 @@
+Link: http://blog.webfwd.org/post/35263834255/improving-your-ux-and-conversions-tips-responsive
+----
+Topic: User Experience: Responsive Design
+----
+Expert: Matt Kelly & Jonathan Smiley
+----
+Description: Build your product for a multi-device world by learning the latest approaches and tools for responsive design.

@@ -1,6 +1,8 @@
 Title: About
 ----
-ID: resources
+ID: about
 ----
 Headline: A brief history of WebFWD.
+----
+Maintext: <p>More to come!</p><p>You can visit the old website <a href="/accelerator/" target="blank">here</a>.</p>
 ----

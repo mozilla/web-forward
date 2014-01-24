@@ -18,7 +18,7 @@
   			<div class="col-xs-6 col-md-4">
   				<nav>
   					<ul class="list-unstyled">
-  						<li><a href="/calendar/">Events</a></li>
+  						<!-- <li><a href="/calendar/">Events</a></li> -->
   						<li><a href="http://www.mozilla.org/privacy-policy.html">Privacy Policy</a></li>
   						<li><a href="http://www.mozilla.org/about/legal.html">Legal Notices</a></li>
   					</ul>
@@ -69,6 +69,8 @@
       $(".top-image-bg").css("background-size","cover");
       $(".top-image-bg").css("height","auto");
     }
+
+    $('#resources .row .col-xs-6.col-md-4:nth-child(3n)').after('<div class="clearfix visible-xs visible-sm visible-md visible-lg"></div>');
 
   </script>
 
