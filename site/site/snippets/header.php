@@ -37,8 +37,8 @@
             </div>
             <nav class="col-xs-12 col-sm-12 col-md-8 text-right navlinks">
                 <a href="/resources/"<?php echo ($site->uri()->path()->first() == 'resources') ? ' class="active"' : '' ?>>Resources</a>
-                <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="active"' : '' ?>>Partners</a>
-                <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="active"' : '' ?>>Calendar</a>
+                <!-- <a href="/partners/"<?php echo ($site->uri()->path()->first() == 'partners') ? ' class="active"' : '' ?>>Partners</a> -->
+                <!-- <a href="/calendar/"<?php echo ($site->uri()->path()->first() == 'calendar') ? ' class="active"' : '' ?>>Calendar</a> -->
                 <a href="/blog/"<?php echo ($site->uri()->path()->first() == 'blog') ? ' class="active"' : '' ?>>Blog</a>
                 <a href="/about/"<?php echo ($site->uri()->path()->first() == 'about') ? ' class="active"' : '' ?>>About</a>
             </nav>

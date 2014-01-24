@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/14465709140/
+----
+Topic: WebFWD Summit - Team Pitches
+----
+Expert: Various, WebFWD
+----
+Description: From December's Summit, lightning talks by our Fellows introduce six WebFWD projects: BigBlueButton, CASHMusic, Meemoo, OpenPhoto, Synbiota and Verese.
+----

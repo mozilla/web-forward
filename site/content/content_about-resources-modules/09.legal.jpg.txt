@@ -1,0 +1,7 @@
+Link: http://blog.webfwd.org/post/27490054493/getting-your-software-license-right
+----
+Topic: Legal: Getting Your License Right
+----
+Expert: John McGaraghan & Michael Wolk
+----
+Description: Selecting what licensing scheme to use is critical for software companies - particularly open source ones. These attorneys from Wilson Sonsini walk through the various licensing options and provide guidance.

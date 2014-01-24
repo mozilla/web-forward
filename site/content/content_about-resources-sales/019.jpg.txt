@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/20847858443/
+----
+Topic: Building a Business around Open Source
+----
+Expert: Fred Dixon, Blindside Networks
+----
+Description: Fred Dixon, CEO of our BigBlueButton team, shares some best practices on generating revenues for OS companies in their earliest stages.
+----

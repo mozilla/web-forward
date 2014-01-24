@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/15299208855/
+----
+Topic: Testing CASH Music
+----
+Expert: Jonathan "Duke" Leto, CASH Music
+----
+Description: CASH Music's co-founder and tech lead walks us through his testing workflow and explains the value proposition of TDD and continuous integration.
+----

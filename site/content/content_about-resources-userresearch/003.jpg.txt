@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/12205546599/
+----
+Topic: Getting Started with User Testing
+----
+Expert: Diane Loviglio & Jinghua Zhang, Mozilla
+----
+Description: Mozilla User Researchers offer straightforward, simple tactics for user testing that lean teams can apply early and often in their product development.
+----
