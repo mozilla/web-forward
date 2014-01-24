@@ -18,7 +18,7 @@
   			<div class="col-xs-6 col-md-4">
   				<nav>
   					<ul class="list-unstyled">
-  						<li><a href="/calendar/">Events</a></li>
+  						<!-- <li><a href="/calendar/">Events</a></li> -->
   						<li><a href="http://www.mozilla.org/privacy-policy.html">Privacy Policy</a></li>
   						<li><a href="http://www.mozilla.org/about/legal.html">Legal Notices</a></li>
   					</ul>

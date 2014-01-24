@@ -282,6 +282,11 @@ footer img {
 
 /*Resources*/
 
+#resources h4.subtitle-txt {
+  padding-top: 6px;
+  color: #898989;
+}
+
 #resources .header-box {
   //background: #000;
 }

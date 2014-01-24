@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/17323858275/
+----
+Topic: Open Source Community Marketing
+----
+Expert: Meghan Gill, MongoDB
+----
+Description: Growing open source company MongoDB shares lessons on how to both build & serve its developer community, and optimize sales & marketing.
+----

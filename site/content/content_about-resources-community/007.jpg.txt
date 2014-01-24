@@ -1,0 +1,8 @@
+Link: http://blog.webfwd.org/post/13973466029/
+----
+Topic: Code doesn’t build software: *people* build software
+----
+Expert: Homa Bahrami, UC Berkeley
+----
+Description: Tools, techniques and best practices used by geo-distributed teams, from a study of Mozilla done at the Haas School of Business.
+----
