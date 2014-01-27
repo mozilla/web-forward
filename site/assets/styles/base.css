@@ -307,6 +307,26 @@ footer img {
   margin: 0px 0px;
 }
 
+/*Blog*/
+
+#blog .header-box {
+  height: 196px;
+}
+
+.tumblr {
+  margin-top: 20px;
+}
+
+.tumblr h3 {
+  margin-top: 0px;
+}
+
+.label {
+  background: #0F99D6;
+  color: #ffffff;
+}
+
+
 /*Partners*/
 
 #partners .box {
