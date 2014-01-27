@@ -30,10 +30,10 @@
 	</div>
 </div>
 
-<div class="row">
+<div class="row learningmodules">
 		<?php $files = $pages->find('content_about-resources-modules'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -72,7 +72,7 @@
 <div class="row">
 		<?php $files = $pages->find('content_about-resources-community'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -94,10 +94,10 @@
 	</div>
 </div>
 
-<div class="row">
+<div class="row designux">
 		<?php $files = $pages->find('content_about-resources-design'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -121,7 +121,7 @@
 <div class="row">
 		<?php $files = $pages->find('content_about-resources-financials'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -145,7 +145,7 @@
 <div class="row">
 		<?php $files = $pages->find('content_about-resources-humanresources'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -169,7 +169,7 @@
 <div class="row">
 		<?php $files = $pages->find('content_about-resources-incorporation'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -193,7 +193,7 @@
 <div class="row">
 		<?php $files = $pages->find('content_about-resources-investment'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -217,7 +217,7 @@
 <div class="row">
 		<?php $files = $pages->find('content_about-resources-licensing'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -241,7 +241,7 @@
 <div class="row">
 		<?php $files = $pages->find('content_about-resources-marketing'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -265,7 +265,7 @@
 <div class="row">
 		<?php $files = $pages->find('content_about-resources-sales'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -286,10 +286,10 @@
 	</div>
 </div>
 
-<div class="row">
+<div class="row tech">
 		<?php $files = $pages->find('content_about-resources-technology'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
@@ -313,7 +313,7 @@
 <div class="row">
 		<?php $files = $pages->find('content_about-resources-userresearch'); ?>
 		<?php foreach($files->images() as $image): ?>
-			<div class="col-xs-6 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="box">
 					<a href="<?php echo $image->link() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->topic() ?>" class="img-responsive" /></a>
 					<p class="subtitle"><a href="<?php echo $image->link() ?>"><?php echo $image->topic() ?></a></p><p class="author"><?php echo $image->expert() ?></p>
