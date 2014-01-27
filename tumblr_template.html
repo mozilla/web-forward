@@ -12,15 +12,20 @@
 	<title>WebFWD {block:PostSummary}| {PostSummary}{/block:PostSummary}</title>
 
 	<!-- Included CSS Files -->
-	<link rel="stylesheet" href="https://webfwd.org/assets/stylesheets/foundation.min.css" />
-	<link rel="stylesheet" href="https://webfwd.org/assets/stylesheets/app.min.css" />
+	<!-- <link rel="stylesheet" href="https://webfwd.org/assets/stylesheets/foundation.min.css" /> -->
+	<!-- <link rel="stylesheet" href="https://webfwd.org/assets/stylesheets/app.min.css" /> -->
 	<link rel="stylesheet" href="//www.mozilla.org/tabzilla/media/css/tabzilla.css" />
+	<!-- Bootstrap core CSS -->
+  <link href="https://beta.webfwd.org/assets/styles/bootstrap.css" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="https://beta.webfwd.org/assets/styles/base.css" rel="stylesheet">
+  <link href="https://beta.webfwd.org/assets/styles/animated-header-component.css" rel="stylesheet">
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="https://webfwd.org/stylesheets/ie.min.css">
 	<![endif]-->
 
-	<script src="https://webfwd.org/assets/javascripts/modernizr.foundation.js"></script>
+	<!-- <script src="https://webfwd.org/assets/javascripts/modernizr.foundation.js"></script> -->
 
 	<!-- IE Fix for HTML5 Tags -->
 	<!--[if lt IE 9]>
@@ -28,12 +33,12 @@
 	<![endif]-->
 
 	<!-- Video JS code -->
-	<link rel="stylesheet" href="https://webfwd.org/assets/stylesheets/video-js.min.css" />
-	<script src="https://webfwd.org/assets/javascripts/video.min.js"></script>
-	<script>_V_.options.flash.swf = "https://webfwd.org/assets/images/video-js/video-js.swf";</script>
+	<!-- <link rel="stylesheet" href="https://webfwd.org/assets/stylesheets/video-js.min.css" /> -->
+	<!-- <script src="https://webfwd.org/assets/javascripts/video.min.js"></script> -->
+	<!-- <script>_V_.options.flash.swf = "https://webfwd.org/assets/images/video-js/video-js.swf";</script> -->
 
 	<!-- Sublime Video JS code -->
-	<script type="text/javascript" src="//cdn.sublimevideo.net/js/jzzorzdl.js"></script>
+	<!-- <script type="text/javascript" src="//cdn.sublimevideo.net/js/jzzorzdl.js"></script> -->
 
 	<!-- The ever-so-important FavIcon -->
 	<link rel="shortcut icon" type="image/x-icon" href="https://webfwd.org/assets/images/favicon.png" />
@@ -55,102 +60,114 @@
 
 	<!-- Generated: @updated -->
 </head>
-<body id="blog">
-	<div id="outer-wrapper">
-		<div id="wrapper">
-			<div class="container">
-				<!-- navigation -->
-				<div class="row">
-					<header>
-						<a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
-						<nav id="mainNavigation">
-							<ul>
-								<li><a href="https://webfwd.org/">Home</a></li>
-								<li><a href="https://webfwd.org/about/">About</a></li>
-								<li><a href="https://webfwd.org/portfolio/">Portfolio</a></li>
-								<li><a href="http://blog.webfwd.org/" class="current">Blog</a></li>
-								<li><a href="https://webfwd.org/apply/">Apply</a></li>
-							</ul>
-						</nav>
-						<h1><a href="/"><img src="https://webfwd.org/assets/images/sandstone/logo.png" alt="WebFWD" /></a></h1>
-					</header>
-				</div>
-				<!-- navigation -->
+    <body id="blog">
+      <div class="top-image-bg"> <!-- big header bg -->
+          <!-- navigation -->
+          <nav class="navbar-static-top mainnav">
+            <div class="container">
+              <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
+              <div class="row mainnavrow">
+                  <div class="col-xs-12 col-sm-12 col-md-4 logoarea">
+                    <a href="/" class=""><img src="https://beta.webfwd.org/assets/images/sandstone/logo-w.png" alt="WebFWD" class="brandlogo" /></a>
+                  </div>
+                  <nav class="col-xs-12 col-sm-12 col-md-8 text-right navlinks">
+                      <a href="https://beta.webfwd.org">Home</a>
+                      <a href="https://beta.webfwd.org/resources/">Resources</a>
+                      <a href="https://blog.webfwd.org" class="active">Blog</a>
+                      <a href="https://beta.webfwd.org/about/">About</a>
+                  </nav>
+              </div>
+            </div>
+          </nav>
+  				<section class="header-box">
+            <div class="container">
+              <!-- main content -->
+              <section class="row">
+                <div class="col-md-12">
+                  <h1>Blog</h1>
+                  <!-- <h4>Check the latest updates here!</h4> -->
+                </div>
+              </section>
+            </div>
+          </section>
+        </div> <!-- end .top-image-bg -->
 
-				<!-- main -->
-				{block:Posts}
-				{block:Text}
+        <!-- container -->
+        <section class="container maincontent">
 
-				<div class="row padding tumblr">
-					<div class="four columns">
-						{block:Title}
-						<h3><a href="{Permalink}">{Title}</a></h3>
-						{block:Date}<h6>{ShortMonth} {DayOfMonth}, {Year}</h6>{/block:Date}
-						{/block:Title}
-						{block:HasTags}{block:Tags}<span class="blue radius label"><a href="{TagURL}" class="tumblrTag">{Tag}</a></span>&nbsp;{/block:Tags}{/block:HasTags}
-					</div>
-					<div class="eight columns">
-						{Body}
-					</div>
-				</div>
+  				<!-- main -->
+  				{block:Posts}
+  				{block:Text}
 
-				{/block:Text}
-				{/block:Posts}
+  				<div class="row padding tumblr">
+  					<div class="col-xs-4">
+  						{block:Title}
+  						<h3><a href="{Permalink}">{Title}</a></h3>
+  						{block:Date}<h6>{ShortMonth} {DayOfMonth}, {Year}</h6>{/block:Date}
+  						{/block:Title}
+  						{block:HasTags}{block:Tags}<span class="blue radius label"><a href="{TagURL}" class="tumblrTag">{Tag}</a></span>&nbsp;{/block:Tags}{/block:HasTags}
+  					</div>
+  					<div class="col-xs-8">
+  						{Body}
+  					</div>
+  				</div>
 
-				<div class="row padding">
-					<div class="twelve columns text-right">
-						{block:PreviousPage}<a href="{PreviousPage}" class="small white radius button">&#171; Previous</a>&nbsp;{/block:PreviousPage}
-						<a href="/archive" class="small white radius button">Archive</a>
-						{block:NextPage}&nbsp;<a href="{NextPage}" class="small white radius button">Next &#187;</a>&nbsp;{/block:NextPage}
-					</div>
-				</div>
-				<!-- main -->
+  				{/block:Text}
+  				{/block:Posts}
 
-			</div>
-			<!-- container -->
-		</div>
-		<!-- wrapper -->
+  				<div class="row padding">
+  					<div class="col-xs-12 text-right">
+  						{block:PreviousPage}<a href="{PreviousPage}" class="small white radius button">&#171; Previous</a>&nbsp;{/block:PreviousPage}
+  						<a href="/archive" class="small white radius button">Archive</a>
+  						{block:NextPage}&nbsp;<a href="{NextPage}" class="small white radius button">Next &#187;</a>&nbsp;{/block:NextPage}
+  					</div>
+  				</div>
+  				<!-- main -->
+
+  			</section>
+        <!-- /end container -->
 
 	<!-- footer -->
 	<footer>
-		<div class="row">
-			<div class="three columns">
-				<a href="http://www.mozilla.org/" class="footer-logo"><img src="https://webfwd.org/assets/images/sandstone/footer-mozilla.png" alt="mozilla" /></a>
-			</div>
-			<div class="three columns">
-				<p>Portions of this content are ©1998–2012 by individual mozilla.org contributors. Content available under a <a href="http://www.mozilla.org/foundation/licensing/website-content.html">Creative Commons license</a>.</p>
-				<p><a href="http://www.mozilla.org/en-US/contribute/page/">Contribute to this page</a></p>
-			</div>
-			<div class="three columns">
-				<nav>
-					<ul>
-						<li><a href="mailto:webfwd@mozilla.com">Contact</a></li>
-						<li><a href="https://twitter.com/#!/MozWebFWD">Twitter</a></li>
-						<li><a href="https://www.facebook.com/webfwd">Facebook</a></li>
-						<li><a href="https://mail.mozilla.org/listinfo/webfwd-all">Newsletter</a></li>
-					</ul>
-				</nav>
-			</div>
-			<div class="three columns">
-				<nav>
-					<ul>
-						<li><a href="http://www.flickr.com/photos/69751921@N07/sets/72157627996680613/detail/">In the Press</a></li>
-						<li><a href="http://www.mozilla.org/privacy-policy.html">Privacy Policy</a></li>
-						<li><a href="http://www.mozilla.org/about/legal.html">Legal Notices</a></li>
-					</ul>
-				</nav>
-			</div>
+		<div class="container">
+		  <div class='row'>
+  			<div class="col-xs-12 col-md-4">
+  				<a href="http://www.mozilla.org/" class="footer-logo"><img src="https://beta.webfwd.org/assets/images/sandstone/footer-mozilla.png" alt="mozilla" /></a>
+  			</div>
+  			<div class="col-xs-6 col-md-4">
+  				<nav>
+  					<ul class="list-unstyled">
+  						<li><a href="mailto:webfwd@mozilla.com">Contact</a></li>
+  						<li><a href="https://twitter.com/#!/MozWebFWD">Twitter</a></li>
+  						<li><a href="https://www.facebook.com/webfwd">Facebook</a></li>
+  					</ul>
+  				</nav>
+  			</div>
+  			<div class="col-xs-6 col-md-4">
+  				<nav>
+  					<ul class="list-unstyled">
+  						<!-- <li><a href="/calendar/">Events</a></li> -->
+  						<li><a href="http://www.mozilla.org/privacy-policy.html">Privacy Policy</a></li>
+  						<li><a href="http://www.mozilla.org/about/legal.html">Legal Notices</a></li>
+  					</ul>
+  				</nav>
+  			</div>
+  		</div>
 		</div>
 	</footer>
-	<!-- footer -->
+	<!-- /footer -->
 
-</div>
-<!-- outer-wrapper -->
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://beta.webfwd.org/assets/js/jquery-1.10.2.min.js"></script>
+  <script src="https://beta.webfwd.org/assets/js/bootstrap.min.js"></script>
+  <script src="https://beta.webfwd.org/assets/js/classie.js"></script>
+  <script src="https://beta.webfwd.org/assets/js/cbpAnimatedHeader.js"></script>
+  <script src="https://beta.webfwd.org/assets/js/modernizr.custom.js"></script>
+  <script src="https://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
+  <script src="https://beta.webfwd.org/assets/js/custom.js"></script>
 
-<!-- Included JS Files -->
-<script src="https://webfwd.org/assets/javascripts/jquery.min.js"></script>
-<script src="https://webfwd.org/assets/javascripts/foundation.js"></script>
-<script src="//www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
 
 </body>
 </html>

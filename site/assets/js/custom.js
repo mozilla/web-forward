@@ -64,14 +64,14 @@ if(window.location.href == "http://localhost:8888/about/") {
 
 //add Clear fix on Resources row
 //large
-$('#resources .row.learningmodules .col-md-4:nth-child(6n)').after('<div class="clearfix visible-lg"></div>');
-$('#resources .row.designux .col-md-4:nth-child(3n)').after('<div class="clearfix visible-lg"></div>');
+//$('#resources .row.learningmodules .col-md-4:nth-child(6n)').after('<div class="clearfix visible-lg"></div>');
+//$('#resources .row.designux .col-md-4:nth-child(3n)').after('<div class="clearfix visible-lg"></div>');
 
 //medium
-$('#resources .row.learningmodules .col-md-4:nth-child(6n)').after('<div class="clearfix visible-md"></div>');
-$('#resources .row.designux .col-md-4:nth-child(3n)').after('<div class="clearfix visible-md"></div>');
+//$('#resources .row.learningmodules .col-md-4:nth-child(6n)').after('<div class="clearfix visible-md"></div>');
+//$('#resources .row.designux .col-md-4:nth-child(3n)').after('<div class="clearfix visible-md"></div>');
 
 //small
-$('#resources .row .col-sm-6:nth-child(12n)').after('<div class="clearfix visible-sm"></div>');
-$('#resources .row.tech .col-sm-6:nth-child(4n)').after('<div class="clearfix visible-sm"></div>');
-$('#resources .row.tech .col-sm-6:nth-child(7n)').after('<div class="clearfix visible-sm"></div>');
+//$('#resources .row .col-sm-6:nth-child(12n)').after('<div class="clearfix visible-sm"></div>');
+//$('#resources .row.tech .col-sm-6:nth-child(4n)').after('<div class="clearfix visible-sm"></div>');
+//$('#resources .row.tech .col-sm-6:nth-child(7n)').after('<div class="clearfix visible-sm"></div>');
