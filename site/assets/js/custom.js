@@ -1,7 +1,3 @@
-$("#tabzilla").click(function(){
-  //$('nav.mainnav').toggleClass( "navbar-fixed-top navbar-static-top" );
-});
-
 //easing to section
 
 $("a.home").click(function() {
@@ -36,3 +32,46 @@ $(document).scroll(function(e){
         target.css('opacity', scrollPercent);
     }
 });
+
+//change bg images based on location
+if(window.location.href == "http://localhost:8888/resources/") {
+  //resources bg image
+  $(".top-image-bg").css("background","url('/assets/images/promo-resources.png') no-repeat center center fixed");
+  $(".top-image-bg").css("background-size","cover");
+  $(".top-image-bg").css("height","auto");
+}
+
+if(window.location.href == "http://localhost:8888/partners/") {
+  //resources bg image
+  $(".top-image-bg").css("background","url('/assets/images/promo-partners.png') no-repeat center center fixed");
+  $(".top-image-bg").css("background-size","cover");
+  $(".top-image-bg").css("height","auto");
+}
+
+if(window.location.href == "http://localhost:8888/calendar/") {
+  //resources bg image
+  $(".top-image-bg").css("background","url('/assets/images/promo-calendar.png') no-repeat center center fixed");
+  $(".top-image-bg").css("background-size","cover");
+  $(".top-image-bg").css("height","auto");
+}
+
+if(window.location.href == "http://localhost:8888/about/") {
+  //resources bg image
+  $(".top-image-bg").css("background","url('/assets/images/promo-about.png') no-repeat center center fixed");
+  $(".top-image-bg").css("background-size","cover");
+  $(".top-image-bg").css("height","auto");
+}
+
+//add Clear fix on Resources row
+//large
+//$('#resources .row.learningmodules .col-md-4:nth-child(6n)').after('<div class="clearfix visible-lg"></div>');
+//$('#resources .row.designux .col-md-4:nth-child(3n)').after('<div class="clearfix visible-lg"></div>');
+
+//medium
+//$('#resources .row.learningmodules .col-md-4:nth-child(6n)').after('<div class="clearfix visible-md"></div>');
+//$('#resources .row.designux .col-md-4:nth-child(3n)').after('<div class="clearfix visible-md"></div>');
+
+//small
+//$('#resources .row .col-sm-6:nth-child(12n)').after('<div class="clearfix visible-sm"></div>');
+//$('#resources .row.tech .col-sm-6:nth-child(4n)').after('<div class="clearfix visible-sm"></div>');
+//$('#resources .row.tech .col-sm-6:nth-child(7n)').after('<div class="clearfix visible-sm"></div>');
