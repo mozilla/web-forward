@@ -329,6 +329,10 @@ footer img {
   margin-top: 0px;
 }
 
+.tumblr .col-xs-12 {
+  padding-bottom: 10px;
+}
+
 .label {
   background: #0F99D6;
   color: #ffffff;
