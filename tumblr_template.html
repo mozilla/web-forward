@@ -73,7 +73,7 @@
                   <nav class="col-xs-12 col-sm-12 col-md-8 text-right navlinks">
                       <a href="https://beta.webfwd.org">Home</a>
                       <a href="https://beta.webfwd.org/resources/">Resources</a>
-                      <a href="https://blog.webfwd.org" class="active">Blog</a>
+                      <a href="http://blog.webfwd.org/" class="active">Blog</a>
                       <a href="https://beta.webfwd.org/about/">About</a>
                   </nav>
               </div>
@@ -100,14 +100,14 @@
   				{block:Text}
 
   				<div class="row padding tumblr">
-  					<div class="col-xs-4">
+  					<div class="col-xs-12 col-md-4">
   						{block:Title}
   						<h3><a href="{Permalink}">{Title}</a></h3>
   						{block:Date}<h6>{ShortMonth} {DayOfMonth}, {Year}</h6>{/block:Date}
   						{/block:Title}
   						{block:HasTags}{block:Tags}<span class="blue radius label"><a href="{TagURL}" class="tumblrTag">{Tag}</a></span>&nbsp;{/block:Tags}{/block:HasTags}
   					</div>
-  					<div class="col-xs-8">
+  					<div class="col-xs-12 col-md-8">
   						{Body}
   					</div>
   				</div>
@@ -116,7 +116,8 @@
   				{/block:Posts}
 
   				<div class="row padding">
-  					<div class="col-xs-12 text-right">
+  				    <div class="col-xs-4"></div>
+  					<div class="col-xs-8">
   						{block:PreviousPage}<a href="{PreviousPage}" class="small white radius button">&#171; Previous</a>&nbsp;{/block:PreviousPage}
   						<a href="/archive" class="small white radius button">Archive</a>
   						{block:NextPage}&nbsp;<a href="{NextPage}" class="small white radius button">Next &#187;</a>&nbsp;{/block:NextPage}
