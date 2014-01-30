@@ -2,7 +2,7 @@ Title: Home
 ----
 ID: home
 ----
-Headline: We help entrepreneurs change the world.
+Headline: We help entrepreneurs<br/>change the world.
 ----
 MainImage: assets/images/main-promo.png
 ----

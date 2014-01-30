@@ -127,12 +127,12 @@ a:hover {
 .mainnav nav a {
   color: #fff;
   //padding: 10px;
-  padding: 4px 0px;
+  padding: 1px 0px;
   margin-right: 12px;
 }
 
 .mainnav .active {
-  padding: 4px 0px;
+  padding: 1px 0px;
   margin-right: 12px;
   text-decoration: none;
   //background: rgba(0,0,0,0.1);
@@ -141,7 +141,7 @@ a:hover {
 }
 
 .mainnav nav a:hover {
-  padding: 4px 0px;
+  padding: 1px 0px;
   margin-right: 12px;
   border-bottom: 2px solid #fff;
   text-decoration: none;
@@ -198,8 +198,8 @@ footer img {
 }
 
 .top-image-bg {
-  background: url('/assets/images/promo-main.png') no-repeat center center fixed;
-  background-size: cover;
+  background: #5AC1A4 url('/assets/images/promo-main.png') no-repeat top center fixed;
+  background-size: 100%;
   height: auto;
 }
 
@@ -244,7 +244,7 @@ footer img {
 
 #homecontent h5 {
   font-weight: bold;
-	font-size: 13px;
+	font-size: 15px;
 	padding: 14px 0px 0px 0px;
 	text-transform: uppercase;
 	opacity: 0.8;
@@ -327,6 +327,10 @@ footer img {
 
 .tumblr h3 {
   margin-top: 0px;
+}
+
+.tumblr .col-xs-12 {
+  padding-bottom: 10px;
 }
 
 .label {
@@ -491,6 +495,10 @@ footer img {
 }
 
 @media (max-width: 480px) {
+
+  #blog .header-box {
+    height: 172px;
+  }
 
   .mainnavrow {
     padding-bottom: 0px;
