@@ -21,7 +21,7 @@
 <section class="container" id="homecontent">
 
   <!-- main content -->
-  <section class="row">
+  <section class="row firstrow">
     <div class="col-xs-12 col-sm-12 col-md-12 text-area">
       <h3><?php echo $page->section1() ?></h3>
       <?php echo $page->section1text() ?>
