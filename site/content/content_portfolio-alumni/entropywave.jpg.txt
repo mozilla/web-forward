@@ -1,0 +1,8 @@
+Name: Entropy Wave
+----
+Info: Entropy Wave specializes in high quality video encoding and live streaming.
+----
+Link: http://entropywave.com/
+----
+Video: http://videos.mozilla.org/serv/webfwd/ENTROPYWAVE.mp4
+----

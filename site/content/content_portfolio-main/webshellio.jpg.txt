@@ -1,0 +1,11 @@
+Name: Webshell.io
+----
+Info: Webshell.io is a platform enabling developers to save time integrating and scripting external open web APIs. Webshell.io’s cloud framework enhances the learning curve of API developers thanks to a unification layer for all web APIs, transforming API endpoints into Javascript objects.
+----
+More:
+Website: <a href="http://webshell.io" target="_blank">Webshell.io</a><br />
+Team: Thibaud Arnault, Mehdi Medjaoui, Arnaud Richard<br />
+AngelList: <a href="https://angel.co/webshell" target="_blank">Webshell.io</a><br />
+Twitter: <a href="http://twitter.com/webshell_ " target="_blank">@webshell_ </a><br />
+----
+Link: http://webshell.io

@@ -1,0 +1,8 @@
+Name: Mobozi
+----
+Info: Mobozi's app discovery engine makes it easy, quick, and convenient to find a mobile web app that fits your needs.
+----
+Link: https://www.mobozi.com
+----
+Video:
+----
