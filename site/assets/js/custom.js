@@ -50,7 +50,7 @@ if(window.location.pathname == "/about/") {
 
 if(window.location.href == "http://blog.webfwd.org/") {
   //resources bg image
-  $(".top-image-bg").css("background","#5AC1A4 url('/assets/images/promo-partners.png') no-repeat center center fixed");
+  $(".top-image-bg").css("background","url('/assets/images/promo-partners.png') no-repeat center center fixed");
   $(".top-image-bg").css("background-size","cover");
   $(".top-image-bg").css("height","auto");
 }
