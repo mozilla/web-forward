@@ -1,0 +1,10 @@
+Name: Hyperaudio
+----
+Info: Imagine editing audio and video as simply as you can a text-based document. With word-accurate, time-aligned transcripts you can create, break apart and remix media like never before.
+----
+More:
+Website: <a href="http://Hyperaud.io" target="_blank"> Hyperaudio </a><br />
+Team: Mark Boas, Daniel Schultz, Matteo Spinelli<br />
+Twitter: <a href="http://twitter.com/hyperaud_io" target="_blank"> @Hyperaud_io </a><br /><br />
+----
+Link: http://Hyperaud.io

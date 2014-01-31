@@ -1,0 +1,12 @@
+Name: Clay.io
+----
+Info: Clay.io is a platform for HTML5 games. We help developers distribute and improve their games with high level features like user accounts, in-game payments, high scores, and more. For consumers, we offer a single place to discover and play games that work on any device.
+----
+More:
+Website: <a href="http://clay.io" target="_blank">Clay.io</a><br />
+Team: Austin Hallock, Robert Leung<br />
+AngelList: <a href="https://angel.co/clay-io" target="_blank">Clay.io</a><br />
+Twitter: <a href="http://twitter.com/claydotio" target="_blank">@claydotio</a><br />
+Facebook: <a href="https://www.facebook.com/clay.io" target="_blank">Clay.io</a><br /><br />
+----
+Link: http://clay.io

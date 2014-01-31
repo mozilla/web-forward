@@ -55,6 +55,11 @@ if(window.location.href == "http://blog.webfwd.org/") {
   $(".top-image-bg").css("height","auto");
 }
 
+if(window.location.pathname == "/portfolio/") {
+  // hide nav
+  $(".navlinks").css("display","none");
+}
+
 //add Clear fix on Resources row
 //large
 //$('#resources .row.learningmodules .col-md-4:nth-child(6n)').after('<div class="clearfix visible-lg"></div>');
