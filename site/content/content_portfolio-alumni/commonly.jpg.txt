@@ -1,0 +1,8 @@
+Name: Commonly.cc
+----
+Info: Commonly.cc uses crowdfunding to pay creators to openly license their work. What would have otherwise been locked down by copyright, we use to help build a thriving public domain.
+----
+Link: http://Commonly.cc
+----
+Video:
+----

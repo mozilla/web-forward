@@ -1,0 +1,8 @@
+Name: Appsembler
+----
+Info: Appsembler's mission is to elevate the open source ecosystem and make open source software more accessible.
+----
+Link: http://appsembler.com
+----
+Video:
+----

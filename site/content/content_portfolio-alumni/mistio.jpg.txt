@@ -1,0 +1,8 @@
+Name: mist.io
+----
+Info: mist.io helps you manage and monitor your virtual machines on multiple public and private clouds using your mobile phone, tablet or laptop.
+----
+Link: https://mist.io/
+----
+Video:
+----

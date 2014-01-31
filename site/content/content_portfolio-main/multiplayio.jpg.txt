@@ -1,0 +1,12 @@
+Name: Playir
+----
+Info: We make it super easy to make 3D mobile, multiplayer games for iOS, Android, WP8 and the Web.
+----
+More:
+Website: <a href="http://playir.com " target="_blank">Playir</a><br />
+Team: Ashraf Samy Hegab, Alex McIl, Foyzul Hassan, Alex Goddard, David Zerafa<br />
+AngelList: <a href="http://angel.co/playir" target="_blank">Playir</a><br />
+Twitter: <a href="http://twitter.com/playinrealtime" target="_blank">@playinrealtime</a><br />
+Facebook: <a href="http://www.facebook.com/pages/Playir/126348687515734" target="_blank">Playir</a><br /><br />
+----
+Link: http://playir.com

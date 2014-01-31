@@ -372,6 +372,34 @@ footer img {
   border-radius: 4px;
 }
 
+
+/*Portfolio*/
+
+#portfolio img {
+  border-radius: 4px;
+}
+
+#portfolio .header-box {
+  height: 196px;
+}
+
+#portfolio .imageFrame {
+  padding-top: 10px;
+}
+
+#portfolio .padding {
+  padding: 10px 0px;
+}
+
+#portfolio .boxes {
+  border: 1px solid rgba(0,0,0,0.1);
+  padding: 10px;
+  margin-bottom: 30px;
+  min-height: 280px;
+  border-radius: 4px;
+}
+
+
 /*Calendar*/
 /*change the styles here?*/
 
@@ -507,6 +535,10 @@ footer img {
 @media (max-width: 480px) {
 
   #blog .header-box {
+    height: 172px;
+  }
+
+  #portfolio .header-box {
     height: 172px;
   }
 

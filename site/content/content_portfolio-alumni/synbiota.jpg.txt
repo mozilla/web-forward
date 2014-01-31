@@ -1,0 +1,6 @@
+Name: Synbiota
+----
+Info: Synbiota is a bio-lab in the browser enabling crowd-sourced biotech innovation.
+----
+Link: http://www.synbiota.com/
+----

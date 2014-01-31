@@ -1,0 +1,8 @@
+Name: IHeartCode
+----
+Info: IHeartCode provides an interactive learning platform to teach people how to use Git, work on the command line, code in Python and create web apps.
+----
+Link: http://www.iheartpy.com/
+----
+Video: http://videos.mozilla.org/serv/webfwd/iheartcode.mp4
+----
