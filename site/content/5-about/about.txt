@@ -4,5 +4,15 @@ ID: about
 ----
 Headline: A brief history of WebFWD.
 ----
-Maintext: <p>More to come!</p><p>You can visit the old website <a href="/accelerator/" target="blank">here</a>.</p>
+Maintext: <h3>About WebFWD</h3>
+<p>WebFWD is Mozilla's startup platform, extending the Mozilla community's knowledge and expertise to entrepreneurs. We provide resources (add link to resources page) from Mozilla and industry experts that are accessible and actionable.</p>
+
+<p>We invite you to apply these learnings to your startup, localize them in your own language, and share them with your own startup communities. And send us feedback!</p>
+
+<p>We'll also be sharing Mozilla expertise with our community through a series of monthly communications featuring best-practices and tips for startups be successful. If you are not on our mailing list and wish to be added, please contact us at <a href="mailto:webfwd@mozilla.com">webfwd@mozilla.com</a> and let us know.</p>
+
+<h3>WebFWD History</h3>
+<p>We launched WebFWD in 2011 to extend Mozilla's mission through entrepreneurs making the web a better place. What started as a cohort of 2 teams and weekly lectures evolved into a robust, 3-month program of structured curriculum and applied learning for over 33 teams around the world. You can review the portfolio of startups we worked with <a href="/accelerator/portfolio/" target="blank">here</a>.</p>
+
+<p>Like Mozilla as a whole, the growth and success of the program was powered by amazing people around the world: mentors, alumni, scouts, partners, subject matter experts, investors, and many more. It's precisely this powerful, mobilized community of people who believe in the power of the web and of entrepreneurship that led us to our next phase. In early 2014 we launched our new platform to broaden the universe of startups that we touch and create more resources to help entrepreneurs get more customers, scale faster and become viable more effectively -- all in a way that makes the web better.</p>
 ----

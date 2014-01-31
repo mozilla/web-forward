@@ -5,6 +5,11 @@
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
 
+@font-face {
+    font-family: OpenSansLight;
+    src: url(/assets/fonts/OpenSansLight.ttf);
+}
+
 @font-face  {
   font-family: FiraSans-Regular;
   src: url(/assets/fonts/FiraSans/FiraSans-Regular.ttf);
@@ -21,8 +26,8 @@ html {
 
 body {
   border-top: 1px solid #fff;
-	font-size: 16px;
-	line-height: 24px;
+	font-size: 14px;
+	line-height: 20px;
 	font-family: 'Open Sans', sans-serif;
 	color: #333;
   background: #fff; /* Old browsers */
@@ -137,7 +142,7 @@ a:hover {
   text-decoration: none;
   //background: rgba(0,0,0,0.1);
   //border-radius: 10px;
-  border-bottom: 2px solid #fff;
+  //border-bottom: 2px solid #fff;
 }
 
 .mainnav nav a:hover {
@@ -198,8 +203,8 @@ footer img {
 }
 
 .top-image-bg {
-  background: #5AC1A4 url('/assets/images/promo-main.png') no-repeat top center fixed;
-  background-size: 100%;
+  background: #5AC1A4 url('/assets/images/promo-main.png') no-repeat center center fixed;
+  background-size: cover;
   height: auto;
 }
 
@@ -226,6 +231,10 @@ footer img {
   font-weight: 200;
 }
 
+#homecontent .firstrow {
+  margin-top: 20px;
+}
+
 #homecontent img.promo-img {
   border-radius: 400px;
   padding: 20px 20px;
@@ -243,11 +252,11 @@ footer img {
 }
 
 #homecontent h5 {
-  font-weight: bold;
+  font-weight: 600;
 	font-size: 15px;
 	padding: 14px 0px 0px 0px;
 	text-transform: uppercase;
-	opacity: 0.8;
+	color: rgb(77, 78, 83);
 }
 
 #home .vertically-align-text {
@@ -263,10 +272,11 @@ footer img {
 }
 
 .header-box h1 {
+  font-family: OpenSansLight, sans-serif;
   color: #fff;
   font-size: 72px;
   letter-spacing: -3px;
-  font-weight: 100;
+  //font-weight: 100;
 }
 
 .header-box h4 {
