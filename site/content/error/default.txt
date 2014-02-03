@@ -2,18 +2,26 @@ Title: 404 - Page Not Found
 ----
 Id: 404
 ----
-Main: <div class="row padding">
-	<div class="twelve columns text-center">
-		<h1 class="large">404 &ndash; Page Not Found</h1>
+Main:
+
+</div> <!-- end .top-image-bg -->
+
+<section class="container maincontent">
+
+<div class="row padding">
+	<div class="col-xs-12 text-center">
+		<h1 class="">404 &ndash; Page Not Found</h1>
 	</div>
 </div>
 
-<div class="row padding">
-	<div class="six columns">
-		<img src="/assets/images/404-yoda.png" alt="Yoda says: 404 - Page Not Found" />
+<div class="row text-center" style="padding-top: 40px;">
+	<div class="col-xs-12 text-center">
+		<center><img src="/assets/images/404-yoda.png" alt="Yoda says: 404 - Page Not Found" class="img-responsive"/></center>
 	</div>
-	<div class="six columns">					
-		<h3>"On many long journeys have I gone. And waited, too, for others to return from journeys of their own. Some return; some are broken; some come back so different only their names remain."</h3>
+	<div class="col-xs-12" style="padding-top: 40px;">
+		<h4>"On many long journeys have I gone. And waited, too, for others to return from journeys of their own. Some return; some are broken; some come back so different only their names remain."</h4>
 		<h5 class="text-right">~ Yoda, Dark Rendezvous</h5>
 	</div>
 </div>
+
+</section>
