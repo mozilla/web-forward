@@ -1,0 +1,8 @@
+Name: Cozycloud
+----
+Info: Cozy is the personal cloud server for everyone; store your data and install web apps in a place that is yours.
+----
+Link: http://www.cozycloud.cc/ 
+----
+Video:
+----

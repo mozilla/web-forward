@@ -1,0 +1,8 @@
+Name: Clay.io
+----
+Info: Clay.io is a platform for HTML5 games. We help developers distribute and improve their games with high level features like user accounts, in-game payments, high scores, and more.
+----
+Link: http://clay.io
+----
+Video:
+----

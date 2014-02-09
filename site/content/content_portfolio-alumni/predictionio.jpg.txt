@@ -1,0 +1,8 @@
+Name: Prediction.io
+----
+Info: PredictionIO is an open source machine learning server for software developers to build smarter software.
+----
+Link: http://prediction.io
+----
+Video:
+----

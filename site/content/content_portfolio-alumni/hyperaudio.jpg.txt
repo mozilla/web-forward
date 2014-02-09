@@ -1,0 +1,8 @@
+Name: Hyperaudio
+----
+Info: Imagine editing audio and video as simply as you can a text-based document. With word-accurate, time-aligned transcripts you can create, break apart and remix media like never before.
+----
+Link: http://Hyperaud.io
+----
+Video:
+----
