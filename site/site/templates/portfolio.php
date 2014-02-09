@@ -19,30 +19,6 @@
 <!-- container -->
 <section class="container maincontent">
 
-<!-- portfolio main -->
-<div class="row padding">
-	<div class="col-xs-12">
-		<h2><?php echo $page->headline1() ?></h2>
-	</div>
-	<div class="col-xs-12">
-		<p class="largeP"><?php echo $page->content1() ?></p>
-	</div>
-</div>
-
-<?php $files = $pages->find('content_portfolio-main'); ?>
-<?php foreach($files->images() as $image): ?>
-<div class="row padding">
-	<div class="col-xs-12 col-sm-6 imageFrame">
-		<a href="<?php echo $image->link() ?>" target="_blank"><img class="img-responsive" src="<?php echo $image->url() ?>" alt="<?php echo $image->name() ?>" /></a>
-	</div>
-	<div class="col-xs-12 col-sm-6 columns">
-		<h4 id="<?php echo $image->name() ?>"><?php echo $image->name() ?></h4>
-		<p class="largeP"><?php echo $image->info() ?></p>
-		<p><?php echo $image->more() ?></p>
-	</div>
-</div>
-<?php endforeach ?>
-<!-- portfolio main -->
 
 <!-- portfolio alumni -->
 <div class="row padding">
