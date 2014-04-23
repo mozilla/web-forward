@@ -28,7 +28,7 @@
 					<ul>
 						<li><a href="https://www.google.com/calendar/b/0/embed?src=p8f1sspddudoko6oecne0efkog@group.calendar.google.com&ctz=America/Los_Angeles">Events</a></li>
 						<li><a href="http://www.flickr.com/photos/69751921@N07/sets/72157627996680613/detail/">In the Press</a></li>
-						<li><a href="http://www.mozilla.org/privacy-policy.html">Privacy Policy</a></li>
+						<li><a href="http://www.mozilla.org/privacy/websites/">Privacy Policy</a></li>
 						<li><a href="http://www.mozilla.org/about/legal.html">Legal Notices</a></li>
 					</ul>
 				</nav>
